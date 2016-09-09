@@ -22,7 +22,7 @@ With this offering, you can use various of Azure services upon your needs, inclu
 
 [Click here to apply 1 RMB Trial](/pricing/1rmb-trial-form/)
 
-[Click here to view 1 RMB Trial Sign-up Guidance](/documentation/articles/azure-pia-application-and-signup/)
+[Click here to view 1 RMB Trial Sign-up Guidance](/documentation/articles/azure-1rmb-trial-application-and-signup)
 
 ##Rules of the Offer
 
