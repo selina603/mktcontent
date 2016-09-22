@@ -21,7 +21,7 @@
 
 ### Service Agreement & Terms
 
-For customers who purchased through our website, use of Azure is governed by 21Vianet's [Online Services Standard Agreement](/legal/subscription-agreement/).
+For customers who purchased through our website, use of Azure is governed by 21Vianet's [Online Services Standard Agreement](/support/legal/subscription-agreement-en/).
 
 For customers who purchased through a sales team, use of Azure is governed by the Online Services Premium Agreement (available from your sales contact). 
 
