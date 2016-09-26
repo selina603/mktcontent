@@ -11,8 +11,8 @@
 <tags ms.service="legal-en" ms.date="03/2016" wacn.date="03/2016" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
-- [中文](/support/legal/back-up/)
-- [English](/support/legal/back-up-en/)
+- [中文](/support/sla/back-up/)
+- [English](/support/sla/back-up-en/)
 #SLA for Backup
 
 We guarantee at least 99.9% availability of the backup and restore functionality of the Azure Backup service. Availability is calculated by monthly billing cycle.
