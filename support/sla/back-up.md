@@ -11,8 +11,8 @@
 <tags ms.service="legal" ms.date="03/2016" wacn.date="03/2016" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
-- [中文](/support/sla/backup/)
-- [English](/support/sla/backup-en/)
+- [中文](/support/sla/back-up/)
+- [English](/support/sla/back-up-en/)
 #备份的服务级别协议
 
 我们保证 Azure 备份服务的备份和还原功能的可用性至少达到 99.9%。可用性按月计费周期计算。
