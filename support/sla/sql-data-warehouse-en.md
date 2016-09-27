@@ -134,5 +134,5 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 	<99.99%				        |10% 
 	<99%				        |25% 
 
-# Version History
+## Version History
 [1.0](/support/sla/sql-data-warehouse-en/)  Last updated: Sep 2016
