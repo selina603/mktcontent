@@ -11,8 +11,8 @@
 <tags ms.service="legal" ms.date="03/2016" wacn.date="03/2016" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
-- [中文](/support/sla/stream-analytic/)
-- [English](/support/sla/stream-analytic-en/)
+- [中文](/support/sla/stream-analytics/)
+- [English](/support/sla/stream-analytics-en/)
 # 流分析的服务级别协议
 
 我们保证流分析 API 可用性至少为 99.9%。
