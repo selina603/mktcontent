@@ -11,8 +11,8 @@
 <tags ms.service="legal-en" ms.date="03/2016" wacn.date="03/2016" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
-- [中文](/support/sla/stream-analytic/)
-- [English](/support/sla/stream-analytic-en/)
+- [中文](/support/sla/stream-analytics/)
+- [English](/support/sla/stream-analytics-en/)
 # SLA for Stream Analytics
 
 We guarantee at least 99.9% availability of the Stream Analytics API.
