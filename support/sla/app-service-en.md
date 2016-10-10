@@ -121,7 +121,7 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 3. "**App**" is a Web App, Mobile App, API App or Logic App deployed by Customer within the App Service, excluding apps in the Free and Shared tiers.
 
-4. "**Downtime**" The total accumulated Deployment Minutes, across all Apps deployed by Customer in a given Azure subscription, during which the App is unavailable. A minute is considered unavailable for a given App when there is no connectivity between the App and Microsoft’s Internet gateway.
+4. "**Downtime**" The total accumulated Deployment Minutes, across all Apps deployed by Customer in a given Azure subscription, during which the App is unavailable. A minute is considered unavailable for a given App when there is no connectivity between the App and 21Vianet’s Internet gateway.
 
     **Monthly Uptime Percentage**The Monthly Uptime Percentage is calculated using the following formula:
 
@@ -137,4 +137,8 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 **Additional Terms:**  Service Credits are applicable only to fees attributable to your use of Web Apps, Mobile Apps, API apps or Logic Apps and not to fees attributable to other types of apps available through the App Service, which are not covered by this SLA.
 
 ## Version History
-[1.0](/support/sla/app-service-en/)  Last updated: Oct 2016
+[1.1](/support/sla/app-service-en/)  Last updated: Oct 2016
+
+Release notes: Revised to reflect the general availability of Mobile Apps & API Apps on 10/10/2016
+
+[1.0](/marketing-resource/SLA/App-Service_SLA_English1.0.pdf/)  Last updated: Mar 2016
