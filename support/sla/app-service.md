@@ -137,5 +137,7 @@
 	
 ## 版本历史记录
 [1.1](/support/sla/app-service/)  最后更新日期：2016 年 10 月
+
 发布说明：于 2016 年 10 月 10 日修订，以反映移动应用、API 应用的一般可用性
+
 [1.0](/marketing-resource/SLA/App-Service_SLA_Chinese1.0.pdf/)  最后更新日期：2016 年 3 月
