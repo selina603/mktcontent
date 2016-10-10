@@ -141,4 +141,4 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 Release notes: Revised to reflect the general availability of Mobile Apps & API Apps on 10/10/2016
 
-[1.0](/marketing-resource/SLA/App-Service_SLA_English1.0.pdf/)  Last updated: Mar 2016
+[1.0](/marketing-resource/sla/app-service_sla_english1.0.pdf)  Last updated: Mar 2016
