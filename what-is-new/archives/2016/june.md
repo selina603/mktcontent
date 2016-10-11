@@ -14,7 +14,7 @@
 ## 2016年6月时事通讯
 
 ### 公告
-### 2016年7月28日 SQL Server 虚拟机系列计量指标的资源 GUID 将于 2016 年 6 月 20 日发生变化 
+### 2016年6月28日 SQL Server 虚拟机系列计量指标的资源 GUID 将于 2016 年 6 月 20 日发生变化 
 [由世纪互联运营的 Microsoft Azure 已正式支持红帽企业 Linux](/community/news/2016/06/28/RedHatEnterpriseLinuxIsSupportedByAzureInChina/)（Red Hat Enterprise Linux）。利用[红帽云访问（Red Hat Cloud Access）](https://www.redhat.com/zh/technologies/cloud-computing/cloud-access)服务，红帽企业 Linux 客户可以轻松地将其运行在红帽企业 Linux 上的软件上传到由世纪互联运营的 Microsoft Azure 上，并得到相应的技术支持。点击[这里](/documentation/articles/virtual-machines-linux-redhat-create-upload-vhd/)了解更多内容。 
 
 ### 2016年6月24日 云计算中的共担责任  
