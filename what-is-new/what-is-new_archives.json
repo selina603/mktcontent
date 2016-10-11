@@ -6,6 +6,9 @@
 	"id": "leftnav_support_what-is-new_archives_list", 
 	"articles": 
 		[
+			{"link": "/what-is-new/archives/2016/june/",
+		          "id": "leftnav_support_what-is-new_2016_june",
+		          "title": "2016年6月"},
 			{"link": "/what-is-new/archives/2016/May/",
 		          "id": "leftnav_support_what-is-new_2016_May",
 		          "title": "2016年5月"},
