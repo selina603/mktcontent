@@ -179,7 +179,13 @@ MySQL Database on Azure 提供 99.9% 的运行时间服务级别协议，保证�
 
 对于在同一可用性组中部署了两个或两个以上实例的所有面向互联网的虚拟机，在至少 99.95% 的时间里保持畅通的外部连接。 
 
-[查看完整的详细信息](https://www.azure.cn/support/sla/virtual-machines/)  
+[查看完整的详细信息](https://www.azure.cn/support/sla/virtual-machines/) 
+
+##虚拟机规模集
+
+虚拟机规模集是一项免费服务，因此本身不提供具有财务保障的服务级别协议。但是，如果虚拟机规模集在 2 个或 2 个以上容错域中包含了虚拟机，则其可用性取决于基础虚拟机服务级别协议。
+
+[查看完整的详细信息](https://www.azure.cn/support/sla/virtual-machine-scale-sets/) 
 
 ##虚拟网络
 
