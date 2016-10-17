@@ -163,7 +163,7 @@ MySQL Database on Azure 提供 99.9% 的运行时间服务级别协议，保证�
 
 [查看完整的详细信息](https://www.azure.cn/support/sla/storsimple/) 
 
-##流量管理器
+##流量管理器 
 
 我们保证，DNS 查询至少在 99.99% 的时间内能够至少从我们的其中一个 Azure 流量管理器名称服务器群集收到有效的响应。可用性按月计费周期计算。 
 
