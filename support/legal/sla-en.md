@@ -28,6 +28,7 @@ This agreement describes the commitment about uptime and connectivity of Microso
 
 ##Compute
 - [Virtual Machines]
+- [Virtual Machine Scale Sets]
 - [Cloud Services]
 - [Service Fabric]
 
