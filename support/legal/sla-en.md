@@ -82,6 +82,7 @@ This agreement describes the commitment about uptime and connectivity of Microso
 Click [here](https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_English_0505.pdf) to download SLA for most Azure Services
 
 [Virtual Machines]: /support/sla/virtual-machines-en/
+[Virtual Machine Scale Sets]: /support/sla/virtual-machine-scale-sets/
 [Cloud Services]: /support/sla/cloud-services-en/
 [Web Apps]: /support/sla/web-apps-en/
 [Notification Hubs]: /support/sla/notification-hubs-en/
