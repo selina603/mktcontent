@@ -178,6 +178,12 @@ For all Internet facing Virtual Machines that have two or more instances deploye
 
 [See the full details](https://www.azure.cn/support/sla/virtual-machines/)
 
+##Virtual Machine Scale Sets
+
+Virtual Machine Scale Sets is a free service, therefore, it does not have a financially backed SLA itself. However, if the Virtual Machine Scale Sets includes Virtual Machines in at least 2 Fault Domains, the availability of the underlying Virtual Machines SLA applies.
+
+[See the full details](https://www.azure.cn/support/sla/virtual-machine-scale-sets-en/)
+
 ##Virtual Network
 
 For Virtual Network, we guarantee 99.9% availability of the Virtual Network Gateway. 
