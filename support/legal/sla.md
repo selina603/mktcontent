@@ -81,6 +81,7 @@
 点击[此处](https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_Chinese_0505.pdf/)可以下载大部分 Azure 服务的服务级别协议
 
 [虚拟机]: /support/sla/virtual-machines/
+[虚拟机规模集]: /support/sla/virtual-machine-scale-sets/
 [云服务]: /support/sla/cloud-services/
 [Web 应用]: /support/sla/web-apps/
 [通知中心]: /support/sla/notification-hubs/
