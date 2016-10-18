@@ -222,3 +222,9 @@
 	<99.9%				|10% 
 	<98%				|25% 	
 
+## 版本历史记录
+[1.1](/support/sla/storage/)  最后更新日期：2016 年 8 月
+
+发布说明：于 2016 年 8 月 10 日修订
+
+[1.0](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/sla_for_storage.pdf)  最后更新日期：2016 年 3 月
