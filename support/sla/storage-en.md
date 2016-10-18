@@ -15,11 +15,11 @@
 - [English](/support/sla/storage-en/)
 # SLA for Storage
 
-•	We guarantee that at least 99.99% (99.9% for Cool Access Tier) of the time, we will successfully process requests to read data from Read Access-Geo Redundant Storage (RA-GRS) Accounts, provided that failed attempts to read data from the primary region are retried on the secondary region.
+We guarantee that at least 99.99% (99.9% for Cool Access Tier) of the time, we will successfully process requests to read data from Read Access-Geo Redundant Storage (RA-GRS) Accounts, provided that failed attempts to read data from the primary region are retried on the secondary region.
 
-•	We guarantee that at least 99.9% (99% for Cool Access Tier) of the time, we will successfully process requests to read data from Locally Redundant Storage (LRS) and Geo Redundant Storage (GRS) Accounts.
+We guarantee that at least 99.9% (99% for Cool Access Tier) of the time, we will successfully process requests to read data from Locally Redundant Storage (LRS) and Geo Redundant Storage (GRS) Accounts.
 
-•	We guarantee that at least 99.9% (99% for Cool Access Tier) of the time, we will successfully process requests to write data to Locally Redundant Storage (LRS) and Geo Redundant Storage (GRS) Accounts and Read Access-Geo Redundant Storage (RA-GRS) Accounts.
+We guarantee that at least 99.9% (99% for Cool Access Tier) of the time, we will successfully process requests to write data to Locally Redundant Storage (LRS) and Geo Redundant Storage (GRS) Accounts and Read Access-Geo Redundant Storage (RA-GRS) Accounts.
 
 ## Introduction
   
@@ -178,7 +178,6 @@ Failed Storage Transactions do not include:
 
 3. Read transactions requests to RA-GRS Accounts for which you did not attempt to execute the request against Secondary Region associated with the storage account if the request to the Primary Region was not successful. 
 
-
 4. Read transaction requests to RA-GRS Accounts that fail due to Geo-Replication Lag.
 
 5. “**Geo Replication Lag**”for GRS and RA-GRS Accounts is the time it takes for data stored in the Primary Region of the storage account to replicate to the Secondary Region of the storage account. Because GRS and RA-GRS Accounts are replicated asynchronously to the Secondary Region, data written to the Primary Region of the storage account will not be immediately available in the Secondary Region. You can query the Geo Replication Lag for a storage account, but 21Vianet does not provide any guarantees as to the length of any Geo Replication Lag under this SLA.
@@ -197,30 +196,30 @@ Failed Storage Transactions do not include:
 
 12. “**Monthly Uptime Percentage**”  Monthly Uptime Percentage is calculated using the following formula:
 
-		100% - Average Error Rate
+		Monthly Uptime % = 100% - Average Error Rate 
 
-Service Credit – LRS, GRS and RA-GRS (write requests) Accounts:
+13. Service Credit – LRS, GRS and RA-GRS (write requests) Accounts:
 
 	Monthly Uptime Percentage	|Service Credit
 	----------------------------|---------
 	<99.9%				        |10% 
 	<99%				        |25% 
 
-Service Credit – RA-GRS (read requests) Accounts:
+14. Service Credit – RA-GRS (read requests) Accounts:
 
 	Monthly Uptime Percentage	|Service Credit
 	----------------------------|---------
 	<99.99%				        |10% 
 	<99%				        |25% 
 
-Service Credit – LRS, GRS and RA-GRS (write requests) Blob Storage Accounts (Cool Access Tier):
+15. Service Credit – LRS, GRS and RA-GRS (write requests) Blob Storage Accounts (Cool Access Tier):
 
 	Monthly Uptime Percentage	|Service Credit
 	----------------------------|---------
 	<99%				        |10% 
 	<98%				        |25% 
 	
-Service Credit – RA-GRS (read requests) Blob Storage Accounts (Cool Access Tier):
+16. Service Credit – RA-GRS (read requests) Blob Storage Accounts (Cool Access Tier):
 
 	Monthly Uptime Percentage	|Service Credit
 	----------------------------|---------
