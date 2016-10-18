@@ -226,5 +226,9 @@ Failed Storage Transactions do not include:
 	<99.9%				        |10% 
 	<98%				        |25% 
 	
-# Version History
-[1.0](/support/sla/sql-data-en-v1/)  Last updated: Mar 2016
+## Version History
+[1.1](/support/sla/storage-en/)  Last updated: Aug 2016
+
+Release notes: 
+
+[1.0](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/sla_for_storage-en1.0.pdf)  Last updated: Mar 2016
