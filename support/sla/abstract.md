@@ -10,7 +10,7 @@
 
 <tags ms.service="legal" ms.date="05/2016" wacn.date="05/2016" wacn.lang="cn"/>
 
-> [AZURE.LANGUAGE]
+> [AZURE.LANGUAGE]a
 - [中文](/support/sla/abstract/)
 - [English](/support/sla/abstract-en/)
 
@@ -20,7 +20,7 @@
 
 我们保证至少 99.9% 的作业将在预定的开始时间 30 分钟内开始。 
 
-[查看完整的详细信息](https://www.azure.cn/support/sla/automation/) 
+[查看完整的详细信息](/support/sla/automation/) 
 
 ##应用程序网关
 
