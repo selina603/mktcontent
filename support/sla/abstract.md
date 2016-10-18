@@ -20,7 +20,7 @@
 
 我们保证至少 99.9% 的作业将在预定的开始时间 30 分钟内开始。 
 
-[查看完整的详细信息](/support/sla/automation/) 
+[查看完整的详细信息](//support/sla/automation/) 
 
 ##应用程序网关
 
