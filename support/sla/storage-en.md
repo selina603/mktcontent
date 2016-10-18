@@ -8,22 +8,25 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="03/2016" wacn.date="03/2016" wacn.lang="en"/>
+<tags ms.service="legal-en" ms.date="08/2016" wacn.date="08/2016" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/storage/)
 - [English](/support/sla/storage-en/)
 # SLA for Storage
 
-We guarantee that at least 99.9% of the time, we will successfully process requests to append, update, read, or delete data (Provided that the format is correct), Storage Account may connect to our Internet gateway.
+•	We guarantee that at least 99.99% (99.9% for Cool Access Tier) of the time, we will successfully process requests to read data from Read Access-Geo Redundant Storage (RA-GRS) Accounts, provided that failed attempts to read data from the primary region are retried on the secondary region.
 
+•	We guarantee that at least 99.9% (99% for Cool Access Tier) of the time, we will successfully process requests to read data from Locally Redundant Storage (LRS) and Geo Redundant Storage (GRS) Accounts.
+
+•	We guarantee that at least 99.9% (99% for Cool Access Tier) of the time, we will successfully process requests to write data to Locally Redundant Storage (LRS) and Geo Redundant Storage (GRS) Accounts and Read Access-Geo Redundant Storage (RA-GRS) Accounts.
 
 ## Introduction
   
 
 This Service Level Agreement for Azure (this “SLA”) is made by 21Vianet in connection with, and is a part of, the agreement under which Customer has purchased Azure Services from 21Vianet (the “Agreement”).
 
-We provide financial backing to our commitment to achieve and maintain Service Levels for our Services. If we do not achieve and maintain the Service Levels for each Service as described in this SLA, then you may be eligible for a credit towards a portion of your monthly service fees. These terms will be fixed for term of your Agreement. If a subscription is renewed, the version of this SLA that is current at the time the renewal term commences will apply throughout the renewal term. We will provide at least 90 days' notice for adverse material changes to this SLA. You can review the most current version of this SLA at any time by visiting [http://www.azure.cn/support/legal/sla/](http://www.azure.cn/support/legal/sla/) 
+We provide financial backing to our commitment to achieve and maintain Service Levels for our Services. If we do not achieve and maintain the Service Levels for each Service as described in this SLA, then you may be eligible for a credit towards a portion of your monthly service fees. These terms will be fixed for term of your Agreement. If a subscription is renewed, the version of this SLA that is current at the time the renewal term commences will apply throughout the renewal term. We will provide at least 90 days' notice for adverse material changes to this SLA. You can review the most current version of this SLA at any time by visiting [https://www.azure.cn/support/legal/sla/](/support/legal/sla/). 
 
 
 ## General Terms 
@@ -115,32 +118,18 @@ This SLA and any applicable Service Levels do not apply to any performance or av
  
 ### Additional Definitions
 
-1. "**Geo Replication Lag**" for GRS and RA-GRS Accounts is the time it takes for data stored in the Primary Region of the storage account to replicate to the Secondary Region of the storage account. Because GRS and RA-GRS Accounts are replicated asynchronously to the Secondary Region, data written to the Primary Region of the storage account will not be immediately available in the Secondary Region. Customers can query the Geo Replication Lag for a storage account, but 21Vianet does not provide any guarantees as to the length of any Geo Replication Lag under this SLA.
+1. "**Average Error Rate**"  for a billing month is the sum of Error Rates for each hour in the billing month divided by the total number of hours in the billing month.
 
-2. "**Geographically Redundant Storage (GRS) Account**" is a storage account for which data is replicated synchronously within a Primary Region and then replicated asynchronously to a Secondary Region. Customers cannot directly read data from or write data to the Secondary Region associated with GRS Accounts.
+2. "**Blob Storage Account**" is a storage account specialized for storing data as blobs and provides the ability to specify an access tier indicating how frequently the data in that account is accessed.
 
-3. "**Locally Redundant Storage (LRS) Account**" is a storage account for which data is replicated synchronously only within a Primary Region.
+3. "**Cool Access Tier**" is an attribute of a Blob Storage Account indicating that the data in the account is infrequently accessed and has a lower availability service level than data in other access tiers.
 
-4. "**Primary Region**" is a geographical region in which data within a storage account is located, as selected by Customer when creating the storage account. Customers may execute write requests only against data stored within the Primary Region associated with storage accounts. 
+4. "**Excluded Transactions**" are storage transactions that do not count toward either Total Storage Transactions or Failed Storage Transactions. Excluded Transactions include pre-authentication failures; authentication failures; attempted transactions for storage accounts over their prescribed quotas; creation or deletion of containers, tables, or queues; clearing of queues; and copying blobs between storage accounts. 
 
-5. "**Read Access Geographically Redundant Storage (RA-GRS) Account**" is a storage account for which data is replicated synchronously within a Primary Region and then replicated asynchronously to a Secondary Region. Customers can directly read data from, but cannot write data to, the Secondary Region associated with RA-GRS Accounts.
+5. "**Error Rate**" is the total number of Failed Storage Transactions divided by the Total Storage Transactions during a set time interval (currently set at one hour). If the Total Storage Transactions in a given one-hour interval is zero, the error rate for that interval is 0%.
 
-6. "**Secondary Region**" is a geographical region in which data within a GRS or RA-GRS Account is replicated and stored, as assigned by Azure based on the Primary Region associated with the storage account. Customers cannot specify the Secondary Region associated with storage accounts.
+6. "**Failed Storage Transactions**" is the set of all storage transactions within Total Storage Transactions that are not completed within the Maximum Processing Time associated with their respective transaction type, as specified in the table below. Maximum Processing Time includes only the time spent processing a transaction request within the Storage Service and does not include any time spent transferring the request to or from the Storage Service.
 
-7. "**Zone Redundant Storage (ZRS) Account**" is a storage account for which data is replicated across multiple facilities. These facilities may be within the same geographical region or across two geographical regions. 
-
-
-
-
-### Monthly Uptime Calculation and Service Levels for Storage Service
-
-1. "**Total Storage Transactions**" is the set of all storage transactions, other than Excluded Transactions, attempted within a one-hour interval across all storage accounts in the Storage Service in a given subscription.
-
-2. "**Excluded Transactions**" are storage transactions that do not count toward either Total Storage Transactions or Failed Storage Transactions. Excluded Transactions include pre-authentication failures; authentication failures; attempted transactions for storage accounts over their prescribed quotas; creation or deletion of containers, tables, or queues; clearing of queues; and copying blobs between storage accounts.
-
-3. "**Error Rate**" is the total number of Failed Storage Transactions divided by the Total Storage Transactions during a set time interval (currently set at one hour).
-
-4. "**Failed Storage Transactions**" is the set of all storage transactions within Total Storage Transactions that are not completed within the Maximum Processing Time associated with their respective transaction type, as specified in the table below. Maximum Processing Time includes only the time spent processing a transaction request within the Storage Service and does not include any time spent transferring the request to or from the Storage Service.
 
 <table>
  	  <tr>
@@ -148,7 +137,8 @@ This SLA and any applicable Service Levels do not apply to any performance or av
       <th >Maximum Processing Time*</th>      
   	 </tr>  
   	<tr>
-      <td>PutBlob and GetBlob (includes blocks and pages)Get Valid Page Blob Ranges</td>
+      <td>PutBlob and GetBlob (includes blocks and pages)
+Get Valid Page Blob Ranges</td>
       <td>Two (2) seconds multiplied by the number of MBs transferred in the course of processing the request</td>      
    	</tr>
   	<tr>
@@ -178,10 +168,7 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 *These figures represent maximum processing times. Actual and average times are expected to be much lower.
 
-		Monthly Uptime % = (Maximum Available Minutes − Downtime) ÷ Maximum Available Minutes 
-
 Failed Storage Transactions do not include:
-
 
 1. Transaction requests that are throttled by the Storage Service due to a failure to obey appropriate back-off principles. 
 
@@ -189,29 +176,56 @@ Failed Storage Transactions do not include:
 2. Transaction requests having timeouts set lower than the respective Maximum Processing Times specified above. 
 
 
-3. Read transactions requests to RA-GRS Accounts for which Customer did not attempt to execute the request against Secondary Region associated with the storage account if the request to the Primary Region was not successful. 
+3. Read transactions requests to RA-GRS Accounts for which you did not attempt to execute the request against Secondary Region associated with the storage account if the request to the Primary Region was not successful. 
 
 
 4. Read transaction requests to RA-GRS Accounts that fail due to Geo-Replication Lag.
 
-5. “**Error Rate**”is the total number of Failed Storage Transactions divided by the Total Storage Transactions during a given one-hour interval. If the Total Storage Transactions in a given one-hour interval is zero, the error rate for that interval is 0%.
+5. “**Geo Replication Lag**”for GRS and RA-GRS Accounts is the time it takes for data stored in the Primary Region of the storage account to replicate to the Secondary Region of the storage account. Because GRS and RA-GRS Accounts are replicated asynchronously to the Secondary Region, data written to the Primary Region of the storage account will not be immediately available in the Secondary Region. You can query the Geo Replication Lag for a storage account, but 21Vianet does not provide any guarantees as to the length of any Geo Replication Lag under this SLA.
 
-6. “**Monthly Uptime Percentage**”for the Storage Service is calculated by subtracting from 100% the Average Error Rate for the billing month for a given Azure subscription. The “Average Error Rate” for a billing month is the sum of Error Rates for each hour in the billing month divided by the total number of hours in the billing month. Monthly Uptime Percentage is represented by the following formula:
+6. “**Geographically Redundant Storage (GRS) Account**”is a storage account for which data is replicated synchronously within a Primary Region and then replicated asynchronously to a Secondary Region. You cannot directly read data from or write data to the Secondary Region associated with GRS Accounts.
 
-		Monthly Uptime % = 100% - Average Error Rate 
+7. “**Locally Redundant Storage (LRS) Account**”is a storage account for which data is replicated synchronously only within a Primary Region.
 
-7. The following Service Levels and Service Credits are applicable to Customer's use of the Storage Service for all qualified transaction requests for LRS, ZRS, and GRS Accounts and write transaction requests for RA-GRS Accounts:
+8. “**Primary Region**” is a geographical region in which data within a storage account is located, as selected by you when creating the storage account. You may execute write requests only against data stored within the Primary Region associated with storage accounts.
 
+9. “**Read Access Geographically Redundant Storage (RA-GRS) Account**” is a storage account for which data is replicated synchronously within a Primary Region and then replicated asynchronously to a Secondary Region. You can directly read data from, but cannot write data to, the Secondary Region associated with RA-GRS Accounts.
+
+10. “**Secondary Region**” is a geographical region in which data within a GRS or RA-GRS Account is replicated and stored, as assigned by Azure based on the Primary Region associated with the storage account. You cannot specify the Secondary Region associated with storage accounts.
+
+11. “**Total Storage Transactions**” is the set of all storage transactions, other than Excluded Transactions, attempted within a one-hour interval across all storage accounts in the Storage Service in a given subscription.
+
+12. “**Monthly Uptime Percentage**”  Monthly Uptime Percentage is calculated using the following formula:
+
+		100% - Average Error Rate
+
+Service Credit – LRS, GRS and RA-GRS (write requests) Accounts:
 
 	Monthly Uptime Percentage	|Service Credit
 	----------------------------|---------
-	<99.95%				        |10% 
+	<99.9%				        |10% 
 	<99%				        |25% 
 
-8. The following Service Levels and Service Credits are applicable to Customer's use of the Storage Service for qualified read transaction requests for RA-GRS Accounts:
-
+Service Credit – RA-GRS (read requests) Accounts:
 
 	Monthly Uptime Percentage	|Service Credit
 	----------------------------|---------
-	<99.95%				        |10% 
+	<99.99%				        |10% 
 	<99%				        |25% 
+
+Service Credit – LRS, GRS and RA-GRS (write requests) Blob Storage Accounts (Cool Access Tier):
+
+	Monthly Uptime Percentage	|Service Credit
+	----------------------------|---------
+	<99%				        |10% 
+	<98%				        |25% 
+	
+Service Credit – RA-GRS (read requests) Blob Storage Accounts (Cool Access Tier):
+
+	Monthly Uptime Percentage	|Service Credit
+	----------------------------|---------
+	<99.9%				        |10% 
+	<98%				        |25% 
+	
+# Version History
+[1.0](/support/sla/sql-data-en-v1/)  Last updated: Mar 2016
