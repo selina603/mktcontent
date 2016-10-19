@@ -229,6 +229,6 @@ Failed Storage Transactions do not include:
 ## Version History
 [1.1](/support/sla/storage-en/)  Last updated: Aug 2016
 
-Release notes: 
+Release notes: Updated SLA for the newly introduced Blob Storage Accounts with the Cool Access Tier on 8/9/2016. 
 
 [1.0](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/sla_for_storage-en1.0.pdf)  Last updated: Mar 2016
