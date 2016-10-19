@@ -13,6 +13,7 @@
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/storage/)
 - [English](/support/sla/storage-en/)
+
 # 存储的服务级别协议
 
 我们保证至少在 99.99%（对于冷访问层为 99.9%）的时间成功地处理从读取访问异地冗余存储 (RA-GRS) 帐户读取数据的请求，但前提是在次要区域重试从主要区域读取数据的失败尝试。
