@@ -152,7 +152,7 @@ We guarantee that at least 99.9% (99% for Cool Access Tier) of the time, we will
 
 We guarantee at least 99.99% of the time customers will have connectivity between their Basic, Standard, or Premium Azure SQL Database and our Internet gateway. Availability is calculated by monthly billing cycle. 
 
-**Web and Business**
+**Web and Business (retired)**
 
 We guarantee at least 99.9% of the time customers will have connectivity between their Web or Business Azure SQL Database and our Internet gateway. Availability is calculated by monthly billing cycle.
 
