@@ -225,6 +225,6 @@
 ## 版本历史记录
 [1.1](/support/sla/storage/)  最后更新日期：2016 年 8 月
 
-发布说明：于 2016 年 8 月 10 日修订
+发布说明：于 2016 年 8 月 10 日修订了新推出的带冷访问层的 Blob 存储帐户的服务级别协议 。
 
 [1.0](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/sla_for_storage1.0.pdf)  最后更新日期：2016 年 3 月
