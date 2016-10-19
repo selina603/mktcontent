@@ -136,7 +136,7 @@ We guarantee that at least 99.9% of the time all scheduled jobs will initiate wi
 
 [See the full details](/support/sla/site-recovery/)
 
-##SLA for Storage
+##Storage
 
 We guarantee that at least 99.99% (99.9% for Cool Access Tier) of the time, we will successfully process requests to read data from Read Access-Geo Redundant Storage (RA-GRS) Accounts, provided that failed attempts to read data from the primary region are retried on the secondary region.
 
