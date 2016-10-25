@@ -28,6 +28,7 @@ This agreement describes the commitment about uptime and connectivity of Microso
 
 ##Compute
 - [Virtual Machines]
+- [Virtual Machine Scale Sets]
 - [Cloud Services]
 - [Service Fabric]
 
@@ -81,6 +82,7 @@ This agreement describes the commitment about uptime and connectivity of Microso
 Click [here](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_English_1018.pdf) to download SLA for most Azure Services
 
 [Virtual Machines]: /support/sla/virtual-machines-en/
+[Virtual Machine Scale Sets]: /support/sla/virtual-machine-scale-sets-en/
 [Cloud Services]: /support/sla/cloud-services-en/
 [Web Apps]: /support/sla/web-apps-en/
 [Notification Hubs]: /support/sla/notification-hubs-en/
