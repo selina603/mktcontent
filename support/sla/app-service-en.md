@@ -29,7 +29,7 @@ We provide financial backing to our commitment to achieve and maintain Service L
 ## General Terms 
  
 
-### 一、Definitions 
+### 1. Definitions 
  
 1. "Claim" means a claim submitted by Customer to 21Vianet pursuant to this SLA that a Service Level has not been met and that a Service Credit may be due to Customer. 
 
@@ -67,7 +67,7 @@ We provide financial backing to our commitment to achieve and maintain Service L
 
 
 
-### 二、Service Credit Claims
+### 2. Service Credit Claims
 
 1. In order for 21Vianet to consider a Claim, Customer must submit the Claim to Customer Support within two months of the end of the billing month in which the Incident that is the subject of the Claim occurs. Customer must provide to Customer Support all information necessary for 21Vianet to validate the Claim, including but not limited to detailed descriptions of the Incident, the time and duration of the Incident, the affected resources or operations, and any attempts made by Customer to resolve the Incident
 
@@ -77,7 +77,7 @@ We provide financial backing to our commitment to achieve and maintain Service L
 
 4. Service Credits apply only to fees paid for the particular Service, Service Resource, or Service tier for which a Service Level has not been met. In cases where Service Levels apply to individual Service Resources or to separate Service tiers, Service Credits apply only to fees paid for the affected Service Resource or Service tier, as applicable.
 
-### 三、SLA Exclusions
+### 3. SLA Exclusions
 
 This SLA and any applicable Service Levels do not apply to any performance or availability issues:
 
@@ -100,7 +100,7 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 9. Attributable to acts by persons gaining unauthorized access to 21Vianet’s Service by means of Customer's passwords or equipment or otherwise resulting from Customer's failure to follow appropriate security practices.
 
 
-### 四、Service Credits
+### 4. Service Credits
 
 1. The amount and method of calculation of Service Credits is described below in connection with each Service. 
 
@@ -121,7 +121,7 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 3. "**App**" is a Web App, Mobile App, API App or Logic App deployed by Customer within the App Service, excluding apps in the Free and Shared tiers.
 
-4. "**Downtime**" The total accumulated Deployment Minutes, across all Apps deployed by Customer in a given Azure subscription, during which the App is unavailable. A minute is considered unavailable for a given App when there is no connectivity between the App and Microsoft’s Internet gateway.
+4. "**Downtime**" The total accumulated Deployment Minutes, across all Apps deployed by Customer in a given Azure subscription, during which the App is unavailable. A minute is considered unavailable for a given App when there is no connectivity between the App and 21Vianet’s Internet gateway.
 
     **Monthly Uptime Percentage**The Monthly Uptime Percentage is calculated using the following formula:
 
@@ -135,3 +135,10 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 	<99%				        |25% 
 
 **Additional Terms:**  Service Credits are applicable only to fees attributable to your use of Web Apps, Mobile Apps, API apps or Logic Apps and not to fees attributable to other types of apps available through the App Service, which are not covered by this SLA.
+
+## Version History
+[1.1](/support/sla/app-service-en/)  Last updated: Nov 2016
+
+Release notes: Revised to reflect the general availability of Mobile Apps & API Apps on 02/11/2016
+
+[1.0](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/app-service_sla_english1.0.pdf)  Last updated: Mar 2016
