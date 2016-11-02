@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="10/2016" wacn.date="10/2016" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="11/2016" wacn.date="11/2016" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/app-service/)
@@ -136,8 +136,8 @@
 **附加条款：** 服务费抵扣仅适用于因您使用 Web 应用、移动应用、API 应用或逻辑应用而产生的费用，不适用于因使用通过应用服务提供的其他类型的应用而产生的费用，这些应用不属于本服务级别协议的范围。
 	
 ## 版本历史记录
-[1.1](/support/sla/app-service/)  最后更新日期：2016 年 10 月
+[1.1](/support/sla/app-service/)  最后更新日期：2016 年 11 月
 
-发布说明：于 2016 年 10 月 10 日修订，以反映移动应用、API 应用的一般可用性
+发布说明：于 2016 年 11 月 3 日修订，以反映移动应用、API 应用的一般可用性
 
 [1.0](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/app-service_sla_chinese1.0.pdf)  最后更新日期：2016 年 3 月
