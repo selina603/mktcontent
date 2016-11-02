@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="10/2016" wacn.date="10/2016" wacn.lang="en"/>
+<tags ms.service="legal-en" ms.date="11/2016" wacn.date="11/2016" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/app-service/)
@@ -135,6 +135,3 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 	<99%				        |25% 
 
 **Additional Terms:**  Service Credits are applicable only to fees attributable to your use of Web Apps, Mobile Apps, API apps or Logic Apps and not to fees attributable to other types of apps available through the App Service, which are not covered by this SLA.
-
-## Version History
-[1.0](/support/sla/app-service-en/)  Last updated: Oct 2016
