@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="09/2016" wacn.date="09/2016" wacn.lang="en"/>
+<tags ms.service="legal-en" ms.date="11/2016" wacn.date="11/2016" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/legal/sla/)
@@ -21,7 +21,7 @@ This agreement describes the commitment about uptime and connectivity of Microso
 <!--
 |                       |                       |                       |                       |
 |-----------------------|-----------------------|-----------------------|-----------------------|
-|**Compute**<br/><br/>[Virtual Machines]<br/>[Cloud Services]<br/><br/><br/>  |**Web & Mobile**<br/><br/>[Web Apps]<br/>[Notification Hubs]<br/><br/><br/>  |**Data & Storage**<br/><br/>[SQL Database]<br/>[SQL Server Stretch Database]<br/>[Radis Cache]<br/>[Storage]<br/>[MySQL Database on Azure]<br/> |**Analytics**<br/><br/>[HDInsight]<br/>[Stream Analytics]<br/><br/><br/> |
+|**Compute**<br/><br/>[Virtual Machines]<br/>[Cloud Services]<br/><br/><br/>  |**Web & Mobile**<br/><br/>[App Service]<br/>[Notification Hubs]<br/><br/><br/>  |**Data & Storage**<br/><br/>[SQL Database]<br/>[SQL Server Stretch Database]<br/>[Radis Cache]<br/>[Storage]<br/>[MySQL Database on Azure]<br/> |**Analytics**<br/><br/>[HDInsight]<br/>[Stream Analytics]<br/><br/><br/> |
 |**Internet of Things**<br/><br/>[Azure IoT Hub]<br/>[Event Hubs]<br/>[Stream Analytics]<br/>[Notification Hubs]<br/><br/>  |**Networking**<br/><br/>[Virtual Network]<br/>[ExpressRoute]<br/>[Traffic Manager]<br/>[VPN Gateway]<br/>[Application Gateway]<br/> |**Media & CDN**<br/><br/>[Media Services]<br/>[CDN]<br/><br/><br/><br/> |**Hybrid Integration**<br/><br/>[Service Bus]<br/>[Backup]<br/>[Site Recovery]<br/><br/><br/>  |
 |**Identity & Access Management**<br/><br/>[Multi-Factor Authentication]<br/><br/><br/> |**Management & Security**<br/><br/>[Scheduler]<br/>[Automation]<br/>[Key Vault]  | | |
 -->
@@ -33,7 +33,7 @@ This agreement describes the commitment about uptime and connectivity of Microso
 - [Service Fabric]
 
 ##Web & Mobile
-- [Web Apps]
+- [App Service]
 - [Notification Hubs]
 
 ##Data & Storage
@@ -77,14 +77,14 @@ This agreement describes the commitment about uptime and connectivity of Microso
 - [Automation]
 - [Key Vault]
 
-[Summary of the SLA for all Azure Services](/support/sla/abstract-en/#a)
+[Summary of the SLA for all Azure Services](/support/sla/abstract-en/)
 
-Click [here](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_English_1025.pdf) to download SLA for most Azure Services
+Click [here](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_English_1103.pdf) to download SLA for most Azure Services
 
 [Virtual Machines]: /support/sla/virtual-machines-en/
 [Virtual Machine Scale Sets]: /support/sla/virtual-machine-scale-sets-en/
 [Cloud Services]: /support/sla/cloud-services-en/
-[Web Apps]: /support/sla/web-apps-en/
+[App Service]: /support/sla/app-service-en/
 [Notification Hubs]: /support/sla/notification-hubs-en/
 [SQL Database]: /support/sla/sql-data-en/
 [SQL Server Stretch Database]: /support/sla/sql-server-stretch-database-en/
