@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="09/2016" wacn.date="09/2016" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="11/2016" wacn.date="11/2016" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]a
 - [中文](/support/sla/abstract/)
@@ -203,8 +203,8 @@ MySQL Database on Azure 提供 99.9% 的运行时间服务级别协议，保证�
 
 [查看完整的详细信息](/support/sla/vpn-gateway/) 
 
-##Web 应用
+##应用服务
 
-我们保证所有在客户订阅运行的 Web 应用将在 99.95% 的时间里，回应客户端的要求。可用性按每月计费结算。以下两种等级的 Web 应用不包括在本服务级别协议中：免费或共享 Web 应用。 
+我们保证在客户订购下运行的应用都将具有 99.95% 的可用性。没有为应用的免费或共享层级提供任何服务级别协议。 
 
-[查看完整的详细信息](/support/sla/web-apps/) 
+[查看完整的详细信息](/support/sla/app-service/) 
