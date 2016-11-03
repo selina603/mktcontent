@@ -20,7 +20,7 @@
 <!--
 |                       |                       |                       |                       |
 |-----------------------|-----------------------|-----------------------|-----------------------|
-|**计算**<br/><br/>[虚拟机]<br/>[云服务]<br/><br/><br/> |**Web 和移动**<br/><br/>[Web 应用]<br/>[通知中心]<br/><br/><br/> |**数据和存储**<br/><br/>[SQL 数据库]<br/>[SQL Server 伸展数据库]<br/>[Redis 缓存]<br/>[存储]<br/>[MySQL Database on Azure]<br/>  |**分析**<br/><br/>[HDInsight]<br/>[流分析]<br/><br/><br/>  |
+|**计算**<br/><br/>[虚拟机]<br/>[云服务]<br/><br/><br/> |**Web 和移动**<br/><br/>[应用服务]<br/>[通知中心]<br/><br/><br/> |**数据和存储**<br/><br/>[SQL 数据库]<br/>[SQL Server 伸展数据库]<br/>[Redis 缓存]<br/>[存储]<br/>[MySQL Database on Azure]<br/>  |**分析**<br/><br/>[HDInsight]<br/>[流分析]<br/><br/><br/>  |
 |**物联网**<br/><br/>[Azure IoT 中心]<br/>[事件中心]<br/>[流分析]<br/>[通知中心]<br/><br/> |**网络**<br/><br/>[虚拟网络]<br/>[ExpressRoute]<br/>[流量管理器]<br/>[VPN 网关]<br/>[应用程序网关]<br/>  |**媒体和 CDN**<br/><br/>[媒体服务]<br/>[CDN]<br/><br/><br/><br/>  |**混合集成**<br/><br/>[服务总线]<br/>[备份]<br/>[站点恢复]<br/><br/><br/>  |
 |**身份和访问管理**<br/><br/>[多重身份验证]<br/><br/><br/>  |**管理与安全**<br/><br/>[计划程序]<br/>[自动化]<br/>[密钥保管库] | | |
 -->
@@ -31,7 +31,7 @@
 - [Service Fabric]
 
 ##Web 和移动
-- [Web 应用]
+- [应用服务]
 - [通知中心]
 
 ##数据和存储
@@ -83,7 +83,7 @@
 [虚拟机]: /support/sla/virtual-machines/
 [虚拟机规模集]: /support/sla/virtual-machine-scale-sets/
 [云服务]: /support/sla/cloud-services/
-[Web 应用]: /support/sla/web-apps/
+[应用服务]: /support/sla/app-service/
 [通知中心]: /support/sla/notification-hubs/
 [SQL 数据库]: /support/sla/sql-data/
 [SQL Server 伸展数据库]: /support/sla/sql-server-stretch-database/
