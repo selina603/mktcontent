@@ -77,7 +77,7 @@ This agreement describes the commitment about uptime and connectivity of Microso
 - [Automation]
 - [Key Vault]
 
-[Summary of the SLA for all Azure Services](/support/sla/abstract-en/#a)
+[Summary of the SLA for all Azure Services](/support/sla/abstract-en/)
 
 Click [here](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_English_1103.pdf) to download SLA for most Azure Services
 
