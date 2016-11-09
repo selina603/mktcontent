@@ -23,7 +23,7 @@ SQL Server Stretch Database 功能正式上线。通过 SQL Server Stretch Datab
 
 
 ### 2016年7月6日 Azure DocumentDB 功能预览版上线 
-DocumentDB 功能预览版上线。DocumentDB 是一款全托管式 NoSQL 数据库，可以帮助您构建具有高可用性的可扩展应用程序。您可以利用现有的 SQL 和 JavaScript 技术查看应用程序的灵活架构数据。即使在数据量持续较高的情况下，也可以保证应用程序享受到低延迟读写优势。通过多区域复制、面向 MongoDB 的 DocumentDB 协议支持、生存期、事务处理和 SDK 套件等功能，DocumentDB 可以帮助您加快开发大规模分析、移动和 IoT 应用程序。有关详细信息，请访问 "[DocumentDB 功能](/home/features/documentdb/)页面，要全面了解定价情况，请访问[DocumentDB 价格详情](/pricing/details/documentdb/)页面，使用详情请参见[DocumentDB 文档](/documentation/services/documentdb/)页面。
+DocumentDB 功能预览版上线。DocumentDB 是一款全托管式 NoSQL 数据库，可以帮助您构建具有高可用性的可扩展应用程序。您可以利用现有的 SQL 和 JavaScript 技术查看应用程序的灵活架构数据。即使在数据量持续较高的情况下，也可以保证应用程序享受到低延迟读写优势。通过多区域复制、面向 MongoDB 的 DocumentDB 协议支持、生存期、事务处理和 SDK 套件等功能，DocumentDB 可以帮助您加快开发大规模分析、移动和 IoT 应用程序。有关详细信息，请访问[DocumentDB 功能](/home/features/documentdb/)页面，要全面了解定价情况，请访问[DocumentDB 价格详情](/pricing/details/documentdb/)页面，使用详情请参见[DocumentDB 文档](/documentation/services/documentdb/)页面。
 
 
 ### 2016年7月4日 Azure IoT 中心功能正式上线 
