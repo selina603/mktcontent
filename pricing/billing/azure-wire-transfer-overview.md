@@ -10,8 +10,9 @@
 
 <tags ms.service="multiple" ms.date="" wacn.date="11/17/2016" wacn.lang="cn"/>
 
+# 线下汇款说明
 
-# 一、线下汇款操作流程：
+## 一、线下汇款操作流程： ##
 
 - [通过线下汇款方式首次购买标准预付费订阅](/pricing/billing/azure-wire-transfer-pia-new/)
 
@@ -19,7 +20,7 @@
 
 - [标准预付费订阅：通过线下汇款方式续费 ](/pricing/billing/azure-wire-transfer-pia-new/) 
 
-# 二、汇款信息如下：
+## 二、汇款信息如下： ##
 （请在转账汇款时备注您的订阅 ID，以便于我们区分汇款来源并及时充值到您的订阅，您可登录[https://account.windowsazure.cn/subscriptions](//account.windowsazure.cn/subscriptions), 点击订阅名称，页面右侧会显示“订阅 ID” ）
 
 - 开户银行：汇丰银行（中国）有限公司北京分行
@@ -28,7 +29,7 @@
 
 - 银行账号：626-144927-011
 
-# 三、特别说明：
+## 三、特别说明： ##
 
 <ul><li>线下汇款的最低金额为 5,000 元，如果您计划充值的金额少于 5,000 元，请选择其他支付方式。</li></ul>
 
