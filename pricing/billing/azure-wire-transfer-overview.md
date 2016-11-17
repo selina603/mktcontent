@@ -61,9 +61,9 @@
 
 <ul><li>在到账汇款与以上汇款信息匹配成功后，我们会在两个工作日内将汇款金额充值到您的订阅账户。</li></ul>
 
-<ul><li>您可以随时登录订阅管理门户，点击您的订阅，查看支付历史记录。</li></ul>
+<ul><li>您可以随时登录[订阅管理门户](//account.windowsazure.cn/subscriptions)，点击您的订阅，查看支付历史记录。</li></ul>
 
-<ul><li>发票申请流程请参见[http://www.21vbluecloud.com/communities/FAQ/fapiao/234.html](//www.21vbluecloud.com/communities/FAQ/fapiao/234.html)。</li></ul>
+<ul><li>发票申请流程请参见[http://www.21vbluecloud.com/communities/FAQ/fapiao/234.html](http://www.21vbluecloud.com/communities/FAQ/fapiao/234.html)。</li></ul>
 </ul>
 
 <ul><li>如果您对线下汇款有任何问题，欢迎随时拨打我们的客服热线电话 400-089-0365，我们将竭诚为您服务。</li></ul>
