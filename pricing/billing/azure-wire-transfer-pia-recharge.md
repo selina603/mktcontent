@@ -1,6 +1,5 @@
 <properties
-	pageTitle="通过线下汇款方式续费
- - Azure在线业务 | Azure"
+	pageTitle="通过线下汇款方式续费 - Azure在线业务 | Azure"
     description="介绍通过线下汇款方式续费"
     services=""
     documentationCenter=""
