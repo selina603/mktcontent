@@ -68,6 +68,6 @@
 
 ![第十步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/10.jpg)
 
-<span style="left:50px;">友情提示：在汇款到账与以上汇款信息匹配成功后，我们会在两个工作日内将汇款金额充值到您的订阅账户。同时您会收到“购买确认”的通知邮件，也可在您的订阅账户下看到充值的金额。</span>
+<span style="position:absolute;left:50px;">友情提示：在汇款到账与以上汇款信息匹配成功后，我们会在两个工作日内将汇款金额充值到您的订阅账户。同时您会收到“购买确认”的通知邮件，也可在您的订阅账户下看到充值的金额。</span>
 
 
