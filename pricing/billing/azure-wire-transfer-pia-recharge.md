@@ -38,7 +38,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**备注**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;请在转账汇款时备注您的订阅ID，以便于我们区分汇款来源。
+<span style="position:absolute;left:50px;display:inline;">请在转账汇款时备注您的订阅ID，以便于我们区分汇款来源。</span>
 
 <span style="position:absolute;left:50px;">您可登录[https://account.windowsazure.cn/subscriptions](//account.windowsazure.cn/subscriptions), 点击订阅名称，页面右侧会显示“订阅ID“。</span>
 
