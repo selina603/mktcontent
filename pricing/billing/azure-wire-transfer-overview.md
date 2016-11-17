@@ -10,11 +10,13 @@
 
 <tags ms.service="multiple" ms.date="" wacn.date="11/17/2016" wacn.lang="cn"/>
 
+
 # 一、线下汇款操作流程：
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[- 通过线下汇款方式首次购买标准预付费订阅](/pricing/billing/azure-wire-transfer-pia-new/)
+<ul>
+<li>[通过线下汇款方式首次购买标准预付费订阅](/pricing/billing/azure-wire-transfer-pia-new/)</li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[- 1 元试用订阅：通过线下汇款方式充值成为标准预付费订阅](/pricing/billing/azure-wire-transfer-trial-upgrade-pia/)
+<li>[1 元试用订阅：通过线下汇款方式充值成为标准预付费订阅](/pricing/billing/azure-wire-transfer-trial-upgrade-pia/)</li>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[- 标准预付费订阅：通过线下汇款方式续费 ](/pricing/billing/azure-wire-transfer-pia-new/) 
 
