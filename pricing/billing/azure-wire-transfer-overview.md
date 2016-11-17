@@ -43,19 +43,19 @@
 
 <ul><li>提交线下付款订单的两个工作日后，您将收到一封订单通知的提醒邮件，请根据内容提示回复该邮件；或者您也可直接填写以下汇款信息发送到 azure_invoice@oe.21vianet.com，以便我们区分汇款来源并及时充值到您的订阅。</li></ul>
 
-1、订阅 ID：(您可登录[https://account.windowsazure.cn/subscriptions](//account.windowsazure.cn/subscriptions), 点击订阅名称，页面右侧会显示“订阅 ID” )
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、订阅 ID：(您可登录[https://account.windowsazure.cn/subscriptions](//account.windowsazure.cn/subscriptions), 点击订阅名称，页面右侧会显示“订阅 ID” )
 
-2、汇款金额：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、汇款金额：
 
-3、汇款日期：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、汇款日期：
 
-4、汇款银行账号：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4、汇款银行账号：
 
-5、汇款人姓名（汇款底单上的汇款人）：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5、汇款人姓名（汇款底单上的汇款人）：
 
-6、公司名称：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6、公司名称：
 
-7、联系人手机：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7、联系人手机：
 
 <ul><li>备注：</li>
 
