@@ -21,7 +21,7 @@
 - [标准预付费订阅：通过线下汇款方式续费 ](/pricing/billing/azure-wire-transfer-pia-recharge/) 
 
 ## 二、汇款信息如下： ##
-（请在转账汇款时备注您的订阅 ID，以便于我们区分汇款来源并及时充值到您的订阅，您可登录[https://account.windowsazure.cn/subscriptions](//account.windowsazure.cn/subscriptions), 点击订阅名称，页面右侧会显示“订阅 ID” ）
+（请在转账汇款时备注您的订阅 ID，以便于我们区分汇款来源并及时充值到您的订阅，您可登录[订阅管理门户](//account.windowsazure.cn/subscriptions), 点击订阅名称，页面右侧会显示“订阅 ID” ）
 
 - 开户银行：汇丰银行（中国）有限公司北京分行
 
@@ -43,7 +43,7 @@
 
 <ul><li>提交线下付款订单的两个工作日后，您将收到一封订单通知的提醒邮件，请根据内容提示回复该邮件；或者您也可直接填写以下汇款信息发送到 azure_invoice@oe.21vianet.com，以便我们区分汇款来源并及时充值到您的订阅。</li></ul>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、订阅 ID：(您可登录[https://account.windowsazure.cn/subscriptions](//account.windowsazure.cn/subscriptions), 点击订阅名称，页面右侧会显示“订阅 ID” )
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、订阅 ID：(您可登录[订阅管理门户](//account.windowsazure.cn/subscriptions), 点击订阅名称，页面右侧会显示“订阅 ID” )
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、汇款金额：
 
@@ -63,7 +63,7 @@
 
 <ul><li>您可以随时登录<a href="//account.windowsazure.cn/subscriptions/">订阅管理门户</a>，点击您的订阅，查看支付历史记录。</li></ul>
 
-<ul><li>发票申请流程请参见<a href="http://www.21vbluecloud.com/communities/FAQ/fapiao/234.html">http://www.21vbluecloud.com/communities/FAQ/fapiao/234.html</a>。</li></ul>
+<ul><li>发票申请流程请参见<a href="http://www.21vbluecloud.com/communities/FAQ/fapiao/234.html">发票申请操作解析-Azure在线业务</a>。</li></ul>
 </ul>
 
 <ul><li>如果您对线下汇款有任何问题，欢迎随时拨打我们的客服热线电话 400-089-0365，我们将竭诚为您服务。</li></ul>
