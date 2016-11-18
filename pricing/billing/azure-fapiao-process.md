@@ -8,7 +8,6 @@
     editor=""
     tags=""/>
 
-<tags ms.service="multiple" ms.date="" wacn.date="11/10/2016" wacn.lang="cn"/>
 
 #发票申请操作解析 - Azure在线业务
 
