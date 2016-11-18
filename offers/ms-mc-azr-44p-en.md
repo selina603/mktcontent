@@ -1,4 +1,4 @@
-﻿<properties
+<properties
 	pageTitle="Offer Details - Microsoft Azure"
     description="Offer Details - 1 RMB Trial Offer"
     services=""
@@ -36,7 +36,7 @@ You could update your subscription into a [Standard Pay-In-Advance](/offers/ms-m
 
 We support payment methods including Alipay and China UnionPay.
 
-Friendly reminder: We currently do not support switch payment method after you establish the account. You need to stick with the same payment method as used in the first time.
+
 
 More details on pricing and billing, including the prices for individual Azure features, can be found on our [ Pricing page](/pricing/overview/). 
 
