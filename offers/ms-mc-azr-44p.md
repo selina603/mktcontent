@@ -1,4 +1,4 @@
-﻿<properties
+<properties
 	pageTitle="优惠详情 - Microsoft Azure"
     description="优惠详情 - 1 元一个月试用优惠"
     services=""
@@ -36,7 +36,7 @@
 
 支持支付宝和中国银联两种线上付款方式，
 
-友情提醒：本服务目前暂不支持账号创建之后改变付款方式，即您需要使用和初次缴费相同的支付方式进行后续充值支付。
+
 
 有关定价和计费的更多详细信息（包括各 Azure 功能的价格）可参见我们的[定价页面](/pricing/overview/)。
 
