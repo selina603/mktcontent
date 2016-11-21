@@ -8,8 +8,6 @@
     editor=""
     tags=""/>
 
-<tags ms.service="multiple" ms.date="" wacn.date="11/17/2016" wacn.lang="cn"/>
-
 ![banner](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-recharge/banner.jpg)
 
 <br />
