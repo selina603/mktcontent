@@ -8,6 +8,7 @@
     editor=""
     tags=""/>
 
+<tags ms.service="multiple" ms.date="" wacn.date="11/17/2016" wacn.lang="cn"/>
 
 # 线下汇款说明
 
@@ -42,27 +43,27 @@
 
 <ul><li>提交线下付款订单的两个工作日后，您将收到一封订单通知的提醒邮件，请根据内容提示回复该邮件；或者您也可直接填写以下汇款信息发送到 azure_invoice@oe.21vianet.com，以便我们区分汇款来源并及时充值到您的订阅。</li></ul>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、订阅 ID：(您可登录[订阅管理门户](//account.windowsazure.cn/subscriptions), 点击订阅名称，页面右侧会显示“订阅 ID” )
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、订阅 ID (您可登录[订阅管理门户](//account.windowsazure.cn/subscriptions), 点击订阅名称，页面右侧会显示“订阅 ID” )
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、汇款金额：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、汇款金额
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、汇款日期：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、汇款日期
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4、汇款银行账号：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4、汇款银行账号
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5、汇款人姓名（汇款底单上的汇款人）：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5、汇款人姓名（汇款底单上的汇款人）
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6、公司名称：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6、公司名称
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7、联系人手机：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7、联系人手机
 
 <ul><li>备注：</li>
 
 <ul><li>在到账汇款与以上汇款信息匹配成功后，我们会在两个工作日内将汇款金额充值到您的订阅账户。</li></ul>
 
-<ul><li>您可以随时登录<a href="//account.windowsazure.cn/subscriptions/">订阅管理门户</a>，点击您的订阅，查看支付历史记录。</li></ul>
+<ul><li>您可以随时登录<a href="//account.windowsazure.cn/subscriptions/"> 订阅管理门户</a>，点击您的订阅，查看支付历史记录。</li></ul>
 
-<ul><li>发票申请流程请参见<a href="http://www.21vbluecloud.com/communities/FAQ/fapiao/234.html">发票申请操作解析-Azure在线业务</a>。</li></ul>
+<ul><li>发票申请流程请参见<a href="/pricing/billing/azure-fapiao-process/"> 发票申请操作解析-Azure在线业务</a>。</li></ul>
 </ul>
 
 <ul><li>如果您对线下汇款有任何问题，欢迎随时拨打我们的客服热线电话 400-089-0365，我们将竭诚为您服务。</li></ul>
