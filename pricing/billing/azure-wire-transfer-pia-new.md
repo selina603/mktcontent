@@ -16,7 +16,7 @@
 ![navigation](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/navigation.png)
 <br />
 <br />
-<img style="margin-left:-40px" src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/1.jpg">
+<img style="margin-left:-84px" src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/1.jpg">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Azure官网](https://www.azure.cn)
 <br />
 <br />
@@ -73,3 +73,5 @@
 ![第十步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/10.jpg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;友情提示：在汇款到账与以上汇款信息匹配成功后，我们会在两个工作日内将汇款金额充值到您的订阅账户。同时您会收到“购买确认”的通知邮件，也可在您的订阅账户下看到充值的金额。
+
+
