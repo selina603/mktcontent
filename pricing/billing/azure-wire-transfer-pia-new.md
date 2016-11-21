@@ -1,6 +1,6 @@
 <properties
-	pageTitle="通过线下汇款方式续费 - Azure在线业务 | Azure"
-    description="介绍通过线下汇款方式续费"
+	pageTitle="通过线下汇款方式首次购买标准预付费订阅指南 - Azure在线业务 | Azure"
+    description="通过线下汇款方式首次购买标准预付费订阅指南"
     services=""
     documentationCenter=""
     authors=""
