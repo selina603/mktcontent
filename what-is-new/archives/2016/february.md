@@ -1,6 +1,6 @@
 <properties
-	pageTitle="历史公告 2016年2月 - Azure"
-    description="历史公告 2016年2月"
+	pageTitle=""
+    description="Azure历史公告，了解Azure自2013年落地中国后的所有相关信息。"
     services=""
     documentationCenter=""
     authors=""
