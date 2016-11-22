@@ -40,7 +40,7 @@
 <br />
 <br />
 ![第八步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/8.jpg)
-<div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="/wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/white.png/" class="mscom-image" alt="Image of Padlock | Security" width="80" height="84" /></div>
+<div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="/wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/white.png" class="mscom-image" width="80" height="84" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>汇款信息如下</h3>
                         <p>开户银行：汇丰银行（中国）有限公司北京分行</p>
@@ -81,5 +81,3 @@
 ![第十步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/10.jpg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;友情提示：在汇款到账与以上汇款信息匹配成功后，我们会在两个工作日内将汇款金额充值到您的订阅账户。同时您会收到“购买确认”的通知邮件，也可在您的订阅账户下看到充值的金额。
-
-
