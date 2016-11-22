@@ -16,7 +16,7 @@
 ![navigation](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/navigation.png)
 <br />
 <br />
-<img style="margin-left:-84px" src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/1.jpg">
+![第一步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/1.jpg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Azure官网](https://www.azure.cn)
 <br />
 <br />
@@ -40,6 +40,14 @@
 <br />
 <br />
 ![第八步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/8.jpg)
+<div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="/wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/white.png/" class="mscom-image" alt="Image of Padlock | Security" width="80" height="84" /></div>
+                     <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
+                        <h3>汇款信息如下</h3>
+                        <p>开户银行：汇丰银行（中国）有限公司北京分行</p>
+                        <p>账户名称：上海蓝云网络科技有限公司</p>
+
+                     </div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**汇款信息如下** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;开户银行：汇丰银行（中国）有限公司北京分行
