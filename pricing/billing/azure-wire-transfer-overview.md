@@ -62,7 +62,7 @@
 
 <ul><li>您可以随时登录<a href="//account.windowsazure.cn/subscriptions/"> 订阅管理门户</a>，点击您的订阅，查看支付历史记录。</li></ul>
 
-<ul><li>发票申请流程请参见<a href="/pricing/billing/azure-fapiao-process/"> 发票申请操作解析-Azure在线业务</a>。</li></ul>
+<ul><li>发票申请流程请参见<a href="/pricing/billing/azure-fapiao-process/"> 发票申请操作解析-Azure 在线业务</a>。</li></ul>
 </ul>
 
 <ul><li>如果您对线下汇款有任何问题，欢迎随时拨打我们的客服热线电话 400-089-0365，我们将竭诚为您服务。</li></ul>
