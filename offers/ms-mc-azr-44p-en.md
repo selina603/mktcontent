@@ -27,6 +27,7 @@ With this offering, you can use various of Azure services upon your needs, inclu
 - Any customer can only apply for this offer once.21Vinant reserve all the right for the final explanation. For example, the same ID card, same payment account can only be used once for this offer. Violation of this policy may result in termination of your subscription, deletion of all Customer Data, and forfeiture of the 1 RMB payment.
 - According to the provisions of the relevant laws and regulations. You should ensure that the real identity information you provide is true, complete and valid. Violation of this policy may result in termination of your subscription, deletion of all customer data, and forfeiture of the 1 RMB payment.
 - If you run out of 1,500 RMB credits or run out of one-month given (whichever comes first), your subscription will be disabled and your Customer Data will be permanently deleted unless you recharge  within 15 days as detailed in Conversion to Paid Offer below. This will re-activate your subscription but may require re-configuration of related services. 
+- 1 RMB Trial Offer is intended only for development and testing environment. If your purpose is for commercial use, please convert to [Standard Pay-In-Advance](/offers/ms-mc-arz-33p/) subscription.
 
 ##Update to Standard Pay-In-Advance Subscription 
 
