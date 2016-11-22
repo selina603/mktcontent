@@ -14,27 +14,17 @@
 <br />
 <br />
 ![第一步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-trial-upgrade-pia/1.jpg)
-<br />
-![第1-1步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-trial-upgrade-pia/1-1.jpg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Azure订阅管理门户](//account.windowsazure.cn/subcriptions)
 
 <br />
 ![第二步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-trial-upgrade-pia/2.jpg)
 <br />
-![第2-2步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-trial-upgrade-pia/2-2.jpg)
-<br />
 ![第三步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-trial-upgrade-pia/3.jpg)
-<br />
-![第3-3步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-trial-upgrade-pia/3-3.jpg)
 <br />
 ![第四步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-trial-upgrade-pia/4.jpg)
 <br />
-![第4-4步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-trial-upgrade-pia/4-4.jpg)
-<br />
 ![第五步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-trial-upgrade-pia/5.jpg)
-<br />
-![第5-5步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-trial-upgrade-pia/5-5.jpg)
 <br />
 ![第六步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-trial-upgrade-pia/6.jpg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**汇款信息如下**
@@ -71,6 +61,4 @@
 
 <br />
 ![第八步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-trial-upgrade-pia/8.jpg)
-<br />
-![第8-8步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-trial-upgrade-pia/8-8.jpg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;友情提示：在汇款到账与以上汇款信息匹配成功后，我们会在两个工作日内将汇款金额充值到您的订阅账户。同时您会收到“购买确认”的通知邮件，也可在您的订阅账户下看到充值的金额。
