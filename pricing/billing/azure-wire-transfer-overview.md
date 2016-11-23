@@ -13,11 +13,11 @@
 
 ## 一、线下汇款操作流程： ##
 
-- [通过线下汇款方式首次购买标准预付费订阅](/pricing/billing/azure-wire-transfer-pia-new/)
+<ul><li><a href="/pricing/billing/azure-wire-transfer-pia-new/" target="_blank">通过线下汇款方式首次购买标准预付费订阅</a></li></ul>
 
-- [1 元试用订阅：通过线下汇款方式充值成为标准预付费订阅](/pricing/billing/azure-wire-transfer-trial-upgrade-pia/)
+<ul><li><a href="/pricing/billing/azure-wire-transfer-trial-upgrade-pia/" target="_blank">1 元试用订阅：通过线下汇款方式充值成为标准预付费订阅</a></li></ul>
 
-- [标准预付费订阅：通过线下汇款方式续费 ](/pricing/billing/azure-wire-transfer-pia-recharge/) 
+<ul><li><a href="/pricing/billing/azure-wire-transfer-pia-recharge/" target="_blank">标准预付费订阅：通过线下汇款方式续费</a></li></ul>
 
 ## 二、汇款信息如下： ##
 （请在转账汇款时备注您的订阅 ID，以便于我们区分汇款来源并及时充值到您的订阅，您可登录[订阅管理门户](//account.windowsazure.cn/subscriptions), 点击订阅名称，页面右侧会显示“订阅 ID” ）
