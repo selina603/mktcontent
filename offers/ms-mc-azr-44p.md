@@ -93,5 +93,5 @@
 
 您也可以通过每隔 15 天采取下列任一操作，以避免您的计算资源被删除：
 
- - 登录[管理门户](https://manage.windowsazure.cn/)网站
+ - 登录 [管理门户](https://manage.windowsazure.cn/) 网站
  - 通过我们的 Azure API 访问您的托管服务
