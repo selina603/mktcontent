@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Offer Details - Microsoft Azure"
+	pageTitle="Offer Details"
     description="Offer Details - 1 RMB Trial Offer"
     services=""
     documentationCenter=""
