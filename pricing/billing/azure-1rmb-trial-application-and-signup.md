@@ -12,6 +12,6 @@
 <tags ms.service="multiple" ms.date="" wacn.date="" wacn.lang="cn"/>
 
 
-![流程导航](./media/azure-1rmb-trial-application-and-signup/1RMB0906.jpg)
+![流程导航](/pricing/billing/azure-1rmb-trial-application-and-signup/1RMB0906.jpg)
  
  
