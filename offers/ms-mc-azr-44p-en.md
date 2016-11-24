@@ -1,5 +1,5 @@
-﻿<properties
-	pageTitle="Offer Details - Microsoft Azure"
+<properties
+	pageTitle="Offer Details"
     description="Offer Details - 1 RMB Trial Offer"
     services=""
     documentationCenter=""
@@ -20,13 +20,12 @@
 
 With this offering, you can use various of Azure services upon your needs, including Virtual Machines, Cloud Services, Storage, SQL Database and many more.
 
-[Apply 1 RMB Trial >](/pricing/1rmb-trial-form/)
-
-[View 1 RMB Trial Sign-up Guidance >](/documentation/articles/azure-1rmb-trial-application-and-signup)
+[Click here to apply 1 RMB Trial](/pricing/1rmb-trial-form/)
 
 ##Rules of the Offer
 
-- Any customer can only apply for this offer once. For example, the same payment account (including UnionPay and Alipay) can only be used once for this offer. Violation of this policy may result in termination of your subscription, deletion of all Customer Data, and forfeiture of the 1 RMB payment.
+- Any customer can only apply for this offer once. 21 Vinant reserve all the right for the final explanation. For example, the same ID card, same payment account can only be used once for this offer. Violation of this policy may result in termination of your subscription, deletion of all Customer Data, and forfeiture of the 1 RMB payment.
+- According to the provisions of the relevant laws and regulations, you should ensure that the real identity information you provide is true, complete and valid. Violation of this policy may result in termination of your subscription, deletion of all customer data, and forfeiture of the 1 RMB payment.
 - If you run out of 1,500 RMB credits or run out of one-month given (whichever comes first), your subscription will be disabled and your Customer Data will be permanently deleted unless you recharge  within 15 days as detailed in Conversion to Paid Offer below. This will re-activate your subscription but may require re-configuration of related services. 
 - 1 RMB Trial Offer is intended only for development and testing environment. If your purpose is for commercial use, please convert to [Standard Pay-In-Advance](/offers/ms-mc-arz-33p/) subscription.
 
@@ -36,7 +35,7 @@ You could update your subscription into a [Standard Pay-In-Advance](/offers/ms-m
 
 ##Payment Options & Pricing Details
 
-We support payment methods including Alipay and China UnionPay.
+For 1 RMB Trial offer, we support payment methods including Alipay and China UnionPay.
 
 Friendly reminder: We currently do not support switch payment method after you establish the account. You need to stick with the same payment method as used in the first time.
 
