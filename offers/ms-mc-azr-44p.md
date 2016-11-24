@@ -20,9 +20,11 @@
 
 您可以将这些 Azure 服务使用额度用在满足您需要的 Azure 服务上，包括虚拟机、云服务、存储、SQL 数据库等很多方面。
 
-[申请 1 元试用 >](/pricing/1rmb-trial-full/?form-type=identityauth/)
+[申请 1 元试用 >](/pricing/1rmb-trial-full/?form-type=identityauth)
 
-[了解 1 元注册流程 >](/pricing/billing/azure-1rmb-trial-application-and-signup/)
+[了解 1 元注册流程 >](http://wacn-ppe.chinacloudsites.cn/pricing/billing/azure-1rmb-trial-application-and-signup
+
+)
 
 ##1 元试用订阅使用限制
 
@@ -39,7 +41,7 @@
 
 1 元试用订阅支持支付宝和中国银联两种线上付款方式。
 
-友情提醒：本服务目前暂不支持账号创建之后改变付款方式，即您需要使用和初次缴费相同的支付方式进行后续充值支付。
+
 
 有关定价和计费的更多详细信息（包括各 Azure 功能的价格）可参见我们的[定价页面](/pricing/overview/)。
 
@@ -93,5 +95,5 @@
 
 您也可以通过每隔 15 天采取下列任一操作，以避免您的计算资源被删除：
 
- - 登录 [管理门户](https://manage.windowsazure.cn/) 网站
+ - 登录[管理门户](https://manage.windowsazure.cn/)网站
  - 通过我们的 Azure API 访问您的托管服务
