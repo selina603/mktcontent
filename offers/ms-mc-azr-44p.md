@@ -20,9 +20,9 @@
 
 您可以将这些 Azure 服务使用额度用在满足您需要的 Azure 服务上，包括虚拟机、云服务、存储、SQL 数据库等很多方面。
 
-[申请 1 元试用 >](/pricing/1rmb-trial-full/?form-type=identityauth)
+[申请 1 元试用 >](/pricing/1rmb-trial-full/?form-type=identityauth/)
 
-[了解 1 元注册流程 >](/documentation/articles/azure-1rmb-trial-application-and-signup)
+[了解 1 元注册流程 >](/pricing/billing/azure-1rmb-trial-application-and-signup/)
 
 ##1 元试用订阅使用限制
 
