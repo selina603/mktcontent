@@ -59,7 +59,7 @@ Transfer. If choosing the first two online payment options, the minimal amount i
 
 of Wire Transfer can be found in [wire transfer details](/pricing/billing/azure-
 
-wire-transfer-overview-en/). 
+wire-transfer-overview/). 
 
 
 More details on pricing and billing, including the prices for individual Azure 
