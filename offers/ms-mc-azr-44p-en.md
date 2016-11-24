@@ -38,7 +38,6 @@ You could update your subscription into a [Standard Pay-In-Advance](/offers/ms-m
 For 1 RMB Trial offer, we support payment methods including Alipay and China UnionPay.
 
 
-
 More details on pricing and billing, including the prices for individual Azure features, can be found on our [ Pricing page](/pricing/overview/). 
 
 ##Limits on Usage Quotas
