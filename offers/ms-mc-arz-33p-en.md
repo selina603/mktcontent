@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Offer Details - Microsoft Azure"
+	pageTitle="Offer Details"
     description="Offer Details - Standard Pay-In-Advance Offer"
     services=""
     documentationCenter=""
@@ -29,7 +29,7 @@ You will be notified at least 30 days in advance of any increases to the Pay-In-
 
 [Pay In Advance Now >](/pricing/pia/)
 
-[View Pay in Advance Sign-up Guidance >](/documentation/articles/azure-pia-application-and-signup/)
+[View Pay in Advance Sign-up Guidance >](/pricing/billing/azure-pia-application-and-signup/)
 
 ## Payment Options
 
