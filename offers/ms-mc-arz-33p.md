@@ -26,10 +26,11 @@
 
 [立即购买 >](/pricing/pia/)
 
+[了解标准预付费订阅注册流程 >](/pricing/billing/azure-pia-application-and-signup/)
+
 ## 付款选项
 
-支持“支付宝”，“银联在线”和“线下汇款”等三种支付方式，选择前两种线上支付的最低付款金额为 1,000 元人民币，线下汇款的最低支付金额为 5,000 元人民币。线下汇款的详情操作方式，可参考[线下汇款说明](/pricing/billing/azure-wire-transfer-overview)。
-
+仅限支付宝和中国银联。首次及随后的每次付款金额应至少为人民币1000元。
 
 有关定价和计费的更多详细信息（包括各项 Azure 功能的价格）可参见我们的[定价页面](/pricing/overview/)。
 
