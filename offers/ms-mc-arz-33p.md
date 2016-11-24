@@ -1,5 +1,5 @@
 <properties
-	pageTitle="优惠详情 - Microsoft Azure"
+	pageTitle="优惠详情"
     description="优惠详情 - 标准预付费产品"
     services=""
     documentationCenter=""
@@ -26,7 +26,7 @@
 
 [立即购买 >](/pricing/pia/)
 
-[了解标准预付费订阅注册流程 >](/documentation/articles/azure-pia-application-and-signup/)
+[了解标准预付费订阅注册流程 >](/pricing/billing/azure-pia-application-and-signup/)
 
 ## 付款选项
 
