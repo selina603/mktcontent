@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Global Customer Playbook envisioning-explore-parity "
+	pageTitle="Global Customer Playbook envisioning-explore-parity"
 	description="Global Customer Playbook envisioning-explore-parity"
 	services="global-customer-playbook"
 	documentationCenter=""
@@ -9,13 +9,14 @@
 	tags="global-customer-playbook"/>
 
 <tags
-	ms.service="global-customer-playbook"
+	ms.service="migration-lifecycle-envisioning"
 	ms.workload=""
 	ms.tgt_pltfrm=""
 	ms.devlang="na"
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
+	wacn.lang=”en” 
 	ms.author="jtong"/>
 
 

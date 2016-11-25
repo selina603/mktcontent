@@ -1,17 +1,40 @@
-#Validate#
+<properties
+	pageTitle="Global Customer Playbook envisioning-validate "
+	description="Global Customer Playbook envisioning-validate"
+	services="global-customer-playbook"
+	documentationCenter=""
+	authors="jtong"
+	manager="edwinc"
+	editor=""
+	tags="global-customer-playbook"/>
+
+<tags
+	ms.service="migration-lifecycle-envisioning"
+	ms.workload=""
+	ms.tgt_pltfrm=""
+	ms.devlang="na"
+	ms.topic="article"
+	ms.date="11/21/2016"
+	wacn.date="11/21/2016"
+	wacn.lang=”en” 
+	ms.author="jtong"/>
+
+# Envisioning - Validate
 
 The checklist for validation during the **Envisioning Stage**
 
-Title | Property | Result
+Task | Details | Check
 ------------ | ------------ | ------------
-Understand the China "Internet Information Services" regulations | [Policies](https://github.com/Azure/AzureGlobalConnectionCenter/blob/master/PlayBook/Envisioning/Explore/Policies.md) | ![d](https://mncplaybook.azurewebsites.net/Content/Images/check.png)
-Understand what an ICP license is | [Policies](https://github.com/Azure/AzureGlobalConnectionCenter/blob/master/PlayBook/Envisioning/Guidance/Policies.md) | ![ud](https://mncplaybook.azurewebsites.net/Content/Images/uncheck.png)
-Understand that China Azure is a separate instance of Microsoft's Azure cloud services | [Parity](https://github.com/Azure/AzureGlobalConnectionCenter/blob/master/PlayBook/Envisioning/Explore/Parity.md) | ![ud](https://mncplaybook.azurewebsites.net/Content/Images/uncheck.png)
-Understand the service asymmetry between China Azure and Global Azure | [Parity](https://github.com/Azure/AzureGlobalConnectionCenter/blob/master/PlayBook/Envisioning/Guidance/Parity.md) | ![ud](https://mncplaybook.azurewebsites.net/Content/Images/uncheck.png)
-Understand the effects of the Great Firewall | [Performance](https://github.com/Azure/AzureGlobalConnectionCenter/blob/master/PlayBook/Envisioning/Explore/Performance.md) | ![ud](https://mncplaybook.azurewebsites.net/Content/Images/uncheck.png)
-Understand your service hosting options | [Service Hosting Options](https://github.com/Azure/AzureGlobalConnectionCenter/blob/master/PlayBook/Envisioning/Guidance/Performance.md) | ![ud](https://mncplaybook.azurewebsites.net/Content/Images/uncheck.png)
-Understand the differences in the cloud operating models | [Partners](https://github.com/Azure/AzureGlobalConnectionCenter/blob/master/PlayBook/Envisioning/Guidance/Partners.md) | ![ud](https://mncplaybook.azurewebsites.net/Content/Images/uncheck.png)
+1. Understand the China "Internet Information Services" regulations | [Policies](/solutions/global-customer/envisioning/explore/policies/) | ![d](/solutions/global-customer/media/check-box.png)
+2. Understand what an ICP license is | [Policies](/solutions/global-customer/envisioning/guidance/pplicies/) | ![ud](/solutions/global-customer/media/empty-box.png)
+3. Understand that China Azure is a separate instance of Microsoft's Azure cloud services | [Parity](/solutions/global-customer/envisioning/explore/parity/) | ![ud](/solutions/global-customer/media/empty-box.png)
+4. Understand the service asymmetry between China Azure and Global Azure | [Parity](/solutions/global-customer/envisioning/guidance/parity/) | ![ud](/solutions/global-customer/media/empty-box.png)
+5. Understand the effects of the Great Firewall | [Performance](/solutions/global-customer/envisioning/explore/performance/) | ![ud](/solutions/global-customer/media/empty-box.png)
+6. Understand your service hosting options | [Service Hosting Options](/solutions/global-customer/envisioning/guidance/performance/) | ![ud](/solutions/global-customer/media/empty-box.png)
+7. Understand the differences in the cloud operating models | [Partners](/solutions/global-customer/envisioning/guidance/partners/) | ![ud](/solutions/global-customer/media/empty-box.png)
 
-Let's move to the next stage - [Planning Stage](https://github.com/Azure/AzureGlobalConnectionCenter/blob/master/PlayBook/Planning/Validate.md).
+![navigation](/solutions/global-customer/media/navigation.png)
+
+Let's move to the next stage - [Planning Stage](/solutions/global-customer/planning/validate/).
 
  
