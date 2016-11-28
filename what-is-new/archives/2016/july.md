@@ -44,5 +44,5 @@ MySQL Database on Azure 现已开始支持主从复制功能, 用于增加高可
 
 ### 2016年5月4日 新版 Azure CDN HTTPS 加速服务正式上线
 Azure CDN HTTPS 加速服务早在 2015 年 4 月份就上线了，服务上线以来用户量逐渐增加。同时，我们也收到很多用户对于该服务的反馈，产品组也针对用户的反馈进行版本升级。新版 Azure CDN HTTPS 加速服务可以进一步减少开通所需时间，并且用户可以清楚了解到整个开通流程中每一步的状态，也可以像管理其他 CDN 加速类型一样来统一使用 Azure CDN 管理门户来管理 HTTPS 加速域名。
-更多详情，请参考[Azure CDN HTTPS加速服务创建指南](/documentation/articles/cdn-https-how-to/)。
+更多详情，请参考[Azure CDN HTTPS 加速服务创建指南](/documentation/articles/cdn-https-how-to/)。
 
