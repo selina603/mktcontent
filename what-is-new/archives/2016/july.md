@@ -40,3 +40,9 @@ MySQL Database on Azure 现已开始支持主从复制功能, 用于增加高可
 
 ### 2016年7月1日 Azure 标准 VPN 网关正式上线
 我们正式发布一种新型的 Azure 虚拟网络网关（ VPN ），它可使您通过 ExpressRoute 以及站点到站点 VPN 连接至 VNet. 与目前动态路由 VPN 网关相比，Azure 标准 VPN 网关为 ExpressRoute 提供了更大的吞吐量。请访问[VPN 网关功能](/home/features/vpn-gateway/)页面和[VPN 网关价格详情](/pricing/details/vpn-gateway/)页面了解更多信息。
+
+
+### 2016年5月4日 新版 Azure CDN HTTPS 加速服务正式上线
+Azure CDN HTTPS 加速服务早在 2015 年 4 月份就上线了，服务上线以来用户量逐渐增加。同时，我们也收到很多用户对于该服务的反馈，产品组也针对用户的反馈进行版本升级。新版 Azure CDN HTTPS 加速服务可以进一步减少开通所需时间，并且用户可以清楚了解到整个开通流程中每一步的状态，也可以像管理其他 CDN 加速类型一样来统一使用 Azure CDN 管理门户来管理 HTTPS 加速域名。
+更多详情，请参考[Azure CDN HTTPS加速服务创建指南](/documentation/articles/cdn-https-how-to/)。
+
