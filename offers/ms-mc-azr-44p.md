@@ -22,9 +22,7 @@
 
 [申请 1 元试用 >](/pricing/1rmb-trial-full/?form-type=identityauth)
 
-[了解 1 元注册流程 >](http://wacn-ppe.chinacloudsites.cn/pricing/billing/azure-1rmb-trial-application-and-signup
-
-)
+[了解 1 元注册流程 >](/pricing/billing/azure-1rmb-trial-application-and-signup)
 
 ##1 元试用订阅使用限制
 
