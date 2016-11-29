@@ -22,7 +22,7 @@
 ![第三步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/3.jpg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您可以根据需要选择 “个人申请” 或 “企业申请”，快速填写好信息后就可以提交了。
 <br />
-![第四步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/4.gif)
+![第四步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/4.jpg)
 <br />
 ![第五步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/5.jpg)
 <br />
