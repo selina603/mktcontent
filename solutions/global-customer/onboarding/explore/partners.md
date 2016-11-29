@@ -16,13 +16,13 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en”
+	wacn.lang="en"
 	ms.author="jtong"/>
 
 
 # Onboarding Explore - Partners
 
-[AZURE.INCLUDE [header](../onboarding-explore.md)]
+[AZURE.INCLUDE [header](../../../includes/onboarding-explore.md)]
 
 ## Onboarding with 21Variant
 
@@ -59,7 +59,7 @@ An invoice (‘fapiao’ in China) can be applied for 3 working days after the p
 There are two kinds of invoices: a special value-added tax (VAT) invoice and a general VAT invoice. You can fill in the invoices (payable) based on your needs, and according to China government regulations, the tax you have to pay is 6%.
 
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next stage - [Optimizing Stage](/solutions/global-customer/optimizing/explore/policies/).
 

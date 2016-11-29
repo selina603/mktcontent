@@ -16,13 +16,13 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en” 
+	wacn.lang="en"
 	ms.author="jtong"/>
 
 
 # Onboarding Guidance - Parity
 
-[AZURE.INCLUDE [header](../onboarding-guidance.md)]
+[AZURE.INCLUDE [header](../../../includes/onboarding-guidance.md)]
 
 ## Differences from an Administrator Perspective
 
@@ -30,15 +30,16 @@ Deploying your application and administrating your Azure services on China Azure
 
 - The classic portal ( https://manage.windowsazure.cn/ ),
 
-![img](/solutions/global-customer/media/classic-portal.png)
+![img](../../media/classic-portal.png)
 
 - The new portal ( https://portal.azure.cn/ ) which is currently available in preview mode.
 
-![img](/solutions/global-customer/media/new-portal.png)
+![img](../../media/new-portal.png)
 
 CDN on China Azure has **its own unified CDN management portal** . This portal will introduce some operational changes to CDN management if you are migrating from the Global Azure CDN. 
 Please refer to [Content Delivery Network (CDN) Design](/solutions/global-customer/planning/guidance/rehost-migration/) for details.
-
+</br>
+</br>
 
 ## Global Connection Toolkit
 
@@ -53,7 +54,7 @@ Currently, the Global Connection Toolkit offers two components:
 For details, please check out the [Migration Assistant](/solutions/global-customer/migration-assistant/) guide.
 
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Performance](/solutions/global-customer/onboarding/guidance/performance/) .
 

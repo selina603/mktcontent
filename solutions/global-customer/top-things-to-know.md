@@ -16,7 +16,7 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en” 
+	wacn.lang="en" 
 	ms.author="jtong"/>
 
 
@@ -68,6 +68,6 @@ The QR code is popular in China. Because mobile phones are the preferred browsin
 Content localization is more than just translating your content into Chinese. It should mean understanding the digital environment of the China market that you’re preparing to enter and the cultural ramifications of your business decisions. Content should be best tailored according to market needs.
   
   
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](media/navigation.png)
 
 Let's check the [FAQ](/solutions/global-customer/faq/)

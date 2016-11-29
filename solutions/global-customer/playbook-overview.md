@@ -16,7 +16,7 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en” 
+	wacn.lang="en" 
 	ms.author="jtong"/>
 
 
@@ -37,15 +37,17 @@ The Global Connection Center consists of two parts:
 - **The Global Connection Toolkit** is an open source toolkit available on GitHub. The intuitive toolkit will help all Public Azure customers to assess, evaluate and experiment the Azure China environment in terms of cost and migration complexities, as well as to perform the actual migration process.
 
 Both the Global Customer Playbook and the Global Connection Toolkit will continue to be updated with more migration scenarios and design patterns, with the intention of staying aligned with the ever-changing customer needs and the new service landing status of China Azure.
-
+</br>
+</br>
 
 ## Navigating the Playbook
 
 This playbook is designed for [Target Personas](/solutions/global-customer/target-personas/), 
 and is structured along the different stages of the [Migration Lifecycle](/solutions/global-customer/migration-lifecycle/), 
 you are recommend to understand the [Structure of the Playbook](/solutions/global-customer/structure-of-playbook/) before you start navigate and read the playbook.
+</br>
+</br>
 
-
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](media/navigation.png)
 
 Let's first check the [Target Personas](/solutions/global-customer/target-personas/) 

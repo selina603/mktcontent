@@ -16,13 +16,13 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en”
+	wacn.lang="en"
 	ms.author="jtong"/>
 
 
 # Onboarding Explore - Performance
 
-[AZURE.INCLUDE [header](../onboarding-explore.md)]
+[AZURE.INCLUDE [header](../../../includes/onboarding-explore.md)]
 
 
 ## China Latency Issue
@@ -32,6 +32,6 @@ When deploying your applications, you may experience issues with the network per
 The connectivity speed from your administration desktop (outside of China) to the Azure China VM may be slow, although this will not happen all of the time. Take using the SSH (or secure shell) to connect to your remote server as an example. The recommendation is for you to SSH to a local Azure VM, then use this VM and SSH to the Azure China VM. By doing this workaround, you will have a faster network connection speed.
 
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Partners](/solutions/global-customer/onboarding/explore/partners/).

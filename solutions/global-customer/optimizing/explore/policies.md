@@ -16,17 +16,17 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en”
+	wacn.lang="en"
 	ms.author="jtong"/>
 
 
 # Optimizing Explore - Policies
 
-[AZURE.INCLUDE [header](../optimizing-explore.md)]
+[AZURE.INCLUDE [header](../../../includes/optimizing-explore.md)]
 
 There will be no optimizing work needed for the Policies area.
 
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Parity](/solutions/global-customer/optimizing/explore/parity/).

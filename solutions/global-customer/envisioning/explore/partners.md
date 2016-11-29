@@ -16,13 +16,13 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en”
+	wacn.lang="en"
 	ms.author="jtong"/>
 
 
 # Envisioning Explore - Partners
 
-[AZURE.INCLUDE [header](../envisioning-explore.md)]
+[AZURE.INCLUDE [header](../../../includes/envisioning-explore.md)]
 
 ## Cloud Operating Model and Partner
 
@@ -33,9 +33,8 @@ From a support standpoint, 21Vianet provides first line support to customers, an
 
 21Vianet is in compliance with the law, and will cooperate with MIIT for any necessary data auditing and internet content examination whenever necessary.
 
-For details on the cloud service business model, please refer to the following whitepaper (in Chinese):
-https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf
+For details on the cloud service business model, please refer to the following whitepaper (in Chinese): [operation business model](https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf).
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next stage - [Planning Stage](/solutions/global-customer/planning/explore/policies/).

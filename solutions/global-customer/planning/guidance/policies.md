@@ -16,13 +16,13 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en”
+	wacn.lang="en"
 	ms.author="jtong"/>
 
 
 # Planning Guidance - Policies
 
-[AZURE.INCLUDE [header](../planning-guidance.md)]
+[AZURE.INCLUDE [header](../../../includes/planning-guidance.md)]
 
 
 
@@ -30,7 +30,7 @@
 
 Below is a flowchart summarizing the process for filing and applying for an ICP license from MIIT.
 
-![img](/solutions/global-customer/media/icp-process.png)
+![img](../../media/icp-process.png)
  
 The Ministry of Industry and Information Technology issues two different types of [ICP numbers](https://en.wikipedia.org/wiki/ICP_license), which are managed at the provincial level.
 
@@ -51,9 +51,10 @@ The following entities may not apply for an ICP:
 Once the process has started, MIIT, via your web host, will assess your status as an individual or corporation, verify your identity, check your proposed website content for any sensitive political issues, and may ask to see your business license before issuing an ICP. The process typically takes an average span of **20 business days** after submitting the documents to the hosting provider, and your hosting provider usually helps you to handle your application.
 
 If the documents are deemed valid upon review by the provider, they are forwarded onto the MIIT for further review. If at either stage the documents are rejected, the applicant is required to submit additional documents, therefore it would be better to plan for the ICP process **2 months ahead of time** .
+</br>
+</br>
 
-
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Parity](/solutions/global-customer/planning/guidance/parity/).
 

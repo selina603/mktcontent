@@ -16,13 +16,13 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en”
+	wacn.lang="en"
 	ms.author="jtong"/>
 
 
 # Envisioning Guidance - Performance
 
-[AZURE.INCLUDE [header](../envisioning-guidance.md)]
+[AZURE.INCLUDE [header](../../../includes/envisioning-guidance.md)]
 
 ## The Great Firewall
 
@@ -56,6 +56,6 @@ _**Dedicated Server Within China**_
  
 The ideal situation for most companies is to host their site using a provider based in mainland China, essentially placing you inside of the "Great Firewall of China". China Azure, operated by 21Vianet, will work with you to find the best hosting solution for your situation.
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Partners](/solutions/global-customer/envisioning/guidance/partners/).

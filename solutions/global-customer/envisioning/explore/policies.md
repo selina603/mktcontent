@@ -16,13 +16,13 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en”
+	wacn.lang="en"
 	ms.author="jtong"/>
 
 
 # Envisioning Explore - Policies
 
-[AZURE.INCLUDE [header](../envisioning-explore.md)]
+[AZURE.INCLUDE [header](../../../includes/envisioning-explore.md)]
 
 ## China Cloud Policies and Laws
 
@@ -38,6 +38,6 @@ If you want to know more about ICP, please refer to [Policies](/solutions/global
 
 Based on your ICP registered domain and hosting location, MIIT and related governmental authorities should within their respective areas of responsibility, and according to the law, implement supervision and management of your Internet content. They reserve the right to audit your web site by examining your servers and data, at your actual hosting location and at any time if needed.
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Parity](/solutions/global-customer/envisioning/explore/parity/).

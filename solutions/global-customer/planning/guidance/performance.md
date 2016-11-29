@@ -16,13 +16,13 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en”
+	wacn.lang="en"
 	ms.author="jtong"/>
 
 
 # Planning Guidance - Performance
 
-[AZURE.INCLUDE [header](../planning-guidance.md)]
+[AZURE.INCLUDE [header](../../../includes/planning-guidance.md)]
 
 
 ## China Latency Issue
@@ -37,6 +37,8 @@ In summary, in order to have your service or website available to users worldwid
 
 - host the workload targeting Chinese users on China Azure.
 - deploy workload to the closest Azure region for users located outside of China.
+</br>
+</br>
 
 ## Global Connectivity and Interoperability
 
@@ -47,8 +49,10 @@ Firstly, you can have a VPN or Express Route setup for your hybrid cloud, with a
 For connectivity to the external site (outside of China), direct network connectivity is not possible via Express Route. Even with Global Azure and China Azure, there is no network connectivity. However, you can setup a site-to-site VPN as an alternative solution for your site in China Azure to your on-premises location outside of China.
 
 In either case, to have a VPN/Express Route setup connecting your services on China Azure, (i.e. your ICP registered hosting location to an outside location) you need to register, report, and obtain approval from MIIT. As a reminder, you can get help from 21Vianet for the approval process.
+</br>
+</br>
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Partners](/solutions/global-customer/planning/guidance/partners/).
 

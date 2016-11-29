@@ -16,13 +16,13 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en”
+	wacn.lang="en"
 	ms.author="jtong"/>
 
 
 # Optimizing Guidance - Performance
 
-[AZURE.INCLUDE [header](../optimizing-guidance.md)]
+[AZURE.INCLUDE [header](../../../includes/optimizing-guidance.md)]
 
 ## Performance Testing
 
@@ -32,6 +32,6 @@ During this stage, you will probably be conducting performance tests to fine-tun
 - Conduct testing in China within the Great Firewall, this will better reflect the response times and the real user experience.
 - Conduct during the internet rush hours in order to measure the performance of your application under high workloads.
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Partners](/solutions/global-customer/optimizing/guidance/partners/). 

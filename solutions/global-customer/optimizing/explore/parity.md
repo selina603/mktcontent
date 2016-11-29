@@ -16,13 +16,13 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en” 
+	wacn.lang="en" 
 	ms.author="jtong"/>
 
 
 # Optimizing Explore - Parity
 
-[AZURE.INCLUDE [header](../optimizing-explore.md)]
+[AZURE.INCLUDE [header](../../../includes/optimizing-explore.md)]
 
 ## Optimizing for Service Parity
 
@@ -30,7 +30,7 @@ In this stage, you will be optimizing your application that is running on China 
 
 We recommend that you revisit the guide on Migration Design Scenarios, especially for the [Rehost Migration Scenarios](/solutions/global-customer/planning/guidance/rehost-migration/) . This guide provides recommendations on working with service parity.
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Performance](/solutions/global-customer/optimizing/explore/performance/).
 

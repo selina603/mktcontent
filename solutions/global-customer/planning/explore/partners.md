@@ -16,13 +16,13 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en”
+	wacn.lang="en"
 	ms.author="jtong"/>
 
 
 # Planning Explore - Partners
 
-[AZURE.INCLUDE [header](../planning-explore.md)]
+[AZURE.INCLUDE [header](../../../includes/planning-explore.md)]
 
 ## Cloud Operation Partner - 21Vianet
 
@@ -63,6 +63,8 @@ To give you an opportunity to try our services on China Azure, we are offering a
 You can use this credit to try Azure services on China Azure. For details, please click on this link: https://www.azure.cn/offers/ms-mc-azr-44p/.
  
 If you need an English translation, please use this [translated link](https://translate.google.com.hk/translate?hl=zh-CN&sl=zh-CN&tl=en&u=https%3A%2F%2Fwww.azure.cn%2Foffers%2Fms-mc-azr-44p%2F).
+</br>
+</br>
 
 ## Azure Solution Partners
 
@@ -78,16 +80,17 @@ You can find a list of certified partners for China Azure at https://www.azure.c
 
 There is a Marketplace in China Azure, similar to the Global Azure Marketplace, which is currently in Public Preview at https://market.azure.cn/. The China Azure Marketplace is an online store for highly optimized and integrated applications and services ready to deploy on China Azure. The following screenshot is the public preview of the China Azure Marketplace.
 
-![img](/solutions/global-customer/media/marketplace.png)
+![img](../../media/marketplace.png)
 
 **3. Case Studies on China Azure**
 
 There are many customer case studies regarding China Azure which you can use as a reference, they are listed according to industry, solution, and services.
  
 Please visit https://www.azure.cn/partnerancasestudy/case-studies/ for more details.
+</br>
+</br>
 
-
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next stage - [Onboarding Stage](/solutions/global-customer/onboarding/explore/policies/).
 

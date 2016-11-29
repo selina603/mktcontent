@@ -16,123 +16,91 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en”
+	wacn.lang="en"
 	ms.author="jtong"/>
 
 
 # Envisioning Guidance - Parity
 
-[AZURE.INCLUDE [header](../envisioning-guidance.md)]
+[AZURE.INCLUDE [header](../../../includes/envisioning-guidance.md)]
 
 ## Global Azure and China Azure Services Asymmetry
 
 China Azure, or Mooncake, is a separate instance of Azure operated by 21Vianet. There are differences in the availability of Azure services, compared to that of Global Azure.
  
-Below is a summary table based on service parity, essentially comparing Global Azure to Mooncake (Note: if there is difference, it is highlighted in red).
+Below is a summary table based on service parity, essentially comparing Global Azure to Mooncake (Note: if there is difference, it is highlighted in yellow).
  
 It should be noted that new services are still being launched. The following table is the information updated as of the end of Sep 2016. You should always refer to the latest services offered in Mooncake at www.azure.cn.
 
 Service Category | Services | Global Azure (WW) | Mooncake (via 21vianet)
 ---------------- | ---------------- | ---------------- | ----------------
-Compute | Virtual Machines | A series Basic, A series Standard, D series, DS series, Dv2 series, DSv2 series, F series, G series, N series, H series, A8ã€A9 network optimized, A10ã€A11 compute optimized | A series Basic, A series Standard, D series, Dv2 series, F series
+**Compute** | Virtual Machines | A series Basic</br> A series Standard</br> D series</br> <mark>DS series</mark></br> Dv2 series</br> <mark>DSv2 series</mark></br> F series</br> <mark>G series</br> N series</br> H series</br> A8 & A9 network optimized</br> A10 & A11 compute optimized</mark> | A series Basic</br> A series Standard</br> D series</br> Dv2 series</br> F series
   | Virtual Machine Scale Sets | ditto | ditto
-  | Cloud Services | A series Basic, A series Standard, D series Basic, Dv2 series, A8ã€A9 network optimized, A10ã€A11 compute optimized | A series Basic, A series Standard, D series Basic, Dv2 series
+  | Cloud Services | A series Basic</br> A series Standard</br> D series Basic</br> Dv2 series</br> <mark>A8 & A9 network optimized</br> A10 & A11 compute optimized</mark> | A series Basic</br> A series Standard</br> D series Basic</br> Dv2 series
   | Batch | GA | GA
-  | Service Fabric | GA| GA
-  | Functions | Preview | NA
-  | Azure Container Service | GA | NA
-  
-Service Category | Services | Global Azure (WW) | Mooncake (via 21vianet)
----------------- | ---------------- | ---------------- | ----------------
-Storage | Storage (Blob, File, Table, Queue) | Standard Storage, Premium Storage (available in some regions), Cool/Hot | Standard Storage, Premium Storage, Cool/Hot
- | Data Lake Store | Preview | NA
- | StorSimple | StorSimple 5000, StorSimple 7000, StorSimple 8000 | StorSimple 5000, StorSimple 7000
- | Backup | File Backup, IaaS VM Backup | File Backup, IaaS VM Backup
- | Site Recovery | GA, On-premise VMM to Azure, On-premise Hyper-V to Azure, On-premise VMware/Physical server to Azure (Preview), Between two on-premise VMware Sites, Protect SQL Server(Preview) | GA, On-premise VMM to Azure, On-premise Hyper-V to Azure
- 
-Service Category | Services | Global Azure (WW) | Mooncake (via 21vianet)
----------------- | ---------------- | ---------------- | ----------------
-Networking | Virtual Networks | Static/Dynamic Routing VPN Gateway, Standard VPN Gateway, High Performance VPN Gateway, Application Gateway | Static/Dynamic Routing VPN Gateway, Standard VPN Gateway, High Performance VPN Gateway, Application Gateway
- | ExpressRoute | Provide the following port speed : 50 Mbp, 100 Mbp, 200 Mbp, 500 Mbp, 1 Gbp, 2 Gbp, 5 Gbp, 10 Gbp | Provide the following port speed : 50 Mbp, 100 Mbp, 200 Mbp, 500 Mbp, 1 Gbp, 2 Gbp, 5 Gbp, 10 Gbp
- | DNS | Preview | NA
+  | Service Fabric | GA</br> <mark>Service Fabric for Linux Preview</mark> | GA
+  | Functions | <mark>Preview</mark> | NA
+  | Azure Container Service | <mark>GA</mark> | NA
+  | Azure Container Registry | <mark>Preview</mark> | NA
+**Storage** | Storage (Blob</br> File</br> Table</br> Queue) | Standard Storage</br> Premium Storage (available in some regions)</br> Cool/Hot | Standard Storage</br> Premium Storage</br> Cool/Hot
+ | Data Lake Store | <mark>GA</mark> | NA
+ | StorSimple | StorSimple 5000</br> StorSimple 7000</br> <mark>StorSimple 8000</mark> | StorSimple 5000</br> StorSimple 7000
+ | Backup | File Backup</br> IaaS VM Backup | File Backup</br> IaaS VM Backup
+ | Site Recovery | GA</br> On-premise VMM to Azure</br> On-premise Hyper-V to Azure</br> <mark>On-premise VMware/Physical server to Azure (Preview)</br> Between two on-premise VMware Sites</br> Protect SQL Server(Preview)</mark> | GA</br> On-premise VMM to Azure</br> On-premise Hyper-V to Azure
+**Networking** | Virtual Networks | Static/Dynamic Routing VPN Gateway</br> Standard VPN Gateway</br> High Performance VPN Gateway</br> Application Gateway | Static/Dynamic Routing VPN Gateway</br> Standard VPN Gateway</br> High Performance VPN Gateway</br> Application Gateway
+ | ExpressRoute | Provide the following port speed :</br> 50 Mbp</br> 100 Mbp</br> 200 Mbp</br> 500 Mbp</br> 1 Gbp</br> 2 Gbp</br> 5 Gbp</br> 10 Gbp | Provide the following port speed :</br> 50 Mbp</br> 100 Mbp</br> 200 Mbp</br> 500 Mbp</br> 1 Gbp</br> 2 Gbp</br> 5 Gbp</br> 10 Gbp
+ | DNS | <mark>Preview</mark> | NA
  | Traffic Manager | GA | GA
  | Load Balancer | GA | GA
-
-Service Category | Services | Global Azure (WW) | Mooncake (via 21vianet)
----------------- | ---------------- | ---------------- | ----------------
-Web & Mobile | App Service | Free, Sharedï¼ˆPreviewï¼‰, Basic, Standard, Premiumï¼ˆPreviewï¼‰ | Free, Sharedï¼ˆPreviewï¼‰, Basic, Standard, Premiumï¼ˆPreviewï¼‰.  Only followings available: Web Apps, Mobile Apps, API Apps 
- | Mobile Engagement | GA | NA
- | Azure Search |Free, Basic, Standard S1 ,Standard S2, Standard S3 (Preview) | NA
- 
-Service Category | Services | Global Azure (WW) | Mooncake (via 21vianet)
----------------- | ---------------- | ---------------- | ----------------
-Databases | SQL Database | Single database, Elastic database (Preview) | Single database, Elastic database (Preview)
- | SQL Data Warehouse | Preview | Preview
- | SQL Server Stretch Database | Preview | Preview
+**Web & Mobile** | App Service | Free</br> Shared</br> Basic</br> Standard</br> Premium</br></br> Following services are available:</br>Web App</br>Mobile App</br>API App</br>Logic App</br>Web App on Linux (Preview) | Free</br> Shared</br> Basic</br> Standard</br> Premium</br></br>  <mark>Only followings available:</br> Web Apps</br> Mobile Apps</br> API Apps</mark></br></br></br>
+ | Mobile Engagement | <mark>GA</mark> | NA
+ | Azure Search | <mark>Free</br> Basic</br> Standard S1</br> Standard S2</br> Standard S3</mark> | NA
+**Databases** | SQL Database | Single database</br>(Basic, Standard, Premium, Geo-replication)</br> Elastic database</br>(Basic, Standard, Premium, Geo-replication) | Single database</br>(Basic, Standard, Premium, Geo-replication)</br> Elastic database</br>(Basic, Standard, Premium, Geo-replication)
+ | SQL Data Warehouse | <mark>GA</mark> | Preview
+ | SQL Server Stretch Database | GA | GA
  | Redis Cache | Basic, Standard, Premium | Basic, Standard, Premium
  | DocumentDB | GA | GA
- | MySQL Database on Azure | NA | MS1, MS2, MS3, MS4, MS5, MS6
-
-Service Category | Services | Global Azure (WW) | Mooncake (via 21vianet)
----------------- | ---------------- | ---------------- | ----------------
-Intelligence + Analytics | Cortana Intelligence | GA | GA
+ | MySQL Database on Azure | NA | <mark>MS1, MS2, MS3, MS4, MS5, MS6</mark>
+**Intelligence + Analytics** | Cortana Intelligence | <mark>GA</mark> | NA
  | Cognitive Services | Preview | Preview
- | HDInsight | HDInsight General Purpose Node, HDInsight Optimized Node, HDInsight on Linuxï¼ˆPreviewï¼‰, A10ã€A11 Compute Intensive Node | HDInsight General Purpose Node, HDInsight Optimized Node
- | Machine Learning | Free, Standard | NA
+ | HDInsight | HBase, Storm </br> <mark>Spark, R Server, Kafka (Preview)</mark><br> <mark>HDInsight on Linux</mark></br></br>General Purpose Node</br> Optimized Node</br> <mark>A10 & A11 Compute Intensive Node</mark> | HBase, Storm</br></br></br></br>General Purpose Node</br>Optimized Node</br></br>
+ | Machine Learning | <mark>Free, Standard</mark> | NA
  | Stream Analytics | GA | GA
- | Data Factory | Low Frequency, High Frequency | NA
- | Data Catalog | Free, Standard | NA
- | Data Lake Store | Preview | NA
- | Data Lake Analytics | Preview | NA
- | Power BI Embedded | GA | NA
- 
-Service Category | Services | Global Azure (WW) | Mooncake (via 21vianet)
----------------- | ---------------- | ---------------- | ----------------
-IoT | Events Hub | Basic, Standard | Basic, Standard
+ | Azure Bot Service | <mark>Preview</mark> | NA
+ | Data Factory | <mark>Low Frequency, High Frequency</mark> | NA
+ | Data Lake Store | <mark>GA</mark> | NA
+ | Data Lake Analytics | <mark>GA</mark> | NA
+ | Power BI Embedded | <mark>GA</mark> | NA
+**IoT** | Events Hub | Basic, Standard | Basic, Standard
  | IoT Hub | GA | GA
  | IoT Suite | GA | GA
  | Stream Analytics | GA | GA
- | Notification Hubs | 	Free, Basic, Standard | Free, Basic, Standard
- 
-Service Category | Services | Global Azure (WW) | Mooncake (via 21vianet)
----------------- | ---------------- | ---------------- | ----------------
-Media & CDN | Media Services | Encoding, Indexing, Streaming, DRM (support multi-DRM : PlayReady, Widevine, and FairPlay Streaming) | Encoding, Indexing, Streaming, DRM 
- | CDN | Provided byEdgeCast | Provided bylocal CDNprovider
-
-Service Category | Services | Global Azure (WW) | Mooncake (via 21vianet)
----------------- | ---------------- | ---------------- | ----------------
-Enterprise Integration | BizTalk Services | Free, Developer, Basic, Standard, Premium | NA
- | Service Bus | 	Basic, Standard, Premium (Preview) | Basic, Standard
- | API Management | Developer, Standard, Premium | MVP Preview
- | Logic Apps | GA | NA
- 
-Service Category | Services | Global Azure (WW) | Mooncake (via 21vianet)
----------------- | ---------------- | ---------------- | ----------------
-Security & Identity | Azure Active Directory | Free, Basic, Premium | Free (Self Service Password Reset is available)
- | Azure Active Directory B2C | Preview | NA
- | Azure AD Domain Services | Preview | NA
+ | Notification Hubs | Free, Basic, Standard | Free, Basic, Standard
+**Media & CDN** | Media Services | Encoding, Indexing, Streaming</br> DRM <mark>(support multi-DRM : PlayReady, Widevine, and FairPlay Streaming)</mark> | Encoding, Indexing, Streaming</br> DRM 
+ | CDN | Provided by <mark>EdgeCast</mark> | Provided by <mark>local CDN</mark> provider
+**Enterprise Integration** | BizTalk Services | <mark>Free, Developer, Basic, Standard, Premium</mark> | NA
+ | Service Bus | Basic, Standard</br><mark>Premium</mark> | Basic, Standard</br>
+ | API Management | <mark>Developer, Standard, Premium</mark> | MVP Preview
+ | Logic Apps | <mark>GA</mark> | NA
+ | Data Catalog | <mark>Free, Standard</mark> | NA
+**Security & Identity** | Azure Active Directory | Free</br><mark>Basic, Premium</mark> | Free</br>(Self Service Password Reset is available)
+ | Azure Active Directory B2C | <mark>GA</mark> | NA
+ | Azure AD Domain Services | <mark>GA</mark> | NA
  | Multi-factor Authentication | GA | GA
- | Key Vault |	Standard, Premium | Standard, Premium 
- | Security Centre | Free, Standard | NA
- 
-Service Category | Services | Global Azure (WW) | Mooncake (via 21vianet)
----------------- | ---------------- | ---------------- | ----------------
-Developer Tools | Visual Studio Team Services | Basic, Professional, Advanced | NA
- | Application Insights | Free (Preview), Standard (Previewï¼‰, Premium (Previewï¼‰ | NA
- | DevTest Labs | Free | NA
- | HockeyApp | GA | NA
- 
-Service Category | Services | Global Azure (WW) | Mooncake (via 21vianet)
----------------- | ---------------- | ---------------- | ----------------
-Monitoring & Management | Azure Portal | GA | Preview
+ | Key Vault |	Standard, Premium </br> | Standard, Premium</br><mark>No HSM offering</mark>
+ | Security Centre | <mark>Free, Standard</mark> | NA
+**Developer Tools** | Visual Studio Team Services | <mark>Basic, Professional, Advanced</mark> | NA
+ | Application Insights | <mark>Free, Basic, Enterprise</mark> | NA
+ | DevTest Labs | <mark>Free</mark> | NA
+ | HockeyApp | <mark>GA</mark> | NA
+**Monitoring & Management** | Azure Portal | GA | Preview
  | Azure Resource Manager | GA | GA
- | Marketplace | GA | Preview
+ | Marketplace | <mark>GA</mark> | Preview
  | Scheduler | Free, Standard, Premium | Free, Standard, Premium
- | Automation | Free, Basic ,Desired State Configuration (DSC) | Free, Basic
- | Operational Insights | Free, Basic, Desired State Configuration (DSC) | Free, Basic
- | Operational Insights | Free, Standard, Premium | NA
- | Log Analytics | Free, Standard, Premium | NA
+ | Automation | Free, Basic</br><mark>Desired State Configuration (DSC)</mark> | Free, Basic</br>
+ | Operational Insights | <mark>Free, Standard, Premium</mark> | NA
+ | Log Analytics | <mark>Free, Standard, Premium</mark> | NA
  
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Performance](/solutions/global-customer/envisioning/guidance/performance/) .

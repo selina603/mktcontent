@@ -16,13 +16,13 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en” 
+	wacn.lang="en"
 	ms.author="jtong"/>
 
 
 # Envisioning Explore - Parity
 
-[AZURE.INCLUDE [header](../envisioning-explore.md)]
+[AZURE.INCLUDE [header](../../../includes/envisioning-explore.md)]
 
 ## China Azure (Mooncake) Services
 
@@ -33,6 +33,6 @@ However, as China Azure or Mooncake is a separate instance of Azure, there will 
 Details on services available on Mooncake can be found here: [https://www.azure.cn/home/features/what-is-azure/](https://www.azure.cn/home/features/what-is-azure/).
 You can also refer to [Parity](/solutions/global-customer/envisioning/guidance/parity/) for a service parity comparison.
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Performance](/solutions/global-customer/envisioning/explore/performance/).

@@ -16,13 +16,13 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en”
+	wacn.lang="en"
 	ms.author="jtong"/>
 
 
 # Envisioning Guidance - Policies
 
-[AZURE.INCLUDE [header](../envisioning-guidance.md)]
+[AZURE.INCLUDE [header](../../../includes/envisioning-guidance.md)]
 
 ## ICP Licenses
 
@@ -36,12 +36,12 @@ Sharing an ICP license is against government rules and regulations, meaning that
  
 Getting an ICP license is an additional step that is taken after you purchase your hosting and domain name, but before your site goes live. ICP license numbers are usually displayed in the small print in website footers, and should be displayed on your website at all times. Below is a sample of the ICP license number for China Azure displayed at the bottom of the home page.
 
-![Home](/solutions/global-customer/media/icp-license.png)
+![Home](../../media/icp-license.png)
 
 ## Data Auditing
 
 Based on your ICP registered domain and hosting location, MIIT and related governmental authorities should within their respective areas of responsibility, and according to the law, implement supervision and management of your Internet content. They reserve the right to audit your web site by examining your servers and data, at your actual hosting location and at any time if needed.
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Parity](/solutions/global-customer/envisioning/guidance/parity).

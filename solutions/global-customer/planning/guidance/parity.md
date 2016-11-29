@@ -16,13 +16,13 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en” 
+	wacn.lang="en" 
 	ms.author="jtong"/>
 
 
 # Planning Guidance - Parity
 
-[AZURE.INCLUDE [header](../planning-guidance.md)]
+[AZURE.INCLUDE [header](../../../includes/planning-guidance.md)]
 
 ## Differences from a Developer Perspective
 
@@ -50,6 +50,8 @@ SQL DB Import/Export Service Endpoint |  | 1. China East： https://sh1prod-dacs
 
 Please refer to the following link for details on the Developer Notes (in Chinese): 
 [Developer Notes](https://www.azure.cn/documentation/articles/developerdifferences/#dev-guide)
+</br>
+</br>
 
 ## Differences in Service Pricing
 
@@ -60,6 +62,8 @@ This may impact your business planning and we recommended you to do an estimatio
  
 If you need an English translation, please refer to this link
 [Translated Pricing](https://translate.google.com.hk/translate?hl=zh-CN&sl=zh-CN&tl=en&u=https%3A%2F%2Fwww.azure.cn%2Fpricing%2Foverview%2F).
+</br>
+</br>
 
 ## Application Migration Design Scenarios
 
@@ -70,6 +74,8 @@ Covers the scenario that you are deploying new applications on China Azure, whic
 
 - [Rehost Migration Scenarios](/solutions/global-customer/planning/guidance/rehost-migration/) - 
 Covers the scenario for redeploying the application to a different cloud environment. This is to serve as a guide on the migration design for your applications or workloads that run on Global Azure, and to have them migrated to China Azure.
+</br>
+</br>
 
 ## Global Connection Toolkit
 
@@ -82,9 +88,10 @@ Currently, the Global Connection Toolkit offers two components:
 - CICD Tool: CICD (Continuous Integration Continuous Deliver) Tool is a quick and simple tool to validate and perform the actual migration as script base. For example, you can leverage the toolkit to migrate your VMs from East Asia to China East. The toolkit will sync your data and configuration so that everything is as same as original. Moreover, the scripts is open source so you can just integrate into your own DevOps process to perform CICD between Azure Environments
 
 For details, please check out the [Migration Assistant](/solutions/global-customer/migration-assistant/) guide.
+</br>
+</br>
 
-
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Performance](/solutions/global-customer/planning/guidance/performance/).
 

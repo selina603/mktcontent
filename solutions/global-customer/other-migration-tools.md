@@ -16,7 +16,7 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en” 
+	wacn.lang="en" 
 	ms.author="jtong"/>
 
 
@@ -29,6 +29,8 @@ https://azure.microsoft.com/en-us/blog/iaas-migration-ga/
 https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-migration-classic-resource-manager/
  
 If you have classic ASM IaaS resources, it is highly recommended that you first migrate them to ARM before moving them to China Azure.
+</br>
+</br>
 
 ## AAD Identity Migration Tool
 
@@ -39,7 +41,9 @@ The goal of the AAD Identity Migration tool is to replicate AAD identities, incl
 The typical scenario is to have Global Azure as the source AAD, and China Azure as the target AAD. First, you use the tool to replicate the identities in Global AAD to China AAD.  Based on that, other Azure resources depending on the AAD, and security implementations like RBAC authorization, can be migrated afterwards to China Azure.
  
 The AAD Identity Migration Tool is under development, the PowerShell version is available as a private preview. You can contact your Microsoft account representatives for more details.
+</br>
+</br>
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](media/navigation.png)
 
 Back to the [Migration Assistant](/solutions/global-customer/migration-assistant/) .

@@ -16,12 +16,14 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en” 
+	wacn.lang="en" 
 	ms.author="jtong"/>
 
 # Rehost Migration Scenarios
 
 In most cases, you already have your applications deployed to Global Azure, and would like to redeploy it to a different cloud environment - the China Azure. The following serve as a guide on how to orchestrate the migration design for your applications or workload that runs on Global Azure, and to have them migrated to China Azure.
+</br>
+</br>
 
 ## Azure Active Directory (AAD) Design
 
@@ -29,13 +31,13 @@ Azure Active Directory (AAD) is Microsoft’s multi-tenant cloud-based directory
 
 The following illustration shows the design of the AAD identity management service. For further details, please refer to https://azure.microsoft.com/en-us/documentation/articles/active-directory-whatis/.
 
-![img](/solutions/global-customer/media/aad.png)
+![img](../../media/aad.png)
 
 The AAD service is available on China Azure. However, it is a dedicated AAD service for China Azure, and is exclusively for users accessing applications on China Azure. There is no synchronization service for the AAD identities between Global Azure and China Azure.
  
 Currently, AAD Premium, AAD B2C, and AAD Domain Services are not yet available on China Azure. If your application needs any of these AAD services, you will have to find alternative solutions as a replacement. The following table summarizes the AAD features (in green color) currently available on China Azure.
 
-![img](/solutions/global-customer/media/aad-features.png)
+![img](../../media/aad-features.png)
 
 ### AAD Identity Migration
  
@@ -48,7 +50,8 @@ For Global Azure, AAD B2C offers a Social Identity Provider for integration with
 For China Azure, the Social Identity Provider for WeChat and Weibo is still in the under consideration, and there has not been an announced schedule for the releases. 
  
 However, the China Customer Advisory Team (CAT) has been working on many Azure solutions for integration with WeChat. If you need help on development guidance, please contact your Microsoft account representatives.
-
+</br>
+</br>
 
 ## Content Delivery Network (CDN) Design
 
@@ -62,8 +65,9 @@ The following are a couple of points worth taking into consideration regarding t
  
 - CDN on China Azure has **its own unified CDN management portal** , for further details you can check the document [here](https://www.azure.cn/documentation/articles/cdn-management-portal-how-to-use/) . The CDN management portal will introduce some operational changes to CDN management if you are migrating from the Global Azure CDN.
 
-![img](/solutions/global-customer/media/cdn.png)
-
+![img](../../media/cdn.png)
+</br>
+</br>
 
 ## Traffic Management Design
  
@@ -71,7 +75,7 @@ Azure Traffic Manager enables you to control how traffic is distributed across y
  
 The illustration below explains how the Traffic Manager works. For more details, please refer to: https://azure.microsoft.com/en-us/documentation/articles/traffic-manager-how-traffic-manager-works/
 
-![img](/solutions/global-customer/media/traffic-mgr.png)
+![img](../../media/traffic-mgr.png)
 
 Traffic management on China Azure is similar to Global Azure, it supports endpoints for Azure VMs, Azure Web Apps, or other Azure services, and external endpoints not hosted on Azure.  Please check out https://www.azure.cn/documentation/articles/traffic-manager-endpoint-types/ for details. If you may need an English translation follow this [link](https://translate.google.com.hk/translate?hl=zh-CN&sl=zh-CN&tl=en&u=https%3A%2F%2Fwww.azure.cn%2Fdocumentation%2Farticles%2Ftraffic-manager-endpoint-types%2F).
  
@@ -81,7 +85,8 @@ In case you have an application hosted on Global Azure and are deploying another
  
 For details on the performance traffic-routing method, please refer to
 https://azure.microsoft.com/en-us/documentation/articles/traffic-manager-routing-methods/#performance-traffic-routing-method.
-
+</br>
+</br>
 
 ## Push Notification Design
 
@@ -89,26 +94,28 @@ Azure Notification Hubs provide an easy-to-use, multiplatform, scaled-out push i
  
 The following illustration reveals how push notification works. For more details, please refer to: https://azure.microsoft.com/en-us/documentation/articles/notification-hubs-push-notification-overview/.
 
-![img](/solutions/global-customer/media/push-notification.png)
+![img](../../media/push-notification.png)
 
 With Global Azure, the Notification Hub works with APNS (Apple Push Notification Services), GCM (Google Cloud Message), WNS (Windows Push Notification Services) and MPNS (Microsoft Push Notification Service). 
  
 However, with China Azure, the Notification Hub works differently for PNS. For **Android devices, it's via the Baidu Push PNS** (where notifications are sent to mobile devices in China), which is the target for the China Market. You have to pay attention to the difference in PNS when you are designing the push notification for your applications on China Azure.
  
 If users have pretty stable locations when accessing your application, users in China can always access your application that is hosted in China Azure. They will also be able to receive notifications through the China Notification Hub. On the other hand, if your users are travelling around the world, you may need to think of using a dynamic routing solution (e.g. the Traffic Manager using the performance traffic-routing method), so that when users travel outside of China, they will be routed to your application hosted on Global Azure, instead of the one hosted on China Azure.  The prerequisite for this solution is to synchronize the user data between your applications hosted on Global Azure and China Azure.
-
+</br>
+</br>
 
 ## Secure Key Management Design
  
 Secure key management is essential to protecting data on the cloud. With Azure Key Vault, you can safeguard cryptographic keys and secrets used by cloud applications and services. By using Key Vault, you can encrypt keys and secrets (such as authentication keys, storage account keys, data encryption keys, .PFX files, and passwords). Key Vault streamlines the key management process and enables you to maintain control of keys that access and encrypt your data. Developers can create keys for development and testing in minutes, and then seamlessly migrate them to production keys. Security administrators can grant (and revoke) permission to keys, as needed, as illustrated in the following diagram.
 
-![img](/solutions/global-customer/media/secure-key.png)
+![img](../../media/secure-key.png)
 
 You can find more details on Azure Key Vault by clicking on https://azure.microsoft.com/en-us/documentation/articles/key-vault-whatis/ or
 https://www.azure.cn/documentation/articles/key-vault-whatis/ .
  
 On Global Azure, for added assurance, you can import or generate keys in hardware security modules (HSMs). However, on China Azure, **there is no HSM offered** for you to manage keys. Therefore, you have to pay attention to this difference when you are designing the secure key management for your applications on China Azure.
-
+</br>
+</br>
 
 ## Extending Cloud Connectivity
 
@@ -117,9 +124,10 @@ To extend the cloud connectivity of your Azure applications or workloads, it is 
 The other extension on cloud connectivity that you may consider will be to connect your applications on Global Azure to your applications on China Azure. According to this perspective, you are considering linking the connectivity to an external site (in Global Azure), outside of China. However, this kind of direct network connectivity is not possible through express route, even between Global Azure and China Azure.  As an alternative solution, you can consider setting up a VPN between the external site - whether or not it is on Global Azure - with your site on China Azure. 
 
 In either case, having a VPN/express route setup that is connected to your services on China Azure (i.e. your ICP registered hosting location to an outside location) you will need to register, report, and obtain for approval from MIIT. As a reminder, 21Vianet will assist in the approval process.
+</br>
+</br>
 
-
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Performance](/solutions/global-customer/planning/guidance/performance/).
 

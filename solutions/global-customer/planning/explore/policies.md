@@ -16,24 +16,25 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en”
+	wacn.lang="en"
 	ms.author="jtong"/>
 
 
 # Planning Explore - Policies
 
-[AZURE.INCLUDE [header](../planning-explore.md)]
+[AZURE.INCLUDE [header](../../../includes/planning-explore.md)]
 
 
 ## ICP Website Filing and Registration Process
 
 Below is a flowchart summarizing the process for filing and applying for an ICP license from MIIT.
 
-![img](/solutions/global-customer/media/icp-process.png)
+![img](../../media/icp-process.png)
 
 The process typically takes an average span of **20 business days** after submitting the documents to the hosting provider. However, you may need to re-submit the documents if they are rejected by MIIT, it would be better to plan for the ICP process **2 months ahead of time** .
+</br>
+</br>
 
-
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Parity](/solutions/global-customer/planning/explore/parity/).

@@ -16,13 +16,13 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en”
+	wacn.lang="en"
 	ms.author="jtong"/>
 
 
 # Operating And Supporting Explore - Partners
 
-[AZURE.INCLUDE [header](../operating-supporting-explore.md)]
+[AZURE.INCLUDE [header](../../../includes/operating-supporting-explore.md)]
 
 ## Operation and Support
 
@@ -32,7 +32,7 @@ Customer are expected to raise a service request (SR) through the China Azure on
 
 ### Operation and Support Workflow
 
-![img](/solutions/global-customer/media/support-workflow.png)
+![img](../../media/support-workflow.png)
 
 ### Terms and Definitions
 

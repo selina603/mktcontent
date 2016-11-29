@@ -17,7 +17,7 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en” 
+	wacn.lang="en" 
 	ms.author="jtong"/>
 
 
@@ -46,10 +46,11 @@ The playbook is structured based on the WHO, WHY, WHAT, WHEN and HOW.
 - **PARITY** (service parity and asymmetry)
 - **PERFORMANCE** (global connectivity, interoperability and performance considerations)
 - **PARTNERS** (cloud operating model and support, and partner offerings)
-   
+</br>
+</br>
    
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](media/navigation.png)
 
 - If you are [The strategist](/solutions/global-customer/target-personas/), let's start to [Explore](/solutions/global-customer/envisioning/explore/policies/).
 - If you are [The Executor](/solutions/global-customer/target-personas/) , let's start for the [Guidance](/solutions/global-customer/envisioning/guidance/policies/).

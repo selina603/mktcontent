@@ -16,13 +16,13 @@
 	ms.topic="article"
 	ms.date="11/21/2016"
 	wacn.date="11/21/2016"
-	wacn.lang=”en” 
+	wacn.lang="en" 
 	ms.author="jtong"/>
 
 
 # Migration Lifecycle
 
-![Envisioning](/solutions/global-customer/media/lifecycle.png)
+![Envisioning](media/lifecycle.png)
 
 On migrating your application and/or workload to China Azure, you will have to go through the 5 stages of the lifecycle.
 This playbook is structure according to the 5 stages of the lifecycle.
@@ -56,7 +56,9 @@ This playbook is structure according to the 5 stages of the lifecycle.
 [Validate](/solutions/global-customer/operating-supporting/validate/))
 - Cut over the solution into production
 - Operate and support the solution on a daily basis
+</br>
+</br>
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](media/navigation.png)
 
 Let's check the [Structure of the Playbook](/solutions/global-customer/structure-of-playbook/)
