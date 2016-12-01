@@ -33,7 +33,7 @@ You will be notified at least 30 days in advance of any increases to the Pay-In-
 
 ## Payment Options
 
-We offer three types of payment options, Alipay, China UnionPay (CUP), and Wire Transfer. If choosing the first two online payment options, the minimal amount is 1,000 RMB. If paying with Wire Transfer, the minimal amount is 5,000 RMB. The details of Wire Transfer can be found in [wire transfer details](/pricing/billing/azure-wire-transfer-overview/).
+We offer three types of payment options, Alipay, China UnionPay (CUP), and Wire Transfer. If choosing the first two online payment options, the minimal amount is 1,000 RMB. If paying with Wire Transfer, the minimal amount is 5,000 RMB. The details of Wire Transfer can be found in [Wire Transfer details](/pricing/billing/azure-wire-transfer-overview/).
 
 
 More details on pricing and billing, including the prices for individual Azure features, can be found on our [Pricing page](/pricing/overview/).
