@@ -12,7 +12,7 @@
 
 ![流程导航](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-pia-application-and-signup/PIA0906.jpg)
 
-#### <table border="0" cellpadding="0" cellspacing="0" margin="0"><tr><td width="15%"></td><td width="100%">线上支付最少充值金额 1000 元。还可以 [通过线下汇款方式首次购买标准预付费订阅](/pricing/billing/azure-wire-transfer-pia-new/)。</td></tr></table>
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;线上支付最少充值金额 1000 元。还可以 [通过线下汇款方式首次购买标准预付费订阅](/pricing/billing/azure-wire-transfer-pia-new/)。
 
 ![流程导航](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-pia-application-and-signup/PIA0906-2.jpg)
 
