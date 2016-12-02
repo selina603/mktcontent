@@ -15,8 +15,8 @@
 <br />
 
 ![第一步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/1.jpg)
-<table border="0" cellpadding="0" cellspacing="0" margin="0"><tr><td width="15%"></td><td 
-width="100%">[Azure 官网](https://www.azure.cn)</td></tr></table>
+<table border="0" cellpadding="0" cellspacing="0" margin="0"><tr><td width="20%"></td><td 
+width="100%">请点击<a href="https://www.azure.cn">Azure 官网</a></td></tr></table>
 <br />
 ![第二步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/2.jpg)
 <br />
