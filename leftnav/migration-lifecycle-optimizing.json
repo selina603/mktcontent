@@ -1,0 +1,134 @@
+{"service": "5 Stages of Migration", 
+"id": "leftnav_global-customer-playbook_level2", 
+"navigation": 
+[
+	{"group": "Envisioning Stage", 
+	"id": "leftnav_global-customer-playbook_envisioning-stage", 
+	"articles": 
+		[
+			{"link": "/solutions/global-customer/envisioning/explore/policies/", 
+			"id": "leftnav_global-customer-playbook_envisioning-explore", 
+			"title": "Explore",
+			"links": ["/solutions/global-customer/envisioning/explore/policies/",
+				"/solutions/global-customer/envisioning/explore/parity/",
+				"/solutions/global-customer/envisioning/explore/performance/",
+				"/solutions/global-customer/envisioning/explore/partners/"]
+			},
+			{"link": "/solutions/global-customer/envisioning/guidance/policies/", 
+			"id": "leftnav_global-customer-playbook_envisioning-guidance", 
+			"title": "Guidance", 
+			"links": ["/solutions/global-customer/envisioning/guidance/policies/",
+				"/solutions/global-customer/envisioning/guidance/parity/",
+				"/solutions/global-customer/envisioning/guidance/performance/",
+				"/solutions/global-customer/envisioning/guidance/partners/"]
+			},
+			{"link": "/solutions/global-customer/envisioning/validate/", 
+			"id": "leftnav_global-customer-playbook_envisioning-validate", 
+			"title": "Validate"}
+		]
+	}, 
+	{"group": "Planning Stage", 
+	"id": "leftnav_global-customer-playbook_planning-stage", 
+	"articles": 
+		[
+			{"link": "/solutions/global-customer/planning/explore/policies/", 
+			"id": "leftnav_global-customer-playbook_planning-explore", 
+			"title": "Explore",
+			"links": ["/solutions/global-customer/planning/explore/policies/",
+				"/solutions/global-customer/planning/explore/parity/",
+				"/solutions/global-customer/planning/explore/performance/",
+				"/solutions/global-customer/planning/explore/partners/"]
+			},
+			{"link": "/solutions/global-customer/planning/guidance/policies/", 
+			"id": "leftnav_global-customer-playbook_planning-guidance", 
+			"title": "Guidance", 
+			"links": ["/solutions/global-customer/planning/guidance/policies/",
+				"/solutions/global-customer/planning/guidance/parity/",
+				"/solutions/global-customer/planning/guidance/performance/",
+				"/solutions/global-customer/planning/guidance/partners/",
+				"/solutions/global-customer/planning/guidance/application-migration/",
+				"/solutions/global-customer/planning/guidance/refactor-migration/",
+				"/solutions/global-customer/planning/guidance/rehost-migration/"]
+			},
+			{"link": "/solutions/global-customer/planning/validate/", 
+			"id": "leftnav_global-customer-playbook_planning-validate", 
+			"title": "Validate"}
+		]
+	}, 
+	{"group": "Onboarding Stage", 
+	"id": "leftnav_global-customer-playbook_onboarding-stage", 
+	"articles": 
+		[
+			{"link": "/solutions/global-customer/onboarding/explore/policies/", 
+			"id": "leftnav_global-customer-playbook_onboarding-explore", 
+			"title": "Explore",
+			"links": ["/solutions/global-customer/onboarding/explore/policies/",
+				"/solutions/global-customer/onboarding/explore/parity/",
+				"/solutions/global-customer/onboarding/explore/performance/",
+				"/solutions/global-customer/onboarding/explore/partners/"]
+			},
+			{"link": "/solutions/global-customer/onboarding/guidance/policies/", 
+			"id": "leftnav_global-customer-playbook_onboarding-guidance", 
+			"title": "Guidance", 
+			"links": ["/solutions/global-customer/onboarding/guidance/policies/",
+				"/solutions/global-customer/onboarding/guidance/parity/",
+				"/solutions/global-customer/onboarding/guidance/performance/",
+				"/solutions/global-customer/onboarding/guidance/partners/"]
+			},
+			{"link": "/solutions/global-customer/onboarding/validate/", 
+			"id": "leftnav_global-customer-playbook_onboarding-validate", 
+			"title": "Validate"}
+		]
+	}, 
+	{"group": "Optimizing Stage", 
+	"id": "leftnav_global-customer-playbook_optimizing-stage", 
+	"articles": 
+		[
+			{"link": "/solutions/global-customer/optimizing/explore/policies/", 
+			"id": "leftnav_global-customer-playbook_optimizing-explore", 
+			"title": "Explore",
+			"links": ["/solutions/global-customer/optimizing/explore/policies/",
+				"/solutions/global-customer/optimizing/explore/parity/",
+				"/solutions/global-customer/optimizing/explore/performance/",
+				"/solutions/global-customer/optimizing/explore/partners/"]
+			},
+			{"link": "/solutions/global-customer/optimizing/guidance/policies/", 
+			"id": "leftnav_global-customer-playbook_optimizing-guidance", 
+			"title": "Guidance", 
+			"links": ["/solutions/global-customer/optimizing/guidance/policies/",
+				"/solutions/global-customer/optimizing/guidance/parity/",
+				"/solutions/global-customer/optimizing/guidance/performance/",
+				"/solutions/global-customer/optimizing/guidance/partners/"]
+			},
+			{"link": "/solutions/global-customer/optimizing/validate/", 
+			"id": "leftnav_global-customer-playbook_optimizing-validate", 
+			"title": "Validate"}
+		]
+	},
+	{"group": "Operating and Supporting Stage", 
+	"id": "leftnav_global-customer-playbook_operating-and-supporting-stage", 
+	"articles": 
+		[
+			{"link": "/solutions/global-customer/operating-supporting/explore/policies/", 
+			"id": "leftnav_global-customer-playbook_operating-and-supporting-explore", 
+			"title": "Explore",
+			"links": ["/solutions/global-customer/operating-supporting/explore/policies/",
+				"/solutions/global-customer/operating-supporting/explore/parity/",
+				"/solutions/global-customer/operating-supporting/explore/performance/",
+				"/solutions/global-customer/operating-supporting/explore/partners/"]
+			},
+			{"link": "/solutions/global-customer/operating-supporting/guidance/policies/", 
+			"id": "leftnav_global-customer-playbook_operating-and-supporting-guidance", 
+			"title": "Guidance", 
+			"links": ["/solutions/global-customer/operating-supporting/guidance/policies/",
+				"/solutions/global-customer/operating-supporting/guidance/parity/",
+				"/solutions/global-customer/operating-supporting/guidance/performance/",
+				"/solutions/global-customer/operating-supporting/guidance/partners/"]
+			},
+			{"link": "/solutions/global-customer/operating-supporting/validate/", 
+			"id": "leftnav_global-customer-playbook_operating-and-supporting-validate", 
+			"title": "Validate"}
+		]
+	}
+]
+}
