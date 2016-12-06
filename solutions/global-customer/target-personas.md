@@ -23,7 +23,7 @@
 
 ## The playbook targets to serve the needs of 3 type of personas:
 
-![Joe](media/joe.png)</br> Joe (TDM)
+![Joe](./media/joe.png)</br> Joe (TDM)
 
 ### The Strategist
 
@@ -38,7 +38,7 @@ Additional persona details:
 </br>
 </br>
 
-![Mary](media/mary.png)</br> Mary (PM)
+![Mary](./media/mary.png)</br> Mary (PM)
 
 ### The Executor
 
@@ -53,7 +53,7 @@ Additional persona details:
 </br>
 </br>
 
-![Andrew](media/andrew.png)</br> Andrew (PM)
+![Andrew](./media/andrew.png)</br> Andrew (PM)
 
 ### The Fast-Tracker
 
@@ -68,7 +68,7 @@ Additional personas details:
 </br>
 </br>
 
-![navigation](media/navigation.png)
+![navigation](./media/navigation.png)
 
 Let's check the different stages of the [Migration Lifecycle](/solutions/global-customer/migration-lifecycle/)
 

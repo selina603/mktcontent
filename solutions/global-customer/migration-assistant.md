@@ -39,7 +39,7 @@ In order to help users in each step, Azure Global Connection Toolkit offers two 
 
 - CICD Tool: CICD (Continuous Integration Continuous Deliver) Tool is a quick and simple tool to validate and perform the actual migration as script base. For example, you can leverage the toolkit to migrate your VMs from East Asia to China East. The toolkit will sync your data and configuration so that everything is as same as original. Moreover, the scripts is open source so you can just integrate into your own DevOps process to perform CICD between Azure Environments
 
-![navigation](media/global-connection-toolkit.png)
+![navigation](./media/global-connection-toolkit.png)
 
 For details, please refer to [Global Connection Toolkit](https://github.com/Azure/AzureGlobalConnectionToolkit)
 </br>
@@ -51,6 +51,6 @@ Apart from the Global Connection Toolkit, there are other tools that may help yo
 </br>
 </br>
 
-![navigation](media/navigation.png)
+![navigation](./media/navigation.png)
 
 Go to the [Other Migration Tools](/solutions/global-customer/other-migration-tools/)

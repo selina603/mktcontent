@@ -22,7 +22,7 @@
 
 # Operating And Supporting Guidance - Partners
 
-[AZURE.INCLUDE [header](../../../includes/operating-supporting-guidance.md)]
+[AZURE.INCLUDE [header](../../../../mktcontent/includes/operating-supporting-guidance.md)]
 
 ## Operation and Support
 

@@ -32,18 +32,6 @@ If you have classic ASM IaaS resources, it is highly recommended that you first 
 </br>
 </br>
 
-## AAD Identity Migration Tool
-
-To assist you on the migration of AAD Identity from Global Azure to China Azure, we offer theAAD Identity Migration Tool, which is part of the Global Customer Migration Assistant.
- 
-The goal of the AAD Identity Migration tool is to replicate AAD identities, including AAD users/groups/user memberships, from source AAD to target AAD. The source AAD and the target AAD can either be located on the same Azure cloud or separate Azure clouds. 
- 
-The typical scenario is to have Global Azure as the source AAD, and China Azure as the target AAD. First, you use the tool to replicate the identities in Global AAD to China AAD.  Based on that, other Azure resources depending on the AAD, and security implementations like RBAC authorization, can be migrated afterwards to China Azure.
- 
-The AAD Identity Migration Tool is under development, the PowerShell version is available as a private preview. You can contact your Microsoft account representatives for more details.
-</br>
-</br>
-
-![navigation](media/navigation.png)
+![navigation](./media/navigation.png)
 
 Back to the [Migration Assistant](/solutions/global-customer/migration-assistant/) .

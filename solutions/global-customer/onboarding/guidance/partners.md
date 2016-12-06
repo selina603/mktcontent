@@ -22,7 +22,7 @@
 
 # Onboarding Guidance - Partners
 
-[AZURE.INCLUDE [header](../../../includes/onboarding-guidance.md)]
+[AZURE.INCLUDE [header](../../../../mktcontent/includes/onboarding-guidance.md)]
 
 ## Onboarding with 21Variant
 

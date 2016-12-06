@@ -22,7 +22,7 @@
 
 # Envisioning Guidance - Policies
 
-[AZURE.INCLUDE [header](../../../includes/envisioning-guidance.md)]
+[AZURE.INCLUDE [header](../../../../mktcontent/includes/envisioning-guidance.md)]
 
 ## ICP Licenses
 

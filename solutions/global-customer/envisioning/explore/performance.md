@@ -22,7 +22,7 @@
 
 # Envisioning Explore - Performance
 
-[AZURE.INCLUDE [header](../../../includes/envisioning-explore.md)]
+[AZURE.INCLUDE [header](../../../../mktcontent/includes/envisioning-explore.md)]
 
 ## The Great Firewall
 

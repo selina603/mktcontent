@@ -22,7 +22,7 @@
 
 # Operating And Supporting Explore - Performance
 
-[AZURE.INCLUDE [header](../../../includes/operating-supporting-explore.md)]
+[AZURE.INCLUDE [header](../../../../mktcontent/includes/operating-supporting-explore.md)]
 
 During this stage, you should have already work out everything for yourapplication performance.
 

@@ -48,6 +48,6 @@ you are recommend to understand the [Structure of the Playbook](/solutions/globa
 </br>
 </br>
 
-![navigation](media/navigation.png)
+![navigation](./media/navigation.png)
 
 Let's first check the [Target Personas](/solutions/global-customer/target-personas/) 

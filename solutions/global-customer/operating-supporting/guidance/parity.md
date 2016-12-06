@@ -22,7 +22,7 @@
 
 # Operating And Supporting Guidance - Parity
 
-[AZURE.INCLUDE [header](../../../includes/operating-supporting-guidance.md)]
+[AZURE.INCLUDE [header](../../../../mktcontent/includes/operating-supporting-guidance.md)]
 
 
 During this stage, you should have already work out everything to comply with the parity.

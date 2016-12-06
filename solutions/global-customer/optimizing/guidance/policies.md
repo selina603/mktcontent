@@ -22,7 +22,7 @@
 
 # Optimizing Guidance - Policies
 
-[AZURE.INCLUDE [header](../../../includes/optimizing-guidance.md)]
+[AZURE.INCLUDE [header](../../../../mktcontent/includes/optimizing-guidance.md)]
 
 There will be no optimizing work needed for the Policies area.
 

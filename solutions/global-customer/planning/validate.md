@@ -37,10 +37,9 @@ Task | Details | Check
 10. Understand and plan for the changes you need for a rehost migration scenario | [Rehost Migration Scenario](/solutions/global-customer/planning/guidance/rehost-migration/) | ![ud](../media/empty-box.png)
 11. Estimate the efforts you need for the changes in your application, include it into your migration planning |  | ![ud](../media/empty-box.png)
 12. Understand that you should migrate your classic (ASM) to resource manager (ARM) VM before you do the actual migration, estimate the effort and include it into your migration planning | [Classic VM Migration](/solutions/global-customer/other-migration-tools/) | ![ud](../media/empty-box.png)
-13. Learn that there is tool to help you migrate the AAD Identities from Global Azure to China Azure | [AAD Identity Migration](/solutions/global-customer/other-migration-tools/) | ![ud](../media/empty-box.png)
-14. Apply for the trial account on China Azure, and try out Azure services | [Trial Account and the $1 Plan](/solutions/global-customer/planning/guidance/partners) | ![ud](../media/empty-box.png)
-15. Run the migration assessment and try out the migration using the Global Connection Toolkit in your testing environment | [Global Connection Toolkit](/solutions/global-customer/migration-assistant) | ![ud](../media/empty-box.png)
-16. Use the migration assessment report and examine the results of your trial migration to help you mitigate the migration risks and have better migration planning |  | ![ud](../media/empty-box.png)
+13. Apply for the trial account on China Azure, and try out Azure services | [Trial Account and the $1 Plan](/solutions/global-customer/planning/guidance/partners) | ![ud](../media/empty-box.png)
+14. Run the migration assessment and try out the migration using the Global Connection Toolkit in your testing environment | [Global Connection Toolkit](/solutions/global-customer/migration-assistant) | ![ud](../media/empty-box.png)
+15. Use the migration assessment report and examine the results of your trial migration to help you mitigate the migration risks and have better migration planning |  | ![ud](../media/empty-box.png)
 
 ![navigation](../media/navigation.png)
 

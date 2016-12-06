@@ -22,7 +22,7 @@
 
 # Envisioning Guidance - Parity
 
-[AZURE.INCLUDE [header](../../../includes/envisioning-guidance.md)]
+[AZURE.INCLUDE [header](../../../../mktcontent/includes/envisioning-guidance.md)]
 
 ## Global Azure and China Azure Services Asymmetry
 
@@ -30,15 +30,15 @@ China Azure, or Mooncake, is a separate instance of Azure operated by 21Vianet. 
  
 Below is a summary table based on service parity, essentially comparing Global Azure to Mooncake (Note: if there is difference, it is highlighted in yellow).
  
-It should be noted that new services are still being launched. The following table is the information updated as of the end of Sep 2016. You should always refer to the latest services offered in Mooncake at www.azure.cn.
+It should be noted that new services are still being launched. The following table is the information updated as of date Nov 29, 2016. You should always refer to the latest services offered in Mooncake at www.azure.cn.
 
 Service Category | Services | Global Azure (WW) | Mooncake (via 21vianet)
 ---------------- | ---------------- | ---------------- | ----------------
-**Compute** | Virtual Machines | A series Basic</br> A series Standard</br> D series</br> <mark>DS series</mark></br> Dv2 series</br> <mark>DSv2 series</mark></br> F series</br> <mark>G series</br> N series</br> H series</br> A8 & A9 network optimized</br> A10 & A11 compute optimized</mark> | A series Basic</br> A series Standard</br> D series</br> Dv2 series</br> F series
+**Compute** | Virtual Machines | A series Basic</br> A series Standard</br> D series</br> Dv2 series</br> F series</br> <mark>G series</br> N series</br> H series</br> A8 & A9 network optimized</br> A10 & A11 compute optimized</mark> | A series Basic</br> A series Standard</br> D series</br> Dv2 series</br> F series </br></br></br></br></br></br>
   | Virtual Machine Scale Sets | ditto | ditto
-  | Cloud Services | A series Basic</br> A series Standard</br> D series Basic</br> Dv2 series</br> <mark>A8 & A9 network optimized</br> A10 & A11 compute optimized</mark> | A series Basic</br> A series Standard</br> D series Basic</br> Dv2 series
+  | Cloud Services | A series</br> D series</br> Dv2 series</br> <mark>A8 & A9 network optimized</br> A10 & A11 compute optimized</mark> | A series</br> D series</br> Dv2 series</br></br></br>
   | Batch | GA | GA
-  | Service Fabric | GA</br> <mark>Service Fabric for Linux Preview</mark> | GA
+  | Service Fabric | GA</br> <mark>Service Fabric for Linux (Preview)</mark> | GA</br> NA
   | Functions | <mark>Preview</mark> | NA
   | Azure Container Service | <mark>GA</mark> | NA
   | Azure Container Registry | <mark>Preview</mark> | NA
@@ -70,6 +70,7 @@ Service Category | Services | Global Azure (WW) | Mooncake (via 21vianet)
  | Data Factory | <mark>Low Frequency, High Frequency</mark> | NA
  | Data Lake Store | <mark>GA</mark> | NA
  | Data Lake Analytics | <mark>GA</mark> | NA
+ | Power BI (SaaS) | GA | GA
  | Power BI Embedded | <mark>GA</mark> | NA
 **IoT** | Events Hub | Basic, Standard | Basic, Standard
  | IoT Hub | GA | GA
@@ -80,14 +81,14 @@ Service Category | Services | Global Azure (WW) | Mooncake (via 21vianet)
  | CDN | Provided by <mark>EdgeCast</mark> | Provided by <mark>local CDN</mark> provider
 **Enterprise Integration** | BizTalk Services | <mark>Free, Developer, Basic, Standard, Premium</mark> | NA
  | Service Bus | Basic, Standard</br><mark>Premium</mark> | Basic, Standard</br>
- | API Management | <mark>Developer, Standard, Premium</mark> | MVP Preview
+ | API Management | <mark>Developer, Standard, Premium</mark> | NA
  | Logic Apps | <mark>GA</mark> | NA
  | Data Catalog | <mark>Free, Standard</mark> | NA
 **Security & Identity** | Azure Active Directory | Free</br><mark>Basic, Premium</mark> | Free</br>(Self Service Password Reset is available)
  | Azure Active Directory B2C | <mark>GA</mark> | NA
  | Azure AD Domain Services | <mark>GA</mark> | NA
  | Multi-factor Authentication | GA | GA
- | Key Vault |	Standard, Premium </br> | Standard, Premium</br><mark>No HSM offering</mark>
+ | Key Vault |	Standard, Premium </br></br> | Standard, Premium</br><mark>No HSM offering</mark>
  | Security Centre | <mark>Free, Standard</mark> | NA
 **Developer Tools** | Visual Studio Team Services | <mark>Basic, Professional, Advanced</mark> | NA
  | Application Insights | <mark>Free, Basic, Enterprise</mark> | NA

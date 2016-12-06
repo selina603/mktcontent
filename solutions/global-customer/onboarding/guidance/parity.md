@@ -22,7 +22,7 @@
 
 # Onboarding Guidance - Parity
 
-[AZURE.INCLUDE [header](../../../includes/onboarding-guidance.md)]
+[AZURE.INCLUDE [header](../../../../mktcontent/includes/onboarding-guidance.md)]
 
 ## Differences from an Administrator Perspective
 

@@ -22,7 +22,7 @@
 
 # Planning Guidance - Policies
 
-[AZURE.INCLUDE [header](../../../includes/planning-guidance.md)]
+[AZURE.INCLUDE [header](../../../../mktcontent/includes/planning-guidance.md)]
 
 
 

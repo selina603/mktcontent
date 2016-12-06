@@ -22,7 +22,7 @@
 
 # Planning Guidance - Parity
 
-[AZURE.INCLUDE [header](../../../includes/planning-guidance.md)]
+[AZURE.INCLUDE [header](../../../../mktcontent/includes/planning-guidance.md)]
 
 ## Differences from a Developer Perspective
 

@@ -39,10 +39,6 @@ Currently, AAD Premium, AAD B2C, and AAD Domain Services are not yet available o
 
 ![img](../../media/aad-features.png)
 
-### AAD Identity Migration
- 
-As an option to help you facilitate the migration of your applications to China Azure, we have the [AAD Identity Migration](https://github.com/Azure/AzureGlobalConnectionCenter/blob/master/PlayBook/Migration%20Assistant/Other%20Migration%20Tools.md) , which is part of the Global Customer Migration Assistant. The goal of the AAD Identity Migration tool is to replicate AAD identities, including AAD users/groups/user memberships, from the source AAD to the target AAD. The source AAD and the target AAD can either be located on the same Azure cloud or separate Azure clouds. The typical scenario is to have Global Azure as the source AAD, and China Azure as the target AAD.
- 
 ### AAD B2C and Social IdP
  
 For Global Azure, AAD B2C offers a Social Identity Provider for integration with popular social networks like Facebook, Google+, LinkedIn, and Amazon. However, as described in the Appendix (Top Things to Know About Entering the China Market), these social networks are blocked in China. You’ll need to have a social marketing strategy specifically tailored to the social networks in China, e.g. WeChat, Sina Weibo, etc. 
@@ -121,7 +117,7 @@ On Global Azure, for added assurance, you can import or generate keys in hardwar
 
 To extend the cloud connectivity of your Azure applications or workloads, it is advised to form a hybrid cloud solution that is connected to your on-premises resources. This method is quite similar to Global Azure and provides you with two options: the Virtual Private Network (VPN) or the Express Route (ER). Within China, you can have a VPN or Express Route setup for your hybrid cloud, with direct network connection between China Azure and your on-premises private cloud and/or back-end systems.
 
-The other extension on cloud connectivity that you may consider will be to connect your applications on Global Azure to your applications on China Azure. According to this perspective, you are considering linking the connectivity to an external site (in Global Azure), outside of China. However, this kind of direct network connectivity is not possible through express route, even between Global Azure and China Azure.  As an alternative solution, you can consider setting up a VPN between the external site - whether or not it is on Global Azure - with your site on China Azure. 
+The other extension on cloud connectivity that you may consider will be to connect your applications on Global Azure to your applications on China Azure. According to this perspective, you are considering linking the connectivity to an external site (in Global Azure), outside of China. However, this kind of direct network connectivity is not possible through express route, even between Global Azure and China Azure.  As an alternative solution, you can consider setting up a site-to-site VPN between the external site - whether or not it is on Global Azure - with your site on China Azure. 
 
 In either case, having a VPN/express route setup that is connected to your services on China Azure (i.e. your ICP registered hosting location to an outside location) you will need to register, report, and obtain for approval from MIIT. As a reminder, 21Vianet will assist in the approval process.
 </br>

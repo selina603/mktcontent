@@ -22,7 +22,7 @@
 
 # Optimizing Explore - Partners
 
-[AZURE.INCLUDE [header](../../../includes/optimizing-explore.md)]
+[AZURE.INCLUDE [header](../../../../mktcontent/includes/optimizing-explore.md)]
 
 ## Network Optimization Partners
 

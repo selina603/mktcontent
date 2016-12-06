@@ -22,7 +22,7 @@
 
 # Planning Explore - Policies
 
-[AZURE.INCLUDE [header](../../../includes/planning-explore.md)]
+[AZURE.INCLUDE [header](../../../../mktcontent/includes/planning-explore.md)]
 
 
 ## ICP Website Filing and Registration Process

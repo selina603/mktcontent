@@ -22,7 +22,7 @@
 
 # Envisioning Explore - Partners
 
-[AZURE.INCLUDE [header](../../../includes/envisioning-explore.md)]
+[AZURE.INCLUDE [header](../../../../mktcontent/includes/envisioning-explore.md)]
 
 ## Cloud Operating Model and Partner
 

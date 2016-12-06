@@ -22,7 +22,7 @@
 
 # Onboarding Guidance - Policies
 
-[AZURE.INCLUDE [header](../../../includes/onboarding-guidance.md)]
+[AZURE.INCLUDE [header](../../../../mktcontent/includes/onboarding-guidance.md)]
 
 
 ## ICP Filing and Application with the Help from 21Vianet

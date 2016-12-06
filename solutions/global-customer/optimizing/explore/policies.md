@@ -22,7 +22,7 @@
 
 # Optimizing Explore - Policies
 
-[AZURE.INCLUDE [header](../../../includes/optimizing-explore.md)]
+[AZURE.INCLUDE [header](../../../../mktcontent/includes/optimizing-explore.md)]
 
 There will be no optimizing work needed for the Policies area.
 

@@ -22,7 +22,7 @@
 
 # Operating And Supporting Explore - Partners
 
-[AZURE.INCLUDE [header](../../../includes/operating-supporting-explore.md)]
+[AZURE.INCLUDE [header](../../../../mktcontent/includes/operating-supporting-explore.md)]
 
 ## Operation and Support
 
