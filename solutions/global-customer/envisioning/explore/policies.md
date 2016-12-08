@@ -1,3 +1,4 @@
+
 <properties
 	pageTitle="Global Customer Playbook envisioning-explore-policies "
 	description="Global Customer Playbook envisioning-explore-policies"
@@ -22,7 +23,7 @@
 
 # Envisioning Explore - Policies
 
-[AZURE.INCLUDE [header](../../../../includes/envisioning-explore.md)]
+[AZURE.INCLUDE [envisioning-explore](../../../../includes/envisioning-explore.md)]
 
 ## China Cloud Policies and Laws
 
