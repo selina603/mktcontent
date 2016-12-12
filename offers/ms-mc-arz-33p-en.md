@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Offer Details"
+	pageTitle="Offer Details | Azure"
     description="Offer Details - Standard Pay-In-Advance Offer"
     services=""
     documentationCenter=""
