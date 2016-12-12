@@ -1,5 +1,5 @@
 <properties
-	pageTitle="通过线下汇款方式首次购买标准预付费订阅指南 - Azure在线业务 | Azure"
+	pageTitle="通过线下汇款方式首次购买标准预付费订阅指南 - Azure在线业务"
     description="通过线下汇款方式首次购买标准预付费订阅指南"
     services=""
     documentationCenter=""
