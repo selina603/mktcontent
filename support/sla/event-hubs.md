@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="事件中心的服务级别协议 | Azure"
+    description="事件中心的服务级别协议"
     services=""
     documentationCenter=""
     authors=""

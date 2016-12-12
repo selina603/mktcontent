@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="MySQL Database on Azure 的服务级别协议 | Azure"
+    description="MySQL Database on Azure 的服务级别协议"
     services=""
     documentationCenter=""
     authors=""

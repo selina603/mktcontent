@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for Site Recovery | Azure"
+    description="SLA for Site Recovery"
     services=""
     documentationCenter=""
     authors=""

@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for SQL Data Warehouse | Azure"
+    description="SLA for SQL Data Warehouse"
     services=""
     documentationCenter=""
     authors=""

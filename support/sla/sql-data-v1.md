@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SQL 数据库的服务级别协议 | Azure"
+    description="SQL 数据库的服务级别协议"
     services=""
     documentationCenter=""
     authors=""

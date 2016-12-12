@@ -1,5 +1,5 @@
 <properties
-	pageTitle="SLA for SQL Server Stretch Database"
+	pageTitle="SLA for SQL Server Stretch Database | Azure"
     description="We guarantee at least 99.9% of the time customers will have connectivity between their SQL Server Stretch Database and our Internet gateway."
     services=""
     documentationCenter=""

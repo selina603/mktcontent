@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for Azure IoT Hub | Azure"
+    description="SLA for Azure IoT Hub"
     services=""
     documentationCenter=""
     authors=""

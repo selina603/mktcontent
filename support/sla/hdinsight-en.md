@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for HDInsight | Azure"
+    description="SLA for HDInsight"
     services=""
     documentationCenter=""
     authors=""

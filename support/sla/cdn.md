@@ -1,6 +1,6 @@
 ﻿<properties
-	pageTitle=""
-    description=""
+	pageTitle="CDN 的服务级别协议 | Azure"
+    description="CDN 的服务级别协议"
     services=""
     documentationCenter=""
     authors=""

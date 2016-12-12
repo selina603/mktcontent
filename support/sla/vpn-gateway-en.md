@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for VPN Gateway | Azure"
+    description="SLA for VPN Gateway"
     services=""
     documentationCenter=""
     authors=""

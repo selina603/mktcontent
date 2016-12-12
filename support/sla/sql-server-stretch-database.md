@@ -1,5 +1,5 @@
 <properties
-	pageTitle="SQL Server 伸展数据库的服务级别协议"
+	pageTitle="SQL Server 伸展数据库的服务级别协议 | Azure"
     description="我们保证，至少 99.9% 的时间内客户在其 SQL Server 伸展数据库和我们的 Internet 网关之间存在连接。"
     services=""
     documentationCenter=""

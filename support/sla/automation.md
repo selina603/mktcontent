@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="自动化的服务级别协议 | Azure"
+    description="自动化的服务级别协议"
     services=""
     documentationCenter=""
     authors=""

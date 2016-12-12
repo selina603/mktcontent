@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for ExpressRoute | Azure"
+    description="SLA for ExpressRoute"
     services=""
     documentationCenter=""
     authors=""

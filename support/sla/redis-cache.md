@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="Redis 缓存的服务级别协议 | Azure"
+    description="Redis 缓存的服务级别协议"
     services=""
     documentationCenter=""
     authors=""

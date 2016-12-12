@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for Storage | Azure"
+    description="SLA for Storage"
     services=""
     documentationCenter=""
     authors=""

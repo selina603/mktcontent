@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for Service Bus | Azure"
+    description="SLA for Service Bus"
     services=""
     documentationCenter=""
     authors=""

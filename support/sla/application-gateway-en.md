@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for Application Gateway | Azure"
+    description="SLA for Application Gateway"
     services=""
     documentationCenter=""
     authors=""

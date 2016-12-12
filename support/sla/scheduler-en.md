@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for Scheduler | Azure"
+    description="SLA for Scheduler"
     services=""
     documentationCenter=""
     authors=""

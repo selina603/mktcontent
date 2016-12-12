@@ -1,6 +1,6 @@
 ﻿<properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for CDN | Azure"
+    description="SLA for CDN"
     services=""
     documentationCenter=""
     authors=""

@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="虚拟机规模集的服务级别协议 | Azure"
+    description="虚拟机规模集的服务级别协议"
     services=""
     documentationCenter=""
     authors=""

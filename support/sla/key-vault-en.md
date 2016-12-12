@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for Key Vault | Azure"
+    description="SLA for Key Vault"
     services=""
     documentationCenter=""
     authors=""

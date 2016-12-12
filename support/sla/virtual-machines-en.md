@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for Virtual Machines | Azure"
+    description="SLA for Virtual Machines"
     services=""
     documentationCenter=""
     authors=""

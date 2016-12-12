@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for MySQL Database on Azure | Azure"
+    description="SLA for MySQL Database on Azure"
     services=""
     documentationCenter=""
     authors=""

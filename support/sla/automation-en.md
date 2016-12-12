@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for Automation | Azure"
+    description="SLA for Automation"
     services=""
     documentationCenter=""
     authors=""

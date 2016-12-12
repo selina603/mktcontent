@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for Service Fabric | Azure"
+    description="SLA for Service Fabric"
     services=""
     documentationCenter=""
     authors=""

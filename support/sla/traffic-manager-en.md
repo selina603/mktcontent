@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for Traffic Manager | Azure"
+    description="SLA for Traffic Manager"
     services=""
     documentationCenter=""
     authors=""

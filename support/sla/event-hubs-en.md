@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for Event Hubs | Azure"
+    description="SLA for Event Hubs"
     services=""
     documentationCenter=""
     authors=""

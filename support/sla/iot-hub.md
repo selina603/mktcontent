@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="Azure IoT 中心服务级别协议 | Azure"
+    description="Azure IoT 中心服务级别协议"
     services=""
     documentationCenter=""
     authors=""

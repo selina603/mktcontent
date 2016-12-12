@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for Media Services | Azure"
+    description="SLA for Media Services"
     services=""
     documentationCenter=""
     authors=""

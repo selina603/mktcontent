@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for Notification Hubs | Azure"
+    description="SLA for Notification Hubs"
     services=""
     documentationCenter=""
     authors=""

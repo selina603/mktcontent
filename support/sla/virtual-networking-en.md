@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for Virtual Network | Azure"
+    description="SLA for Virtual Network"
     services=""
     documentationCenter=""
     authors=""

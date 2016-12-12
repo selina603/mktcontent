@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for Multi-Factor Authentication | Azure"
+    description="SLA for Multi-Factor Authentication"
     services=""
     documentationCenter=""
     authors=""

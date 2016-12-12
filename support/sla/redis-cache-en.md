@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for Radis Cache | Azure"
+    description="SLA for Radis Cache"
     services=""
     documentationCenter=""
     authors=""

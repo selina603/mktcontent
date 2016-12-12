@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="VPN 网关服务级别协议 | Azure"
+    description="VPN 网关服务级别协议"
     services=""
     documentationCenter=""
     authors=""

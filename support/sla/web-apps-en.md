@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for Web Apps | Azure"
+    description="SLA for Web Apps"
     services=""
     documentationCenter=""
     authors=""

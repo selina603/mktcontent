@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for Stream Analytics | Azure"
+    description="SLA for Stream Analytics"
     services=""
     documentationCenter=""
     authors=""

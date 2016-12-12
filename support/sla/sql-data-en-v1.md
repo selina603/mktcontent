@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for SQL Database | Azure"
+    description="SLA for SQL Database"
     services=""
     documentationCenter=""
     authors=""
