@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Azure 标准预付费订阅申请和注册指南 | Azure"
+	pageTitle="Azure 标准预付费订阅申请和注册指南"
     description="Azure 标准预付费订阅申请和注册指南"
     services=""
     documentationCenter=""
