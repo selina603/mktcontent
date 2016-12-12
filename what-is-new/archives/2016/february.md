@@ -1,5 +1,5 @@
 <properties
-	pageTitle=""
+	pageTitle="Azure 公告 | Azure"
     description="Azure历史公告，了解Azure自2013年落地中国后的所有相关信息。"
     services=""
     documentationCenter=""

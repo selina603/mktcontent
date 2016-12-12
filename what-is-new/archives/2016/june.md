@@ -1,5 +1,5 @@
 <properties
-	pageTitle="历史公告 2016年6月 - Azure"
+	pageTitle="历史公告 2016年6月 | Azure"
     description="历史公告 2016年6月"
     services=""
     documentationCenter=""
