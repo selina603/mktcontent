@@ -1,4 +1,4 @@
-﻿<properties
+<properties
 	pageTitle="Azure 标准预付费订阅申请和注册指南 | Azure"
     description="Azure 标准预付费订阅申请和注册指南"
     services=""
