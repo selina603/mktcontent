@@ -1,4 +1,4 @@
-﻿<properties
+<properties
 	pageTitle="1元试用订阅：通过线下汇款方式充值成为标准预付费定位指南-Azure在线业务 | Azure"
     description="1元试用订阅：通过线下汇款方式充值成为标准预付费定位指南"
     services=""
