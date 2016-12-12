@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="1 RMB Trial Offer Details | Azure"
+    description="1 RMB Trial Offer Details"
     services=""
     documentationCenter=""
     authors=""
