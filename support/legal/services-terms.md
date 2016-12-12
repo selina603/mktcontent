@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="Azure 服务条款 | Azure"
+    description="Azure 服务条款"
     services=""
     documentationCenter=""
     authors=""

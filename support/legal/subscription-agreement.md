@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="世纪互联有关 Microsoft Azure 的在线服务标准协议 | Azure"
+    description="世纪互联有关 Microsoft Azure 的在线服务标准协议"
     services=""
     documentationCenter=""
     authors=""

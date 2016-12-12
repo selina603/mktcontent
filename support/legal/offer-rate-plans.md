@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="优惠项目详情 | Azure"
+    description="优惠项目详情"
     services=""
     documentationCenter=""
     authors=""

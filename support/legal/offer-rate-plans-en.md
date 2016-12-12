@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="Offer Details | Azure"
+    description="Offer Details"
     services=""
     documentationCenter=""
     authors=""
