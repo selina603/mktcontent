@@ -1,4 +1,4 @@
-﻿<properties
+<properties
 	pageTitle="标准预付费订阅：通过线下汇款方式续费指南-Azure在线业务 | Azure"
     description="标准预付费订阅：通过线下汇款方式续费指南"
     services=""
