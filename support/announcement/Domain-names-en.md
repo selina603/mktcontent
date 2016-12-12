@@ -1,6 +1,6 @@
 ﻿<properties
-	pageTitle=""
-    description=""
+	pageTitle="ALERT | Azure"
+    description="ALERT: Domain names without ICP filing could be blocked after August 18th , 2016"
     services=""
     documentationCenter=""
     authors=""

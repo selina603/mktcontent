@@ -1,6 +1,6 @@
 <properties
-	pageTitle="Azure 存储的指标更新"
-    description=""
+	pageTitle="Azure 存储的指标更新 | Azure"
+    description="为明确 Azure 存储相关的计费，我们将对存储资源 GUID 进行更改，生效日期为 2016 年 10 月 1 日。我们建议你在此之前在自定义应用程序中对存储资源 GUID 进行适当更改。"
     services=""
     documentationCenter=""
     authors=""

@@ -1,6 +1,6 @@
 <properties
 	pageTitle=""
-    description="Azure 重要提示: 关于实名身份信息收集的通知！（奖励只针对 2016 年 1 月 21 日之前提交实名信息的用户）信任中心"
+    description="Azure 重要提示: 关于实名身份信息收集的通知！（奖励只针对 2016 年 1 月 21 日之前提交实名信息的用户）信任中心 |Azure"
     services=""
     documentationCenter=""
     authors=""

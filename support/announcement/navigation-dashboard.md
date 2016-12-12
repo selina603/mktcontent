@@ -1,6 +1,6 @@
 <properties
-	pageTitle="Azure 官网信息导航栏和服务仪表盘更新 - Microsoft Azure"
-    description=""
+	pageTitle="Azure 官网信息导航栏和服务仪表盘更新 | Azure"
+    description="Azure 官网信息导航栏和服务仪表盘更新"
     services=""
     documentationCenter=""
     authors=""
