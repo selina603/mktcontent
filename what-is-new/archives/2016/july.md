@@ -1,5 +1,5 @@
 <properties
-	pageTitle="历史公告 2016年7月 - Azure"
+	pageTitle="历史公告 2016年7月 | Azure"
     description="历史公告 2016年7月"
     services=""
     documentationCenter=""
@@ -40,3 +40,6 @@ MySQL Database on Azure 现已开始支持主从复制功能, 用于增加高可
 
 ### 2016年7月1日 Azure 标准 VPN 网关正式上线
 我们正式发布一种新型的 Azure 虚拟网络网关（ VPN ），它可使您通过 ExpressRoute 以及站点到站点 VPN 连接至 VNet. 与目前动态路由 VPN 网关相比，Azure 标准 VPN 网关为 ExpressRoute 提供了更大的吞吐量。请访问[VPN 网关功能](/home/features/vpn-gateway/)页面和[VPN 网关价格详情](/pricing/details/vpn-gateway/)页面了解更多信息。
+
+
+
