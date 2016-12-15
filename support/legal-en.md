@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="Legal Information | Azure"
+    description="Legal Information"
     services=""
     documentationCenter=""
     authors=""
