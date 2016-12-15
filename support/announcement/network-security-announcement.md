@@ -1,6 +1,6 @@
 <properties
-	pageTitle="互联网信息服务单位网络安全责任告知书 - Microsoft Azure"
-    description=""
+	pageTitle="互联网信息服务单位网络安全责任告知书 | Azure"
+    description="互联网信息服务单位网络安全责任告知书"
     services=""
     documentationCenter=""
     authors=""

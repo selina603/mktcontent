@@ -1,6 +1,6 @@
 <properties
-	pageTitle="GUID 迁移 - Microsoft Azure"
-    description=""
+	pageTitle="GUID 迁移 | Azure"
+    description="随着各区域 A 系列虚拟机的陆续更新，虚拟机的 GUID 将产生变化。"
     services=""
     documentationCenter=""
     authors=""
