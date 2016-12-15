@@ -1,5 +1,5 @@
 <properties
-	pageTitle="beta 试用 - Microsoft Azure"
+	pageTitle="beta 试用 | Azure"
     description="beta 试用 - 优惠项目详情"
     services=""
     documentationCenter=""

@@ -1,5 +1,5 @@
 <properties
-	pageTitle="优惠详情 - Microsoft Azure"
+	pageTitle="优惠详情 | Azure"
     description="优惠详情 - Azure 免费使用额度"
     services=""
     documentationCenter=""

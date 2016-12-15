@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Offer Details - Microsoft Azure"
+	pageTitle="Offer Details | Azure"
     description="Offer Details - Windows Server Essentials Customers Offer"
     services=""
     documentationCenter=""
