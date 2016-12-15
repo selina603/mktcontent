@@ -1,5 +1,5 @@
 <properties
-	pageTitle="线下汇款说明 - Azure在线业务"
+	pageTitle="线下汇款说明 - Azure在线业务 | Azure"
     description="介绍线下汇款说明"
     services=""
     documentationCenter=""
