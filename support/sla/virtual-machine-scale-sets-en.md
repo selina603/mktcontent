@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	  pageTitle="SLA for Virtual Machine Scale Sets | Azure"
+    description="SLA for Virtual Machine Scale Sets"
     services=""
     documentationCenter=""
     authors=""

@@ -1,6 +1,6 @@
 <properties
-	pageTitle="SLA for HDInsight | Azure"
-    description="SLA for HDInsight"
+	pageTitle="SLA for SQL Data Warehouse | Azure"
+    description="SLA for SQL Data Warehouse"
     services=""
     documentationCenter=""
     authors=""
@@ -8,14 +8,14 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="03/2016" wacn.date="03/2016" wacn.lang="en"/>
+<tags ms.service="legal-en" ms.date="09/2016" wacn.date="09/2016" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
-- [中文](/support/sla/hdinsight/)
-- [English](/support/sla/hdinsight-en/)
-# SLA for HDInsight
+- [中文](/support/sla/sql-data-warehouse/)
+- [English](/support/sla/sql-data-warehouse-en/)
+# SLA for SQL Data Warehouse
 
-For HDInsight, we guarantee that any HDInsight cluster that you deployed will have external connectivity at least 99.9% of the time over a monthly billing cycle.
+We guarantee that, at least 99.9% of the time client operations executed on a SQL Data Warehouse database will succeed.
 
 
 ## Introduction
@@ -115,27 +115,24 @@ This SLA and any applicable Service Levels do not apply to any performance or av
  
 ### Additional Definitions
 
-1. "**Cluster Internet Gateway**" means a set of virtual machines within an HDInsight Cluster that proxy all connectivity requests to the Cluster.
+1. "**Database**"  means any SQL Data Warehouse Database. 
 
-2. "**HDInsight Cluster**" or "**Cluster**" means a collection of virtual machines running a single instance of the HDInsight Service.
+2. "**Maximum Available Minutes**" is the total number of minutes that a given Database has been deployed in Azure during a billing month in a given Azure subscription.
 
+3. "**Client Operations**" is the set of all documented operations supported by SQL Data Warehouse.
 
-### Monthly Uptime Calculation
+4. "**Downtime**"  is the total accumulated minutes during a billing month for a given Azure subscription during which a given Database is unavailable. A minute is considered unavailable for a given Database if more than 1% of all Client Operations completed during the minute return an Error Code.
 
-1. "**Deployment Minutes**" is the total number of minutes that a given HDInsight Cluster has been deployed in Azure.
+5. "**Monthly Uptime Percentage**" for a given Database is calculated as Maximum Available Minutes less Downtime, divided by Maximum Available Minutes in a billing month in a given Azure subscription. Monthly Uptime Percentage is represented by the following formula:
 
-2. "**Maximum Available Minutes**" is the sum of all Deployment Minutes across all Clusters deployed by Customer in a given Azure subscription during a billing month. 
+	Monthly Uptime % = (Maximum Available Minutes − Downtime) / Maximum Available Minutes 
 
-3. "**Downtime**" is the total accumulated Deployment Minutes when the HDInsight Service is unavailable. A minute is considered unavailable for a given Cluster if all continual attempts within the minute to establish a connection to the Cluster Internet Gateway fail. 
+6. The following Service Levels and Service Credits are applicable to Customer’s use of the Azure SQL Data Warehouse Service::
 
-4. "**Monthly Uptime Percentage**" for the HDInsight Service is calculated as Maximum Available Minutes less Downtime divided by Maximum Available Minutes in a billing month for a given Azure subscription. Monthly Uptime Percentage is represented by the following formula:
+	Monthly Uptime Percentage	|Service Credit
+	----------------------------|---------
+	<99.99%				        |10% 
+	<99%				        |25% 
 
-		Monthly Uptime % = (Maximum Available Minutes − Downtime) / Maximum Available Minutes
-
-5. The following Service Levels and Service Credits are applicable to Customer's use of the HDInsight Service:
-	
-		Monthly Uptime Percentage	|Service Credit
-		----------------------------|---------
-		<99.95%				        |10% 
-		<99%				        |25% 
-	
+## Version History
+[1.0](/support/sla/sql-data-warehouse-en/)  Last updated: Sep 2016

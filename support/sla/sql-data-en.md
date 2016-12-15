@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="SLA for SQL Database | Azure"
+    description="SLA for SQL Database"
     services=""
     documentationCenter=""
     authors=""
@@ -31,7 +31,7 @@ We guarantee at least 99.9% of the time customers will have connectivity between
 
 This Service Level Agreement for Azure (this “SLA”) is made by 21Vianet in connection with, and is a part of, the agreement under which Customer has purchased Azure Services from 21Vianet (the “Agreement”).
 
-We provide financial backing to our commitment to achieve and maintain Service Levels for our Services. If we do not achieve and maintain the Service Levels for each Service as described in this SLA, then you may be eligible for a credit towards a portion of your monthly service fees. These terms will be fixed for term of your Agreement. If a subscription is renewed, the version of this SLA that is current at the time the renewal term commences will apply throughout the renewal term. We will provide at least 90 days' notice for adverse material changes to this SLA. You can review the most current version of this SLA at any time by visiting [https://www.azure.cn/support/legal/sla/](/support/legal/sla/) 
+We provide financial backing to our commitment to achieve and maintain Service Levels for our Services. If we do not achieve and maintain the Service Levels for each Service as described in this SLA, then you may be eligible for a credit towards a portion of your monthly service fees. These terms will be fixed for term of your Agreement. If a subscription is renewed, the version of this SLA that is current at the time the renewal term commences will apply throughout the renewal term. We will provide at least 90 days' notice for adverse material changes to this SLA. You can review the most current version of this SLA at any time by visiting [http://www.azure.cn/support/legal/sla/](http://www.azure.cn/support/legal/sla/) 
 
 
 ## General Terms 
@@ -162,9 +162,7 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 	<99.9%				        |10% 
 	<99%				        |25% 
 
-## Version History
+# Version History
 [1.1](/support/sla/sql-data-en/)  Last updated: Sep 2016    
-
 Release notes: Revised to reflect the general availability of Elastic Database on 9/1/2016    
-
 [1.0](/support/sla/sql-data-en-v1/)  Last updated: May 2016

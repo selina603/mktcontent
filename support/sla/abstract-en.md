@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="Service Level Agreements | Azure"
+    description="Service Level Agreements"
     services=""
     documentationCenter=""
     authors=""
