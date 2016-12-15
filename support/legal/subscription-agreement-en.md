@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="21Vianet Online Services Standard Agreement for Azure | Azure"
+    description="21Vianet Online Services Standard Agreement for Azure"
     services=""
     documentationCenter=""
     authors=""

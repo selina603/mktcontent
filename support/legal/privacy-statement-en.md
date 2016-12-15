@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="Privacy Statement for Microsoft Azure Operated by 21Vianet | Azure"
+    description="Privacy Statement for Microsoft Azure Operated by 21Vianet"
     services=""
     documentationCenter=""
     authors=""

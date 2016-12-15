@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="世纪互联运营的 Microsoft Azure 的隐私声明 | Azure"
+    description="世纪互联运营的 Microsoft Azure 的隐私声明"
     services=""
     documentationCenter=""
     authors=""
