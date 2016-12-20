@@ -35,3 +35,5 @@ DocumentDB 功能正式上线。借助 DocumentDB，您可充分利用 SQL 和 J
 
 ### 2016年8月2日 Cloud Foundry 在中国正式发布
 Cloud Foundry  今天正式向中国地区提供服务！[Cloud Foundry](https://www.cloudfoundry.org/)是开源的云应用 PaaS 平台。简化了云计算应用程序的构建，测试，发布和扩展过程，支持 JAVA，Node.js，Python，PHP，Go，Ruby 等多种开发语言，并可在各主要公有云和私有云平台上运行。去年11月我们在 Global Azure[发布](https://azure.microsoft.com/en-us/blog/general-availability-of-cloud-foundry-and-preview-access-of-pivotal-cloud-foundry/)了 Cloud Foundry，如今，Cloud Foundry 终于在中国正式发布。这也意味着广大用户可以开始把 Cloud Foundry 部署在由世纪互联运营的 Microsoft Azure 上，并使用大家熟悉的 Cloud Foundry 命令来有效快捷地管理和发布云计算应用程序了。了解相关背景信息，请参见[GA blog](/blog/2016/08/02/CloudFoundryACN/),[CF update blog](https://azure.microsoft.com/en-us/blog/cloud-foundry-on-azure-support-for-diego-and-open-source-service-brokers/)和[service broker blog](https://www.cloudfoundry.org/azure-service-brokers-released-today/)。 
+
+
