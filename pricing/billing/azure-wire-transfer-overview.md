@@ -38,9 +38,7 @@
 
 <ul><li>提交线下付款订单后，请在 7 个工作日内完成汇款；如果在 7 个工作日内没有完成汇款，您的订单将会被取消，您需要重新提交订单。</li></ul>
 
-<ul><li>请在转账汇款时备注您的订阅 ID，以便于我们区分汇款来源。</li></ul>
-
-<ul><li>提交线下付款订单的两个工作日后，您将收到一封订单通知的提醒邮件，请根据内容提示回复该邮件；或者您也可直接填写以下汇款信息发送到 azure_invoice@oe.21vianet.com，以便我们区分汇款来源并及时充值到您的订阅。</li></ul>
+<ul><li>请在转账汇款时备注您的订阅 ID，以便于我们区分汇款来源。若您因银行限制无法备注完整的订阅 ID，请直接填写以下汇款信息发送到  <a href="mailto:azure_invoice@oe.21vianet.com">azure_invoice@oe.21vianet.com</a>，以便我们区分汇款来源并及时充值到您的订阅。</li></ul>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、订阅 ID (您可登录[订阅管理门户](//account.windowsazure.cn/subscriptions), 点击订阅名称，页面右侧会显示“订阅 ID” )
 
@@ -55,6 +53,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6、公司名称
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7、联系人手机
+
+<ul><li>提交线下付款订单的两个工作日后，您将收到一封订单通知的提醒邮件，请根据内容提示回复该邮件；或者您也可直接填写以上汇款信息发送到 azure_invoice@oe.21vianet.com，以便我们区分汇款来源并及时充值到您的订阅。</li></ul>
 
 <ul><li>备注：</li>
 
