@@ -16,7 +16,7 @@
 
 #Service Level Agreements
 
-##Automation
+##Automation 
 
 We guarantee that at least 99.9% of jobs will start within 30 minutes of their planned start times. 
 
