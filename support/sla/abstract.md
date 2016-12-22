@@ -191,12 +191,6 @@ MySQL Database on Azure 提供 99.9% 的运行时间服务级别协议，保证�
 
 [查看完整的详细信息](/support/sla/virtual-machine-scale-sets/) 
 
-##虚拟网络
-
-对于虚拟网络，我们保证虚拟网络网关的可用性不低于 99.9%。 
-
-[查看完整的详细信息](/support/sla/virtual-networking/)  
-
 ##VPN 网关
 
 我们保证每个 VPN 网关的可用性达到 99.9%。 

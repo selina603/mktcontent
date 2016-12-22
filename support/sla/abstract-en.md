@@ -188,11 +188,6 @@ Virtual Machine Scale Sets is a free service, therefore, it does not have a fina
 
 [See the full details](/support/sla/virtual-machine-scale-sets-en/)
 
-##Virtual Network
-
-For Virtual Network, we guarantee 99.9% availability of the Virtual Network Gateway. 
-
-[See the full details](/support/sla/virtual-networking-en/)
 
 ##VPN Gateway
 
