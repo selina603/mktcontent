@@ -54,7 +54,6 @@ This agreement describes the commitment about uptime and connectivity of Microso
 - [Notification Hubs]
 
 ##Networking
-- [Virtual Network]
 - [ExpressRoute]
 - [Traffic Manager]
 - [VPN Gateway]
