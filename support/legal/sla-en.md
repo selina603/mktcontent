@@ -54,7 +54,6 @@ This agreement describes the commitment about uptime and connectivity of Microso
 - [Notification Hubs]
 
 ##Networking
-- [Virtual Network]
 - [ExpressRoute]
 - [Traffic Manager]
 - [VPN Gateway]
@@ -79,7 +78,7 @@ This agreement describes the commitment about uptime and connectivity of Microso
 
 [Summary of the SLA for all Azure Services](/support/sla/abstract-en/)
 
-Click [here](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_English_1103.pdf) to download SLA for most Azure Services
+Click [here](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_English_1222.pdf) to download SLA for most Azure Services
 
 [Virtual Machines]: /support/sla/virtual-machines-en/
 [Virtual Machine Scale Sets]: /support/sla/virtual-machine-scale-sets-en/
