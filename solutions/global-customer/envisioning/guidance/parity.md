@@ -22,7 +22,7 @@
 
 # Envisioning Guidance - Parity
 
-[AZURE.INCLUDE [header](../../../../mktcontent/includes/envisioning-guidance.md)]
+[AZURE.INCLUDE [header](../../../includes/envisioning-guidance.md)]
 
 ## Global Azure and China Azure Services Asymmetry
 
