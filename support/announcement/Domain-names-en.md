@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="08/2016" wacn.date="08/2016" wacn.lang="en"/>
+<tags ms.service="announcement-en" ms.date="08/2016" wacn.date="08/2016" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/announcement/Domain-names/)
