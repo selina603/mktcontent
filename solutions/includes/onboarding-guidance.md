@@ -4,7 +4,7 @@ Explore what you need to know during the **Onboarding Stage**. There are 4 areas
 
 - If you are [The Executor](/solutions/global-customer/target-personas/) , you should start from the first section [Policies](/solutions/global-customer/onboarding/guidance/policies/).
 
-- If you are [The Strategist](/solutions/global-customer/target-personas/) , you can go back to [Explore](/solutions/global-customer/onboarding/explore/policies/).
+- If you are [The Strategist](/solutions/global-customer/target-personas/) , you can go back to [Exploring](/solutions/global-customer/onboarding/explore/policies/).
 
 - If you are [The Fast-Tracker](/solutions/global-customer/target-personas/) , we have the checklist for you to [Validate](/solutions/global-customer/onboarding/validate/) your work.
 

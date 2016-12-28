@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Global Customer Playbook onboarding-explore-performance "
+	pageTitle="Global Customer Playbook onboarding-explore-performance | Azure"
 	description="Global Customer Playbook onboarding-explore-performance"
 	services="global-customer-playbook"
 	documentationCenter=""
@@ -14,13 +14,13 @@
 	ms.tgt_pltfrm=""
 	ms.devlang="na"
 	ms.topic="article"
-	ms.date="11/21/2016"
-	wacn.date="11/21/2016"
+	ms.date="12/26/2016"
+	wacn.date="12/26/2016"
 	wacn.lang="en"
 	ms.author="jtong"/>
 
 
-# Onboarding Explore - Performance
+# Onboarding Exploring - Performance
 
 [AZURE.INCLUDE [header](../../../includes/onboarding-explore.md)]
 

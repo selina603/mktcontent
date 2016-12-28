@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Global Customer Playbook envisioning-guidance-partners"
+	pageTitle="Global Customer Playbook envisioning-guidance-partners | Azure"
 	description="Global Customer Playbook envisioning-guidance-partners"
 	services="global-customer-playbook"
 	documentationCenter=""
@@ -14,8 +14,8 @@
 	ms.tgt_pltfrm=""
 	ms.devlang="na"
 	ms.topic="article"
-	ms.date="11/21/2016"
-	wacn.date="11/21/2016"
+	ms.date="12/26/2016"
+	wacn.date="12/26/2016"
 	wacn.lang="en"
 	ms.author="jtong"/>
 
@@ -27,7 +27,7 @@
 ## Cloud Operating Model and Partner
 
 
-China Azure, also referred to as Mooncake, has a different operating model. It is not operated by Microsoft, and is independently operated by our partner [21Vianet](http://www.ch.21vianet.com/) in mainland China. The Azure technologies that Microsoft uses to serve other parts of the world have been licensed to 21Vianet, so that Microsoft Azure, operated by 21Vianet, can provide globally consistent service quality for customers.
+China Azure has a different operating model, it is not operated by Microsoft, and is independently operated by our partner [21Vianet](http://www.ch.21vianet.com/) in mainland China. The Azure technologies that Microsoft uses to serve other parts of the world have been licensed to 21Vianet, so that Microsoft Azure, operated by 21Vianet, can provide globally consistent service quality for customers.
  
 From a support standpoint, 21Vianet provides first line support to customers, and Microsoft provides secondary support for all Azure technology and services.
  

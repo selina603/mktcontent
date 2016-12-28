@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Global Customer Playbook planning-guidance-performance "
+	pageTitle="Global Customer Playbook planning-guidance-performance | Azure"
 	description="Global Customer Playbook planning-guidance-performance"
 	services="global-customer-playbook"
 	documentationCenter=""
@@ -14,8 +14,8 @@
 	ms.tgt_pltfrm=""
 	ms.devlang="na"
 	ms.topic="article"
-	ms.date="11/21/2016"
-	wacn.date="11/21/2016"
+	ms.date="12/26/2016"
+	wacn.date="12/26/2016"
 	wacn.lang="en"
 	ms.author="jtong"/>
 
@@ -48,7 +48,17 @@ Firstly, you can have a VPN or Express Route setup for your hybrid cloud, with a
 
 For connectivity to the external site (outside of China), direct network connectivity is not possible via Express Route. Even with Global Azure and China Azure, there is no network connectivity. However, you can setup a site-to-site VPN as an alternative solution for your site in China Azure to your on-premises location outside of China.
 
-In either case, to have a VPN/Express Route setup connecting your services on China Azure, (i.e. your ICP registered hosting location to an outside location) you need to register, report, and obtain approval from MIIT. As a reminder, you can get help from 21Vianet for the approval process.
+In either case, to have a VPN/Express Route setup connecting your services on China Azure, (i.e. your ICP registered hosting location to an outside location) you need to register, report, and obtain approval from MIIT, you can get help from 21Vianet for the approval process.
+
+To have your VPN setup, you need to apply an exception through 21vianet with following information:
+
+- Overseas IP address for the overseas VPN endpoint
+- VPN Protocol and Ports
+- Location of overseas IP
+- Owner of overseas IP
+- Relationship between the overseas IP owner and the China Azure customer
+
+For more details, please contact icpsupport@oe.21vianet.com.
 </br>
 </br>
 

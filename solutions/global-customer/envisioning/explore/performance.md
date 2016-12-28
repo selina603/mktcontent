@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Global Customer Playbook envisioning-explore-performance "
+	pageTitle="Global Customer Playbook envisioning-explore-performance | Azure"
 	description="Global Customer Playbook envisioning-explore-performance"
 	services="global-customer-playbook"
 	documentationCenter=""
@@ -14,13 +14,13 @@
 	ms.tgt_pltfrm=""
 	ms.devlang="na"
 	ms.topic="article"
-	ms.date="11/21/2016"
-	wacn.date="11/21/2016"
+	ms.date="12/26/2016"
+	wacn.date="12/26/2016"
 	wacn.lang="en"
 	ms.author="jtong"/>
 
 
-# Envisioning Explore - Performance
+# Envisioning Exploring - Performance
 
 [AZURE.INCLUDE [header](../../../includes/envisioning-explore.md)]
 
@@ -38,7 +38,7 @@ The China government-managed firewall, officially termed the "Golden Shield Proj
 
 Since all network connectivity in or outside of China must go through the Great Firewall, if you are in China accessing a site outside of China, or you are outside of China accessing a site in China, you may experience some unpredictability in network performance.
 
-If you want to know more about how server hosting may be impacted, please refer to [Service Hosting Options](../guidance/performance.md).
+If you want to know more about how server hosting may be impacted, please refer to [Service Hosting Options](/solutions/global-customer/envisioning/guidance/performance/).
 
 ![navigation](../../media/navigation.png)
 

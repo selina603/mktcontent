@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Global Customer Playbook operating-supporting-explore-performance "
+	pageTitle="Global Customer Playbook operating-supporting-explore-performance | Azure"
 	description="Global Customer Playbook operating-supporting-explore-performance"
 	services="global-customer-playbook"
 	documentationCenter=""
@@ -14,13 +14,13 @@
 	ms.tgt_pltfrm=""
 	ms.devlang="na"
 	ms.topic="article"
-	ms.date="11/21/2016"
-	wacn.date="11/21/2016"
+	ms.date="12/26/2016"
+	wacn.date="12/26/2016"
 	wacn.lang="en"
 	ms.author="jtong"/>
 
 
-# Operating And Supporting Explore - Performance
+# Operating And Supporting Exploring - Performance
 
 [AZURE.INCLUDE [header](../../../includes/operating-supporting-explore.md)]
 

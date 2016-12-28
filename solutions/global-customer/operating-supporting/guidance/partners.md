@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Global Customer Playbook operating-supporting-guidance-partners "
+	pageTitle="Global Customer Playbook operating-supporting-guidance-partners | Azure"
 	description="Global Customer Playbook operating-supporting-guidance-partners"
 	services="global-customer-playbook"
 	documentationCenter=""
@@ -14,8 +14,8 @@
 	ms.tgt_pltfrm=""
 	ms.devlang="na"
 	ms.topic="article"
-	ms.date="11/21/2016"
-	wacn.date="11/21/2016"
+	ms.date="12/26/2016"
+	wacn.date="12/26/2016"
 	wacn.lang="en"
 	ms.author="jtong"/>
 
@@ -26,7 +26,7 @@
 
 ## Operation and Support
 
-21Vianet provides the first line for support services for all Mooncake customers. The following information below illustrates the operation and support workflow.
+21Vianet provides the first line for support services for all China Azure customers. The following information below illustrates the operation and support workflow.
  
 Customer are expected to raise a service request (SR) through the China Azure online portal or the support hotline 400-890-365.
 

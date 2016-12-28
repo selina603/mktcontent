@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Global Customer Playbook planning-validate "
+	pageTitle="Global Customer Playbook planning-validate | Azure"
 	description="Global Customer Playbook planning-validate"
 	services="global-customer-playbook"
 	documentationCenter=""
@@ -14,12 +14,12 @@
 	ms.tgt_pltfrm=""
 	ms.devlang="na"
 	ms.topic="article"
-	ms.date="11/21/2016"
-	wacn.date="11/21/2016"
+	ms.date="12/26/2016"
+	wacn.date="12/26/2016"
 	wacn.lang="en" 
 	ms.author="jtong"/>
 
-# Planning - Validate
+# Planning - Validation
 
 The checklist for validation during the **Planning Stage**
 

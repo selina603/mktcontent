@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Global Customer Playbook envisioning-validate "
+	pageTitle="Global Customer Playbook envisioning-validate | Azure"
 	description="Global Customer Playbook envisioning-validate"
 	services="global-customer-playbook"
 	documentationCenter=""
@@ -14,12 +14,12 @@
 	ms.tgt_pltfrm=""
 	ms.devlang="na"
 	ms.topic="article"
-	ms.date="11/21/2016"
-	wacn.date="11/21/2016"
+	ms.date="12/26/2016"
+	wacn.date="12/26/2016"
 	wacn.lang="en" 
 	ms.author="jtong"/>
 
-# Envisioning - Validate
+# Envisioning - Validation
 
 The checklist for validation during the **Envisioning Stage**
 
