@@ -23,8 +23,8 @@
 
 The checklist for validation during the **Envisioning Stage**
 
-Task | Details | Check
------------- | ------------ | ------------
+| Task | Details | Check |
+|:---- |:------- |:----- |
 1. Understand the China "Internet Information Services" regulations | [Policies](/solutions/global-customer/envisioning/explore/policies/) | ![d](../media/check-box.png)
 2. Understand what an ICP license is | [Policies](/solutions/global-customer/envisioning/guidance/pplicies/) | ![ud](../media/empty-box.png)
 3. Understand that China Azure is a separate instance of Microsoft's Azure cloud services | [Parity](/solutions/global-customer/envisioning/explore/parity/) | ![ud](../media/empty-box.png)

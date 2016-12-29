@@ -32,16 +32,16 @@ Below is a summary table based on service parity, essentially comparing Global A
  
 It should be noted that new services are still being launched. The following table is the information updated as of date Nov 29, 2016. You should always refer to the latest services offered in China Azure at www.azure.cn.
 
-Service Category | Services | Global Azure (WW) | China Azure (via 21vianet)
----------------- | ---------------- | ---------------- | ----------------
-**Compute** | Virtual Machines | A series Basic</br> A series Standard</br> D series</br> Dv2 series</br> F series</br> **G series</br> N series</br> H series</br> A8 & A9 network optimized</br> A10 & A11 compute optimized** | A series Basic</br> A series Standard</br> D series</br> Dv2 series</br> F series </br></br></br></br></br></br>
+| Service Category | Services | Global Azure (WW) | China Azure (via 21vianet) |
+|:---------------- |:-------- |:----------------- |:-------------------------- |
+**Compute** | Virtual Machines | A series Basic</br> A series Standard</br> D series</br> Dv2 series</br> F series</br> **G series</br> N series</br> H series</br> A8 & A9 network optimized</br> A10 & A11 compute optimized** | A series Basic</br> A series Standard</br> D series</br> Dv2 series</br> F series </br></br></br></br></br></br> 
   | Virtual Machine Scale Sets | ditto | ditto
   | Cloud Services | A series</br> D series</br> Dv2 series</br> **G series</br> A8 & A9 network optimized</br> A10 & A11 compute optimized** | A series</br> D series</br> Dv2 series</br></br></br>
   | Batch | GA | GA
   | Service Fabric | GA</br> **Service Fabric for Linux (Preview)**| GA</br> NA
   | Functions | **Preview** | NA
   | Azure Container Service | **GA** | NA
-  | Azure Container Registry | **Preview** | NA
+  | Azure Container Registry | **Preview** | NA 
 **Storage** | Storage (Blob</br> File</br> Table</br> Queue) | Standard Storage</br> Premium Storage (available in some regions)</br> Cool/Hot | Standard Storage</br> Premium Storage</br> Cool/Hot
  | Data Lake Store | **GA** | NA
  | StorSimple | StorSimple 5000</br> StorSimple 7000</br> **StorSimple 8000** | StorSimple 5000</br> StorSimple 7000

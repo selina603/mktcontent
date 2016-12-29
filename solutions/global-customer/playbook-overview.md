@@ -24,7 +24,7 @@
 
 ## Introduction
 
-In the world of digital retailing and booming cross-border e-commerce, all eyes are on China.  We have received unmatched interest for Azure in China and enjoyed triple digits revenue and utilization growth year over year. As of now, we are still the only Cloud platform provider in China with pervasive global footprint and have been regarded to be highly trustworthy. Many Global customers have shown interest to setup their cloud presence to China, they already may have a vast footprint on Public Azure and are looking towards rehost, refactor, and/or rebuild some/all of their applications or services to China using Azure China.
+In the world of digital retailing and booming cross-border e-commerce, all eyes are on China.  We have received unmatched interest for Azure in China and enjoyed triple digits revenue and utilization growth year over year. As of now, we are still the only Cloud platform provider in China with pervasive global footprint and have been regarded to be highly trustworthy. Many Global customers have shown interest to setup their cloud presence to China, they already may have a vast footprint on Public Azure - the Azure service operated by Microsoft outside China, and are looking towards rehost, refactor, and/or rebuild some/all of their applications or services to China using Azure China.
 
 Azure China is the first sovereign cloud operated by a third party entity (21Vianet), and completely isolated from Public Azure.  The complexities and the unique internet environment and policies in China introduce many frictions when customers planning or working on such project  including policies (government), performance (networking), parity (services), and partner (ecosystem).
 

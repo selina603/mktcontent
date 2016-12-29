@@ -26,7 +26,7 @@
 
 Microsoft Azure in China, operated by 21Vianet, is a separate instance of Microsoft's Azure cloud services located in mainland China and independently operated and sold by Shanghai Blue Cloud Technology Co., Ltd. ("21Vianet"), a wholly owned subsidiary of [Beijing 21Vianet Broadband Data Center Co., Ltd.](http://www.ch.21vianet.com/) It is based on the same Azure technology that powers Microsoft's global cloud services with comparable service levels to customers.
 
-However, as [China Azure](www.azure.cn) is a separate instance of Azure, there will be differences in the availability of Azure services, compared to that of [Global Azure](www.azure.com).  You can refer to [Parity](/solutions/global-customer/envisioning/guidance/parity/) for a service parity comparison.
+However, as [China Azure](http://www.azure.cn) is a separate instance of Azure, there will be differences in the availability of Azure services, compared to that of [Global Azure](http://www.azure.com).  You can refer to [Parity](/solutions/global-customer/envisioning/guidance/parity/) for a service parity comparison.
 </br>
 
 ## What is the Great Firewall of China?

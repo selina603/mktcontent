@@ -56,8 +56,8 @@ With Azure, a subscription is like a SIM card. For example, users can have two s
 
 Withn Azure, there is a many-to-many relationship between accounts and subscriptions. For example, suppose there are two subscriptions, ABC and XYZ, account administrators can create several accounts as follows:
 
-Serial No. | Subscription | Account
----------- | ---------- | ----------
+| Serial No. | Subscription | Account |
+|:---------- |:------------ |:------- |
 1 | ABC | xiaozhang@contoso.partner.onmschina.cn
 2 | XYZ | mike@contoso.partner.onmschina.cn
 3 | XYZ | tom@contoso.partner.onmschina.cn

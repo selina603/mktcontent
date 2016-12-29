@@ -23,8 +23,8 @@
 
 The checklist for validation during the **Optimizing Stage**
 
-Task | Details | Check
------------- | ------------ | ------------
+| Task | Details | Check |
+|:---- |:------- |:----- |
 1. While optimizing your application, check to see if you have missed some of the recommendations on working with service parity | [Parity](/solutions/global-customer/optimizing/guidance/parity/) | ![d](../media/check-box.png)
 2. How to best conduct your performance test | [Performance](/solutions/global-customer/optimizing/guidance/performance/) | ![ud](../media/empty-box.png)
 3. What can you do to optimize the network performance using partner services | [Partners](/solutions/global-customer/optimizing/guidance/partners/) | ![ud](../media/empty-box.png)

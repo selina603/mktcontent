@@ -33,8 +33,8 @@ Secondly, there are differences contributed by the difference in operations in C
  
 The table below summarizes the differences in Azure Service endpoint mapping:
 
-Service Category | Global Azure URI | China Azure URI
----------------- | ---------------- | ----------------
+| Service Category | Global Azure URI | China Azure URI |
+|:---------------- |:---------------- |:--------------- |
 Azure – In General | *.windows.net | *.chinacloudapi.cn
 Azure - Compute | *.cloudapp.net | *.chinacloudapp.cn
 Azure - Storage | *.blob.core.windows.net *.queue.core.windows.net *.table.core.windows.net | *.blob.core.chinacloudapi.cn *.queue.core.chinacloudapi.cn *.table.core.chinacloudapi.cn

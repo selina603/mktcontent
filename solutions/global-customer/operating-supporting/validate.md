@@ -23,8 +23,8 @@
 
 The checklist for validation during the **Operating and Supporting Stage**
 
-Task | Details | Check
------ | ----- | -----
+| Task | Details | Check |
+|:---- |:------- |:----- |
 1. Understand the operation and support workflow for 21Vianet | [Operation and Support](/solutions/global-customer/operating-supporting/guidance/partners/) | ![d](../media/check-box.png)
 
 You have completed validation.

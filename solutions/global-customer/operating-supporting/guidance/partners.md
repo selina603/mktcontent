@@ -44,16 +44,16 @@ Customer are expected to raise a service request (SR) through the China Azure on
 
 ### SR Severity 
 
-**Severity** | **Customer Situation** | **Expected 21V Response Time** | **Expected Customer Response**
------------- | ------------ | ------------ | ------------
+|**Severity** | **Customer Situation** | **Expected 21V Response Time** | **Expected Customer Response** |
+|:----------- |:------------ |:------------ |:------------ |
 A | Critical business impact | Initial Response: 2 hours or less, continuous work all day until the problem is resolved | Allocate the appropriate resources to maintain continuous work all day until the problem is resolved, provide accurate contact information for case owners
 B | Medium business impact | Initial Response: 4 hours or less, continuous work all day, unless the customer requests to exit | Allocate the appropriate resources to maintain continuous work, unless the customer requests to exit, provide accurate contact information for case owners
 C | Low business impact | Initial Response: 8 hours or less | Provide accurate contact information for case owners
 
 ### CRI & LSI Severity 
 
-**Severity** | **Impact** | **Details** 
------------- | ------------ | ------------
+|**Severity** | **Impact** | **Details** |
+|:----------- |:---------- |:----------- |
 0 | Disaster | Irrecoverable data loss or data corruption for two or more customers due to platform defect or security incident
 1 | Multi-service or Multi-Region | Major scenario impacting 2 or more customers in multiple regions
 2 | Single-service | Major scenario below SLA for a single Azure branded service

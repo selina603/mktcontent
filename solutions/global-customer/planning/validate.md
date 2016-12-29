@@ -23,8 +23,8 @@
 
 The checklist for validation during the **Planning Stage**
 
-Task | Details | Check
------------- | ------------ | ------------
+| Task | Details | Check |
+|:---- |:------- |:----- |
 1. Understand the ICP Website Filing and Registration Process | [Policies](/solutions/global-customer/planning/guidance/policies/) | ![d](../media/check-box.png)
 2. Plan for adequate time ahead for the ICP filing process |  | ![ud](../media/empty-box.png)
 3. Notice the differences in developer perspectives | [Differences from a Developer Perspective](/solutions/global-customer/planning/guidance/parity/) | ![ud](../media/empty-box.png)

@@ -23,8 +23,8 @@
 
 The checklist for validation during the **Onboarding Stage**
 
-Task | Details | Check
------------- | ------------ | ------------
+| Task | Details | Check |
+|:---- |:------- |:----- |
 1. Go through the ICP filing process | [Policies](/solutions/global-customer/onboardng/guidance/policies/) | ![d](../media/check-box.png)
 2. Onboarding with 21Variant | [Partners](/solutions/global-customer/onboardng/guidance/partners/) | ![ud](../media/empty-box.png)
 3. Performance considerations when deploying your applications and workload | [Performance](/solutions/global-customer/onboardng/guidance/performance/) | ![ud](../media/empty-box.png)

@@ -34,4 +34,4 @@ If you have classic ASM IaaS resources, it is highly recommended that you first 
 
 ![navigation](./media/navigation.png)
 
-Back to the [Migration Assistant](/solutions/global-customer/migration-assistant/) .
+Back to the [Migration Assistant](/solutions/global-customer/migration-assistant/)
