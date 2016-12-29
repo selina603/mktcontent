@@ -46,19 +46,19 @@ Customer are expected to raise a service request (SR) through the China Azure on
 
 |**Severity** | **Customer Situation** | **Expected 21V Response Time** | **Expected Customer Response** |
 |:----------- |:------------ |:------------ |:------------ |
-A | Critical business impact | Initial Response: 2 hours or less, continuous work all day until the problem is resolved | Allocate the appropriate resources to maintain continuous work all day until the problem is resolved, provide accurate contact information for case owners
-B | Medium business impact | Initial Response: 4 hours or less, continuous work all day, unless the customer requests to exit | Allocate the appropriate resources to maintain continuous work, unless the customer requests to exit, provide accurate contact information for case owners
-C | Low business impact | Initial Response: 8 hours or less | Provide accurate contact information for case owners
+| A | Critical business impact | Initial Response: 2 hours or less, continuous work all day until the problem is resolved | Allocate the appropriate resources to maintain continuous work all day until the problem is resolved, provide accurate contact information for case owners |
+| B | Medium business impact | Initial Response: 4 hours or less, continuous work all day, unless the customer requests to exit | Allocate the appropriate resources to maintain continuous work, unless the customer requests to exit, provide accurate contact information for case owners |
+| C | Low business impact | Initial Response: 8 hours or less | Provide accurate contact information for case owners |
 
 ### CRI & LSI Severity 
 
 |**Severity** | **Impact** | **Details** |
 |:----------- |:---------- |:----------- |
-0 | Disaster | Irrecoverable data loss or data corruption for two or more customers due to platform defect or security incident
-1 | Multi-service or Multi-Region | Major scenario impacting 2 or more customers in multiple regions
-2 | Single-service | Major scenario below SLA for a single Azure branded service
-3 | Urgent or high business impact w/no SLA impact | Immediate operations engagement, all escalations occur during business hours (or immediately per TSG)
-4 | Not urgent, no SLA impact | Incidents will be worked FIFO and assigned to the component triage queue if the TSG fails or does not exist.
+| 0 | Disaster | Irrecoverable data loss or data corruption for two or more customers due to platform defect or security incident |
+| 1 | Multi-service or Multi-Region | Major scenario impacting 2 or more customers in multiple regions |
+| 2 | Single-service | Major scenario below SLA for a single Azure branded service |
+| 3 | Urgent or high business impact w/no SLA impact | Immediate operations engagement, all escalations occur during business hours (or immediately per TSG) |
+| 4 | Not urgent, no SLA impact | Incidents will be worked FIFO and assigned to the component triage queue if the TSG fails or does not exist |
 
 For more details about the support plan, please visit: https://www.azure.cn/support/plans/.
 

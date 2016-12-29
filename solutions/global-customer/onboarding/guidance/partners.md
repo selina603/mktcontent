@@ -58,10 +58,10 @@ Withn Azure, there is a many-to-many relationship between accounts and subscript
 
 | Serial No. | Subscription | Account |
 |:---------- |:------------ |:------- |
-1 | ABC | xiaozhang@contoso.partner.onmschina.cn
-2 | XYZ | mike@contoso.partner.onmschina.cn
-3 | XYZ | tom@contoso.partner.onmschina.cn
-4 | XYZ | xiaozhang@contoso.partner.onmschina.cn
+| 1 | ABC | xiaozhang@contoso.partner.onmschina.cn |
+| 2 | XYZ | mike@contoso.partner.onmschina.cn |
+| 3 | XYZ | tom@contoso.partner.onmschina.cn |
+| 4 | XYZ | xiaozhang@contoso.partner.onmschina.cn |
 
 As listed above, xiaozhang can use Azure services under two different subscriptions (i.e. allow the same user for multiple subscriptions), while Tom and Mike can only use one subscription. There can also be multiple accounts under a single subscription.
  
@@ -76,6 +76,6 @@ There are two kinds of invoices: a special value-added tax (VAT) invoice and a g
 
 ![navigation](../../media/navigation.png)
 
-Let's move to the next stage - [Optimizing Stage](/solutions/global-customer/optimizing/guidance/policies/).
+Let's move to the next stage - [Optimizing Stage](/solutions/global-customer/optimizing/guidance/policies/)
  
  

@@ -35,18 +35,18 @@ The table below summarizes the differences in Azure Service endpoint mapping:
 
 | Service Category | Global Azure URI | China Azure URI |
 |:---------------- |:---------------- |:--------------- |
-Azure – In General | *.windows.net | *.chinacloudapi.cn
-Azure - Compute | *.cloudapp.net | *.chinacloudapp.cn
-Azure - Storage | *.blob.core.windows.net *.queue.core.windows.net *.table.core.windows.net | *.blob.core.chinacloudapi.cn *.queue.core.chinacloudapi.cn *.table.core.chinacloudapi.cn
-Azure – Service Management | https://management.core.windows.net | https://management.core.chinacloudapi.cn
-Azure - ARM | https://management.azure.com | https://management.chinacloudapi.cn
-SQL Database | *.database.windows.net | *.database.chinacloudapi.cn
-Azure – Management Portal | http://manage.windowsazure.com | http://manage.windowsazure.cn
-SQL Azure DB Management API | https://management.database.windows.net | https://management.database.chinacloudapi.cn
-Service Bus | *.servicebus.windows.net | *.servicebus.chinacloudapi.cn
-ACS | *.accesscontrol.windows.net | *.accesscontrol.chinacloudapi.cn
-HDInsight | *.azurehdinsight.net | *.azurehdinsight.cn
-SQL DB Import/Export Service Endpoint |  | 1. China East： https://sh1prod-dacsvc.chinacloudapp.cn/dacwebservice.svc  2. China North：https://bj1prod-dacsvc.chinacloudapp.cn/dacwebservice.svc
+| Azure – In General | *.windows.net | *.chinacloudapi.cn |
+| Azure - Compute | *.cloudapp.net | *.chinacloudapp.cn |
+| Azure - Storage | *.blob.core.windows.net *.queue.core.windows.net *.table.core.windows.net | *.blob.core.chinacloudapi.cn *.queue.core.chinacloudapi.cn *.table.core.chinacloudapi.cn |
+| Azure – Service Management | https://management.core.windows.net | https://management.core.chinacloudapi.cn |
+| Azure - ARM | https://management.azure.com | https://management.chinacloudapi.cn |
+| SQL Database | *.database.windows.net | *.database.chinacloudapi.cn |
+| Azure – Management Portal | http://manage.windowsazure.com | http://manage.windowsazure.cn |
+| SQL Azure DB Management API | https://management.database.windows.net | https://management.database.chinacloudapi.cn |
+| Service Bus | *.servicebus.windows.net | *.servicebus.chinacloudapi.cn |
+| ACS | *.accesscontrol.windows.net | *.accesscontrol.chinacloudapi.cn |
+| HDInsight | *.azurehdinsight.net | *.azurehdinsight.cn |
+| SQL DB Import/Export Service Endpoint |  | 1. China East： https://sh1prod-dacsvc.chinacloudapp.cn/dacwebservice.svc</br>  2. China North：https://bj1prod-dacsvc.chinacloudapp.cn/dacwebservice.svc |
 
 Please refer to the following link for details on the Developer Notes (in Chinese): 
 [Developer Notes](https://www.azure.cn/documentation/articles/developerdifferences/#dev-guide)
@@ -93,7 +93,7 @@ For details, please check out the [Migration Assistant](/solutions/global-custom
 
 ![navigation](../../media/navigation.png)
 
-Let's move to the next section - [Performance](/solutions/global-customer/planning/guidance/performance/).
+Let's move to the next section - [Performance](/solutions/global-customer/planning/guidance/performance/)
 
 
 

@@ -27,15 +27,15 @@
 
 ## Network Optimization Partners
 
-
 During this stage, you may probably experience slow response time on accessing your website, or expecting better throughput on the VPN connection, and is thinking of ways to optimize the network access performance.
- 
+
 There are Content Delivery Network (CDN) Partners and Network Optimization Partners for your VPN connection that will help. 
- 
-For CDN partners and CDN service on China Azure, please refer to: [Content Delivery Network (CDN) Design](/solutions/global-customer/planning/guidance/rehost-migration/) .
- 
-For Network Optimization Partners, there is virtual tunneling technology that help to optimize overseas link for site-to-site VPN. For further information, please contact
-your Microsoft account representatives for more details.
+
+For optimizing the response time within China on accessing your website, there are CDN partners and CDN service you can consider, please refer to [Content Delivery Network (CDN) Design](/solutions/global-customer/planning/guidance/rehost-migration/).
+
+For optimizing the network latency and have a better network throughput between your site on China Azure and other overseas sites (e.g. your overseas offices or your site on Global Azure), you can consider services provided by Network Optimization Partners.  There is virtual tunneling technology that help to optimize overseas link for site-to-site VPN.   For further information, please contact your Microsoft account representatives for more details. 
+
+</br>
 
 ![navigation](../../media/navigation.png)
 
