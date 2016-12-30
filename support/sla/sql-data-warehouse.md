@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="09/2016" wacn.date="09/2016" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="01/2017" wacn.date="01/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/sql-data-warehouse/)
@@ -133,5 +133,3 @@
 	<99%				|25% 
 
 
-##	版本历史记录
-[1.0](/support/sla/sql-data-warehouse/)  最后更新日期：2016 年 9 月
