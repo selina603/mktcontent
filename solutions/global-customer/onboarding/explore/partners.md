@@ -36,7 +36,7 @@ Although the Web-Direct sign-up and payment doesn’t require your subsidiary to
  
 - China regulations only allow 21vianet to sell Azure services to local organizations or individual customers
 - All not-for-profit services and domains need to be registered (they are only open to local organizations or individuals in China)
-- EA pricing is issued by local LSS (Licensing Sales Specialist). The local sales owner will be involved, and LSS only serves customers that are legal entities (Regulation/Law in Chinese: <http://www.beian123.org.cn/news.php?id=1380> )
+- EA pricing is issued by local LSS (Licensing Sales Specialist). The local sales owner will be involved, and LSS only serves customers that are legal entities
 
 ## Billing and Subscriptions
 

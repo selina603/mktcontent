@@ -36,7 +36,7 @@ Although the Web-Direct sign-up and payment doesn’t require your subsidiary to
  
 - China regulations only allow 21vianet to sell Azure services to local organizations or individual customers
 - All not-for-profit services and domains need to be registered (they are only open to local organizations or individuals in China)
-- EA pricing is issued by local LSS (Licensing Sales Specialist). The local sales owner will be involved, and LSS only serves customers that are legal entities (Regulation/Law in Chinese: <http://www.beian123.org.cn/news.php?id=1380> )
+- EA pricing is issued by local LSS (Licensing Sales Specialist). The local sales owner will be involved, and LSS only serves customers that are legal entities
 
 ## Billing and Subscriptions
 
@@ -69,7 +69,7 @@ For enterprise customers, accounts and subscriptions can facilitate internal cos
 
 ## Invoice and Tax
 
-An invoice (‘fapiao’ in China) can be applied for 3 working days after the payment is settled. The procedure is simple. L og into account.windowsazure.cn, click “subscribe”, then "payment history", then "Invoice Management" to apply for registration. For details, please refer to: 
+An invoice (‘fapiao’ in China) can be applied for 3 working days after the payment is settled. The procedure is simple. Log into account.windowsazure.cn, click “subscribe”, then "payment history", then "Invoice Management" to apply for registration. For details, please refer to: 
 <http://www.21vbluecloud.com/communities/FAQ/fapiao/234.html>
  
 There are two kinds of invoices: a special value-added tax (VAT) invoice and a general VAT invoice. You can fill in the invoices (payable) based on your needs, and according to China government regulations, the tax you have to pay is 6%.
