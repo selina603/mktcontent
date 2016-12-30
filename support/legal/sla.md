@@ -39,6 +39,7 @@
 - [SQL Server 伸展数据库]
 - [Redis 缓存]
 - [存储]
+- [SQL 数据仓库]
 - [MySQL Database on Azure]
 
 ##分析
@@ -77,7 +78,7 @@
 
 [所有 Azure 服务的服务级别协议的摘要](/support/sla/abstract/)
 
-点击[此处](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_Chinese_1222.pdf)可以下载大部分 Azure 服务的服务级别协议
+点击[此处](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_Chinese_170106.pdf)可以下载大部分 Azure 服务的服务级别协议
 
 [虚拟机]: /support/sla/virtual-machines/
 [虚拟机规模集]: /support/sla/virtual-machine-scale-sets/
@@ -86,6 +87,7 @@
 [通知中心]: /support/sla/notification-hubs/
 [SQL 数据库]: /support/sla/sql-data/
 [SQL Server 伸展数据库]: /support/sla/sql-server-stretch-database/
+[SQL 数据仓库]: /support/sla/sql-data-warehouse/
 [Redis 缓存]: /support/sla/redis-cache/
 [存储]: /support/sla/storage/
 [MySQL Database on Azure]: /support/sla/mysql/

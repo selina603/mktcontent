@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="11/2016" wacn.date="11/2016" wacn.lang="en"/>
+<tags ms.service="legal-en" ms.date="01/2017" wacn.date="01/2017" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/legal/sla/)
@@ -41,6 +41,7 @@ This agreement describes the commitment about uptime and connectivity of Microso
 - [SQL Server Stretch Database]
 - [Radis Cache]
 - [Storage]
+- [SQL Data Warehouse]
 - [MySQL Database on Azure]
 
 ##Analytics
@@ -78,7 +79,7 @@ This agreement describes the commitment about uptime and connectivity of Microso
 
 [Summary of the SLA for all Azure Services](/support/sla/abstract-en/)
 
-Click [here](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_English_1222.pdf) to download SLA for most Azure Services
+Click [here](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_English_170106.pdf) to download SLA for most Azure Services
 
 [Virtual Machines]: /support/sla/virtual-machines-en/
 [Virtual Machine Scale Sets]: /support/sla/virtual-machine-scale-sets-en/
@@ -89,6 +90,7 @@ Click [here](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documen
 [SQL Server Stretch Database]: /support/sla/sql-server-stretch-database-en/
 [Radis Cache]: /support/sla/redis-cache-en/
 [Storage]: /support/sla/storage-en/
+[SQL Data Warehouse]: /support/sla/sql-data-warehouse-en/
 [MySQL Database on Azure]: /support/sla/mysql-en/
 [HDInsight]: /support/sla/hdinsight-en/
 [Stream Analytics]: /support/sla/stream-analytics-en/
