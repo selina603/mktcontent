@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="11/2016" wacn.date="11/2016" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="01/2017" wacn.date="01/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]a
 - [中文](/support/sla/abstract/)
