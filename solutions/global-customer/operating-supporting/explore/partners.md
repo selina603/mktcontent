@@ -26,9 +26,9 @@
 
 ## Operation and Support
 
-21Vianet provides the first line for support services for all China Azure customers. The following information below illustrates the operation and support workflow.
+21Vianet provides the first line for support services for all Azure China customers. The following information below illustrates the operation and support workflow.
  
-Customer are expected to raise a service request (SR) through the China Azure online portal or the support hotline 400-890-365.
+Customer are expected to raise a service request (SR) through the Azure China online portal or the support hotline 400-890-365.
 
 ### Operation and Support Workflow
 

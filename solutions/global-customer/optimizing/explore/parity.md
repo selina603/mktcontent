@@ -26,7 +26,7 @@
 
 ## Optimizing for Service Parity
 
-In this stage, you will be optimizing your application that is running on China Azure. You may experience some differences in your application's behavior compared to your application that is running on Global Azure - which may be due to service parity.
+In this stage, you will be optimizing your application that is running on Azure China. You may experience some differences in your application's behavior compared to your application that is running on Azure Global - which may be due to service parity.
 
 We recommend that you revisit the guide on Migration Design Scenarios, especially for the [Rehost Migration Scenarios](/solutions/global-customer/planning/guidance/rehost-migration/) . This guide provides recommendations on working with service parity.
 

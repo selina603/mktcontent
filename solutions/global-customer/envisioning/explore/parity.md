@@ -24,13 +24,13 @@
 
 [AZURE.INCLUDE [header](../../../includes/envisioning-explore.md)]
 
-## China Azure Services
+## Azure China Services
 
 Microsoft Azure in China, operated by 21Vianet, is a separate instance of Microsoft's Azure cloud services located in mainland China and independently operated and sold by Shanghai Blue Cloud Technology Co., Ltd. ("21Vianet"), a wholly owned subsidiary of [Beijing 21Vianet Broadband Data Center Co., Ltd](http://www.ch.21vianet.com/) . It is based on the same Azure technology that powers Microsoft's global cloud services with comparable service levels to customers.
 
-However, as [China Azure](http://www.azure.cn) is a separate instance of Azure, there will be differences in the availability of Azure services, compared to that of [Global Azure](http://www.azure.com).
+However, as [Azure China](http://www.azure.cn) is a separate instance of Azure, there will be differences in the availability of Azure services, compared to that of [Azure Global](http://www.azure.com).
  
-Details on services available on China Azure can be found here: [https://www.azure.cn/home/features/what-is-azure/](https://www.azure.cn/home/features/what-is-azure/).
+Details on services available on Azure China can be found here: [https://www.azure.cn/home/features/what-is-azure/](https://www.azure.cn/home/features/what-is-azure/).
 You can also refer to [Parity](/solutions/global-customer/envisioning/guidance/parity/) for a service parity comparison.
 
 ![navigation](../../media/navigation.png)

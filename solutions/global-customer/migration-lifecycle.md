@@ -24,7 +24,7 @@
 
 ![Envisioning](./media/lifecycle.png)
 
-On migrating your application and/or workload to China Azure, you will have to go through the 5 stages of the lifecycle.
+On migrating your application and/or workload to Azure China, you will have to go through the 5 stages of the lifecycle.
 This playbook is structure according to the 5 stages of the lifecycle.
 
 **Envisioning** ([Exploring](/solutions/global-customer/envisioning/explore/policies/), 
@@ -45,15 +45,15 @@ This playbook is structure according to the 5 stages of the lifecycle.
 [Guidance](/solutions/global-customer/onboarding/guidance/policies/), 
 [Validation](/solutions/global-customer/onboarding/validate/))
 
-- Provides the solution for the onboarding process when migrating to China Azure
-- Includes the execution of the migration, and deployment of the solution
+- Provide the solution for the onboarding process when migrating to Azure China
+- Include the execution of the migration, and deployment of the solution
  
 **Optimizing** ([Exploring](/solutions/global-customer/optimizing/explore/policies/), 
 [Guidance](/solutions/global-customer/optimizing/guidance/policies/), 
 [Validation](/solutions/global-customer/optimizing/validate/))
 
-- Stabilizing and optimizing the solution on China Azure
-- Includes performance testing and system tuning
+- Stabilize and optimize the solution on Azure China
+- Include performance testing and system tuning
  
 **Operating & Supporting** ([Exploring](/solutions/global-customer/operating-supporting/explore/policies/), 
 [Guidance](/solutions/global-customer/operating-supporting/guidance/policies/), 

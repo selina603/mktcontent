@@ -24,15 +24,15 @@
 
 [AZURE.INCLUDE [header](../../../includes/envisioning-guidance.md)]
 
-## Global Azure and China Azure Services Asymmetry
+## Azure Global and Azure China Services Asymmetry
 
-China Azure is a separate instance of Azure operated by 21Vianet. There are differences in the availability of Azure services, compared to that of Global Azure.
+Azure China is a separate instance of Azure operated by 21Vianet. There are differences in the availability of Azure services, compared to that of Azure Global.
  
-Below is a summary table based on service parity, essentially comparing Global Azure to China Azure (Note: if there is difference, it is highlighted in bold text).
+Below is a summary table based on service parity, essentially comparing Azure Global to Azure China (Note: if there is difference, it is highlighted in bold text).
  
-It should be noted that new services are still being launched. The following table is the information updated as of date Nov 29, 2016. You should always refer to the latest services offered in China Azure at www.azure.cn.
+It should be noted that new services are still being launched. The following table is the information updated as of date Nov 29, 2016. You should always refer to the latest services offered in Azure China at www.azure.cn.
 
-| Service Category | Services | Global Azure (WW) | China Azure (via 21vianet) |
+| Service Category | Services | Azure Global | Azure China (via 21vianet) |
 |:---------------- |:-------- |:----------------- |:-------------------------- |
 | **Compute** | Virtual Machines | A series Basic</br> A series Standard</br> D series</br> Dv2 series</br> F series</br> **G series</br> N series</br> H series</br> A8 & A9 network optimized</br> A10 & A11 compute optimized** | A series Basic</br> A series Standard</br> D series</br> Dv2 series</br> F series </br></br></br></br></br></br> |
 | | Virtual Machine Scale Sets | ditto | ditto |

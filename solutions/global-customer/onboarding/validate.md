@@ -29,7 +29,7 @@ The checklist for validation during the **Onboarding Stage**
 | 2. Onboarding with 21Variant | [Partners](/solutions/global-customer/onboardng/guidance/partners/) | ![ud](../media/empty-box.png) |
 | 3. Performance considerations when deploying your applications and workload | [Performance](/solutions/global-customer/onboardng/guidance/performance/) | ![ud](../media/empty-box.png) |
 | 4. Administrative considerations when deploying your applications and workload | [Parity](/solutions/global-customer/onboardng/guidance/parity/) | ![ud](../media/empty-box.png) |
-| 5. Migrate your application and/or workload to China Azure, you can leverage the Global Connection Toolkit | [Global Connection Toolkit](/solutions/global-customer/migration-assistant) | ![ud](../media/empty-box.png) |
+| 5. Migrate your application and/or workload to Azure China, you can leverage the Global Connection Toolkit | [Global Connection Toolkit](/solutions/global-customer/migration-assistant) | ![ud](../media/empty-box.png) |
 
 
 ![navigation](../media/navigation.png)

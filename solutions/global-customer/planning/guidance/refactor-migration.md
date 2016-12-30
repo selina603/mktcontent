@@ -21,9 +21,9 @@
 
 # Refactor Migration Scenario
 
-You may want your new applications on China Azure to be migrated from other cloud providers, and would also like to look for solutions for a better and faster migration to China Azure.
+You may want your new applications on Azure China to be migrated from other cloud providers, and would also like to look for solutions for a better and faster migration to Azure China.
  
-We recommend using Azure Site Recovery (ASR) for migrating VMs from other cloud providers (e.g. AWS, Ali Cloud) to China Azure. ASR is the site recovery solution that provides not just simple, automated disaster recovery for Azure, but also allows migrating your VMs (both VMware and Hyper-V) from other cloud providers.
+We recommend using Azure Site Recovery (ASR) for migrating VMs from other cloud providers (e.g. AWS, Ali Cloud) to Azure China. ASR is the site recovery solution that provides not just simple, automated disaster recovery for Azure, but also allows migrating your VMs (both VMware and Hyper-V) from other cloud providers.
 
 ![img](../../media/asr.png)
 

@@ -26,7 +26,7 @@
 
 ## Differences from an Administrator Perspective
 
-Deploying your application and administrating your Azure services on China Azure is similar to what you do on Global Azure. The fundamental difference is the address of the Azure portal. You can access China Azure through either one of the following ways:
+Deploying your application and administrating your Azure services on Azure China is similar to what you do on Azure Global. The fundamental difference is the address of the Azure portal. You can access Azure China through either one of the following ways:
 
 - The classic portal ( https://manage.windowsazure.cn/ ),
 
@@ -36,7 +36,7 @@ Deploying your application and administrating your Azure services on China Azure
 
 ![img](../../media/new-portal.png)
 
-CDN on China Azure has **its own unified CDN management portal** . This portal will introduce some operational changes to CDN management if you are migrating from the Global Azure CDN. 
+CDN on Azure China has **its own unified CDN management portal** . This portal will introduce some operational changes to CDN management if you are migrating from the Azure Global CDN. 
 Please refer to [Content Delivery Network (CDN) Design](/solutions/global-customer/planning/guidance/rehost-migration/) for details.
 </br>
 </br>

@@ -27,7 +27,7 @@
 
 ### The Strategist
 
-*Our business has decided to expand coverage to China market.  Joe is the Technical Decision Maker of my company, he need to explore and understand what it takes to extend current system to China and how much effort will be expended to do so.*
+*Our business has decided to expand coverage to China market.  Joe is the Technical Decision Maker of my company, he needs to explore and understand what it takes to extend current system to China and how much effort will be expended to do so.*
 
 We recommend that Joe focuses on the [Exploring](/solutions/global-customer/envisioning/explore/policies/) section of the playbook.
 
@@ -43,7 +43,7 @@ Additional persona details:
 
 ### The Executor
 
-_Mary is a Project Manager for my company, and was assigned to work on a project to migrate an existing system to China Azure.  She needs a step-by-step **guide** to explain what to consider for the migration project and how to execute the migration._
+_Mary is a Project Manager for my company, and was assigned to work on a project to migrate an existing system to Azure China.  She needs a step-by-step **guide** to explain what to consider for the migration project and how to execute the migration._
 
 We recommend that Mary focuses on the [Guidance](/solutions/global-customer/envisioning/guidance/policies/) section of the playbook.
 
@@ -59,7 +59,7 @@ Additional persona details:
 
 ### The Fast-Tracker
 
-_Andrew is the Project Manager for my partner company, and has already helped my company complete the migration of an existing system to China Azure.  He wants to make sure that he is doing it correctly, he need a checklist in order to **validate** his work and confirm that it has been completed._
+_Andrew is the Project Manager for my partner company, and has already helped my company complete the migration of an existing system to Azure China.  He wants to make sure that he is doing it correctly, he needs a checklist in order to **validate** his work and confirm that it has been completed._
 
 We recommend that Andrew focuses on the [Validation](/solutions/global-customer/envisioning/validate/) section of the playbook.
 

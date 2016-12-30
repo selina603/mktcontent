@@ -22,11 +22,11 @@
 
 # FAQ
 
-## How is China Azure different from Global Azure?
+## How is Azure China different from Azure Global?
 
 Microsoft Azure in China, operated by 21Vianet, is a separate instance of Microsoft's Azure cloud services located in mainland China and independently operated and sold by Shanghai Blue Cloud Technology Co., Ltd. ("21Vianet"), a wholly owned subsidiary of [Beijing 21Vianet Broadband Data Center Co., Ltd.](http://www.ch.21vianet.com/) It is based on the same Azure technology that powers Microsoft's global cloud services with comparable service levels to customers.
 
-However, as [China Azure](http://www.azure.cn) is a separate instance of Azure, there will be differences in the availability of Azure services, compared to that of [Global Azure](http://www.azure.com).  You can refer to [Parity](/solutions/global-customer/envisioning/guidance/parity/) for a service parity comparison.
+However, as [Azure China](http://www.azure.cn) is a separate instance of Azure, there will be differences in the availability of Azure services, compared to that of [Azure Global](http://www.azure.com).  You can refer to [Parity](/solutions/global-customer/envisioning/guidance/parity/) for a service parity comparison.
 </br>
 
 ## What is the Great Firewall of China?
@@ -44,12 +44,12 @@ If you want to know more about how GFW will affect your services to be launched 
 Please refer to China Cloud Policies and Laws in [Policies](/solutions/global-customer/envisioning/explore/policies/) for details.
 </br>
 
-## How can I have a direct network connectivity between China Azure and my on premise resources?
+## How can I have a direct network connectivity between Azure China and my on premise resources?
 
 Please refer to Global Connectivity and Interoperability in [Performance](/solutions/global-customer/planning/guidance/performance/) for details.
 </br>
 
-## How can I on-board my internet services in China Azure?
+## How can I on-board my internet services in Azure China?
 
 Please refer to Onboarding with 21Variant in [Partners](/solutions/global-customer/onboarding/explore/partners/) for details.
 </br>

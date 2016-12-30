@@ -28,7 +28,7 @@ Tools for the migration of IaaS resources or Virtual Machines (VMs) from classic
 https://azure.microsoft.com/en-us/blog/iaas-migration-ga/
 https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-migration-classic-resource-manager/
  
-If you have classic ASM IaaS resources, it is highly recommended that you first migrate them to ARM before moving them to China Azure.
+If you have classic ASM IaaS resources, it is highly recommended that you first migrate them to ARM before moving them to Azure China.
 </br>
 </br>
 

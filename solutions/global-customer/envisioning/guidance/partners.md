@@ -27,7 +27,7 @@
 ## Cloud Operating Model and Partner
 
 
-China Azure has a different operating model, it is not operated by Microsoft, and is independently operated by our partner [21Vianet](http://www.ch.21vianet.com/) in mainland China. The Azure technologies that Microsoft uses to serve other parts of the world have been licensed to 21Vianet, so that Microsoft Azure, operated by 21Vianet, can provide globally consistent service quality for customers.
+Azure China has a different operating model, it is not operated by Microsoft, and is independently operated by our partner [21Vianet](http://www.ch.21vianet.com/) in mainland China. The Azure technologies that Microsoft uses to serve other parts of the world have been licensed to 21Vianet, so that Microsoft Azure, operated by 21Vianet, can provide globally consistent service quality for customers.
  
 From a support standpoint, 21Vianet provides first line support to customers, and Microsoft provides secondary support for all Azure technology and services.
  

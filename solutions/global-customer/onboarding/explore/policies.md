@@ -27,7 +27,7 @@
 
 ## ICP Filing and Application with the Help from 21Vianet
 
-If you host your web sites or services on China Azure, 21Vianet will assist you during the process. For details, please refer to http://icp.cloud.21vianet.com/ and https://www.azure.cn/icp/.
+If you host your web sites or services on Azure China, 21Vianet will assist you during the process. For details, please refer to http://icp.cloud.21vianet.com/ and https://www.azure.cn/icp/.
 
 The flow diagram below is the ICP application process:
 

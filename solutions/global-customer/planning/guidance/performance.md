@@ -35,7 +35,7 @@ In general, the network latency between China and the rest of the world is inevi
  
 In summary, in order to have your service or website available to users worldwide, thegeneral rule of thumb is to:
 
-- host the workload targeting Chinese users on China Azure.
+- host the workload targeting Chinese users on Azure China.
 - deploy workload to the closest Azure region for users located outside of China.
 </br>
 </br>
@@ -44,11 +44,11 @@ In summary, in order to have your service or website available to users worldwid
 
 Given that you have decided to host your web site and your workload within China, you will need to consider global connectivity and interoperability from a hybrid cloud scenario.
 
-Firstly, you can have a VPN or Express Route setup for your hybrid cloud, with a direct network connection between China Azure and your on-premises private cloud and/or back-end systems within China.
+Firstly, you can have a VPN or Express Route setup for your hybrid cloud, with a direct network connection between Azure China and your on-premises private cloud and/or back-end systems within China.
 
-For connectivity to the external site (outside of China), direct network connectivity is not possible via Express Route. Even with Global Azure and China Azure, there is no network connectivity. However, you can setup a site-to-site VPN as an alternative solution for your site in China Azure to your on-premises location outside of China.
+For connectivity to the external site (outside of China), direct network connectivity is not possible via Express Route. Even with Azure Global and Azure China, there is no network connectivity. However, you can setup a site-to-site VPN as an alternative solution for your site in Azure China to your on-premises location outside of China.
 
-In either case, to have a VPN/Express Route setup connecting your services on China Azure, (i.e. your ICP registered hosting location to an outside location) you need to register, report, and obtain approval from MIIT, you can get help from 21Vianet for the approval process.
+In either case, to have a VPN/Express Route setup connecting your services on Azure China, (i.e. your ICP registered hosting location to an outside location) you need to register, report, and obtain approval from MIIT, you can get help from 21Vianet for the approval process.
 
 To have your VPN setup, you need to apply an exception through 21vianet with following information:
 
@@ -56,7 +56,7 @@ To have your VPN setup, you need to apply an exception through 21vianet with fol
 - VPN Protocol and Ports
 - Location of overseas IP
 - Owner of overseas IP
-- Relationship between the overseas IP owner and the China Azure customer
+- Relationship between the overseas IP owner and the Azure China customer
 
 For more details, please contact icpsupport@oe.21vianet.com.
 </br>

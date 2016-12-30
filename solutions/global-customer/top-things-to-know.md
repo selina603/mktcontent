@@ -32,7 +32,7 @@ Alternatively, using a foreign website, or hosting a website outside of China me
 
 ## Will my website get blocked by the Great Firewall if I’m not hosting in mainland China?
 
-It might, but there aren’t clear, strict rules on what will and won’t be allowed. Sometimes, an entire IP range may get blocked, but web sites hosted on Global Azure are definitely accessible in Mainland China. However, given the network latency and the excess server hops, it could lessen the user experience. 
+It might, but there aren’t clear, strict rules on what will and won’t be allowed. Sometimes, an entire IP range may get blocked, but web sites hosted on Azure Global are definitely accessible in Mainland China. However, given the network latency and the excess server hops, it could lessen the user experience. 
 
 ## How will the Great Firewall effect my company’s website?
 
@@ -49,7 +49,7 @@ In China, both YouTube and Vimeo services are blocked. You should host your vide
 
 Globally popular social networks like Facebook, Twitter, and Instagram are blocked. Any outreach you’re doing through these channels won’t be effective in China. You’ll need to have a social marketing strategy specifically tailored for the social networks in China (e.g. WeChat, Sina Weibo, etc).
 
-Currently, there is no local social network integration (Social Identity Provider) on China Azure offered for these China social networks. However, we have an accelerator offering for WeChat that will help MNCs minimizing the required integration efforts. For more details, please refer to the section “Tools and Accelerators Offerings”.
+Currently, there is no local social network integration (Social Identity Provider) on Azure China offered for these China social networks. However, we have an accelerator offering for WeChat that will help MNCs minimizing the required integration efforts. For more details, please refer to the section “Tools and Accelerators Offerings”.
 
 ## What are the major differences in user expectations between those in China and in the West?
 
