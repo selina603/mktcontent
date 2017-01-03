@@ -1,6 +1,6 @@
 Explore what you need to know during the **Optimizing Stage**. There are 4 areas of information you need to explore - **Policies**, **Parity**, **Performance**, **Partners**.
 
-**Note:** 
+**Note:**
 
 - If you are [The Strategist](/solutions/global-customer/target-personas/) , you should start from the first section [Policies](/solutions/global-customer/optimizing/explore/policies/).
 
