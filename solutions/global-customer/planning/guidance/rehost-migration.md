@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook planning-guidance-rehost-migration | Azure"
-	description="Global Customer Playbook planning-guidance-rehost-migration"
+	description="Global Customer Playbook - guidance for the Rehost Migration Scenarios in the Parity area of the Planning Stage"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook migration-assistant | Azure"
-	description="Global Customer Playbook migration-assistant"
+	description="Global Customer Playbook - assistant and tools that help your migration"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

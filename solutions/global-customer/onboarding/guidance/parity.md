@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook onboarding-guidance-parity | Azure"
-	description="Global Customer Playbook onboarding-guidance-parity"
+	description="Global Customer Playbook - guidance for the Parity area of the Onboarding Stage"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook onboarding-validate | Azure"
-	description="Global Customer Playbook onboarding-validate"
+	description="Global Customer Playbook - validatiaon for the Onboarding Stage"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook onboarding-guidance-policies | Azure"
-	description="Global Customer Playbook onboarding-guidance-policies"
+	description="Global Customer Playbook - guidance for the Policies area of the Onboarding Stage"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

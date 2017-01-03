@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook optimizing-explore-policies | Azure"
-	description="Global Customer Playbook optimizing-explore-policies"
+	description="Global Customer Playbook - exploring the Policies area of the Optimizing Stage"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

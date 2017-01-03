@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook envisioning-guidance-parity | Azure"
-	description="Global Customer Playbook envisioning-guidance-parity"
+	description="Global Customer Playbook - guidance for the Parity area of the Envisioning Stage"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

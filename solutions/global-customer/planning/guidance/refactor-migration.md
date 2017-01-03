@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook planning-guidance-refactor-migration | Azure"
-	description="Global Customer Playbook planning-guidance-refactor-migration"
+	description="Global Customer Playbook - guidance for the Refactor Migration Scenarios in the Parity area of the Planning Stage"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

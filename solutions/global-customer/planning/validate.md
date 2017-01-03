@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook planning-validate | Azure"
-	description="Global Customer Playbook planning-validate"
+	description="Global Customer Playbook - validation for the Planning Stage"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

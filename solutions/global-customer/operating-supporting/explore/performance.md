@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook operating-supporting-explore-performance | Azure"
-	description="Global Customer Playbook operating-supporting-explore-performance"
+	description="Global Customer Playbook - exploring the Performance area of the Operating and Supporting Stage"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

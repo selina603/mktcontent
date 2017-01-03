@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook target-personas | Azure"
-	description="Global Customer Playbook target-personas"
+	description="Global Customer Playbook - target personas of playbook"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

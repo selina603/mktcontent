@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook envisioning-guidance-partners | Azure"
-	description="Global Customer Playbook envisioning-guidance-partners"
+	description="Global Customer Playbook - guidance for the Partners area of the Envisioning Stage"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

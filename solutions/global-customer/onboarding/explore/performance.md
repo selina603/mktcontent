@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook onboarding-explore-performance | Azure"
-	description="Global Customer Playbook onboarding-explore-performance"
+	description="Global Customer Playbook - exploring the Performance area of the Onboarding Stage"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"
