@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook operating-supporting-validate | Azure"
-	description="Global Customer Playbook operating-supporting-validate"
+	description="Global Customer Playbook - validation for the Operating and Supporting Stage"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook envisioning-explore-performance | Azure"
-	description="Global Customer Playbook envisioning-explore-performance"
+	description="Global Customer Playbook - exploring the Performance area of the Envisioning Stage"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

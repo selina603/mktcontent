@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook planning-explore-partners | Azure"
-	description="Global Customer Playbook planning-explore-partners"
+	description="Global Customer Playbook - exploring the Partners area of the Planning Stage"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"
@@ -64,7 +64,6 @@ To give you an opportunity to try our services on Azure China, we are offering a
  
 You can use this credit to try Azure services on Azure China. For details, please click on this link: <https://www.azure.cn/offers/ms-mc-azr-44p-en/>.
  
-</br>
 </br>
 
 ## Azure Solution Partners

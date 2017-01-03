@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook top-things-to-know | Azure"
-	description="Global Customer Playbook top-things-to-know"
+	description="Global Customer Playbook - top things to know about entering the China market"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

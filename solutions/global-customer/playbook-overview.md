@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook overview | Azure"
-	description="Global Customer Playbook overview"
+	description="Global Customer Playbook - overview of playbook"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

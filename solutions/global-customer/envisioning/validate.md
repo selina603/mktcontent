@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook envisioning-validate | Azure"
-	description="Global Customer Playbook envisioning-validate"
+	description="Global Customer Playbook - validation for the Envisioning Stage"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

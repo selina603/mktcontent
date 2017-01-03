@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook operating-supporting-guidance-parity | Azure"
-	description="Global Customer Playbook operating-supporting-guidance-parity"
+	description="Global Customer Playbook - guidance for the Parity area of the Operating and Supporting Stage"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook planning-guidance-performance | Azure"
-	description="Global Customer Playbook planning-guidance-performance"
+	description="Global Customer Playbook - guidance for the Performance area of the Planning Stage"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

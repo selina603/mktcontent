@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook onboarding-explore-partners | Azure"
-	description="Global Customer Playbook onboarding-explore-partners"
+	description="Global Customer Playbook - exploring the Partners area of the Onboarding Stage"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

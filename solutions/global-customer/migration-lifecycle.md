@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook migration-lifecycle | Azure"
-	description="Global Customer Playbook migration-lifecycle"
+	description="Global Customer Playbook - the stages in your migration lifecycle you would follow"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

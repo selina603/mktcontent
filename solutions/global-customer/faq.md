@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook faq | Azure"
-	description="Global Customer Playbook faq"
+	description="Global Customer Playbook - FAQ"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

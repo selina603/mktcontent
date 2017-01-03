@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook optimizing-explore-partners | Azure"
-	description="Global Customer Playbook optimizing-explore-partners"
+	description="Global Customer Playbook - exploring the Partners area of the Optimizing Stage"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

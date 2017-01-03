@@ -1,7 +1,7 @@
 
 <properties
 	pageTitle="Global Customer Playbook structure-of-playbook | Azure"
-	description="Global Customer Playbook structure-of-playbook"
+	description="Global Customer Playbook - structure of playbook you should know to ease your reading"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"

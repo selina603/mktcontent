@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Global Customer Playbook operating-supporting-guidance-policies | Azure"
-	description="Global Customer Playbook operating-supporting-guidance-policies"
+	description="Global Customer Playbook - guidance for the Policies area of the Operating and Supporting Stage"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="jtong"
