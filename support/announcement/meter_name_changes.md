@@ -22,10 +22,10 @@
 
 <table>
 <tr><th>计量ID</th><th>计量名称格式</th><th>计量类型</th><th>计量子类型</th><th>计量名称</th><th>度量单位</th><th>服务名称/产品</th><th>地区</th></tr>
-<tr><td rowspan="2">a149966f-73b4-4e1d-b335-d2a572b1e6bd </td><td>原命名约定</td><td>数据服务</td><td>SQL数据库</td><td>标准S0 数据库使用天数</td><td>天数</td><td>数据服务标准S0 SQL 数据库</td><td>中国 </td></tr>
-<tr>         <td>新命名约定</td><td>SQL数据库</td><td>标准</td><td>S0 SQL 数据库 </td><td>1天</td><td>SQL 数据库标准S0 SQL 数据库</td><td> 中国</td></tr>
-<tr><td rowspan="2">30ab1dae-8172-4b24-aa5b-3666d3f0fde1 </td><td>原命名约定</td><td>存储</td><td>异地冗余</td><td>标准IO – 表格/ 队列(GB) </td><td>GB </td><td>异地冗余存储标准IO – 表格/ 队列</td><td>中国</td></tr>
-<tr>         <td>新命名约定</td><td>存储</td><td>表格和队列</td><td>GR 存储</td><td>1 GB </td><td>存储表格和队列GR 存储</td><td>中国</td></tr>
+<tr><td rowspan="2">a149966f-73b4-4e1d-b335-d2a572b1e6bd </td><td>原命名约定</td><td>数据服务</td><td>SQL数据库</td><td>标准 S0 数据库使用天数</td><td>天数</td><td>数据服务标准 S0 SQL 数据库</td><td>中国 </td></tr>
+<tr>         <td>新命名约定</td><td>SQL 数据库</td><td>标准</td><td>S0 SQL 数据库 </td><td>1 天</td><td>SQL 数据库标准 S0 SQL 数据库</td><td> 中国</td></tr>
+<tr><td rowspan="2">30ab1dae-8172-4b24-aa5b-3666d3f0fde1 </td><td>原命名约定</td><td>存储</td><td>异地冗余</td><td>标准 IO – 表格/ 队列(GB) </td><td>GB </td><td>异地冗余存储标准 IO – 表格/ 队列</td><td>中国</td></tr>
+<tr>         <td>新命名约定</td><td>存储</td><td>表格和队列</td><td>GR 存储</td><td>1 GB </td><td>存储表格和队列 GR 存储</td><td>中国</td></tr>
 </table>
 
 [下载](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/meter_standardization.pdf)包含所有计量名称及其更改前/后的属性值的表格。在此表正式应用前，我们每个月会对其进行更新，请在 2017 年 4 月 3 日之前定期查看，获取更新。如果您需要继续使用原名称进行报告，请使用此文件的映射。
