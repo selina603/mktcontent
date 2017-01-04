@@ -10,10 +10,6 @@
 
 <tags ms.service="announcement" ms.date="08/2016" wacn.date="08/2016" wacn.lang="cn"/>
 
-> [AZURE.LANGUAGE]
-- [中文](/support/announcement/Domain-names/)
-- [English](/support/announcement/Domain-names-en/)
-
 # 关于计量名称变更的通知
 
 ## 计量名称变更
