@@ -30,4 +30,4 @@
 
 [下载](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/meter_standardization.pdf)包含所有计量名称及其更改前/后的属性值的表格。在此表正式应用前，我们每个月会对其进行更新，请在 2017 年 4 月 3 日之前定期查看，获取更新。如果您需要继续使用原名称进行报告，请使用此文件的映射。
 
-如有任何疑问，请点击[这里](https://support.azure.cn/support/support-azure/)创建在线工单，或者拨打世纪互联技术支持热线400-089-0365.
+如有任何疑问，请点击[这里](https://support.azure.cn/support/support-azure/)创建在线工单，或者拨打世纪互联技术支持热线 400-089-0365。
