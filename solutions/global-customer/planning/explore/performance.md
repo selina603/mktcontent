@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Planning Exploring - Performance
+# Planning Stage - Exploring Performance
 
 [AZURE.INCLUDE [header](../../../includes/planning-explore.md)]
 

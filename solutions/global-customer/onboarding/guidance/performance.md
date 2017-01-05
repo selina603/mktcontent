@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Onboarding Guidance - Performance
+# Onboarding Stage - Guidance for Performance
 
 [AZURE.INCLUDE [header](../../../includes/onboarding-guidance.md)]
 

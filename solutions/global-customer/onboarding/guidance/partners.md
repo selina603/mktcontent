@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Onboarding Guidance - Partners
+# Onboarding Stage - Guidance for Partners
 
 [AZURE.INCLUDE [header](../../../includes/onboarding-guidance.md)]
 

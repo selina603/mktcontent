@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Envisioning Exploring - Policies
+# Envisioning Stage - Exploring Policies
 
 [AZURE.INCLUDE [header](../../../includes/envisioning-explore.md)]
 

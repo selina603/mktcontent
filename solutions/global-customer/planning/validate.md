@@ -19,7 +19,7 @@
 	wacn.lang="en" 
 	ms.author="jtong"/>
 
-# Planning - Validation
+# Planning Stage - Validation
 
 The checklist for validation during the **Planning Stage**
 

@@ -19,7 +19,7 @@
 	wacn.lang="en" 
 	ms.author="jtong"/>
 
-# Envisioning - Validation
+# Envisioning Stage - Validation
 
 The checklist for validation during the **Envisioning Stage**
 

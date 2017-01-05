@@ -19,7 +19,7 @@
 	wacn.lang="en" 
 	ms.author="jtong"/>
 
-# Refactor Migration Scenario
+# Planning Stage - Guidance for Parity on Refactor Migration Scenario
 
 You may want your new applications on Azure China to be migrated from other cloud providers, and would also like to look for solutions for a better and faster migration to Azure China.
  

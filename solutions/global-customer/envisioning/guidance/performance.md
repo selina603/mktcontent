@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Envisioning Guidance - Performance
+# Envisioning Stage - Guidance for Performance
 
 [AZURE.INCLUDE [header](../../../includes/envisioning-guidance.md)]
 

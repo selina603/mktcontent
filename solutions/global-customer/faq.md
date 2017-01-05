@@ -41,17 +41,31 @@ If you want to know more about how GFW will affect your services to be launched 
 
 ## What are the China Cloud Policies and Laws that I need to understand for launching internet services in China?
 
-Please refer to China Cloud Policies and Laws in [Policies](/solutions/global-customer/envisioning/explore/policies/) for details.
+Please refer to China Cloud Policies and Laws in [Policies](/solutions/global-customer/envisioning/explore/policies/) area for details.
+</br>
+
+## What are the differences on services offered by Azure China compared with Azure Global?
+
+Please refer to comparison table in [Parity](/solutions/global-customer/envisioning/guidance/parity/) area for details.
+</br>
+
+## Is there guidance on planning the migration of my applications to Azure China?
+
+We have a guidance on your application migration from an application architecture perspective, focusing on the application migration design for 2 scenarios: Refactor and Rehost.
+
+•[Refactor Migration Scenario](/solutions/global-customer/planning/guidance/refactor-migration/) - Covers the scenario that you are deploying new applications on Azure China, which you may have these applications already running on other cloud providers, and would like to look for solutions for a better and faster migration to Azure China.
+
+•[Rehost Migration Scenarios](/solutions/global-customer/planning/guidance/rehost-migration/) - Covers the scenario for redeploying the application to a different cloud environment. This is to serve as a guide on the migration design for your applications or workloads that run on Azure Global, and to have them migrated to Azure China.
 </br>
 
 ## How can I have a direct network connectivity between Azure China and my on premise resources?
 
-Please refer to Global Connectivity and Interoperability in [Performance](/solutions/global-customer/planning/guidance/performance/) for details.
+Please refer to Global Connectivity and Interoperability in [Performance](/solutions/global-customer/planning/guidance/performance/) area for details.
 </br>
 
 ## How can I on-board my internet services in Azure China?
 
-Please refer to Onboarding with 21Variant in [Partners](/solutions/global-customer/onboarding/explore/partners/) for details.
+Please refer to Onboarding with 21Variant in [Partners](/solutions/global-customer/onboarding/explore/partners/) area for details.
 </br>
 </br>
 

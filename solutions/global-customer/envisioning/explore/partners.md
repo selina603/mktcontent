@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Envisioning Exploring - Partners
+# Envisioning Stage - Exploring Partners
 
 [AZURE.INCLUDE [header](../../../includes/envisioning-explore.md)]
 

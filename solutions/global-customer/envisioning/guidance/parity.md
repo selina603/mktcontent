@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Envisioning Guidance - Parity
+# Envisioning Stage - Guidance for Parity
 
 [AZURE.INCLUDE [header](../../../includes/envisioning-guidance.md)]
 

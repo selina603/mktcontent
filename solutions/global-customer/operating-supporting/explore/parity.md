@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Operating And Supporting Exploring - Parity
+# Operating And Supporting Stage - Exploring Parity
 
 [AZURE.INCLUDE [header](../../../includes/operating-supporting-explore.md)]
 

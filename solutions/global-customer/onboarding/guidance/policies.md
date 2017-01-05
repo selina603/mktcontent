@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Onboarding Guidance - Policies
+# Onboarding Stage - Guidance for Policies
 
 [AZURE.INCLUDE [header](../../../includes/onboarding-guidance.md)]
 

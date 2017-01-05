@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Optimizing Exploring - Partners
+# Optimizing Stage - Exploring Partners
 
 [AZURE.INCLUDE [header](../../../includes/optimizing-explore.md)]
 

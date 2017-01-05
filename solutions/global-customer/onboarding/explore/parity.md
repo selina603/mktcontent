@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Onboarding Exploring - Parity
+# Onboarding Stage - Exploring Parity
 
 [AZURE.INCLUDE [header](../../../includes/onboarding-explore.md)]
 

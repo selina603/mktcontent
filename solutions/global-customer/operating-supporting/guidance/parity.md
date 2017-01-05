@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Operating And Supporting Guidance - Parity
+# Operating And Supporting Stage - Guidance for Parity
 
 [AZURE.INCLUDE [header](../../../includes/operating-supporting-guidance.md)]
 

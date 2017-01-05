@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Planning Guidance - Parity
+# Planning Stage - Guidance for Parity
 
 [AZURE.INCLUDE [header](../../../includes/planning-guidance.md)]
 

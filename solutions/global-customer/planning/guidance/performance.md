@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Planning Guidance - Performance
+# Planning Stage - Guidance for Performance
 
 [AZURE.INCLUDE [header](../../../includes/planning-guidance.md)]
 

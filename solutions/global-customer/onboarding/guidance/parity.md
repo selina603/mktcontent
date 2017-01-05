@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Onboarding Guidance - Parity
+# Onboarding Stage - Guidance for Parity
 
 [AZURE.INCLUDE [header](../../../includes/onboarding-guidance.md)]
 

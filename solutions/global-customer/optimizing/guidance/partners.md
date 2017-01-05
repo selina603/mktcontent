@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Optimizing Guidance - Partners
+# Optimizing Stage - Guidance for Partners
 
 [AZURE.INCLUDE [header](../../../includes/optimizing-guidance.md)]
 

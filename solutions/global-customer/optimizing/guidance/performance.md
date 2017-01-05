@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Optimizing Guidance - Performance
+# Optimizing Stage - Guidance for Performance
 
 [AZURE.INCLUDE [header](../../../includes/optimizing-guidance.md)]
 

@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Planning Guidance - Partners
+# Planning Stage - Guidance for Partners
 
 [AZURE.INCLUDE [header](../../../includes/planning-guidance.md)]
 

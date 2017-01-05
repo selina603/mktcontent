@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Envisioning Guidance - Partners
+# Envisioning Stage - Guidance for Partners
 
 [AZURE.INCLUDE [header](../../../includes/envisioning-guidance.md)]
 

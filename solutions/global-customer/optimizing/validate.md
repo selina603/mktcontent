@@ -19,7 +19,7 @@
 	wacn.lang="en" 
 	ms.author="jtong"/>
 
-# Optimizing - Validation
+# Optimizing Stage - Validation
 
 The checklist for validation during the **Optimizing Stage**
 

@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Envisioning Exploring - Performance
+# Envisioning Stage - Exploring Performance
 
 [AZURE.INCLUDE [header](../../../includes/envisioning-explore.md)]
 
