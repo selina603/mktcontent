@@ -19,7 +19,7 @@
 	wacn.lang="en" 
 	ms.author="jtong"/>
 
-# Operating And Supporting - Validation
+# Operating And Supporting Stage - Validation
 
 The checklist for validation during the **Operating and Supporting Stage**
 

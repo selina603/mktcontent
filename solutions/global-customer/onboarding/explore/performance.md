@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Onboarding Exploring - Performance
+# Onboarding Stage - Exploring Performance
 
 [AZURE.INCLUDE [header](../../../includes/onboarding-explore.md)]
 

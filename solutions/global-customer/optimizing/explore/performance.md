@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Optimizing Exploring - Performance
+# Optimizing Stage - Exploring Performance
 
 [AZURE.INCLUDE [header](../../../includes/optimizing-explore.md)]
 

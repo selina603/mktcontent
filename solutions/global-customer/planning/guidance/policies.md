@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Planning Guidance - Policies
+# Planning Stage - Guidance for Policies
 
 [AZURE.INCLUDE [header](../../../includes/planning-guidance.md)]
 

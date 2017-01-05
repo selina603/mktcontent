@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Onboarding Exploring - Policies
+# Onboarding Stage - Exploring Policies
 
 [AZURE.INCLUDE [header](../../../includes/onboarding-explore.md)]
 

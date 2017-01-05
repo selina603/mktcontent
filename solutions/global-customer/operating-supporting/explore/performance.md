@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Operating And Supporting Exploring - Performance
+# Operating And Supporting Stage - Exploring Performance
 
 [AZURE.INCLUDE [header](../../../includes/operating-supporting-explore.md)]
 

@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Optimizing Guidance - Policies
+# Optimizing Stage - Guidance for Policies
 
 [AZURE.INCLUDE [header](../../../includes/optimizing-guidance.md)]
 

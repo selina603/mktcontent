@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Operating And Supporting Guidance - Performance
+# Operating And Supporting Stage - Guidance for Performance
 
 [AZURE.INCLUDE [header](../../../includes/operating-supporting-guidance.md)]
 

@@ -19,7 +19,7 @@
 	wacn.lang="en" 
 	ms.author="jtong"/>
 
-# Onboarding - Validation
+# Onboarding Stage - Validation
 
 The checklist for validation during the **Onboarding Stage**
 

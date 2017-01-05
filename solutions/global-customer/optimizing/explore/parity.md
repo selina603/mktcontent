@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Optimizing Exploring - Parity
+# Optimizing Stage - Exploring Parity
 
 [AZURE.INCLUDE [header](../../../includes/optimizing-explore.md)]
 

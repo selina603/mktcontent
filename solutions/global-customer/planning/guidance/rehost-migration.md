@@ -19,7 +19,7 @@
 	wacn.lang="en" 
 	ms.author="jtong"/>
 
-# Rehost Migration Scenarios
+# Planning Stage - Guidance for Parity on Rehost Migration Scenarios
 
 In most cases, you already have your applications deployed to Azure Global, and would like to redeploy it to a different cloud environment - the Azure China. The following serve as a guide on how to orchestrate the migration design for your applications or workload that runs on Azure Global, and to have them migrated to Azure China.
 </br>

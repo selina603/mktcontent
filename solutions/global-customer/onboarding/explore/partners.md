@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Onboarding Exploring - Partners
+# Onboarding Stage - Exploring Partners
 
 [AZURE.INCLUDE [header](../../../includes/onboarding-explore.md)]
 

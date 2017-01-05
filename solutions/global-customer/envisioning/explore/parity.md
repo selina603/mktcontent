@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Envisioning Exploring - Parity
+# Envisioning Stage - Exploring Parity
 
 [AZURE.INCLUDE [header](../../../includes/envisioning-explore.md)]
 

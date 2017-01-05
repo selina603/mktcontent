@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Operating And Supporting Exploring - Policies
+# Operating And Supporting Stage - Exploring Policies
 
 [AZURE.INCLUDE [header](../../../includes/operating-supporting-explore.md)]
 

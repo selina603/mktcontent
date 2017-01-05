@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Planning Exploring - Policies
+# Planning Stage - Exploring Policies
 
 [AZURE.INCLUDE [header](../../../includes/planning-explore.md)]
 

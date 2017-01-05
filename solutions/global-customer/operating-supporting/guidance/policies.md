@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Operating And Supporting Guidance - Policies
+# Operating And Supporting Stage - Guidance for Policies
 
 [AZURE.INCLUDE [header](../../../includes/operating-supporting-guidance.md)]
 

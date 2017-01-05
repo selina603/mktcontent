@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Optimizing Guidance - Parity
+# Optimizing Stage - Guidance for Parity
 
 [AZURE.INCLUDE [header](../../../includes/optimizing-guidance.md)]
 

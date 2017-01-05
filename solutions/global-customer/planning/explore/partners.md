@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Planning Exploring - Partners
+# Planning Stage - Exploring Partners
 
 [AZURE.INCLUDE [header](../../../includes/planning-explore.md)]
 

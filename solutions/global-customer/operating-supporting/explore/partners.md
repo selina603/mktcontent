@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Operating And Supporting Exploring - Partners
+# Operating And Supporting Stage - Exploring Partners
 
 [AZURE.INCLUDE [header](../../../includes/operating-supporting-explore.md)]
 

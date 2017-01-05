@@ -20,7 +20,7 @@
 	ms.author="jtong"/>
 
 
-# Planning Exploring - Parity
+# Planning Stage - Exploring Parity
 
 [AZURE.INCLUDE [header](../../../includes/planning-explore.md)]
 
