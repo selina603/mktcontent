@@ -39,8 +39,8 @@
 			{"link": "/what-is-new/archives/2013/", 
 			"id": "leftnav_support_what-is-new_2013", 
 			"title": "2013年"},
-			{"link": "/what-is-new/archives/返回最新公告/", 
-			"id": "leftnav_support_what-is-new_返回最新公告", 
+			{"link": "/what-is-new/", 
+			"id": "leftnav_support_what-is-new_return-what-is-new", 
 			"title": "返回最新公告"}
 		]
 	}
