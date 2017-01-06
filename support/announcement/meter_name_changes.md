@@ -1,4 +1,4 @@
-<properties
+﻿<properties
 	pageTitle="计量名称变更 | Azure"
     description="关于计量名称变更的通知"
     services=""
@@ -28,6 +28,6 @@
 <tr>         <td>新命名约定</td><td>存储</td><td>表格和队列</td><td>GR 存储</td><td>1 GB </td><td>存储表格和队列 GR 存储</td><td>中国</td></tr>
 </table>
 
-[下载](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/meter_standardization.pdf)包含所有计量名称及其更改前/后的属性值的表格。在此表正式应用前，我们每个月会对其进行更新，请在 2017 年 4 月 3 日之前定期查看，获取更新。如果您需要继续使用原名称，请参考下载文件。
+[下载](//resource.cdn.azure.cn/marketing-resource/documents/meter_standardization.pdf)包含所有计量名称及其更改前/后的属性值的表格。在此表正式应用前，我们每个月会对其进行更新，请在 2017 年 4 月 3 日之前定期查看，获取更新。如果您需要继续使用原名称，请参考下载文件。
 
 如有任何疑问，请访问[Azure 支持](/support/contact/)页面联系我们。
