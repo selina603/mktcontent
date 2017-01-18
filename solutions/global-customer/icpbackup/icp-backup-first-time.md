@@ -20,7 +20,7 @@
 	ms.author="will"/>
 
 
-# ICP备案操作解析
+# ICP 备案操作解析
 
 ## 备案类型
 
@@ -31,7 +31,7 @@
 </br>
 
 ## 备案的具体操作
-### 1、ICP备案的步骤
+### 1、ICP 备案的步骤
 
 ![procedure](./media/2-1.png)
 </br>
@@ -44,7 +44,7 @@
 ### 3、备案具体操作
 #### 3.1 注册账号
 ##### 3.1.1 注册备案账号
-登录网站[http://icp.cloud.21vianet.com](http://icp.cloud.21vianet.com)
+登录网站 [http://icp.cloud.21vianet.com](http://icp.cloud.21vianet.com)
 
 1. 点击 “注册用户”。
 2. 输入注册邮箱，系统会默认注册邮箱为登录账号，如果该邮箱已经注册过，请更换其他邮箱。
