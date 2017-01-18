@@ -16,7 +16,7 @@
 	ms.topic="article"
 	ms.date="12/26/2016"
 	wacn.date="12/26/2016"
-	wacn.lang="cn" 
+	wacn.lang="en" 
 	ms.author="jtong"/>
 
 
