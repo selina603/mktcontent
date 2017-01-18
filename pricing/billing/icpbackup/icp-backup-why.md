@@ -3,7 +3,7 @@
 	description="ICP"
 	services="global-customer-playbook"
 	documentationCenter=""
-	authors="will"
+	authors="jtong"
 	manager="edwinc"
 	editor=""
 	tags="global-customer-playbook"/>
@@ -14,11 +14,10 @@
 	ms.tgt_pltfrm=""
 	ms.devlang="na"
 	ms.topic="article"
-	ms.date="01/18/2017"
-	wacn.date="01/18/2017"
-	wacn.lang="cn" 
-	ms.author="will"/>
-
+	ms.date="12/26/2016"
+	wacn.date="12/26/2016"
+	wacn.lang="en" 
+	ms.author="jtong"/>
 
 # ICP备案操作解析
 
