@@ -1,6 +1,6 @@
 <properties
-	pageTitle="ÎªÊ²Ã´Òª±¸°¸¼°±¸°¸Á÷³Ì | Azure"
-	description="ICP ±¸°¸¼°±¸°¸Á÷³Ì"
+	pageTitle="ä¸ºä»€ä¹ˆè¦å¤‡æ¡ˆåŠå¤‡æ¡ˆæµç¨‹ | Azure"
+	description="ICP å¤‡æ¡ˆåŠå¤‡æ¡ˆæµç¨‹"
 	services="global-customer-playbook"
 	documentationCenter=""
 	authors="will"
@@ -16,19 +16,19 @@
 	ms.topic="article"
 	ms.date="01/18/2017"
 	wacn.date="01/18/2017"
-	wacn.lang="cn" 
+	wacn.lang="en" 
 	ms.author="will"/>
 
-# ICP±¸°¸²Ù×÷½âÎö
+# ICPå¤‡æ¡ˆæ“ä½œè§£æž
 
-## ÎªÊ²Ã´Òª±¸°¸
+## ä¸ºä»€ä¹ˆè¦å¤‡æ¡ˆ
 
-¸ù¾Ý¹¤ÐÅ²¿µÄ¡¶»¥ÁªÍøÐÅÏ¢·þÎñ¹ÜÀí°ì·¨¡·£¬ÒÔ¼°¡¶·Ç¾­ÓªÐÔ»¥ÁªÍøÐÅÏ¢·þÎñ±¸°¸¹ÜÀí°ì·¨¡·¹æ¶¨£¬ËùÓÐÔÚÖÐ¹ú´óÂ½¾³ÄÚÔËÐÐµÄÍøÕ¾£¨·²Éæ¼°µ½ÓòÃû½âÎöµÄ£©±ØÐë½øÐÐ ICP ±¸°¸¡£²¢ÇÒÍ¨ÐÅ¹Ü¾Ö¹æ¶¨£¬Î´±¸°¸µÄÓòÃû²»ÄÜÉÏÏß£¬ÇÒÒÑ¾­±¸°¸µÄÓòÃûÐèÒª½âÎöµ½ÒÑ±¸°¸µÄ IP¡£
+æ ¹æ®å·¥ä¿¡éƒ¨çš„ã€Šäº’è”ç½‘ä¿¡æ¯æœåŠ¡ç®¡ç†åŠžæ³•ã€‹ï¼Œä»¥åŠã€Šéžç»è¥æ€§äº’è”ç½‘ä¿¡æ¯æœåŠ¡å¤‡æ¡ˆç®¡ç†åŠžæ³•ã€‹è§„å®šï¼Œæ‰€æœ‰åœ¨ä¸­å›½å¤§é™†å¢ƒå†…è¿è¡Œçš„ç½‘ç«™ï¼ˆå‡¡æ¶‰åŠåˆ°åŸŸåè§£æžçš„ï¼‰å¿…é¡»è¿›è¡Œ ICP å¤‡æ¡ˆã€‚å¹¶ä¸”é€šä¿¡ç®¡å±€è§„å®šï¼Œæœªå¤‡æ¡ˆçš„åŸŸåä¸èƒ½ä¸Šçº¿ï¼Œä¸”å·²ç»å¤‡æ¡ˆçš„åŸŸåéœ€è¦è§£æžåˆ°å·²å¤‡æ¡ˆçš„ IPã€‚
 
 </br>
 </br>
 
-## ±¸°¸Á÷³Ì
+## å¤‡æ¡ˆæµç¨‹
 
 ![procedure](./media/procedure.png)
 </br>
