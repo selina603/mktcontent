@@ -30,6 +30,6 @@
 
 ## 备案流程
 
-![procedure](./media/procedure.png)
+![procedure](./media/1-1.png)
 </br>
 </br>
