@@ -1,15 +1,15 @@
 <properties
 	pageTitle="为什么要备案及备案流程 | Azure"
 	description="ICP"
-	services="ICP Back Up"
+	services="global-customer-playbook"
 	documentationCenter=""
 	authors="will"
 	manager="edwinc"
 	editor=""
-	tags="icp-backup"/>
+	tags="global-customer-playbook"/>
 
 <tags
-	ms.service="ICP Back Up"
+	ms.service="global-customer-playbook"
 	ms.workload=""
 	ms.tgt_pltfrm=""
 	ms.devlang="na"
