@@ -1,15 +1,15 @@
 <properties
 	pageTitle="为什么要备案及备案流程 | Azure"
 	description="ICP 备案及备案流程"
-	services="icp-backup"
+	services="ICP Back Up"
 	documentationCenter=""
 	authors="will"
 	manager="edwinc"
 	editor=""
-	tags="icp-backup"/>
+	tags="global-customer-playbook"/>
 
 <tags
-	ms.service="icp-backup"
+	ms.service="global-customer-playbook"
 	ms.workload=""
 	ms.tgt_pltfrm=""
 	ms.devlang="na"
@@ -20,7 +20,7 @@
 	ms.author="will"/>
 
 
-# ICP备案操作解析
+# ICP 备案操作解析
 
 ## 备案类型
 
@@ -31,7 +31,7 @@
 </br>
 
 ## 备案的具体操作
-### 1、ICP备案的步骤
+### 1、ICP 备案的步骤
 
 ![procedure](./media/2-1.png)
 </br>
@@ -90,7 +90,7 @@
 注意事项：
 
 1. 所有附件应为 “原件彩色扫描件” 或 “原件拍照” ，格式为 jpg 格式。
-2. 大陆境内身份证需在3个月内有效。身份证正反面需要合成一张图片上传。
+2. 大陆境内身份证需在 3 个月内有效。身份证正反面需要合成一张图片上传。
 3. 《网站备案信息真实性核验单》只需填写 “网站主办者名称” （备案主办单位名称） 和“网站域名” （ 不需加 www. ），并在“网站负责人签字”处签字加盖公章（个人备案需要按手印）即可。请勿在“核验人签字及单位盖章” 处填写任何信息。
 4. 域名证书：如果域名是在境内注册，请直接联系域名注册商查询；如果域名是在境外注册,请在互联网上通过 whois 查询信息并截图，需要清晰的看到域名以及域名所有者、注册机构
 5. 域名证书中的注册者必须是主办单位或者法人。
