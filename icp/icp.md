@@ -6,10 +6,10 @@
 	authors="will"
 	manager="edwinc"
 	editor=""
-	tags="icp-backup"/>
+	tags="icp"/>
 
 <tags
-	ms.service="icp-backup"
+	ms.service="icp"
 	ms.workload=""
 	ms.tgt_pltfrm=""
 	ms.devlang="na"
