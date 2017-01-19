@@ -16,7 +16,7 @@
 	ms.topic="article"
 	ms.date="01/18/2017"
 	wacn.date="01/18/2017"
-	wacn.lang="en" 
+	wacn.lang="cn" 
 	ms.author="will"/>
 
 
