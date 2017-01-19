@@ -9,7 +9,7 @@
 	tags="icp"/>
 
 <tags
-	ms.service="icp"
+	ms.service="icp-backup"
 	ms.workload=""
 	ms.tgt_pltfrm=""
 	ms.devlang="na"
