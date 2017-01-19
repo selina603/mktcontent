@@ -1,6 +1,6 @@
 <properties
-	pageTitle="为什么要备案及备案流程 | Azure"
-	description="ICP 备案及备案流程"
+	pageTitle="原备案在蓝云-备案注销 | Azure"
+	description="ICP 备案类型为原备案在蓝云的备案注销操作流程"
 	services="icp-backup"
 	documentationCenter=""
 	authors="will"

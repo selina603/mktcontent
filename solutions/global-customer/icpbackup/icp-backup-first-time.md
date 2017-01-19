@@ -1,6 +1,6 @@
 <properties
-	pageTitle="为什么要备案及备案流程 | Azure"
-	description="ICP 备案及备案流程"
+	pageTitle="首次备案 | Azure"
+	description="ICP 备案首次备案流程"
 	services="icp-backup"
 	documentationCenter=""
 	authors="will"

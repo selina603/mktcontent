@@ -1,6 +1,6 @@
 <properties
-	pageTitle="为什么要备案及备案流程 | Azure"
-	description="ICP 备案及备案流程"
+	pageTitle="原备案不在蓝云-新增网站 | Azure"
+	description="ICP 备案类型为原备案不在蓝云的新增网站操作流程"
 	services="icp-backup"
 	documentationCenter=""
 	authors="will"
