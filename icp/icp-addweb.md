@@ -14,8 +14,8 @@
 	ms.tgt_pltfrm=""
 	ms.devlang="na"
 	ms.topic="article"
-	ms.date="01/18/2017"
-	wacn.date="01/18/2017"
+	ms.date="01/20/2017"
+	wacn.date="01/20/2017"
 	wacn.lang="cn" 
 	ms.author="will"/>
 
