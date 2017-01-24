@@ -127,7 +127,7 @@
 
 ![procedure](./media/2-14.png)</br>
 ![procedure](./media/2-15.png)</br>
-![procedure](./media/2-16.png)
+![procedure](./media/2-16.png)</br>
 </br>
 
 3.5 备案信息提交后的备案操作</br>
