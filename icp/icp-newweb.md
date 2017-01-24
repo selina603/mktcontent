@@ -45,7 +45,7 @@
 3、备案具体操作</br>
 3.1 注册账号</br>
 3.1.1 注册备案账号</br>
-登录网站 [http://icp.cloud.21vianet.com](http://icp.cloud.21vianet.com)
+登录网站 [http://icp.cloud.21vianet.com](http://icp.cloud.21vianet.com) </br>
 1)	点击 “注册用户”</br>
 2)	输入注册邮箱，系统会默认注册邮箱为登录账号，如果该邮箱已经注册过，请更换其他邮箱</br>
 3)	阅读并同意服务协议</br>
