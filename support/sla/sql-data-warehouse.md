@@ -8,12 +8,12 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="01/2017" wacn.date="01/2017" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="02/2017" wacn.date="02/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/sql-data-warehouse/)
 - [English](/support/sla/sql-data-warehouse-en/)
-# 适用于 SQL 数据仓库的服务级别协议
+# SQL 数据仓库的服务级别协议
 
 我们保证，至少在 99.9% 的时间内，在 SQL 数据仓库数据库上执行的客户端操作都会成功。
 
