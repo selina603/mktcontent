@@ -42,8 +42,8 @@
 </br>
 
 3、备案具体操作</br>
-3.1 注册账号</br></br>
-3.1.1 注册备案账号</br></br>
+3.1 注册账号</br>
+3.1.1 注册备案账号</br>
 登录网站[http://icp.cloud.21vianet.com](http://icp.cloud.21vianet.com)
 
  1. 点击 “注册用户”</br>
