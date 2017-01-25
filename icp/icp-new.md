@@ -36,14 +36,14 @@
 ![procedure](./media/2-1.png)
 </br>
 
-2、各省管局对备案的要求
+2、 各省管局对备案的要求
 在进行备案前请先了解自己所属管局的备案要求，对您的备案能够顺利通过管局审核会有很大帮助。</br>
 [各省管理局特殊要求下载](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/special-request.pdf)
 </br>
 
-3、备案具体操作
-3.1 注册账号
-3.1.1 注册备案账号
+3、 备案具体操作
+3.1  注册账号</br>
+3.1.1  注册备案账号
 登录网站 [http://icp.cloud.21vianet.com](http://icp.cloud.21vianet.com)
 
 1) 点击 “注册用户”。</br>
