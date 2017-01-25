@@ -33,7 +33,7 @@
 ## 备案的具体操作
 1、ICP 备案的步骤
 
-![procedure](./media/2-1.png)
+![procedure](./media/2-1.png)<img style="max-width:400px">
 </br>
 
 2、 各省管局对备案的要求
