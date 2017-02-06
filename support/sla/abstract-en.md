@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="10/2016" wacn.date="10/2016" wacn.lang="en"/>
+<tags ms.service="legal-en" ms.date="02/2017" wacn.date="01/2017" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/abstract/)
@@ -16,7 +16,7 @@
 
 #Service Level Agreements
 
-##Automation 
+##Automation
 
 We guarantee that at least 99.9% of jobs will start within 30 minutes of their planned start times. 
 
@@ -157,6 +157,12 @@ We guarantee at least 99.99% of the time customers will have connectivity betwee
 We guarantee at least 99.9% of the time customers will have connectivity between their Web or Business Azure SQL Database and our Internet gateway. Availability is calculated by monthly billing cycle.
 
 [See the full details](/support/sla/sql-data-en/)
+
+##SQL Data Warehouse
+
+We guarantee that, at least 99.9% of the time client operations executed on a SQL Data Warehouse database will succeed.
+
+[See the full details](/support/sla/sql-data-warehouse-en/)
 
 ##StorSimple
 
