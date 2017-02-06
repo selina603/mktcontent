@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="09/2016" wacn.date="09/2016" wacn.lang="en"/>
+<tags ms.service="legal-en" ms.date="02/2017" wacn.date="02/2017" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/sql-data-warehouse/)
@@ -23,13 +23,13 @@ We guarantee that, at least 99.9% of the time client operations executed on a SQ
 
 This Service Level Agreement for Azure (this “SLA”) is made by 21Vianet in connection with, and is a part of, the agreement under which Customer has purchased Azure Services from 21Vianet (the “Agreement”).
 
-We provide financial backing to our commitment to achieve and maintain Service Levels for our Services. If we do not achieve and maintain the Service Levels for each Service as described in this SLA, then you may be eligible for a credit towards a portion of your monthly service fees. These terms will be fixed for term of your Agreement. If a subscription is renewed, the version of this SLA that is current at the time the renewal term commences will apply throughout the renewal term. We will provide at least 90 days' notice for adverse material changes to this SLA. You can review the most current version of this SLA at any time by visiting [http://www.azure.cn/support/legal/sla/](http://www.azure.cn/support/legal/sla/) 
+We provide financial backing to our commitment to achieve and maintain Service Levels for our Services. If we do not achieve and maintain the Service Levels for each Service as described in this SLA, then you may be eligible for a credit towards a portion of your monthly service fees. These terms will be fixed for term of your Agreement. If a subscription is renewed, the version of this SLA that is current at the time the renewal term commences will apply throughout the renewal term. We will provide at least 90 days' notice for adverse material changes to this SLA. You can review the most current version of this SLA at any time by visiting [https://www.azure.cn/support/legal/sla/](http://www.azure.cn/support/legal/sla/) 
 
 
 ## General Terms 
  
 
-### 一、Definitions 
+### 1. Definitions 
  
 1. "Claim" means a claim submitted by Customer to 21Vianet pursuant to this SLA that a Service Level has not been met and that a Service Credit may be due to Customer. 
 
@@ -67,7 +67,7 @@ We provide financial backing to our commitment to achieve and maintain Service L
 
 
 
-### 二、Service Credit Claims
+### 2. Service Credit Claims
 
 1. In order for 21Vianet to consider a Claim, Customer must submit the Claim to Customer Support within two months of the end of the billing month in which the Incident that is the subject of the Claim occurs. Customer must provide to Customer Support all information necessary for 21Vianet to validate the Claim, including but not limited to detailed descriptions of the Incident, the time and duration of the Incident, the affected resources or operations, and any attempts made by Customer to resolve the Incident
 
@@ -77,7 +77,7 @@ We provide financial backing to our commitment to achieve and maintain Service L
 
 4. Service Credits apply only to fees paid for the particular Service, Service Resource, or Service tier for which a Service Level has not been met. In cases where Service Levels apply to individual Service Resources or to separate Service tiers, Service Credits apply only to fees paid for the affected Service Resource or Service tier, as applicable.
 
-### 三、SLA Exclusions
+### 3. SLA Exclusions
 
 This SLA and any applicable Service Levels do not apply to any performance or availability issues:
 
@@ -100,7 +100,7 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 9. Attributable to acts by persons gaining unauthorized access to 21Vianet’s Service by means of Customer's passwords or equipment or otherwise resulting from Customer's failure to follow appropriate security practices.
 
 
-### 四、Service Credits
+### 4. Service Credits
 
 1. The amount and method of calculation of Service Credits is described below in connection with each Service. 
 
@@ -133,6 +133,3 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 	----------------------------|---------
 	<99.99%				        |10% 
 	<99%				        |25% 
-
-## Version History
-[1.0](/support/sla/sql-data-warehouse-en/)  Last updated: Sep 2016
