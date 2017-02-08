@@ -45,7 +45,7 @@ This agreement describes the commitment about uptime and connectivity of Microso
 - [Backup]
 - [Site Recovery]
 
-##Web & Mobile
+##Web + Mobile
 - [App Service]
 - [CDN]
 - [Media Services]
