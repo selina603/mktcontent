@@ -91,6 +91,7 @@ Click [here](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documen
 [Cloud Services]: /support/sla/cloud-services-en/
 [Cloud Services]: /support/sla/cloud-services-en/
 [DocumentDB]: /support/sla/documentdb-en/
+[App Service]: /support/sla/app-service-en/
 [Notification Hubs]: /support/sla/notification-hubs-en/
 [SQL Database]: /support/sla/sql-data-en/
 [SQL Server Stretch Database]: /support/sla/sql-server-stretch-database-en/
