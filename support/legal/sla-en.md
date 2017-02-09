@@ -29,22 +29,36 @@ This agreement describes the commitment about uptime and connectivity of Microso
 ##Compute
 - [Virtual Machines]
 - [Virtual Machine Scale Sets]
-- [Cloud Services]
-- [Service Fabric]
-
-##Web & Mobile
 - [App Service]
-- [Notification Hubs]
+- [Service Fabric]
+- [Cloud Services]
 
-##Data & Storage
-- [SQL Database]
-- [SQL Server Stretch Database]
-- [Radis Cache]
+##Networking
+- [Application Gateway]
+- [VPN Gateway]
+- [CDN]
+- [Traffic Manager]
+- [ExpressRoute]
+
+##Data
 - [Storage]
-- [SQL Data Warehouse]
-- [MySQL Database on Azure]
+- [Backup]
+- [Site Recovery]
 
-##Analytics
+##Web + Mobile
+- [App Service]
+- [CDN]
+- [Media Services]
+
+##Database
+- [SQL Database]
+- [MySQL Database on Azure]
+- [SQL Data Warehouse]
+- [SQL Server Stretch Database]
+- [DocumentDB]
+- [Radis Cache]
+
+##Intelligence + Analytics
 - [HDInsight]
 - [Stream Analytics]
 
@@ -54,28 +68,19 @@ This agreement describes the commitment about uptime and connectivity of Microso
 - [Stream Analytics]
 - [Notification Hubs]
 
-##Networking
-- [ExpressRoute]
-- [Traffic Manager]
-- [VPN Gateway]
-- [Application Gateway]
-
-##Media & CDN
-- [Media Services]
-- [CDN]
-
-##Hybrid Integration
+##Enterprise Integration
 - [Service Bus]
-- [Backup]
-- [Site Recovery]
+- [SQL Server Stretch Database]
 
-##Identity & Access Management
+##Security + Identity
+- [Key Vault]
 - [Multi-Factor Authentication]
 
-##Management & Security
-- [Scheduler]
+##Monitoring + Management
 - [Automation]
-- [Key Vault]
+- [Backup]
+- [Site Recovery]
+- [Scheduler]
 
 [Summary of the SLA for all Azure Services](/support/sla/abstract-en/)
 
@@ -84,6 +89,8 @@ Click [here](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documen
 [Virtual Machines]: /support/sla/virtual-machines-en/
 [Virtual Machine Scale Sets]: /support/sla/virtual-machine-scale-sets-en/
 [Cloud Services]: /support/sla/cloud-services-en/
+[Cloud Services]: /support/sla/cloud-services-en/
+[DocumentDB]: /support/sla/documentdb-en/
 [App Service]: /support/sla/app-service-en/
 [Notification Hubs]: /support/sla/notification-hubs-en/
 [SQL Database]: /support/sla/sql-data-en/

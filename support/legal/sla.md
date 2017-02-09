@@ -27,22 +27,36 @@
 ##计算
 - [虚拟机]
 - [虚拟机规模集]
-- [云服务]
-- [Service Fabric]
-
-##Web 和移动
 - [应用服务]
-- [通知中心]
+- [Service Fabric]
+- [云服务]
 
-##数据和存储
-- [SQL 数据库]
-- [SQL Server 伸展数据库]
-- [Redis 缓存]
+##网络
+- [应用程序网关]
+- [VPN 网关]
+- [CDN]
+- [流量管理器]
+- [ExpressRoute]
+
+##存储
 - [存储]
-- [SQL 数据仓库]
-- [MySQL Database on Azure]
+- [备份]
+- [站点恢复]
 
-##分析
+##Web + 移动
+- [应用服务]
+- [CDN]
+- [媒体服务]
+
+##数据库
+- [SQL 数据库]
+- [MySQL Database on Azure]
+- [SQL 数据仓库]
+- [SQL Server 伸展数据库]
+- [DocumentDB]
+- [Redis 缓存]
+
+##智能 + 分析
 - [HDInsight]
 - [流分析]
 
@@ -52,28 +66,20 @@
 - [流分析]
 - [通知中心]
 
-##网络
-- [ExpressRoute]
-- [流量管理器]
-- [VPN 网关]
-- [应用程序网关]
-
-##媒体和 CDN
-- [媒体服务]
-- [CDN]
-
-##混合集成
+##企业集成
 - [服务总线]
-- [备份]
-- [站点恢复]
+- [SQL Server 伸展数据库]
 
-##身份和访问管理
+##安全性 + 身份
+- [密钥保管库]
 - [多重身份验证]
 
-##管理与安全
-- [计划程序]
+##监控 + 管理
 - [自动化]
-- [密钥保管库]
+- [备份]
+- [站点恢复]
+- [计划程序]
+
 
 
 [所有 Azure 服务的服务级别协议的摘要](/support/sla/abstract/)
@@ -83,6 +89,7 @@
 [虚拟机]: /support/sla/virtual-machines/
 [虚拟机规模集]: /support/sla/virtual-machine-scale-sets/
 [云服务]: /support/sla/cloud-services/
+[DocumentDB]: /support/sla/documentdb-en/
 [应用服务]: /support/sla/app-service/
 [通知中心]: /support/sla/notification-hubs/
 [SQL 数据库]: /support/sla/sql-data/
