@@ -1,7 +1,7 @@
 <properties
 	pageTitle="原备案不在蓝云-新增接入 | Azure"
 	description="ICP 备案类型为原备案不在蓝云的新增接入操作流程"
-	services="icp-backup"
+	services="icp"
 	documentationCenter=""
 	authors="will"
 	manager="edwinc"
@@ -9,7 +9,7 @@
 	tags="icp"/>
 
 <tags
-	ms.service="icp-backup"
+	ms.service="icp"
 	ms.workload=""
 	ms.tgt_pltfrm=""
 	ms.devlang="na"

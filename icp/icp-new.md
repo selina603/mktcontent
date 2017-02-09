@@ -1,7 +1,7 @@
 <properties
 	pageTitle="首次备案 | Azure"
 	description="ICP 备案首次备案流程"
-	services="icp-backup"
+	services="icp"
 	documentationCenter=""
 	authors="will"
 	manager="edwinc"
@@ -9,7 +9,7 @@
 	tags="icp"/>
 
 <tags
-	ms.service="icp-backup"
+	ms.service="icp"
 	ms.workload=""
 	ms.tgt_pltfrm=""
 	ms.devlang="na"
@@ -33,7 +33,7 @@
 ## 备案的具体操作
 1、ICP 备案的步骤
 
-![procedure](./media/2-1.png)<img style="max-width:400px">
+![procedure](./media/2-1.png)
 </br>
 
 2、 各省管局对备案的要求

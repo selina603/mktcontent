@@ -1,7 +1,7 @@
 ﻿<properties
 	pageTitle="热点问题 | Azure"
 	description="ICP 备案中的一些问题"
-	services="icp-backup"
+	services="icp"
 	documentationCenter=""
 	authors="will"
 	manager="edwinc"
@@ -9,7 +9,7 @@
 	tags="icp"/>
 
 <tags
-	ms.service="icp-backup"
+	ms.service="icp"
 	ms.workload=""
 	ms.tgt_pltfrm=""
 	ms.devlang="na"
