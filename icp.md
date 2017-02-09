@@ -1,7 +1,7 @@
 ﻿<properties
 	pageTitle="ICP 备案 | Azure"
 	description="ICP 备案原因及备案流程介绍"
-	services="icp-backup"
+	services="icp"
 	documentationCenter=""
 	authors="will"
 	manager="edwinc"
@@ -9,13 +9,13 @@
 	tags="icp"/>
 
 <tags
-	ms.service="icp-backup"
+	ms.service="icp"
 	ms.workload=""
 	ms.tgt_pltfrm=""
 	ms.devlang="na"
 	ms.topic="article"
-	ms.date="01/20/2017"
-	wacn.date="01/20/2017"
+	ms.date="02/2017"
+	wacn.date="02/2017"
 	wacn.lang="cn" 
 	ms.author="will"/>
 
