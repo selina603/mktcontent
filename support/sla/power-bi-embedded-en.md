@@ -115,6 +115,8 @@ This SLA and any applicable Service Levels do not apply to any performance or av
  
 
 ### Additional Definitions
+
+### Monthly Uptime Calculation for Power BI Embedded
  
 1. "**Deployment Minutes**" is the total number of minutes for which a given workspace collection has been provisioned during a billing month.
 
