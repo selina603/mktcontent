@@ -119,4 +119,4 @@ Click [here](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documen
 [Automation]: /support/sla/automation-en/
 [Key Vault]: /support/sla/key-vault-en/
 [Service Fabric]: /support/sla/service-fabric-en/
-[Power BI Embedded]: /support/sla/power-bi-embedded/
+[Power BI Embedded]: /support/sla/power-bi-embedded-en/
