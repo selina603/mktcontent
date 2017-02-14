@@ -118,4 +118,4 @@
 [自动化]: /support/sla/automation/
 [密钥保管库]: /support/sla/key-vault/
 [Service Fabric]: /support/sla/service-fabric/
-- [Power BI Embedded]: /support/sla/power-bi-embedded/
+[Power BI Embedded]: /support/sla/power-bi-embedded/
