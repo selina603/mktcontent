@@ -101,6 +101,14 @@ For basic and standard layer service notification center, we ensure that the not
 
 [See the full details](/support/sla/notification-hubs-en/)
 
+
+##Power BI Embedded
+
+We guarantee at least 99.9% availability of Power BI Embedded for users to execute API calls and embed reports.
+
+[See the full details](/support/sla/power-bi-embedded-en/)
+
+
 ##Radis Cache
 
 We guarantee at least 99.9% of the time that customers will have connectivity between the Cache endpoints and our Internet gateway. 
