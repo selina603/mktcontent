@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="announcement" ms.date="01/2017" wacn.date="01/2017" wacn.lang="cn"/>
+<tags ms.service="announcement" ms.date="02/2017" wacn.date="02/2017" wacn.lang="cn"/>
 
 # 关于计量名称变更的通知
 
@@ -29,5 +29,7 @@
 </table>
 
 [下载](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/China_meter_standardization-17.2.pdf)包含所有计量名称及其更改前/后的属性值的表格。在此表正式应用前，我们每个月会对其进行更新，请在 2017 年 4 月 3 日之前定期查看，获取更新。如果您需要继续使用原名称，请参考下载文件。
+
+为帮助您顺利完成此次过渡，我们还编写了[说明](/support/meter-update-reports/)，帮助您更新任何基于计量属性名称的报告。 
 
 如有任何疑问，请访问[Azure 支持](/support/contact/)页面联系我们。
