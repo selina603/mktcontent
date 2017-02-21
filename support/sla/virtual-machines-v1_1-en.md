@@ -11,8 +11,8 @@
 <tags ms.service="legal-en" ms.date="02/2017" wacn.date="02/2017" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
-- [中文](/support/sla/virtual-machines/)
-- [English](/support/sla/virtual-machines-en/)
+- [中文](/support/sla/virtual-machines-v1_1/)
+- [English](/support/sla/virtual-machines-v1_1-en/)
 # SLA for Virtual Machines
 
 For all Virtual Machines that have two or more instances deployed in the same Availability Set, we guarantee you will have Virtual Machine Connectivity to at least one instance at least 99.95% of the time.

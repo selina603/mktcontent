@@ -11,8 +11,8 @@
 <tags ms.service="legal" ms.date="02/2017" wacn.date="02/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
-- [中文](/support/sla/virtual-machines/)
-- [English](/support/sla/virtual-machines-en/)
+- [中文](/support/sla/virtual-machines-v1_1/)
+- [English](/support/sla/virtual-machines-v1_1-en/)
 # 虚拟机的服务级别协议
 
 对于在同一可用性集中部署了两个或多个实例的所有虚拟机，我们保证您在不少于 99.95% 的时间内与至少一个实例具有虚拟机连接。
