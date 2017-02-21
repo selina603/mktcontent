@@ -68,5 +68,6 @@ For any Single Instance Virtual Machine using premium storage for all disks, we 
 #Version History
 
 1.1 Last updated： February 2017
+
 Release notes: Added a new, Single-Instance Virtual Machine SLA, Updates related to maximum available minutes
 
