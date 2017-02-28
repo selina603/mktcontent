@@ -192,7 +192,9 @@ We guarantee that we will process Key Vault transactions within 5 seconds at lea
 
 ##Virtual Machines
 
-For all Internet facing Virtual Machines that have two or more instances deployed in the same Availability Set, we guarantee you will have external connectivity at least 99.95% of the time. 
+For all Virtual Machines that have two or more instances deployed in the same Availability Set, we guarantee you will have Virtual Machine Connectivity to at least one instance at least 99.95% of the time.
+
+For any Single Instance Virtual Machine using premium storage for all disks, we guarantee you will have Virtual Machine Connectivity of at least 99.9%.
 
 [See the full details](/support/sla/virtual-machines-en/)
 
