@@ -85,7 +85,7 @@
 
 [所有 Azure 服务的服务级别协议的摘要](/support/sla/abstract/)
 
-点击[此处](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_Chinese_170214.pdf)可以下载大部分 Azure 服务的服务级别协议
+点击[此处](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_Chinese_170228.pdf)可以下载大部分 Azure 服务的服务级别协议
 
 [虚拟机]: /support/sla/virtual-machines/
 [虚拟机规模集]: /support/sla/virtual-machine-scale-sets/
