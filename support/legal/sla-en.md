@@ -11,7 +11,7 @@
 <tags ms.service="legal-en" ms.date="02/2017" wacn.date="02/2017" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
-- [ä¸­æ–‡](/support/legal/sla/)
+- [ÖÐÎÄ](/support/legal/sla/)
 - [English](/support/legal/sla-en/)
 
 # Service Level Agreements
@@ -85,7 +85,7 @@ This agreement describes the commitment about uptime and connectivity of Microso
 
 [Summary of the SLA for all Azure Services](/support/sla/abstract-en/)
 
-Click [here](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_English_170214.pdf) to download SLA for most Azure Services
+Click [here](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_English_170228.pdf) to download SLA for most Azure Services
 
 [Virtual Machines]: /support/sla/virtual-machines-en/
 [Virtual Machine Scale Sets]: /support/sla/virtual-machine-scale-sets-en/
