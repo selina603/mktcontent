@@ -11,7 +11,7 @@
 <tags ms.service="legal-en" ms.date="02/2017" wacn.date="01/2017" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
-- [ä¸­æ–‡](/support/sla/abstract/)
+- [ÖÐÎÄ](/support/sla/abstract/)
 - [English](/support/sla/abstract-en/)
 
 #Service Level Agreements
@@ -44,7 +44,7 @@ We guarantee at least 99.9% availability of the backup and restore functionality
 
 ##CDN
 
-We guarantee that at least 99.9% of the time CDN will respond to client requests and deliver the requested content without error. We will review and accept data from any commercially reasonable independent measurement system that you choose to monitor your content. You must select a set of agents from the measurement systemâ€™s list of standard agents that are generally available and represent at least five geographically diverse locations in major People Republic of China metropolitan areas. 
+We guarantee that at least 99.9% of the time CDN will respond to client requests and deliver the requested content without error. We will review and accept data from any commercially reasonable independent measurement system that you choose to monitor your content. You must select a set of agents from the measurement system¡¯s list of standard agents that are generally available and represent at least five geographically diverse locations in major People Republic of China metropolitan areas. 
 
 [See the full details](/support/sla/cdn-en/)   
 
@@ -192,7 +192,9 @@ We guarantee that we will process Key Vault transactions within 5 seconds at lea
 
 ##Virtual Machines
 
-For all Internet facing Virtual Machines that have two or more instances deployed in the same Availability Set, we guarantee you will have external connectivity at least 99.95% of the time. 
+For all Virtual Machines that have two or more instances deployed in the same Availability Set, we guarantee you will have Virtual Machine Connectivity to at least one instance at least 99.95% of the time.
+
+For any Single Instance Virtual Machine using premium storage for all disks, we guarantee you will have Virtual Machine Connectivity of at least 99.9%.
 
 [See the full details](/support/sla/virtual-machines-en/)
 
