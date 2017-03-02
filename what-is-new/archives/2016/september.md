@@ -27,7 +27,7 @@
 
 ### 2016年9月19日 Azure 正式支持 FreeBSD 虚拟机镜像  
 
-FreeBSD 是一个卓越的操作系统，可用于服务器，桌面和嵌入式平台。由微软发布的 FreeBSD 10.3 镜像现已正式落地于由世纪互联运营的 Microsoft Azure 。该镜像基于 FreeBSD 社区发布的 10.3 版本并安装了 Azure 虚拟机代理。这意味着您可以直接在 Azure 环境中选择并直接创建一台 FreeBSD 虚拟机。如果需要任何技术支持，您可以创建(/zh-cn/support/support-ticket-form/[在线工单]，或者拨打世纪互联技术支持热线 400-089-036 ，世纪互联的技术支持人员会协助您。有关详细信息，请访问[FreeBSD 简介](/documentation/articles/virtual-machines-freebsd-intro-on-azure/)及[Azure 博客](/blog/2016/09/19/AzureFreeBSD/")。
+FreeBSD 是一个卓越的操作系统，可用于服务器，桌面和嵌入式平台。由微软发布的 FreeBSD 10.3 镜像现已正式落地于由世纪互联运营的 Microsoft Azure 。该镜像基于 FreeBSD 社区发布的 10.3 版本并安装了 Azure 虚拟机代理。这意味着您可以直接在 Azure 环境中选择并直接创建一台 FreeBSD 虚拟机。如果需要任何技术支持，您可以创建[在线工单](/zh-cn/support/support-ticket-form/)，或者拨打世纪互联技术支持热线 400-089-036 ，世纪互联的技术支持人员会协助您。有关详细信息，请访问[FreeBSD 简介](/documentation/articles/virtual-machines-freebsd-intro-on-azure/)及[Azure 博客](/blog/2016/09/19/AzureFreeBSD/")。
 
 
 ### 2016年9月18日 Azure 虚拟机的全新 F 系列计算优化实例上线 
