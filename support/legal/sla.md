@@ -1,6 +1,6 @@
 <properties
-	pageTitle="·şÎñ¼¶±ğĞ­Òé | Azure"
-    description="·şÎñ¼¶±ğĞ­Òé"
+	pageTitle="æœåŠ¡çº§åˆ«åè®® | Azure"
+    description="æœåŠ¡çº§åˆ«åè®®"
     services=""
     documentationCenter=""
     authors=""
@@ -11,111 +11,111 @@
 <tags ms.service="legal" ms.date="02/2017" wacn.date="02/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
-- [ÖĞÎÄ](/support/legal/sla/)
+- [ä¸­æ–‡](/support/legal/sla/)
 - [English](/support/legal/sla-en/)
+ 
+# æœåŠ¡çº§åˆ«åè®®
 
-# ·şÎñ¼¶±ğĞ­Òé
-
-´ËĞ­ÒéÃèÊöµÄÊÇÓÉÊÀ¼Í»¥ÁªÔËÓªµÄ Microsoft Azure ¹ØÓÚÔËĞĞÊ±¼äºÍÁ¬½ÓĞÔ·½ÃæµÄ³ĞÅµ¡£µ¥¸ö Azure ·şÎñµÄ·şÎñ¼¶±ğĞ­ÒéÈçÏÂËùÁĞ¡£ 
+æ­¤åè®®æè¿°çš„æ˜¯ç”±ä¸–çºªäº’è”è¿è¥çš„ Microsoft Azure å…³äºè¿è¡Œæ—¶é—´å’Œè¿æ¥æ€§æ–¹é¢çš„æ‰¿è¯ºã€‚å•ä¸ª Azure æœåŠ¡çš„æœåŠ¡çº§åˆ«åè®®å¦‚ä¸‹æ‰€åˆ—ã€‚ 
 <!--
 |                       |                       |                       |                       |
 |-----------------------|-----------------------|-----------------------|-----------------------|
-|**¼ÆËã**<br/><br/>[ĞéÄâ»ú]<br/>[ÔÆ·şÎñ]<br/><br/><br/> |**Web ºÍÒÆ¶¯**<br/><br/>[Ó¦ÓÃ·şÎñ]<br/>[Í¨ÖªÖĞĞÄ]<br/><br/><br/> |**Êı¾İºÍ´æ´¢**<br/><br/>[SQL Êı¾İ¿â]<br/>[SQL Server ÉìÕ¹Êı¾İ¿â]<br/>[Redis »º´æ]<br/>[´æ´¢]<br/>[MySQL Database on Azure]<br/>  |**·ÖÎö**<br/><br/>[HDInsight]<br/>[Á÷·ÖÎö]<br/><br/><br/>  |
-|**ÎïÁªÍø**<br/><br/>[Azure IoT ÖĞĞÄ]<br/>[ÊÂ¼şÖĞĞÄ]<br/>[Á÷·ÖÎö]<br/>[Í¨ÖªÖĞĞÄ]<br/><br/> |**ÍøÂç**<br/><br/>[ĞéÄâÍøÂç]<br/>[ExpressRoute]<br/>[Á÷Á¿¹ÜÀíÆ÷]<br/>[VPN Íø¹Ø]<br/>[Ó¦ÓÃ³ÌĞòÍø¹Ø]<br/>  |**Ã½ÌåºÍ CDN**<br/><br/>[Ã½Ìå·şÎñ]<br/>[CDN]<br/><br/><br/><br/>  |**»ìºÏ¼¯³É**<br/><br/>[·şÎñ×ÜÏß]<br/>[±¸·İ]<br/>[Õ¾µã»Ö¸´]<br/><br/><br/>  |
-|**Éí·İºÍ·ÃÎÊ¹ÜÀí**<br/><br/>[¶àÖØÉí·İÑéÖ¤]<br/><br/><br/>  |**¹ÜÀíÓë°²È«**<br/><br/>[¼Æ»®³ÌĞò]<br/>[×Ô¶¯»¯]<br/>[ÃÜÔ¿±£¹Ü¿â] | | |
+|**è®¡ç®—**<br/><br/>[è™šæ‹Ÿæœº]<br/>[äº‘æœåŠ¡]<br/><br/><br/> |**Web å’Œç§»åŠ¨**<br/><br/>[åº”ç”¨æœåŠ¡]<br/>[é€šçŸ¥ä¸­å¿ƒ]<br/><br/><br/> |**æ•°æ®å’Œå­˜å‚¨**<br/><br/>[SQL æ•°æ®åº“]<br/>[SQL Server ä¼¸å±•æ•°æ®åº“]<br/>[Redis ç¼“å­˜]<br/>[å­˜å‚¨]<br/>[MySQL Database on Azure]<br/>  |**åˆ†æ**<br/><br/>[HDInsight]<br/>[æµåˆ†æ]<br/><br/><br/>  |
+|**ç‰©è”ç½‘**<br/><br/>[Azure IoT ä¸­å¿ƒ]<br/>[äº‹ä»¶ä¸­å¿ƒ]<br/>[æµåˆ†æ]<br/>[é€šçŸ¥ä¸­å¿ƒ]<br/><br/> |**ç½‘ç»œ**<br/><br/>[è™šæ‹Ÿç½‘ç»œ]<br/>[ExpressRoute]<br/>[æµé‡ç®¡ç†å™¨]<br/>[VPN ç½‘å…³]<br/>[åº”ç”¨ç¨‹åºç½‘å…³]<br/>  |**åª’ä½“å’Œ CDN**<br/><br/>[åª’ä½“æœåŠ¡]<br/>[CDN]<br/><br/><br/><br/>  |**æ··åˆé›†æˆ**<br/><br/>[æœåŠ¡æ€»çº¿]<br/>[å¤‡ä»½]<br/>[ç«™ç‚¹æ¢å¤]<br/><br/><br/>  |
+|**èº«ä»½å’Œè®¿é—®ç®¡ç†**<br/><br/>[å¤šé‡èº«ä»½éªŒè¯]<br/><br/><br/>  |**ç®¡ç†ä¸å®‰å…¨**<br/><br/>[è®¡åˆ’ç¨‹åº]<br/>[è‡ªåŠ¨åŒ–]<br/>[å¯†é’¥ä¿ç®¡åº“] | | |
 -->
-##¼ÆËã
-- [ĞéÄâ»ú]
-- [ĞéÄâ»ú¹æÄ£¼¯]
-- [Ó¦ÓÃ·şÎñ]
+##è®¡ç®—
+- [è™šæ‹Ÿæœº]
+- [è™šæ‹Ÿæœºè§„æ¨¡é›†]
+- [åº”ç”¨æœåŠ¡]
 - [Service Fabric]
-- [ÔÆ·şÎñ]
+- [äº‘æœåŠ¡]
 
-##ÍøÂç
-- [Ó¦ÓÃ³ÌĞòÍø¹Ø]
-- [VPN Íø¹Ø]
+##ç½‘ç»œ
+- [åº”ç”¨ç¨‹åºç½‘å…³]
+- [VPN ç½‘å…³]
 - [CDN]
-- [Á÷Á¿¹ÜÀíÆ÷]
+- [æµé‡ç®¡ç†å™¨]
 - [ExpressRoute]
 
-##´æ´¢
-- [´æ´¢]
-- [±¸·İ]
-- [Õ¾µã»Ö¸´]
+##å­˜å‚¨
+- [å­˜å‚¨]
+- [å¤‡ä»½]
+- [ç«™ç‚¹æ¢å¤]
 
-##Web + ÒÆ¶¯
-- [Ó¦ÓÃ·şÎñ]
+##Web + ç§»åŠ¨
+- [åº”ç”¨æœåŠ¡]
 - [CDN]
-- [Ã½Ìå·şÎñ]
+- [åª’ä½“æœåŠ¡]
 
-##Êı¾İ¿â
-- [SQL Êı¾İ¿â]
+##æ•°æ®åº“
+- [SQL æ•°æ®åº“]
 - [MySQL Database on Azure]
-- [SQL Êı¾İ²Ö¿â]
-- [SQL Server ÉìÕ¹Êı¾İ¿â]
+- [SQL æ•°æ®ä»“åº“]
+- [SQL Server ä¼¸å±•æ•°æ®åº“]
 - [DocumentDB]
-- [Redis »º´æ]
+- [Redis ç¼“å­˜]
 
-##ÖÇÄÜ + ·ÖÎö
+##æ™ºèƒ½ + åˆ†æ
 - [HDInsight]
-- [Á÷·ÖÎö]
+- [æµåˆ†æ]
 - [Power BI Embedded]
 
-##ÎïÁªÍø
-- [Azure IoT ÖĞĞÄ]
-- [ÊÂ¼şÖĞĞÄ]
-- [Á÷·ÖÎö]
-- [Í¨ÖªÖĞĞÄ]
+##ç‰©è”ç½‘
+- [Azure IoT ä¸­å¿ƒ]
+- [äº‹ä»¶ä¸­å¿ƒ]
+- [æµåˆ†æ]
+- [é€šçŸ¥ä¸­å¿ƒ]
 
-##ÆóÒµ¼¯³É
-- [·şÎñ×ÜÏß]
-- [SQL Server ÉìÕ¹Êı¾İ¿â]
+##ä¼ä¸šé›†æˆ
+- [æœåŠ¡æ€»çº¿]
+- [SQL Server ä¼¸å±•æ•°æ®åº“]
 
-##°²È«ĞÔ + Éí·İ
-- [ÃÜÔ¿±£¹Ü¿â]
-- [¶àÖØÉí·İÑéÖ¤]
+##å®‰å…¨æ€§ + èº«ä»½
+- [å¯†é’¥ä¿ç®¡åº“]
+- [å¤šé‡èº«ä»½éªŒè¯]
 
-##¼à¿Ø + ¹ÜÀí
-- [×Ô¶¯»¯]
-- [±¸·İ]
-- [Õ¾µã»Ö¸´]
-- [¼Æ»®³ÌĞò]
+##ç›‘æ§ + ç®¡ç†
+- [è‡ªåŠ¨åŒ–]
+- [å¤‡ä»½]
+- [ç«™ç‚¹æ¢å¤]
+- [è®¡åˆ’ç¨‹åº]
 
 
 
-[ËùÓĞ Azure ·şÎñµÄ·şÎñ¼¶±ğĞ­ÒéµÄÕªÒª](/support/sla/abstract/)
+[æ‰€æœ‰ Azure æœåŠ¡çš„æœåŠ¡çº§åˆ«åè®®çš„æ‘˜è¦](/support/sla/abstract/)
 
-µã»÷[´Ë´¦](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_Chinese_170228.pdf)¿ÉÒÔÏÂÔØ´ó²¿·Ö Azure ·şÎñµÄ·şÎñ¼¶±ğĞ­Òé
+ç‚¹å‡»[æ­¤å¤„](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_Chinese_170228.pdf)å¯ä»¥ä¸‹è½½å¤§éƒ¨åˆ† Azure æœåŠ¡çš„æœåŠ¡çº§åˆ«åè®®
 
-[ĞéÄâ»ú]: /support/sla/virtual-machines/
-[ĞéÄâ»ú¹æÄ£¼¯]: /support/sla/virtual-machine-scale-sets/
-[ÔÆ·şÎñ]: /support/sla/cloud-services/
+[è™šæ‹Ÿæœº]: /support/sla/virtual-machines/
+[è™šæ‹Ÿæœºè§„æ¨¡é›†]: /support/sla/virtual-machine-scale-sets/
+[äº‘æœåŠ¡]: /support/sla/cloud-services/
 [DocumentDB]: /support/sla/documentdb-en/
-[Ó¦ÓÃ·şÎñ]: /support/sla/app-service/
-[Í¨ÖªÖĞĞÄ]: /support/sla/notification-hubs/
-[SQL Êı¾İ¿â]: /support/sla/sql-data/
-[SQL Server ÉìÕ¹Êı¾İ¿â]: /support/sla/sql-server-stretch-database/
-[SQL Êı¾İ²Ö¿â]: /support/sla/sql-data-warehouse/
-[Redis »º´æ]: /support/sla/redis-cache/
-[´æ´¢]: /support/sla/storage/
+[åº”ç”¨æœåŠ¡]: /support/sla/app-service/
+[é€šçŸ¥ä¸­å¿ƒ]: /support/sla/notification-hubs/
+[SQL æ•°æ®åº“]: /support/sla/sql-data/
+[SQL Server ä¼¸å±•æ•°æ®åº“]: /support/sla/sql-server-stretch-database/
+[SQL æ•°æ®ä»“åº“]: /support/sla/sql-data-warehouse/
+[Redis ç¼“å­˜]: /support/sla/redis-cache/
+[å­˜å‚¨]: /support/sla/storage/
 [MySQL Database on Azure]: /support/sla/mysql/
 [HDInsight]: /support/sla/hdinsight/
-[Á÷·ÖÎö]: /support/sla/stream-analytics/
-[Azure IoT ÖĞĞÄ]: /support/sla/iot-hub/
-[ÊÂ¼şÖĞĞÄ]: /support/sla/event-hubs/
-[ĞéÄâÍøÂç]: /support/sla/virtual-networking/
+[æµåˆ†æ]: /support/sla/stream-analytics/
+[Azure IoT ä¸­å¿ƒ]: /support/sla/iot-hub/
+[äº‹ä»¶ä¸­å¿ƒ]: /support/sla/event-hubs/
+[è™šæ‹Ÿç½‘ç»œ]: /support/sla/virtual-networking/
 [ExpressRoute]: /support/sla/expressroute/
-[Á÷Á¿¹ÜÀíÆ÷]: /support/sla/traffic-manager/
-[VPN Íø¹Ø]: /support/sla/vpn-gateway/
-[Ó¦ÓÃ³ÌĞòÍø¹Ø]: /support/sla/application-gateway/
-[Ã½Ìå·şÎñ]: /support/sla/media-services/
+[æµé‡ç®¡ç†å™¨]: /support/sla/traffic-manager/
+[VPN ç½‘å…³]: /support/sla/vpn-gateway/
+[åº”ç”¨ç¨‹åºç½‘å…³]: /support/sla/application-gateway/
+[åª’ä½“æœåŠ¡]: /support/sla/media-services/
 [CDN]: /support/sla/cdn/
-[·şÎñ×ÜÏß]: /support/sla/messaging/
-[±¸·İ]: /support/sla/back-up/
-[Õ¾µã»Ö¸´]: /support/sla/site-recovery/
-[¶àÖØÉí·İÑéÖ¤]: /support/sla/multi-factor-authentication/
-[¼Æ»®³ÌĞò]: /support/sla/scheduler/
-[×Ô¶¯»¯]: /support/sla/automation/
-[ÃÜÔ¿±£¹Ü¿â]: /support/sla/key-vault/
+[æœåŠ¡æ€»çº¿]: /support/sla/messaging/
+[å¤‡ä»½]: /support/sla/back-up/
+[ç«™ç‚¹æ¢å¤]: /support/sla/site-recovery/
+[å¤šé‡èº«ä»½éªŒè¯]: /support/sla/multi-factor-authentication/
+[è®¡åˆ’ç¨‹åº]: /support/sla/scheduler/
+[è‡ªåŠ¨åŒ–]: /support/sla/automation/
+[å¯†é’¥ä¿ç®¡åº“]: /support/sla/key-vault/
 [Service Fabric]: /support/sla/service-fabric/
 [Power BI Embedded]: /support/sla/power-bi-embedded/
