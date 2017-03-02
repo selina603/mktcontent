@@ -4,7 +4,7 @@
     services=""
     documentationCenter=""
     authors=""
-    manager="" 
+    manager=""
     editor=""
     tags=""/>
 
@@ -22,7 +22,7 @@
 
 ### 2016年9月19日 认知服务预览版登陆中国  
 
-认知服务 （预览版） 正式开始在中国地区提供服务。通过认知服务 API ，您只需使用几行代码就可以借助强大的算法开发自己的应用程序。它们跨设备、跨平台，不论是在 iOS 、 Android 或者 Windows ，您都可以轻松完成配置。此次国内首发共推出 3 个全新 API ：[人脸识别](/home/features/cognitive-services/face/)、[情绪识别](/home/features/cognitive-services/emotion/)和[计算机视觉] (/home/features/cognitive-services/computer-vision/)。人脸识别 API ，帮助您从照片中检测、识别、分析、组织和标记人脸；情绪识别 API ，通过分析人脸来检测多种情感，让您的应用为用户提供个性化回馈；计算机视觉 API ，可以从图像中提取丰富的信息进行视觉数据的分类和处理，更可以识别 20 万来自全球各地涉及各界的名人。现在就开始使用认知服务 API 来创建自己的应用吧。了解[认知服务功能](/home/features/cognitive-services/)及[认知服务价格详情](/pricing/details/cognitive-services/)。
+认知服务 （预览版） 正式开始在中国地区提供服务。通过认知服务 API ，您只需使用几行代码就可以借助强大的算法开发自己的应用程序。它们跨设备、跨平台，不论是在 iOS 、 Android 或者 Windows ，您都可以轻松完成配置。此次国内首发共推出 3 个全新 API ：[人脸识别](/home/features/cognitive-services/face/)、[情绪识别](/home/features/cognitive-services/emotion/)和[计算机视觉](/home/features/cognitive-services/computer-vision/)。人脸识别 API ，帮助您从照片中检测、识别、分析、组织和标记人脸；情绪识别 API ，通过分析人脸来检测多种情感，让您的应用为用户提供个性化回馈；计算机视觉 API ，可以从图像中提取丰富的信息进行视觉数据的分类和处理，更可以识别 20 万来自全球各地涉及各界的名人。现在就开始使用认知服务 API 来创建自己的应用吧。了解[认知服务功能](/home/features/cognitive-services/)及[认知服务价格详情](/pricing/details/cognitive-services/)。
 
 
 ### 2016年9月19日 Azure 正式支持 FreeBSD 虚拟机镜像  
@@ -40,4 +40,4 @@ Azure 虚拟机的全新系列 F 系列专为计算密集型工作负荷优化�
 <P><B>自动扩展，由您掌控：</B>池可以实时地自动扩展弹性数据库的性能和存储容量。您可以控制分配给池的性能，按需添加或删除弹性数据库，还可以在不影响池的整体成本的情况下定义弹性数据库的性能。有关详细信息，请访问[何时使用弹性数据库池](/documentation/articles/sql-database-elastic-pool-guidance/)。
 <P><B>环境智能管理：</B>池可以实时地自动扩展弹性数据库的性能和存储容量。您可以控制分配给池的性能，按需添加或删除弹性数据库，还可以在不影响池的整体成本的情况下定义弹性数据库的性能。有关详细信息，请访问[使用 PowerShell 监视和管理弹性数据库池](/documentation/articles/sql-database-elastic-pool-manage-powershell/)。
 <P><B>符合需求的性能和价格：</B>基本级、标准级和高级池提供了多个性能、存储和定价选项。池可包含多达 400 个弹性数据库。弹性数据库最多可以自动扩展至 1,000 个弹性数据库事务单元 (eDTU)。
-<br/>正式发布价格将与公共预览版价格保持相同，请访问[SQL数据库网页](/home/features/sql-database/)和[定价](/pricing/details/sql-database/)了解相关信息。有关弹性池的详细信息，请访问(/documentation/articles/sql-database-elastic-pool/)[什么是 Azure 弹性数据库池？]和(/blog/2016/09/05/SqlDatabaseElasticOnline/)[Azure 博客]。
+<br/>正式发布价格将与公共预览版价格保持相同，请访问[SQL数据库网页](/home/features/sql-database/)和[定价](/pricing/details/sql-database/)了解相关信息。有关弹性池的详细信息，请访问[什么是 Azure 弹性数据库池](/documentation/articles/sql-database-elastic-pool/)和[Azure 博客](/blog/2016/09/05/SqlDatabaseElasticOnline/)。
