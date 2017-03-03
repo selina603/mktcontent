@@ -11,7 +11,7 @@
 <tags ms.service="legal-en" ms.date="02/2017" wacn.date="01/2017" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
-- [ÖÐÎÄ](/support/sla/abstract/)
+- [ä¸­æ–‡](/support/sla/abstract/)
 - [English](/support/sla/abstract-en/)
 
 #Service Level Agreements
@@ -44,7 +44,7 @@ We guarantee at least 99.9% availability of the backup and restore functionality
 
 ##CDN
 
-We guarantee that at least 99.9% of the time CDN will respond to client requests and deliver the requested content without error. We will review and accept data from any commercially reasonable independent measurement system that you choose to monitor your content. You must select a set of agents from the measurement system¡¯s list of standard agents that are generally available and represent at least five geographically diverse locations in major People Republic of China metropolitan areas. 
+We guarantee that at least 99.9% of the time CDN will respond to client requests and deliver the requested content without error. We will review and accept data from any commercially reasonable independent measurement system that you choose to monitor your content. You must select a set of agents from the measurement systemÂ¡Â¯s list of standard agents that are generally available and represent at least five geographically diverse locations in major People Republic of China metropolitan areas. 
 
 [See the full details](/support/sla/cdn-en/)   
 
