@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="what-is-new_archives" ms.date="" wacn.date="" wacn.lang="cn"/>
+<tags ms.service="what-is-new_archives" ms.date="" wacn.date="" wacn.lang="cn"/> 
 
 # Azure 公告
 ## 2016年10月时事通讯
