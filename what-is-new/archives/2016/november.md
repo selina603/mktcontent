@@ -4,7 +4,7 @@
     services=""
     documentationCenter=""
     authors=""
-    manager=""
+    manager="" 
     editor=""
     tags=""/>
 
