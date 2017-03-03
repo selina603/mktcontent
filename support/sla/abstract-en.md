@@ -11,7 +11,7 @@
 <tags ms.service="legal-en" ms.date="02/2017" wacn.date="01/2017" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
-- [?D??](/support/sla/abstract/)
+- [中文](/support/sla/abstract/)
 - [English](/support/sla/abstract-en/)
 
 #Service Level Agreements
