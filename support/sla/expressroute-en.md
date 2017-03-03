@@ -12,7 +12,7 @@
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/expressroute/)
-- [English](/support/sla/expressroute-en/) 
+- [English](/support/sla/expressroute-en/)
 # SLA for ExpressRoute
 
 We guarantee a minimum of 99.9% ExpressRoute dedicated circuit availability.
@@ -134,3 +134,4 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 	----------------------------|---------
 	<99.9%				        |10% 
 	<99%				        |25% 
+
