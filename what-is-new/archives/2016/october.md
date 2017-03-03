@@ -1,8 +1,8 @@
 <properties
-	pageTitle="åŽ†å²å…¬å‘Š 2016å¹´10æœˆ | Azure"
-    description="åŽ†å²å…¬å‘Š 2016å¹´10æœˆ"
+	pageTitle="ÀúÊ·¹«¸æ 2016Äê10ÔÂ | Azure"
+    description="ÀúÊ·¹«¸æ 2016Äê10ÔÂ"
     services=""
-    documentationCenter="" 
+    documentationCenter=""
     authors=""
     manager=""
     editor=""
@@ -10,16 +10,16 @@
 
 <tags ms.service="what-is-new_archives" ms.date="" wacn.date="" wacn.lang="cn"/>
 
-# Azure å…¬å‘Š
-## 2016å¹´10æœˆæ—¶äº‹é€šè®¯
+# Azure ¹«¸æ
+## 2016Äê10ÔÂÊ±ÊÂÍ¨Ñ¶
 
-### å…¬å‘Š
-### 2016å¹´10æœˆ25æ—¥ Azure è™šæ‹Ÿæœºè§„æ¨¡é›†æ­£å¼ä¸Šçº¿  
+### ¹«¸æ
+### 2016Äê10ÔÂ25ÈÕ Azure ÐéÄâ»ú¹æÄ£¼¯ÕýÊ½ÉÏÏß  
 
-è™šæ‹Ÿæœºè§„æ¨¡é›†å¯å°†å¤šä¸ªç›¸åŒçš„è™šæ‹Ÿæœº (VM) ä½œä¸ºé›†è¿›è¡Œéƒ¨ç½²ï¼Œä»Žè€Œè½»æ¾æž„å»ºé«˜åº¦å¯ä¼¸ç¼©çš„åº”ç”¨ç¨‹åºã€‚è§„æ¨¡é›†åŸºäºŽ Azure èµ„æºç®¡ç†å™¨æ¨¡åž‹è€Œæž„å»ºï¼Œé€‚ç”¨äºŽ Windows å’Œ Linux æ˜ åƒã€è‡ªå®šä¹‰æ˜ åƒä»¥åŠæ‰©å±•ç¨‹åºã€‚ä½¿ç”¨è§„æ¨¡é›†æ— éœ€æ”¯ä»˜é¢å¤–è´¹ç”¨ã€‚æœ‰å…³è¯¦ç»†ä¿¡æ¯ï¼Œè¯·è®¿é—®[è™šæ‹Ÿæœºè§„æ¨¡é›†åŠŸèƒ½](/home/features/virtual-machine-scale-sets/)é¡µé¢ã€[è™šæ‹Ÿæœºè§„æ¨¡é›†æ¦‚è¿°](/documentation/articles/virtual-machine-scale-sets-overview/)æ–‡æ¡£é¡µé¢ã€‚
+ÐéÄâ»ú¹æÄ£¼¯¿É½«¶à¸öÏàÍ¬µÄÐéÄâ»ú (VM) ×÷Îª¼¯½øÐÐ²¿Êð£¬´Ó¶øÇáËÉ¹¹½¨¸ß¶È¿ÉÉìËõµÄÓ¦ÓÃ³ÌÐò¡£¹æÄ£¼¯»ùÓÚ Azure ×ÊÔ´¹ÜÀíÆ÷Ä£ÐÍ¶ø¹¹½¨£¬ÊÊÓÃÓÚ Windows ºÍ Linux Ó³Ïñ¡¢×Ô¶¨ÒåÓ³ÏñÒÔ¼°À©Õ¹³ÌÐò¡£Ê¹ÓÃ¹æÄ£¼¯ÎÞÐèÖ§¸¶¶îÍâ·ÑÓÃ¡£ÓÐ¹ØÏêÏ¸ÐÅÏ¢£¬Çë·ÃÎÊ[ÐéÄâ»ú¹æÄ£¼¯¹¦ÄÜ](/home/features/virtual-machine-scale-sets/)Ò³Ãæ¡¢[ÐéÄâ»ú¹æÄ£¼¯¸ÅÊö](/documentation/articles/virtual-machine-scale-sets-overview/)ÎÄµµÒ³Ãæ¡£
 
 
-### 2016å¹´10æœˆ11æ—¥ Azure è®¡åˆ’ç¨‹åºåœ¨ â€Azure é—¨æˆ·é¢„è§ˆâ€ ä¸Šå‘å¸ƒ
+### 2016Äê10ÔÂ11ÈÕ Azure ¼Æ»®³ÌÐòÔÚ ¡±Azure ÃÅ»§Ô¤ÀÀ¡± ÉÏ·¢²¼
  
-è®¡åˆ’ç¨‹åºï¼ˆSchedulerï¼‰åœ¨Azure é—¨æˆ·é¢„è§ˆä¸Šå‘å¸ƒã€‚ä»ŽçŽ°åœ¨èµ·ï¼Œæ‚¨å¯ä»¥åœ¨Azure é—¨æˆ·é¢„è§ˆå»ºç«‹ã€ç®¡ç†ã€æŸ¥çœ‹æ‚¨çš„è®¡åˆ’ç¨‹åºä½œä¸šã€‚<br/>
-è®¡åˆ’ç¨‹åºå…è®¸æ‚¨æŒ‰æ—¢å®šè®¡åˆ’æ‰§è¡Œæ“ä½œï¼Œå¦‚è°ƒç”¨ HTTP/S ç«¯ç‚¹ï¼Œæˆ–å°†æ¶ˆæ¯å‘å¸ƒåˆ°å­˜å‚¨é˜Ÿåˆ— (Storage Queue)ï¼ŒæœåŠ¡æ€»çº¿é˜Ÿåˆ— (Service Bus Queue) å’Œä¸»é¢˜ (Service Bus Topic)ã€‚åˆ©ç”¨è®¡åˆ’ç¨‹åºï¼Œæ‚¨å¯åœ¨äº‘ä¸­åˆ›å»ºå¯é çš„ã€ç®€å•æˆ–å¤æ‚çš„ä½œä¸šæœåŠ¡ï¼Œå¹¶æ—¢å®šæ—¶æ®µè¿è¡Œè¿™äº›ä½œä¸šã€‚è¯¦ç»†ä¿¡æ¯è¯·æŸ¥çœ‹[Azure é—¨æˆ·é¢„è§ˆä¸­çš„è®¡åˆ’ç¨‹åºå…¥é—¨](/documentation/articles/scheduler-get-started-portal/)å’Œ[è®¡åˆ’ç¨‹åºåŠŸèƒ½](/home/features/scheduler/)é¡µé¢ã€‚
+¼Æ»®³ÌÐò£¨Scheduler£©ÔÚAzure ÃÅ»§Ô¤ÀÀÉÏ·¢²¼¡£´ÓÏÖÔÚÆð£¬Äú¿ÉÒÔÔÚAzure ÃÅ»§Ô¤ÀÀ½¨Á¢¡¢¹ÜÀí¡¢²é¿´ÄúµÄ¼Æ»®³ÌÐò×÷Òµ¡£<br/>
+¼Æ»®³ÌÐòÔÊÐíÄú°´¼È¶¨¼Æ»®Ö´ÐÐ²Ù×÷£¬Èçµ÷ÓÃ HTTP/S ¶Ëµã£¬»ò½«ÏûÏ¢·¢²¼µ½´æ´¢¶ÓÁÐ (Storage Queue)£¬·þÎñ×ÜÏß¶ÓÁÐ (Service Bus Queue) ºÍÖ÷Ìâ (Service Bus Topic)¡£ÀûÓÃ¼Æ»®³ÌÐò£¬Äú¿ÉÔÚÔÆÖÐ´´½¨¿É¿¿µÄ¡¢¼òµ¥»ò¸´ÔÓµÄ×÷Òµ·þÎñ£¬²¢¼È¶¨Ê±¶ÎÔËÐÐÕâÐ©×÷Òµ¡£ÏêÏ¸ÐÅÏ¢Çë²é¿´[Azure ÃÅ»§Ô¤ÀÀÖÐµÄ¼Æ»®³ÌÐòÈëÃÅ](/documentation/articles/scheduler-get-started-portal/)ºÍ[¼Æ»®³ÌÐò¹¦ÄÜ](/home/features/scheduler/)Ò³Ãæ¡£
