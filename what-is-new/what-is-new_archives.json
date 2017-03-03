@@ -6,6 +6,15 @@
 	"id": "leftnav_support_what-is-new_archives_list", 
 	"articles": 
 		[
+			{"link": "/what-is-new/archives/2016/november/",
+		    "id": "leftnav_support_what-is-new_2016_november",
+		    "title": "2016年11月"},
+			{"link": "/what-is-new/archives/2016/october/",
+		    "id": "leftnav_support_what-is-new_2016_october",
+		    "title": "2016年10月"},
+			{"link": "/what-is-new/archives/2016/september/",
+		    "id": "leftnav_support_what-is-new_2016_september",
+		    "title": "2016年9月"},
 			{"link": "/what-is-new/archives/2016/august/",
 		    "id": "leftnav_support_what-is-new_2016_august",
 		    "title": "2016年8月"},
