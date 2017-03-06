@@ -15,7 +15,7 @@
 - [English](/support/sla/cdn-en-v1/)
 #SLA for CDN
 
-We guarantee that at least 99.9% of the time CDN will respond to client requests and deliver the requested content without error. We will review and accept data from any commercially reasonable independent measurement system that you choose to monitor your content. You must select a set of agents from the measurement system's list of standard agents that are generally available and represent at least five geographically diverse locations in major People Republic of China metropolitan areas.
+We guarantee that at least 99.5% of the time CDN will respond to client requests and deliver the requested content without error. We will review and accept data from any commercially reasonable independent measurement system that you choose to monitor your content. You must select a set of agents from the measurement system's list of standard agents that are generally available and represent at least five geographically diverse locations in major People Republic of China metropolitan areas.
 
 
 ##Introduction
@@ -23,7 +23,7 @@ We guarantee that at least 99.9% of the time CDN will respond to client requests
 
 This Service Level Agreement for Azure (this “SLA”) is made by 21Vianet in connection with, and is a part of, the agreement under which Customer has purchased Azure Services from 21Vianet (the “Agreement”).
 
-We provide financial backing to our commitment to achieve and maintain Service Levels for our Services. If we do not achieve and maintain the Service Levels for each Service as described in this SLA, then you may be eligible for a credit towards a portion of your monthly service fees. These terms will be fixed for term of your Agreement. If a subscription is renewed, the version of this SLA that is current at the time the renewal term commences will apply throughout the renewal term. We will provide at least 90 days' notice for adverse material changes to this SLA. You can review the most current version of this SLA at any time by visiting [http://www.azure.cn/support/legal/sla/](/support/legal/sla/).
+We provide financial backing to our commitment to achieve and maintain Service Levels for our Services. If we do not achieve and maintain the Service Levels for each Service as described in this SLA, then you may be eligible for a credit towards a portion of your monthly service fees. These terms will be fixed for term of your Agreement. If a subscription is renewed, the version of this SLA that is current at the time the renewal term commences will apply throughout the renewal term. We will provide at least 90 days' notice for adverse material changes to this SLA. You can review the most current version of this SLA at any time by visiting [https://www.azure.cn/support/legal/sla/](/support/legal/sla/).
 
 
 ##General Terms
@@ -144,5 +144,4 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 Monthly Uptime Percentage | Service Credit  
 ---|---  
 <99.5% | 5%   
-<99% | 20% 
-
+<99% | 20%
