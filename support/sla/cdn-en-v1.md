@@ -15,7 +15,7 @@
 - [English](/support/sla/cdn-en-v1/)
 #SLA for CDN
 
-We guarantee that at least 99.9% of the time CDN will respond to client requests and deliver the requested content without error. We will review and accept data from any commercially reasonable independent measurement system that you choose to monitor your content. You must select a set of agents from the measurement system's list of standard agents that are generally available and represent at least five geographically diverse locations in major People Republic of China metropolitan areas.
+We guarantee that at least 99.5% of the time CDN will respond to client requests and deliver the requested content without error. We will review and accept data from any commercially reasonable independent measurement system that you choose to monitor your content. You must select a set of agents from the measurement system's list of standard agents that are generally available and represent at least five geographically diverse locations in major People Republic of China metropolitan areas.
 
 
 ##Introduction
@@ -144,5 +144,4 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 Monthly Uptime Percentage | Service Credit  
 ---|---  
 <99.5% | 5%   
-<99% | 20% 
-
+<99% | 20%

@@ -129,6 +129,5 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 	Monthly Uptime Percentage	|Service Credit
 	----------------------------|---------
-	<99.95%				        |10% 
+	<99.9%				        |10% 
 	<99%				        |25% 
-
