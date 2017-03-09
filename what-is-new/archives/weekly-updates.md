@@ -1,6 +1,6 @@
 <properties
-	pageTitle="Azure.cn 官网本周更新 | Azure"
-    description="Azure.cn 官网本周更新"
+	pageTitle="Azure 官网本周更新 | Azure"
+    description="Azure 官网本周更新"
     services=""
     documentationCenter=""
     authors=""
@@ -10,7 +10,8 @@
 
 <tags ms.service="" ms.date="" wacn.date="" wacn.lang="cn"/>
 
-# 产品发布与更新
+# Azure 官网本周更新
+## 产品发布与更新
 ### 2017 年 3 月 1 日  Azure ExpressRoute 的超高性能网关层现已正式发布
 超高性能网关将虚拟网络和 Azure ExpressRoute 线路连接起来，所提供的网络吞吐量是高性能网关的五倍。
 
@@ -44,7 +45,7 @@ R Server 是目前面向 R 的最广泛可部署的企业级分析平台。
 [虚拟机价格详情](/pricing/details/virtual-machines/)
 
 
-# 内容更新
+## 内容更新
 ### 2017 年 3 月 1 日  新博客文章发布
 [Azure SQL 数据库中的 DTU 和 eDTU 是什么](/blog/2017/02/28/AzureDtuAndEdtu/)
 
@@ -79,7 +80,7 @@ SQL 数据仓库标准版价格正式启用：
 [常见问题](/support/faq/)
 
 
-# 技术文档更新
+## 技术文档更新
 [使用 Azure 门户预览管理 HDInsight 中的 Hadoop 群集](/documentation/articles/hdinsight-administer-use-management-portal/)
 
 [可与 HDInsight 使用的不同 Hadoop 组件有哪些？](/documentation/articles/hdinsight-component-versioning/)
@@ -138,7 +139,7 @@ SQL 数据仓库标准版价格正式启用：
 
 
 
-# 常用操作指南更新
+## 常用操作指南更新
 [云服务实例时间同步问题](/documentation/articles/aog-cloud-services-qa-instance-time-sync/)
 
 [Node JS 如何使用 MQTT 协议调用“直接方法”](/documentation/articles/aog-iot-hub-howto-use-mqtt-protocol-call-direct-method/)
