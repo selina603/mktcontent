@@ -17,11 +17,11 @@
 
 有关详细信息，请访问：
 
-[关于 ExpressRoute 的虚拟网络网关](/documentation/articles/expressroute-about-virtual-network-gateways/)
+[关于 ExpressRoute 的虚拟网络网关](/documentation/articles/expressroute-about-virtual-network-gateways/)页面
 
-[VPN 网关服务功能](/home/features/vpn-gateway/)
+[VPN 网关服务功能](/home/features/vpn-gateway/)页面
 
-[VPN 网关价格详情](/pricing/details/vpn-gateway/)
+[VPN 网关价格详情](/pricing/details/vpn-gateway/)页面
 
 
 ### 2017 年 3 月 1 日  Azure IoT 套件预测性维护预配置解决方案现已正式发布
@@ -29,9 +29,9 @@
 
 有关详细信息，请访问：
 
-[预见性维护预配置解决方案概述](/documentation/articles/iot-suite-predictive-overview/)
+[预见性维护预配置解决方案概述](/documentation/articles/iot-suite-predictive-overview/)页面
 
-[预见性维护预配置解决方案演练](/documentation/articles/iot-suite-predictive-walkthrough/)
+[预见性维护预配置解决方案演练](/documentation/articles/iot-suite-predictive-walkthrough/)页面
 
 
 
@@ -40,9 +40,9 @@ R Server 是目前面向 R 的最广泛可部署的企业级分析平台。
 
 有关详细信息，请访问：
 
-[虚拟机服务功能](/home/features/virtual-machines/)
+[虚拟机服务功能](/home/features/virtual-machines/)页面
 
-[虚拟机价格详情](/pricing/details/virtual-machines/)
+[虚拟机价格详情](/pricing/details/virtual-machines/)页面
 
 
 ## 内容更新
@@ -50,34 +50,22 @@ R Server 是目前面向 R 的最广泛可部署的企业级分析平台。
 [Azure SQL 数据库中的 DTU 和 eDTU 是什么](/blog/2017/02/28/AzureDtuAndEdtu/)
 
 ### 2017 年 3 月 1 日  法律信息更新
-增加新的单实例虚拟机服务级别协议，发布与最大可用分钟数有关的更新：
-
-[虚拟机的服务级别协议](/support/sla/virtual-machines/)
+[虚拟机的服务级别协议](/support/sla/virtual-machines/)增加新的单实例虚拟机服务级别协议，发布与最大可用分钟数有关的更新。
 
 ### 2017 年 3 月 1 日  文档页面更新
-文档概览页面，“监控 + 管理” 增加 “Azure 资源管理器” 入口：
-
-[文档概览](/documentation/)
+[文档概览](/documentation/)页面，“监控 + 管理” 增加 “Azure 资源管理器” 入口。
 
 ### 2017 年 3 月 1 日  文档页面更新
-发布 “Azure 资源管理器” 文档首页：
-
-[Azure 资源管理器](/documentation/services/azure-resource-manager/)
+发布[Azure 资源管理器](/documentation/services/azure-resource-manager/)文档首页。
 
 ### 2017 年 3 月 1 日  价格相关内容更新
-SQL 数据仓库标准版价格正式启用：
-
-[SQL 数据仓库价格详情](/pricing/details/sql-data-warehouse/)
+SQL 数据仓库标准版价格正式启用，有关详细信息，请访问[SQL 数据仓库价格详情](/pricing/details/sql-data-warehouse/)页面
 
 ### 2017 年 2 月 27 日  价格相关内容更新
-标准预付费订阅，付款方式“线下汇款”更名为“电汇”：
-
-[Azure 电汇说明](/pricing/billing/azure-wire-transfer-overview/)
+标准预付费订阅，付款方式“线下汇款”更名为“电汇”，有关详细信息，请访问[Azure 电汇说明](/pricing/billing/azure-wire-transfer-overview/)页面
 
 ### 2017 年 2 月 27 日  常见问题更新
-“计费、订阅与发票” 常见问题中增加：
-
-[常见问题](/support/faq/)
+“计费、订阅与发票” [常见问题](/support/faq/)中增加相关问题。
 
 
 ## 技术文档更新
