@@ -44,6 +44,13 @@ R Server 是目前面向 R 的最广泛可部署的企业级分析平台。
 
 [虚拟机价格详情](/pricing/details/virtual-machines/)页面
 
+[Azure 中 Linux 虚拟机上的 Microsoft R Server 2016 \(9.0.1\)](/documentation/articles/microsoft-r-vm-azure-rserver-linux-9.0.1/)
+
+[预配 Azure 上的 R Server Only SQL Server 2016 Enterprise VM](/documentation/articles/microsoft-r-vm-azure-rserver-sql-server-2016-enterprise/)
+
+[云中的 Microsoft R Server](/documentation/articles/microsoft-r-vm-cloud/)
+
+
 
 ## 内容更新
 ### 2017 年 3 月 1 日  新博客文章发布
