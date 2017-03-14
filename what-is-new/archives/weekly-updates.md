@@ -10,9 +10,9 @@
 
 <tags ms.service="" ms.date="" wacn.date="" wacn.lang="cn"/>
 
-# Azure 官网本周更新3 月 6 日-3 月 10 日
+# Azure 官网本周更新##3 月 6 日 - 3 月 10 日##
 ## 产品发布与更新
-### 2017 年 3 月 1 日  Azure ExpressRoute 的超高性能网关层现于3 月 1 日正式发布
+### 2017 年 3 月 1 日  Azure ExpressRoute 的超高性能网关层现于 3 月 1 日正式发布
 超高性能网关将虚拟网络和 Azure ExpressRoute 线路连接起来，所提供的网络吞吐量是高性能网关的五倍。
 
 
@@ -51,9 +51,9 @@ R Server 是目前面向 R 的最广泛可部署的企业级分析平台。
 
 ## 内容更新
  
-新博客文章发布:[Azure SQL 数据库中的 DTU 和 eDTU 是什么](/blog/2017/02/28/AzureDtuAndEdtu/)
+新博客文章发布：[Azure SQL 数据库中的 DTU 和 eDTU 是什么](/blog/2017/02/28/AzureDtuAndEdtu/)
   
-法律信息更新；[虚拟机的服务级别协议](/support/sla/virtual-machines/)增加新的单实例虚拟机服务级别协议，发布与最大可用分钟数有关的更新。
+法律信息更新：[虚拟机的服务级别协议](/support/sla/virtual-machines/)增加新的单实例虚拟机服务级别协议，发布与最大可用分钟数有关的更新。
 
 发布[Azure 资源管理器](/documentation/services/azure-resource-manager/)文档首页，用户可以在顶部导航栏 “监控 + 管理” 中找到[文档概览](/documentation/)功能介绍入口。
 
