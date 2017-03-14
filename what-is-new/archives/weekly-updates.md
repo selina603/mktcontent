@@ -49,7 +49,7 @@ R Server 是目前面向 R 的最广泛可部署的企业级分析平台。
 
 
 
-## 网站其他更新
+## 网站其它更新
  
 博客：[Azure SQL 数据库中的 DTU 和 eDTU 是什么](/blog/2017/02/28/AzureDtuAndEdtu/)
   
