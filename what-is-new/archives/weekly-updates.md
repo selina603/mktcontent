@@ -10,39 +10,36 @@
 
 <tags ms.service="" ms.date="" wacn.date="" wacn.lang="cn"/>
 
-# Azure 官网本周更新
+# Azure 官网本周更新3 月 6 日-3 月 10 日
 ## 产品发布与更新
-### 2017 年 3 月 1 日  Azure ExpressRoute 的超高性能网关层现已正式发布
+### 2017 年 3 月 1 日  Azure ExpressRoute 的超高性能网关层现于3 月 1 日正式发布
 超高性能网关将虚拟网络和 Azure ExpressRoute 线路连接起来，所提供的网络吞吐量是高性能网关的五倍。
 
-有关详细信息，请访问：
 
-[关于 ExpressRoute 的虚拟网络网关](/documentation/articles/expressroute-about-virtual-network-gateways/)页面
+[关于 ExpressRoute 的虚拟网络网关](/documentation/articles/expressroute-about-virtual-network-gateways/)功能介绍
 
-[VPN 网关服务功能](/home/features/vpn-gateway/)页面
+[VPN 网关服务功能](/home/features/vpn-gateway/)功能介绍
 
-[VPN 网关价格详情](/pricing/details/vpn-gateway/)页面
+[VPN 网关价格详情](/pricing/details/vpn-gateway/)价格详情
 
 
 ### 2017 年 3 月 1 日  Azure IoT 套件预测性维护预配置解决方案现已正式发布
 预测性维护预配置解决方案是 Azure IoT 套件预配置解决方案之一。
 
-有关详细信息，请访问：
 
-[预见性维护预配置解决方案概述](/documentation/articles/iot-suite-predictive-overview/)页面
+[预见性维护预配置解决方案概述](/documentation/articles/iot-suite-predictive-overview/)功能介绍
 
-[预见性维护预配置解决方案演练](/documentation/articles/iot-suite-predictive-walkthrough/)页面
+[预见性维护预配置解决方案演练](/documentation/articles/iot-suite-predictive-walkthrough/)功能介绍
 
 
 
 ### 2017 年 2 月 27 日  运行在 Linux 虚拟机上的 R Server 现已正式发布
 R Server 是目前面向 R 的最广泛可部署的企业级分析平台。
 
-有关详细信息，请访问：
 
-[虚拟机服务功能](/home/features/virtual-machines/)页面
+[虚拟机服务功能](/home/features/virtual-machines/)功能介绍
 
-[虚拟机价格详情](/pricing/details/virtual-machines/)页面
+[虚拟机价格详情](/pricing/details/virtual-machines/)价格详情
 
 [Azure 中 Linux 虚拟机上的 Microsoft R Server 2016 \(9.0.1\)](/documentation/articles/microsoft-r-vm-azure-rserver-linux-9.0.1/)
 
@@ -53,20 +50,17 @@ R Server 是目前面向 R 的最广泛可部署的企业级分析平台。
 
 
 ## 内容更新
-### 2017 年 3 月 1 日  新博客文章发布
-[Azure SQL 数据库中的 DTU 和 eDTU 是什么](/blog/2017/02/28/AzureDtuAndEdtu/)
+ 
+新博客文章发布:[Azure SQL 数据库中的 DTU 和 eDTU 是什么](/blog/2017/02/28/AzureDtuAndEdtu/)
+  
+法律信息更新；[虚拟机的服务级别协议](/support/sla/virtual-machines/)增加新的单实例虚拟机服务级别协议，发布与最大可用分钟数有关的更新。
 
-### 2017 年 3 月 1 日  法律信息更新
-[虚拟机的服务级别协议](/support/sla/virtual-machines/)增加新的单实例虚拟机服务级别协议，发布与最大可用分钟数有关的更新。
+发布[Azure 资源管理器](/documentation/services/azure-resource-manager/)文档首页，用户可以在顶部导航栏 “监控 + 管理” 中找到[文档概览](/documentation/)功能介绍入口。
 
-### 2017 年 3 月 1 日  文档页面更新
-[文档概览](/documentation/)页面，“监控 + 管理” 增加 “Azure 资源管理器” 入口。
+文档页面更新：发布[Azure 资源管理器](/documentation/services/azure-resource-manager/)文档首页。
 
-### 2017 年 3 月 1 日  文档页面更新
-发布[Azure 资源管理器](/documentation/services/azure-resource-manager/)文档首页。
+价格相关内容更新：SQL 数据仓库标准版价格正式启用，有关详细信息，请访问[SQL 数据仓库价格详情](/pricing/details/sql-data-warehouse/)价格详情。
 
-### 2017 年 3 月 1 日  价格相关内容更新
-SQL 数据仓库标准版价格正式启用，有关详细信息，请访问[SQL 数据仓库价格详情](/pricing/details/sql-data-warehouse/)页面。
 
 
 
