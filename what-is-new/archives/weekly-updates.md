@@ -23,7 +23,7 @@
 
 
 
-### Azure IoT 套件预测性维护预配置解决方案现已正式发布
+### Azure IoT 套件预测性维护预配置解决方案于 2 月 27 日正式发布
 预测性维护预配置解决方案是 Azure IoT 套件预配置解决方案之一。
 
 
@@ -33,13 +33,11 @@
 
 
 
-### 运行在 Linux 虚拟机上的 R Server 现已正式发布
+### 运行在 Linux 虚拟机上的 R Server 于 2 月 27 日正式发布
 R Server 是目前面向 R 的最广泛可部署的企业级分析平台。
 
 
-[虚拟机服务功能介绍](/home/features/virtual-machines/)
-
-[虚拟机价格详情](/pricing/details/virtual-machines/)
+[虚拟机服务功能介绍](/home/features/virtual-machines/) 、[虚拟机价格详情](/pricing/details/virtual-machines/)
 
 [Azure 中 Linux 虚拟机上的 Microsoft R Server 2016 \(9.0.1\)](/documentation/articles/microsoft-r-vm-azure-rserver-linux-9.0.1/)
 
@@ -53,7 +51,7 @@ R Server 是目前面向 R 的最广泛可部署的企业级分析平台。
  
 博客：[Azure SQL 数据库中的 DTU 和 eDTU 是什么](/blog/2017/02/28/AzureDtuAndEdtu/)
   
-[虚拟机的服务级别协议](/support/sla/virtual-machines/)增加新的单实例虚拟机服务级别协议，发布与最大可用分钟数有关的更新。
+于[虚拟机的服务级别协议](/support/sla/virtual-machines/)增加新的单实例虚拟机服务级别协议，发布与最大可用分钟数有关的更新。
 
 发布[Azure 资源管理器](/documentation/services/azure-resource-manager/)文档首页，用户可以在顶部导航栏 “监控 + 管理” 中找到[文档概览](/documentation/)功能介绍入口。
 
