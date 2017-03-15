@@ -10,7 +10,7 @@
 
 <tags ms.service="" ms.date="" wacn.date="" wacn.lang="cn"/>
 
-# Azure 官网本周更新3 月 6 日 - 3 月 10 日
+# Azure 官网本周更新   3 月 6 日 - 3 月 10 日
 ## 产品发布与更新
 ### Azure ExpressRoute 的超高性能网关层现于 3 月 1 日正式发布
 超高性能网关将虚拟网络和 Azure ExpressRoute 线路连接起来，所提供的网络吞吐量是高性能网关的五倍。
@@ -18,18 +18,18 @@
 
 [关于 ExpressRoute 的虚拟网络网关](/documentation/articles/expressroute-about-virtual-network-gateways/)
 
-[VPN 网关功能介绍](/home/features/vpn-gateway/)
+[VPN 网关功能介绍](/home/features/vpn-gateway/)、[VPN 网关价格详情](/pricing/details/vpn-gateway/)
 
-[VPN 网关价格详情](/pricing/details/vpn-gateway/)
+
 
 
 ### Azure IoT 套件预测性维护预配置解决方案现已正式发布
 预测性维护预配置解决方案是 Azure IoT 套件预配置解决方案之一。
 
 
-[预见性维护预配置解决方案概述](/documentation/articles/iot-suite-predictive-overview/)
+[预见性维护预配置解决方案概述](/documentation/articles/iot-suite-predictive-overview/)、[预见性维护预配置解决方案演练](/documentation/articles/iot-suite-predictive-walkthrough/)
 
-[预见性维护预配置解决方案演练](/documentation/articles/iot-suite-predictive-walkthrough/)
+
 
 
 
