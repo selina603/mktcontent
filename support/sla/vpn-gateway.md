@@ -125,14 +125,14 @@
 
 4.客户在使用 VPN 网关时适用以下服务级别和服务费抵扣：
 
-##VPN 或 ExpressRoute 的基本网关
+###VPN 或 ExpressRoute 的基本网关
 
 每月正常服务时间百分比	|服务费抵扣
 	--------------------|---------
     <99.9%              | 10%  
     <99%                | 25% 
 
-##VPN 或 ExpressRoute 的标准网关/VPN 或 ExpressRoute 的高性能网关
+###VPN 或 ExpressRoute 的标准网关/VPN 或 ExpressRoute 的高性能网关
 
 每月正常服务时间百分比	|服务费抵扣
 	--------------------|---------

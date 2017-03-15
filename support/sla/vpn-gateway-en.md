@@ -128,14 +128,14 @@ Monthly Uptime Calculation and Service Levels for VPN Gateway
 4.The following Service Levels and Service Credits are applicable to Customer’s use of each VPN Gateway:
 
 
-##Basic Gateway for VPN or ExpressRoute 
+###Basic Gateway for VPN or ExpressRoute 
 
 Monthly Uptime Percentage | Service Credit  
 --------------------------|---------  
 <99.9%                    | 10%  
 <99%                      | 25% 
 
-##Standard Gateway for VPN or ExpressRoute / High Performance Gateway for VPN or ExpressRoute
+###Standard Gateway for VPN or ExpressRoute / High Performance Gateway for VPN or ExpressRoute
 
 Monthly Uptime Percentage | Service Credit  
 --------------------------|---------
