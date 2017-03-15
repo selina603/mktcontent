@@ -8,14 +8,14 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="03/2016" wacn.date="03/2016" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="03/2017" wacn.date="03/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/expressroute/)
 - [English](/support/sla/expressroute-en/)
 # ExpressRoute 的服务级别协议
 
-我们保证 ExpressRoute 专用线路可用性至少为 99.9%。
+我们保证 ExpressRoute 专用线路可用性至少为 99.95%。
 
 
 ## 引言
@@ -23,7 +23,7 @@
 
 本 Azure 服务级别协议（以下简称“服务级别协议”）由世纪互联制定，与客户从世纪互联处购买 Azure 服务所依据的协议（以下简称“协议”）相关并构成该协议的一部分。
 
-为了保证达到并保持所提供服务的服务级别，我们会提供财务方面的支持。如果我们未能达到和保持本服务级别协议中说明的每种服务的服务级别，则您有资格获得月度服务费用的部分服务费抵扣。在您的协议期间，这些条款都不会做任何变动。如果续展订购，则在续订期限开始时实行的本服务级别协议的版本将适用于整个续订期限。如果对本服务级别协议有任何重大不利变更，我们应至少提前九十 (90) 天进行通知。您可以随时访问 [http://www.azure.cn/support/legal/sla/](http://www.azure.cn/support/legal/sla/) 查看本服务级别协议的最新版本。
+为了保证达到并保持所提供服务的服务级别，我们会提供财务方面的支持。如果我们未能达到和保持本服务级别协议中说明的每种服务的服务级别，则您有资格获得月度服务费用的部分服务费抵扣。在您的协议期间，这些条款都不会做任何变动。如果续展订购，则在续订期限开始时实行的本服务级别协议的版本将适用于整个续订期限。如果对本服务级别协议有任何重大不利变更，我们应至少提前九十 (90) 天进行通知。您可以随时访问 [https://www.azure.cn/support/legal/sla/](https://www.azure.cn/support/legal/sla/) 查看本服务级别协议的最新版本。
 
 
 
@@ -132,6 +132,13 @@
 
 	每月正常服务时间百分比	|服务费抵扣
 	--------------------|---------
-	<99.9%				|10% 
+	<99.95%				|10% 
 	<99%				|25% 
 
+## 版本历史记录
+
+[1.1](/support/sla/expressroute/) 最后更新日期：2017 年 3 月
+
+发布说明：更新了 ExpressRoute 服务级别协议以反映新的每月正常服务时间百分比
+
+[1.0](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/expressroute_sla_chinese1.0.pdf) 最后更新日期：2016 年 3 月

@@ -8,14 +8,14 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="03/2016" wacn.date="03/2016" wacn.lang="en"/>
+<tags ms.service="legal-en" ms.date="03/2017" wacn.date="03/2017" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/expressroute/)
 - [English](/support/sla/expressroute-en/)
 # SLA for ExpressRoute
 
-We guarantee a minimum of 99.9% ExpressRoute dedicated circuit availability.
+We guarantee a minimum of 99.95% ExpressRoute dedicated circuit availability.
 
 
 ## Introduction
@@ -23,7 +23,7 @@ We guarantee a minimum of 99.9% ExpressRoute dedicated circuit availability.
 
 This Service Level Agreement for Azure (this “SLA”) is made by 21Vianet in connection with, and is a part of, the agreement under which Customer has purchased Azure Services from 21Vianet (the “Agreement”).
 
-We provide financial backing to our commitment to achieve and maintain Service Levels for our Services. If we do not achieve and maintain the Service Levels for each Service as described in this SLA, then you may be eligible for a credit towards a portion of your monthly service fees. These terms will be fixed for term of your Agreement. If a subscription is renewed, the version of this SLA that is current at the time the renewal term commences will apply throughout the renewal term. We will provide at least 90 days' notice for adverse material changes to this SLA. You can review the most current version of this SLA at any time by visiting [http://www.azure.cn/support/legal/sla/](http://www.azure.cn/support/legal/sla/) 
+We provide financial backing to our commitment to achieve and maintain Service Levels for our Services. If we do not achieve and maintain the Service Levels for each Service as described in this SLA, then you may be eligible for a credit towards a portion of your monthly service fees. These terms will be fixed for term of your Agreement. If a subscription is renewed, the version of this SLA that is current at the time the renewal term commences will apply throughout the renewal term. We will provide at least 90 days' notice for adverse material changes to this SLA. You can review the most current version of this SLA at any time by visiting [http://www.azure.cn/support/legal/sla/](https://www.azure.cn/support/legal/sla/) 
 
 
 ## General Terms 
@@ -132,6 +132,13 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 	Monthly Uptime Percentage	|Service Credit
 	----------------------------|---------
-	<99.9%				        |10% 
+	<99.95%				        |10% 
 	<99%				        |25% 
 
+## Version History
+
+[1.1](/support/sla/expressroute-en/) Last updated： Mar 2017
+
+Release notes: Updated ExpressRoute SLA to reflect the new monthly uptime percentage
+
+[1.0](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/expressroute_sla_english1.0.pdf) Last updated： Mar 2016
