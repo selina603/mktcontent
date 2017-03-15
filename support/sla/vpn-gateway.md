@@ -8,14 +8,16 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="05/2016" wacn.date="05/2016" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="03/2017" wacn.date="03/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/vpn-gateway/)
 - [English](/support/sla/vpn-gateway-en/)
 #VPN 网关服务级别协议
 
-我们保证每个 VPN 网关的可用性达到 99.9%。
+我们保证每个 VPN 或 ExpressRoute 的基本网关均具有 99.9% 的可用性。
+我们保证每个 VPN 或 ExpressRoute 的标准网关均具有 99.95% 的可用性。
+我们保证每个 VPN 或 ExpressRoute 的高性能网关均具有 99.95% 的可用性。
 
 
 ##引言
@@ -124,6 +126,21 @@
 4.客户在使用 VPN 网关时适用以下服务级别和服务费抵扣：
 
 每月正常运行时间百分比 | 服务费抵扣  
+
+##VPN 或 ExpressRoute 的基本网关
 ---|---
 <99.9% | 10%  
 <99% | 25% 
+
+##VPN 或 ExpressRoute 的标准网关/VPN 或 ExpressRoute 的高性能网关
+---|---
+<99.95% | 10%  
+<99% | 25% 
+
+## 版本历史记录
+
+[1.1](/support/sla/vpn-gateway/) 最后更新日期：2017 年 3 月
+
+发布说明：已更新摘要陈述，涵盖了所有 VPN 网关类型
+
+[1.0](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/vpn_gateway_sla_chinese1.0.pdf) 最后更新日期：2016 年 5 月
