@@ -10,14 +10,14 @@
 
 <tags ms.service="weekly-updates" ms.date="" wacn.date="" wacn.lang="cn"/>
 
-# Azure 官网本周更新   3 月 6 日 - 3 月 10 日
+# Azure 官网本周更新   ( 3 月 6 日 - 3 月 10 日)
 ## 网站其它更新
  
 视频：[如何处理超额计费](/video-center/)、[如何查看超额具体使用情况](/video-center/)、[企业门户的报表介绍](/video-center/)
 
-于[Azure 电汇说明](/pricing/billing/azure-wire-transfer-overview/)增加境外汇款相关信息
+增加了境外汇款相关信息,详见[Azure 电汇说明](/pricing/billing/azure-wire-transfer-overview/)
 
-于[信任中心](//www.trustcenter.cn/)发布 Power BI 相关内容
+发布 Power BI 相关内容，详见[信任中心](//www.trustcenter.cn/)发布 Power BI 相关内容
 
 
 

@@ -10,7 +10,7 @@
 
 <tags ms.service="weekly-updates" ms.date="" wacn.date="" wacn.lang="cn"/>
 
-# Azure 官网往期更新   2 月 27 日 - 3 月 3 日
+# Azure 官网往期更新   ( 2 月 27 日 - 3 月 3 日)
 ## 产品发布与更新
 ### Azure ExpressRoute 的超高性能网关层于 3 月 1 日正式发布
 超高性能网关将虚拟网络和 Azure ExpressRoute 线路连接起来，所提供的网络吞吐量是高性能网关的五倍。
@@ -27,7 +27,9 @@
 预测性维护预配置解决方案是 Azure IoT 套件预配置解决方案之一。
 
 
-[预见性维护预配置解决方案概述](/documentation/articles/iot-suite-predictive-overview/)、[预见性维护预配置解决方案演练](/documentation/articles/iot-suite-predictive-walkthrough/)
+[预见性维护预配置解决方案概述](/documentation/articles/iot-suite-predictive-overview/)
+
+[预见性维护预配置解决方案演练](/documentation/articles/iot-suite-predictive-walkthrough/)
 
 
 
@@ -51,9 +53,9 @@ R Server 是目前面向 R 的最广泛可部署的企业级分析平台。
  
 博客：[Azure SQL 数据库中的 DTU 和 eDTU 是什么](/blog/2017/02/28/AzureDtuAndEdtu/)
   
-于[虚拟机的服务级别协议](/support/sla/virtual-machines/)增加新的单实例虚拟机服务级别协议，发布与最大可用分钟数有关的更新。
+增加新的单实例虚拟机服务级别协议，发布与最大可用分钟数有关的更新,详情见[虚拟机的服务级别协议](/support/sla/virtual-machines/)。
 
-发布[Azure 资源管理器](/documentation/services/azure-resource-manager/)文档首页，用户可以在顶部导航栏 “监控 + 管理” 中找到[文档概览](/documentation/)功能介绍入口。
+发布[Azure 资源管理器](/documentation/services/azure-resource-manager/)文档首页，用户可以在顶部导航栏 “监控 + 管理” 中找到入口。
 
 SQL 数据仓库标准版价格正式启用，有关详细信息，请访问[SQL 数据仓库价格详情](/pricing/details/sql-data-warehouse/)。
 
