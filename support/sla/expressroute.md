@@ -8,14 +8,14 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="03/2016" wacn.date="03/2016" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="03/2017" wacn.date="03/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/expressroute/)
 - [English](/support/sla/expressroute-en/)
 # ExpressRoute 的服务级别协议
 
-我们保证 ExpressRoute 专用线路可用性至少为 99.9%。
+我们保证 ExpressRoute 专用线路可用性至少为 99.95%。
 
 
 ## 引言
@@ -132,6 +132,13 @@
 
 	每月正常服务时间百分比	|服务费抵扣
 	--------------------|---------
-	<99.9%				|10% 
+	<99.95%				|10% 
 	<99%				|25% 
 
+## 版本历史记录
+
+[1.1](/support/sla/expressroute/) 最后更新日期：2017 年 3 月
+
+发布说明：更新了 ExpressRoute 服务级别协议以反映新的每月正常服务时间百分比
+
+[1.0](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/expressroute_sla_chinese1.0.pdf) 最后更新日期：2016 年 3 月

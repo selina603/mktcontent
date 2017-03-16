@@ -8,14 +8,14 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="03/2016" wacn.date="03/2016" wacn.lang="en"/>
+<tags ms.service="legal-en" ms.date="03/2017" wacn.date="03/2017" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/expressroute/)
 - [English](/support/sla/expressroute-en/)
 # SLA for ExpressRoute
 
-We guarantee a minimum of 99.9% ExpressRoute dedicated circuit availability.
+We guarantee a minimum of 99.95% ExpressRoute dedicated circuit availability.
 
 
 ## Introduction
@@ -132,6 +132,13 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 	Monthly Uptime Percentage	|Service Credit
 	----------------------------|---------
-	<99.9%				        |10% 
+	<99.95%				        |10% 
 	<99%				        |25% 
 
+## Version History
+
+[1.1](/support/sla/expressroute-en/) Last updated： Mar 2017
+
+Release notes: Updated ExpressRoute SLA to reflect the new monthly uptime percentage
+
+[1.0](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/expressroute_sla_english1.0.pdf) Last updated： Mar 2016
