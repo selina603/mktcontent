@@ -13,7 +13,7 @@
 > [AZURE.LANGUAGE]
 - [中文](/support/legal/sla/)
 - [English](/support/legal/sla-en/)
-
+ 
 # 服务级别协议
 
 此协议描述的是由世纪互联运营的 Microsoft Azure 关于运行时间和连接性方面的承诺。单个 Azure 服务的服务级别协议如下所列。 
@@ -85,7 +85,7 @@
 
 [所有 Azure 服务的服务级别协议的摘要](/support/sla/abstract/)
 
-点击[此处](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_Chinese_170228.pdf)可以下载大部分 Azure 服务的服务级别协议
+点击[此处](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_Chinese_170316.pdf)可以下载大部分 Azure 服务的服务级别协议
 
 [虚拟机]: /support/sla/virtual-machines/
 [虚拟机规模集]: /support/sla/virtual-machine-scale-sets/
