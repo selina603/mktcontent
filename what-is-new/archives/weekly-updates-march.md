@@ -53,7 +53,7 @@ R Server 是目前面向 R 的最广泛可部署的企业级分析平台。
  
 博客：[Azure SQL 数据库中的 DTU 和 eDTU 是什么](/blog/2017/02/28/AzureDtuAndEdtu/)
   
-增加新的单实例虚拟机服务级别协议，发布与最大可用分钟数有关的更新,详情见[虚拟机的服务级别协议](/support/sla/virtual-machines/)。
+增加新的单实例虚拟机服务级别协议，发布与最大可用分钟数有关的更新，详情见[虚拟机的服务级别协议](/support/sla/virtual-machines/)。
 
 发布[Azure 资源管理器](/documentation/services/azure-resource-manager/)文档首页，用户可以在顶部导航栏 “监控 + 管理” 中找到入口。
 
