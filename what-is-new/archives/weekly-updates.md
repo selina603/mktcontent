@@ -15,9 +15,9 @@
  
 视频：[如何处理超额计费](/video-center/)、[如何查看超额具体使用情况](/video-center/)、[企业门户的报表介绍](/video-center/)
 
-增加了境外汇款相关信息，详见[Azure 电汇说明](/pricing/billing/azure-wire-transfer-overview/)
+Azure 电汇说明增加了境外汇款相关信息，详见[Azure 电汇说明](/pricing/billing/azure-wire-transfer-overview/)
 
-发布 Power BI 相关内容，详见[信任中心](//www.trustcenter.cn/)发布 Power BI 相关内容
+信任中心发布 Power BI 相关内容，详见[信任中心](//www.trustcenter.cn/)
 
 
 
