@@ -1,14 +1,22 @@
 <properties
 	pageTitle="互联网信息服务单位网络安全责任告知书 | Azure"
     description="互联网信息服务单位网络安全责任告知书"
-    services=""
+    services="public-security-registration"
     documentationCenter=""
-    authors=""
-    manager=""
+    authors="will"
+    manager="edwinc"
     editor=""
-    tags=""/>
+    tags="public-security-registration"/>
 	
-<tags ms.service="announcement" ms.date="" wacn.date="" wacn.lang="cn"/>
+<tags ms.service="public-security-registration"
+	ms.workload=""
+	ms.tgt_pltfrm=""
+	ms.devlang="na"
+	ms.topic="article"
+	ms.date="03/2017"
+	wacn.date="03/2017"
+	wacn.lang="cn" 
+	ms.author="will"/>
 
 # 互联网信息服务单位网络安全责任告知书
 ## 尊敬的用户您好！
@@ -37,4 +45,3 @@
  
 上海蓝云网络科技有限公司
 二零一六年四月二十一日
-
