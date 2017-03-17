@@ -39,12 +39,12 @@
 <table width="100%">
 <thead>
 <tr>
-	<th align="left">行政区域</th>
-	<th align="left">地点</th>
-	<th align="left">对外联系电话</th>
-	<th align="left">行政区域</th>
-	<th align="left">地点</th>
-	<th align="left">对外联系电话</th>
+	<th align="left"><b>行政区域</b></th>
+	<th align="left"><b>地点</b></th>
+	<th align="left"><b>对外联系电话</b></th>
+	<th align="left"><b>行政区域</b></th>
+	<th align="left"><b>地点</b></th>
+	<th align="left"><b>对外联系电话</b></th>
 </tr>
 </thead>
 <tbody>
