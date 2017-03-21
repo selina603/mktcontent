@@ -184,13 +184,13 @@ Azure SQL Database Premium RS 现已发布公共预览版，它专为可接受�
 
 博客：[New blog - SQL 数据库新功能之数据掩码](/blog/2017/03/10/sqldatamasking)
 
-Azure Media Services 增加了新的常见问题，详见[媒体服务价格详情页](/pricing/details/media-services/)
+Azure Media Services 增加了新的常见问题，详请见[媒体服务价格详情页](/pricing/details/media-services/)
 
-发布了降价信息，详见[Azure 定价页面](/pricing/overview/)
+Azure 将以更优惠的价格提供更优质的服务，详请见[Azure 定价页面](/pricing/overview/)
 
-增加新的 VPN 服务级别协议，发布与最大可用分钟数有关的更新，详情见[VPN 服务级别协议](/support/sla/vpn-gateway/)
+增加新的 VPN 服务级别协议，发布与最大可用分钟数有关的更新，详请见[VPN 服务级别协议](/support/sla/vpn-gateway/)
 
-ExpressRoute 服务级别协议发布与最大可用分钟数有关的更新，详情见[ExpressRoute 服务级别协议](/support/sla/expressroute/)
+ExpressRoute 服务级别协议发布与最大可用分钟数有关的更新，详请见[ExpressRoute 服务级别协议](/support/sla/expressroute/)
 
 增加了新的关于 ICP 的常见问题，详情见[常见问题页面](/support/faq/)
 
