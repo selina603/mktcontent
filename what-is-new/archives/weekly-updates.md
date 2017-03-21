@@ -192,7 +192,7 @@ Azure 将以更优惠的价格提供更优质的服务，详请见[Azure 定价�
 
 ExpressRoute 服务级别协议发布与最大可用分钟数有关的更新，详请见[ExpressRoute 服务级别协议](/support/sla/expressroute/)
 
-增加了新的关于 ICP 的常见问题，详情见[常见问题页面](/support/faq/)
+增加了新的关于 ICP 的常见问题，详请见[常见问题页面](/support/faq/)
 
 
 
