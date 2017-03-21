@@ -186,8 +186,6 @@ Azure SQL Database Premium RS 现已发布公共预览版，它专为可接受�
 
 Azure Media Services 增加了新的常见问题，详请见[媒体服务价格详情页](/pricing/details/media-services/)
 
-Azure 将以更优惠的价格提供更优质的服务，详请见[Azure 定价页面](/pricing/overview/)
-
 增加新的 VPN 服务级别协议，发布与最大可用分钟数有关的更新，详请见[VPN 服务级别协议](/support/sla/vpn-gateway/)
 
 ExpressRoute 服务级别协议发布与最大可用分钟数有关的更新，详请见[ExpressRoute 服务级别协议](/support/sla/expressroute/)
