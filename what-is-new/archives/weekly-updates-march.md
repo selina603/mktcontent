@@ -13,7 +13,9 @@
 # Azure 官网往期更新 
 ## 3 月 6 日 - 3 月 10 日
 ## 网站其它更新 
- 
+
+博客：[New blog - SQL 数据库新功能之数据掩码](/blog/2017/03/10/sqldatamasking) 
+
 视频：[如何处理超额计费](/video-center/)、[如何查看超额具体使用情况](/video-center/)、[企业门户的报表介绍](/video-center/)
 
 Azure 电汇说明增加了境外汇款相关信息，详见[Azure 电汇说明](/pricing/billing/azure-wire-transfer-overview/)
