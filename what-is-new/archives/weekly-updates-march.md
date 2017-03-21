@@ -10,9 +10,8 @@
 
 <tags ms.service="weekly-updates" ms.date="" wacn.date="" wacn.lang="cn"/>
 
-# Azure 官网往期更新   
-# 3 月 6 日 - 3 月 10 日
-## 网站其它更新
+# Azure 官网往期更新 ( 3 月 6 日 - 3 月 10 日)
+## 网站其它更新 ( 3 月 6 日 - 3 月 10 日)
  
 视频：[如何处理超额计费](/video-center/)、[如何查看超额具体使用情况](/video-center/)、[企业门户的报表介绍](/video-center/)
 
@@ -22,7 +21,7 @@ Azure 电汇说明增加了境外汇款相关信息，详见[Azure 电汇说明]
 
 
 
-## 技术文档更新
+## 技术文档更新 ( 3 月 6 日 - 3 月 10 日)
 [在 Azure 中为应用程序配置 SSL](/documentation/articles/cloud-services-configure-ssl-certificate-portal/)
 
 [为 Azure 云服务配置自定义域名](/documentation/articles/cloud-services-custom-domain-name-portal/)
@@ -77,8 +76,8 @@ Azure 电汇说明增加了境外汇款相关信息，详见[Azure 电汇说明]
 
 </br>
 </br>
-#2 月 27 日 - 3 月 3 日
-## 产品发布与更新
+# Azure 官网往期更新 ( 2 月 27 日 - 3 月 3 日)
+## 产品发布与更新 ( 2 月 27 日 - 3 月 3 日)
 ### Azure ExpressRoute 的超高性能网关层于 3 月 1 日正式发布
 超高性能网关将虚拟网络和 Azure ExpressRoute 线路连接起来，所提供的网络吞吐量是高性能网关的五倍。
 
@@ -115,7 +114,7 @@ R Server 是目前面向 R 的最广泛可部署的企业级分析平台。
 
 
 
-## 网站其它更新
+## 网站其它更新 ( 2 月 27 日 - 3 月 3 日)
  
 博客：[Azure SQL 数据库中的 DTU 和 eDTU 是什么](/blog/2017/02/28/AzureDtuAndEdtu/)
   
@@ -128,7 +127,7 @@ SQL 数据仓库标准版价格正式启用，有关详细信息，请访问[SQL
 
 
 
-## 技术文档更新
+## 技术文档更新 ( 2 月 27 日 - 3 月 3 日)
 [使用 Azure 门户预览管理 HDInsight 中的 Hadoop 群集](/documentation/articles/hdinsight-administer-use-management-portal/)
 
 [可与 HDInsight 使用的不同 Hadoop 组件有哪些？](/documentation/articles/hdinsight-component-versioning/)
@@ -187,7 +186,7 @@ SQL 数据仓库标准版价格正式启用，有关详细信息，请访问[SQL
 
 
 
-## 常用操作指南更新
+## 常用操作指南更新 ( 2 月 27 日 - 3 月 3 日)
 [云服务实例时间同步问题](/documentation/articles/aog-cloud-services-qa-instance-time-sync/)
 
 [Node JS 如何使用 MQTT 协议调用“直接方法”](/documentation/articles/aog-iot-hub-howto-use-mqtt-protocol-call-direct-method/)
