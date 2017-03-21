@@ -10,8 +10,8 @@
 
 <tags ms.service="weekly-updates" ms.date="" wacn.date="" wacn.lang="cn"/>
 
-# Azure 官网往期更新   ( 3 月 6 日 - 3 月 10 日)
-#    
+# Azure 官网往期更新   
+# 3 月 6 日 - 3 月 10 日
 ## 网站其它更新
  
 视频：[如何处理超额计费](/video-center/)、[如何查看超额具体使用情况](/video-center/)、[企业门户的报表介绍](/video-center/)
@@ -77,7 +77,7 @@ Azure 电汇说明增加了境外汇款相关信息，详见[Azure 电汇说明]
 
 </br>
 </br>
-# Azure 官网往期更新   ( 2 月 27 日 - 3 月 3 日)
+#2 月 27 日 - 3 月 3 日
 ## 产品发布与更新
 ### Azure ExpressRoute 的超高性能网关层于 3 月 1 日正式发布
 超高性能网关将虚拟网络和 Azure ExpressRoute 线路连接起来，所提供的网络吞吐量是高性能网关的五倍。
