@@ -54,7 +54,7 @@ Azure 电汇说明增加了境外汇款相关信息，详见[Azure 电汇说明]
 
 [了解 ImageStoreConnectionString 设置](/documentation/articles/service-fabric-image-store-connection-string/)
 
-### 
+### 构建在 Azure 基础之上的应用程序
 [构建在 Azure 基础之上的应用程序灾难恢复](/documentation/articles/resiliency-disaster-recovery-azure-applications/)
 
 [构建在 Azure 基础之上的应用程序灾难恢复和高可用性](/documentation/articles/resiliency-disaster-recovery-high-availability-azure-applications/)
@@ -63,6 +63,7 @@ Azure 电汇说明增加了境外汇款相关信息，详见[Azure 电汇说明]
 
 [高可用性清单](/documentation/articles/resiliency-high-availability-checklist/)
 
+### Azure 服务复原指南
 [Azure 服务复原指南](/documentation/articles/resiliency-service-guidance-index/)
 
 [Azure 复原技术指南 - 数据损坏或意外删除后进行恢复](/documentation/articles/resiliency-technical-guidance-recovery-data-corruption/)
