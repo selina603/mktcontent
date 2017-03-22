@@ -13,7 +13,7 @@
 # Azure 官网往期更新 
 ## 3/6 - 3/10 
 ## 重要商务内容更新
-### 博客：
+### 博客
 
 - [数据库安全之数据掩码：SQL 2016新功能之动态数据掩码（SQL 2016 & AZURE SQL 数据库）](/blog/2017/03/10/sqldatamasking) 
 
@@ -93,7 +93,7 @@
 
 - 增加新的单实例虚拟机服务级别协议，发布与最大可用分钟数有关的更新，详情见[虚拟机的服务级别协议](/support/sla/virtual-machines/)。 
 
-### 博客：
+### 博客
 
 - [Azure SQL 数据库中的 DTU 和 eDTU 是什么](/blog/2017/02/28/AzureDtuAndEdtu/)
 
