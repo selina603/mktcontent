@@ -11,8 +11,9 @@
 <tags ms.service="weekly-updates" ms.date="" wacn.date="" wacn.lang="cn"/>
 
 # Azure 官网往期更新 
-## 3 月 6 日 - 3 月 10 日
-## 网站其它更新 
+## 3/6 - 3/10 
+## 重要商务内容更新
+### 其他更新 
 
 博客：[数据库安全之数据掩码：SQL 2016新功能之动态数据掩码（SQL 2016 & AZURE SQL 数据库）](/blog/2017/03/10/sqldatamasking) 
 
@@ -24,7 +25,8 @@ Azure 电汇说明增加了境外汇款相关信息，详见[Azure 电汇说明]
 
 
 
-## 技术文档更新
+## 其他技术文档更新
+### 云服务
 [在 Azure 中为应用程序配置 SSL](/documentation/articles/cloud-services-configure-ssl-certificate-portal/)
 
 [为 Azure 云服务配置自定义域名](/documentation/articles/cloud-services-custom-domain-name-portal/)
@@ -43,6 +45,7 @@ Azure 电汇说明增加了境外汇款相关信息，详见[Azure 电汇说明]
 
 [验证 ExpressRoute 连接](/documentation/articles/expressroute-troubleshooting-expressroute-overview/)
 
+### Service Fabric
 [规划和准备 Service Fabric 独立群集部署](/documentation/articles/service-fabric-cluster-standalone-deployment-preparation/)
 
 [打包适用于 Windows Server 的 Service Fabric 独立包的内容](/documentation/articles/service-fabric-cluster-standalone-package-contents/)
@@ -51,6 +54,7 @@ Azure 电汇说明增加了境外汇款相关信息，详见[Azure 电汇说明]
 
 [了解 ImageStoreConnectionString 设置](/documentation/articles/service-fabric-image-store-connection-string/)
 
+### 
 [构建在 Azure 基础之上的应用程序灾难恢复](/documentation/articles/resiliency-disaster-recovery-azure-applications/)
 
 [构建在 Azure 基础之上的应用程序灾难恢复和高可用性](/documentation/articles/resiliency-disaster-recovery-high-availability-azure-applications/)
@@ -71,16 +75,34 @@ Azure 电汇说明增加了境外汇款相关信息，详见[Azure 电汇说明]
 
 [Azure 复原技术指南](/documentation/articles/resiliency-technical-guidance/)
 
+### 应用服务
 [将活动的自定义域迁移到 Azure 应用服务](/documentation/articles/app-service-custom-domain-name-migrate/)
 
 [应用程序网关常见问题](/documentation/articles/application-gateway-faq/)
 
+### MySQL Database on Azure  
 [替换应用的WoSign根证书为DigiCert](/documentation/articles/mysql-database-wosign-digicert-rotate/)
 
 </br>
 </br>
-## 2 月 27 日 - 3 月 3 日
-## 产品发布与更新
+## 2/27 - 3/3 
+## 重要商务内容更新
+### 服务级别协议更新  
+
+增加新的单实例虚拟机服务级别协议，发布与最大可用分钟数有关的更新，详情见[虚拟机的服务级别协议](/support/sla/virtual-machines/)。
+
+### 其它更新
+ 
+博客：[Azure SQL 数据库中的 DTU 和 eDTU 是什么](/blog/2017/02/28/AzureDtuAndEdtu/)
+
+发布[Azure 资源管理器](/documentation/services/azure-resource-manager/)文档首页，用户可以在顶部导航栏 “监控 + 管理” 中找到入口。
+
+SQL 数据仓库标准版价格正式启用，有关详细信息，请访问[SQL 数据仓库价格详情](/pricing/details/sql-data-warehouse/)。
+
+
+
+
+## 新产品发布与文档更新
 ### Azure ExpressRoute 的超高性能网关层于 3 月 1 日正式发布
 超高性能网关将虚拟网络和 Azure ExpressRoute 线路连接起来，所提供的网络吞吐量是高性能网关的五倍。
 
@@ -117,20 +139,8 @@ R Server 是目前面向 R 的最广泛可部署的企业级分析平台。
 
 
 
-## 网站其它更新
- 
-博客：[Azure SQL 数据库中的 DTU 和 eDTU 是什么](/blog/2017/02/28/AzureDtuAndEdtu/)
-  
-增加新的单实例虚拟机服务级别协议，发布与最大可用分钟数有关的更新，详情见[虚拟机的服务级别协议](/support/sla/virtual-machines/)。
-
-发布[Azure 资源管理器](/documentation/services/azure-resource-manager/)文档首页，用户可以在顶部导航栏 “监控 + 管理” 中找到入口。
-
-SQL 数据仓库标准版价格正式启用，有关详细信息，请访问[SQL 数据仓库价格详情](/pricing/details/sql-data-warehouse/)。
-
-
-
-
-## 技术文档更新
+## 其他技术文档更新
+### Azure HDInsight 
 [使用 Azure 门户预览管理 HDInsight 中的 Hadoop 群集](/documentation/articles/hdinsight-administer-use-management-portal/)
 
 [可与 HDInsight 使用的不同 Hadoop 组件有哪些？](/documentation/articles/hdinsight-component-versioning/)
@@ -167,6 +177,7 @@ SQL 数据仓库标准版价格正式启用，有关详细信息，请访问[SQL
 
 [使用 Apache Storm on HDInsight 确定 Twitter 趋势主题](/documentation/articles/hdinsight-storm-twitter-trending/)
 
+### Azure DocumentDB
 [NoSQL 教程：构建 DocumentDB Java 控制台应用程序](/documentation/articles/documentdb-java-get-started/)
 
 [使用 Azure DocumentDB 构建多区域作者体系结构](/documentation/articles/documentdb-multi-region-writers/)
@@ -175,12 +186,16 @@ SQL 数据仓库标准版价格正式启用，有关详细信息，请访问[SQL
 
 [在 Azure DocumentDB 中使用日期](/documentation/articles/documentdb-working-with-dates/)
 
+### 密钥保管库
 [Azure 密钥保管库可用性和冗余](/documentation/articles/key-vault-disaster-recovery-guidance/)
 
+### 事件中心
 [事件中心管理库](/documentation/articles/event-hubs-management-libraries/)
 
+### SQL数据仓库
 [SQL 数据仓库数据管理合作伙伴](/documentation/articles/sql-data-warehouse-partner-data-management/)
 
+### Azure 存储
 [将 Azure CLI 1.0 用于 Azure 存储](/documentation/articles/storage-azure-cli-nodejs/)
 
 [使用 .NET 的 Azure 存储示例](/documentation/articles/storage-samples-dotnet/)
