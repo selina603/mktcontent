@@ -10,19 +10,40 @@
 
 <tags ms.service="weekly-updates" ms.date="" wacn.date="" wacn.lang="cn"/>
 
-# Azure 官网本周更新   ( 3 月 13 日 - 3 月 17 日)
-##产品发布与更新
+# Azure 官网本周更新   ( 3/13 - 3/17)
+##重要商务内容更新
+##服务级别协议更新
+
+增加新的 VPN 服务级别协议，发布与最大可用分钟数有关的更新，详请见[VPN 服务级别协议](/support/sla/vpn-gateway/)
+
+ExpressRoute 服务级别协议发布与最大可用分钟数有关的更新，详请见[ExpressRoute 服务级别协议](/support/sla/expressroute/)
+
+##其他更新
+Azure Media Services 增加了新的常见问题，详请见[媒体服务价格详情页](/pricing/details/media-services/)
+
+增加了新的关于 ICP 的常见问题，详请见[常见问题页面](/support/faq/)
+
+##新产品发布与文档更新
+###Azure SQL 数据库高级 RS 层预览于 3 月 17 日正式发布
+Azure SQL Database Premium RS 现已发布公共预览版，它专为可接受有限持久性保证和较低服务级别协议 (SLA) 的 IO 密集型工作负荷设计。
+
+
+[SQL 数据库 功能介绍](/home/features/sql-database/)、[SQL 数据库 价格详情](/pricing/details/sql-database/)
+
+[Azure SQL 数据库以及单一数据库的性能](/documentation/articles/sql-database-performance-guidance/)
+
+[SQL 数据库选项和性能：了解每个服务层提供的功能](/documentation/articles/sql-database-service-tiers/)
+
 ###Azure HDInsight Dv2 系列于 3 月 14 日正式发布
 
-
 [HDInsight 功能介绍](/home/features/hdinsight/)、[HDInsight 价格详情](/pricing/details/hdinsight/)
-
 
 
 ###Azure HDInsight 运行在 Linux 的 Apache Hadoop 于 3 月 14 日正式发布
 Apache Hadoop 现已正式发布，在部署工作负荷时可以选择 Linux 群集。
 
 
+##Azure HDInsight 新增技术文档
 [HDInsight 功能介绍](/home/features/hdinsight/)、[HDInsight 价格详情](/pricing/details/hdinsight/)
 
 [将 HDInsight 群集升级到更新版本](/documentation/articles/hdinsight-upgrade-cluster/)
@@ -168,33 +189,13 @@ Apache Hadoop 现已正式发布，在部署工作负荷时可以选择 Linux �
 
 
 
-###Azure SQL 数据库高级 RS 层预览于 3 月 17 日正式发布
-Azure SQL Database Premium RS 现已发布公共预览版，它专为可接受有限持久性保证和较低服务级别协议 (SLA) 的 IO 密集型工作负荷设计。
 
 
-[SQL 数据库 功能介绍](/home/features/sql-database/)、[SQL 数据库 价格详情](/pricing/details/sql-database/)
-
-[Azure SQL 数据库以及单一数据库的性能](/documentation/articles/sql-database-performance-guidance/)
-
-[SQL 数据库选项和性能：了解每个服务层提供的功能](/documentation/articles/sql-database-service-tiers/)
-
-
-
-## 内容更新
-
-Azure Media Services 增加了新的常见问题，详请见[媒体服务价格详情页](/pricing/details/media-services/)
-
-增加新的 VPN 服务级别协议，发布与最大可用分钟数有关的更新，详请见[VPN 服务级别协议](/support/sla/vpn-gateway/)
-
-ExpressRoute 服务级别协议发布与最大可用分钟数有关的更新，详请见[ExpressRoute 服务级别协议](/support/sla/expressroute/)
-
-增加了新的关于 ICP 的常见问题，详请见[常见问题页面](/support/faq/)
-
-
-
-## 技术文档更新
+## 其他技术文档更新
+###多重身份验证
 [使用手机而不是密码登录](/documentation/articles/microsoft-authenticator-app-phone-signin-faq/)
 
+###Active Directory
 [存在现有的租户时如何使用 Azure AD Connect](/documentation/articles/active-directory-aadconnect-existing-tenant/)
 
 [与 Azure AD 联合的多域支持](/documentation/articles/active-directory-aadconnect-multiple-domains/)
