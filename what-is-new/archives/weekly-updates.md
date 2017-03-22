@@ -10,7 +10,7 @@
 
 <tags ms.service="weekly-updates" ms.date="" wacn.date="" wacn.lang="cn"/>
 
-# Azure 官网本周更新   ( 3/13 - 3/17)
+# Azure 官网本周更新    3/13 - 3/17
 ##重要商务内容更新
 ##服务级别协议更新
 
