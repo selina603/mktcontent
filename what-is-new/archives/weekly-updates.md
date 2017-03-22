@@ -194,7 +194,7 @@ Apache Hadoop 现已正式发布，在部署工作负荷时可以选择 Linux �
 
 ## 新技术文档发布
 ### 多重身份验证
-- [Microsoft 验证器手机登录](/documentation/articles/microsoft-authenticator-app-phone-signin-faq/)
+- [Microsoft 验证器手机登陆常见问题](/documentation/articles/microsoft-authenticator-app-phone-signin-faq/)
 
 ### Active Directory
 - [存在现有的租户时如何使用 Azure AD Connect](/documentation/articles/active-directory-aadconnect-existing-tenant/)
