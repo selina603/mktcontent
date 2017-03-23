@@ -30,7 +30,7 @@ Azure SQL Database Premium RS 现已发布公共预览版，它专为可接受�
 ### Azure HDInsight 运行在 Linux 的 Apache Hadoop 于 3 月 14 日正式发布
 Apache Hadoop 现已正式发布，在部署工作负荷时可以选择 Linux 群集。
 
-- <a href="/home/features/hdinsight/">HDInsight 功能介绍1</a>、[HDInsight 价格详情](/pricing/details/hdinsight/)
+- <a href="/home/features/hdinsight/">HDInsight 功能介绍1</a>、<a href="/pricing/details/hdinsight/">HDInsight 价格详情</a>
 
 
 ### Azure HDInsight 新增技术文档
