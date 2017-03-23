@@ -13,7 +13,7 @@
 # Azure 官网本周更新    3/13 - 3/17
 ## 重要商务内容更新
 ### 服务级别协议更新
-- 增加新的 VPN 服务级别协议，发布与最大可用分钟数有关的更新，详请见 <a href="/support/sla/vpn-gateway/">VPN 服务级别协议1</a>
+- 增加新的 VPN 服务级别协议，发布与最大可用分钟数有关的更新，详请见 <a id="weekly-updates_support_sla_vpn-gateway" href="/support/sla/vpn-gateway/">VPN 服务级别协议</a>
 - ExpressRoute 服务级别协议发布与最大可用分钟数有关的更新，详请见[ExpressRoute 服务级别协议](/support/sla/expressroute/)
 ### 其他更新
 - Azure Media Services 增加了新的常见问题，详请见[媒体服务价格详情页](/pricing/details/media-services/)
@@ -30,7 +30,7 @@ Azure SQL Database Premium RS 现已发布公共预览版，它专为可接受�
 ### Azure HDInsight 运行在 Linux 的 Apache Hadoop 于 3 月 14 日正式发布
 Apache Hadoop 现已正式发布，在部署工作负荷时可以选择 Linux 群集。
 
-- [HDInsight 功能介绍](/home/features/hdinsight/)、[HDInsight 价格详情](/pricing/details/hdinsight/)
+- <a href="/home/features/hdinsight/">HDInsight 功能介绍1</a>、[HDInsight 价格详情](/pricing/details/hdinsight/)
 
 
 ### Azure HDInsight 新增技术文档
