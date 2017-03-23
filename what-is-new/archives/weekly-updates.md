@@ -21,6 +21,7 @@
 ## 新产品发布与文档更新
 ### Azure SQL 数据库高级 RS 层预览于 3 月 17 日正式发布
 Azure SQL Database Premium RS 现已发布公共预览版，它专为可接受有限持久性保证和较低服务级别协议 (SLA) 的 IO 密集型工作负荷设计。
+
 - [SQL 数据库 功能介绍](/home/features/sql-database/)、[SQL 数据库 价格详情](/pricing/details/sql-database/)
 - [Azure SQL 数据库以及单一数据库的性能](/documentation/articles/sql-database-performance-guidance/)
 - [SQL 数据库选项和性能：了解每个服务层提供的功能](/documentation/articles/sql-database-service-tiers/)
