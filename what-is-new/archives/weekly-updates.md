@@ -13,7 +13,7 @@
 # Azure 官网本周更新    3/13 - 3/17
 ## 重要商务内容更新
 ### 服务级别协议更新
-- 增加新的 VPN 服务级别协议，发布与最大可用分钟数有关的更新，详请见[VPN 服务级别协议](/support/sla/vpn-gateway/)
+- 增加新的 VPN 服务级别协议，发布与最大可用分钟数有关的更新，详请见<a href="/support/sla/vpn-gateway/">VPN 服务级别协议</a>
 - ExpressRoute 服务级别协议发布与最大可用分钟数有关的更新，详请见[ExpressRoute 服务级别协议](/support/sla/expressroute/)
 ### 其他更新
 - Azure Media Services 增加了新的常见问题，详请见[媒体服务价格详情页](/pricing/details/media-services/)
