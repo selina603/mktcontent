@@ -15,18 +15,17 @@
 ### 服务级别协议更新
 <ul>
 <li>增加新的 VPN 服务级别协议，发布与最大可用分钟数有关的更新，详请见 <a id="weekly-updates_support_sla_vpn-gateway" href="/support/sla/vpn-gateway/">VPN 服务级别协议</a></li>
-<li>ExpressRoute 服务级别协议发布与最大可用分钟数有关的更新，详请见<a id="weekly-updates_sla-vpn-gateway" href="/support/sla/vpn-gateway/">ExpressRoute 服务级别协议</a></li>
+<li>ExpressRoute 服务级别协议发布与最大可用分钟数有关的更新，详请见 <a id="weekly-updates_sla-vpn-gateway" href="/support/sla/vpn-gateway/">ExpressRoute 服务级别协议</a></li>
 </ul>
 ### 其他更新
 <ul>
-<li>Azure Media Services 增加了新的常见问题，详请见<a id="weekly-updates_pricing-media-services" href="/pricing/details/media-services/">媒体服务价格详情页]</a></li>
-<li>增加了新的关于 ICP 的常见问题，详请见<a id="weekly-updates_support_faq" href="/support/faq/">常见问题页面</a></li>
+<li>Azure Media Services 增加了新的常见问题，详请见 <a id="weekly-updates_pricing-media-services" href="/pricing/details/media-services/">媒体服务价格详情页]</a></li>
+<li>增加了新的关于 ICP 的常见问题，详请见 <a id="weekly-updates_support_faq" href="/support/faq/">常见问题页面</a></li>
 </ul>
 ## 新产品发布与文档更新
 ### Azure SQL 数据库高级 RS 层预览于 3 月 17 日正式发布
+Azure SQL Database Premium RS 现已发布公共预览版，它专为可接受有限持久性保证和较低服务级别协议 (SLA) 的 IO 密集型工作负荷设计。
 <ul>
-<li>
-Azure SQL Database Premium RS 现已发布公共预览版，它专为可接受有限持久性保证和较低服务级别协议 (SLA) 的 IO 密集型工作负荷设计。</li>
 <li><a id="weekly-updates_home_features_sql-database" href="/home/features/sql-database/">SQL 数据库 功能介绍</a>、<a id="weekly-updates_pricing_details_sql-database" href="/pricing/details/sql-database/">SQL 数据库 价格详情</a></li>
 <li><a id="weekly-updates_documentation-sql-database-performance-guidance" href="/documentation/articles/sql-database-performance-guidance/">Azure SQL 数据库以及单一数据库的性能</a></li>
 <li><a id="weekly-updates_documentation-sql-database-service-tiers" href="/documentation/articles/sql-database-service-tiers/">SQL 数据库选项和性能：了解每个服务层提供的功能</a></li>
@@ -36,8 +35,8 @@ Azure SQL Database Premium RS 现已发布公共预览版，它专为可接受�
 <li><a id="weekly-updates_home_features_hdinsight" href="/home/features/hdinsight/">HDInsight 功能介绍</a>、<a id="weekly-updates_pricing_details_hdinsight" href="/pricing/details/hdinsight/">HDInsight 价格详情</a></li>
 </ul>
 ### Azure HDInsight 运行在 Linux 的 Apache Hadoop 于 3 月 14 日正式发布
+Apache Hadoop 现已正式发布，在部署工作负荷时可以选择 Linux 群集。
 <ul>
-<li>Apache Hadoop 现已正式发布，在部署工作负荷时可以选择 Linux 群集。</li>
 <li><a id="weekly-updates_home_features_hdinsight" href="/home/features/hdinsight/">HDInsight 功能介绍</a>、<a id="weekly-updates_pricing_details_hdinsight" href="/pricing/details/hdinsight/">HDInsight 价格详情</a></li>
 </ul>
 ### Azure HDInsight 新增技术文档
