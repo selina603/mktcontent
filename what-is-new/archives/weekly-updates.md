@@ -19,7 +19,7 @@
 </ul>
 ### 其他更新
 <ul>
-<li>Azure Media Services 增加了新的常见问题，详请见 <a id="weekly-updates_pricing-media-services" href="/pricing/details/media-services/">媒体服务价格详情页]</a></li>
+<li>Azure Media Services 增加了新的常见问题，详请见 <a id="weekly-updates_pricing-media-services" href="/pricing/details/media-services/">媒体服务价格详情页</a></li>
 <li>增加了新的关于 ICP 的常见问题，详请见 <a id="weekly-updates_support_faq" href="/support/faq/">常见问题页面</a></li>
 </ul>
 ## 新产品发布与文档更新
