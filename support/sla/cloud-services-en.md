@@ -15,7 +15,6 @@
 - [English](/support/sla/cloud-services-en/)
 # SLA for Cloud Services
 
-Last updated: March 2016
  
 For Cloud Services, we guarantee that when you deploy two or more role instances in different fault and upgrade domains, your Internet facing roles will have external connectivity at least 99.95% of the time.
 
