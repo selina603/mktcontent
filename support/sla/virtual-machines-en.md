@@ -143,7 +143,7 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 3. "**Monthly Uptime Percentage**" is calculated by subtracting from 100% the percentage of Minutes in the Month in which any Single Instance Virtual Machine using premium storage for all disks had Downtime.
 
-	Monthly Uptime % = 100% - (Minutes in the Month - Downtime) / Minutes in the Month X 100
+	Monthly Uptime % = (Minutes in the Month - Downtime) / Minutes in the Month X 100
 	
 4. The following Service Levels and Service Credits are applicable to Customer’s use of Single-Instance Virtual Machines:
 
