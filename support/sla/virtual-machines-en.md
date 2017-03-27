@@ -126,7 +126,7 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 3. "**Monthly Uptime Percentage**" for Virtual Machines is calculated as Maximum Available Minutes less Downtime divided by Maximum Available Minutes in a billing month for a given Azure subscription. Monthly Uptime Percentage is represented by the following formula:
 
-	Monthly Uptime % = (Maximum Available Minutes − Downtime) / Maximum Available Minutes
+	Monthly Uptime % = (Maximum Available Minutes − Downtime) / Maximum Available Minutes X 100
 	
 4. The following Service Levels and Service Credits are applicable to Customer's use of Virtual Machines:
 
@@ -143,7 +143,7 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 3. "**Monthly Uptime Percentage**" is calculated by subtracting from 100% the percentage of Minutes in the Month in which any Single Instance Virtual Machine using premium storage for all disks had Downtime.
 
-	Monthly Uptime % = 100% - (Minutes in the Month - Downtime) / Minutes in the Month
+	Monthly Uptime % = 100% - (Minutes in the Month - Downtime) / Minutes in the Month X 100
 	
 4. The following Service Levels and Service Credits are applicable to Customer’s use of Single-Instance Virtual Machines:
 
@@ -154,8 +154,12 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 ## Version History
 
-[1.1](/support/sla/virtual-machines-en/) Last updated： Feb 2017
+[1.2](/support/sla/virtual-machines-en/) Last updated： Mar 2017
+
+Release notes: Added ‘X 100’ to the monthly uptime availability formulas to fix a typo.
+
+[1.1](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/virtual_machine_sla_english1.1.pdf) Last updated： Feb 2017
 
 Release notes: Added a new, Single-Instance Virtual Machine SLA, Updates related to maximum available minutes
 
-[1.0](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/virtual_machine_sla_English1.0.pdf) Last updated： Mar 2016
+[1.0](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/virtual_machine_sla_english1.0.pdf) Last updated： Mar 2016

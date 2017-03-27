@@ -23,7 +23,7 @@ For Cloud Services, we guarantee that when you deploy two or more role instances
 
 This Service Level Agreement for Azure (this “SLA”) is made by 21Vianet in connection with, and is a part of, the agreement under which Customer has purchased Azure Services from 21Vianet (the “Agreement”).
 
-We provide financial backing to our commitment to achieve and maintain Service Levels for our Services. If we do not achieve and maintain the Service Levels for each Service as described in this SLA, then you may be eligible for a credit towards a portion of your monthly service fees. These terms will be fixed for term of your Agreement. If a subscription is renewed, the version of this SLA that is current at the time the renewal term commences will apply throughout the renewal term. We will provide at least 90 days' notice for adverse material changes to this SLA. You can review the most current version of this SLA at any time by visiting [http://www.azure.cn/support/legal/sla/](/support/legal/sla/).
+We provide financial backing to our commitment to achieve and maintain Service Levels for our Services. If we do not achieve and maintain the Service Levels for each Service as described in this SLA, then you may be eligible for a credit towards a portion of your monthly service fees. These terms will be fixed for term of your Agreement. If a subscription is renewed, the version of this SLA that is current at the time the renewal term commences will apply throughout the renewal term. We will provide at least 90 days' notice for adverse material changes to this SLA. You can review the most current version of this SLA at any time by visiting [https://www.azure.cn/support/legal/sla/](/support/legal/sla/).
 
 ## General Terms
 
@@ -123,7 +123,7 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 3. "**Monthly Uptime Percentage**" for Cloud Services is calculated as Maximum Available Minutes less Downtime divided by Maximum Available Minutes in a billing month for a given Azure subscription. Monthly Uptime Percentage is represented by the following formula:
 
-	Monthly Uptime % = (Maximum Available Minutes − Downtime) / Maximum Available Minutes
+	Monthly Uptime % = (Maximum Available Minutes − Downtime) / Maximum Available Minutes X 100
 
 4. The following Service Levels and Service Credits are applicable to Customer's use of Cloud Services:
 
@@ -131,3 +131,11 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 	----------------------------|---------------
 	<99.95%						|10% 
 	<99%						|25% 
+
+## Version History
+
+[1.1](/support/sla/cloud-services-en/) Last updated： Mar 2017
+
+Release notes: Added ‘X 100’ to the monthly uptime availability formulas to fix a typo.
+
+[1.0](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/cloud-services_sla_english1.0.pdf) Last updated： Mar 2017
