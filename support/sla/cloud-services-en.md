@@ -138,4 +138,4 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 Release notes: Added ‘X 100’ to the monthly uptime availability formulas to fix a typo.
 
-[1.0](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/cloud-services_sla_english1.0.pdf) Last updated： Mar 2017
+[1.0](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/cloud-services_sla_english1.0.pdf) Last updated： Mar 2016
