@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="02/2017" wacn.date="02/2017" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="03/2017" wacn.date="03/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/virtual-machines/)
