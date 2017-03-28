@@ -288,7 +288,7 @@ R Server 是目前面向 R 的最广泛可部署的企业级分析平台。
 <li><a id="weekly-update-march_3_documentation-storage-samples-dotnet" href="/documentation/articles/storage-samples-dotnet/">使用 .NET 的 Azure 存储示例</a></li>
 <li><a id="weekly-update-march_3_documentation-storage-samples-java" href="/documentation/articles/storage-samples-java/">使用 Java 的 Azure 存储示例</a></li>
 </ul>
-## 常用操作指新发布
+## 常用操作指南新发布
 <ul>
 <li><a id="weekly-update-march_3_documentation-aog-cloud-services-qa-instance-time-sync" href="/documentation/articles/aog-cloud-services-qa-instance-time-sync/">云服务实例时间同步问题</a></li>
 <li><a id="weekly-update-march_3_documentation-aog-iot-hub-howto-use-mqtt-protocol-call-direct-method" href="/documentation/articles/aog-iot-hub-howto-use-mqtt-protocol-call-direct-method/">Node JS 如何使用 MQTT 协议调用“直接方法”</a></li>

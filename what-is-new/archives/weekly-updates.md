@@ -12,14 +12,14 @@
 
 # Azure 官网本周更新    3/20 - 3/24
 ## 重要商务内容更新
-### 博客
-<ul>
-<li><a id="weekly-updates_3_20_blog-mongodocdb" href="/blog/2017/03/22/mongodocdb">亲爱的 #MongoDB 用户，欢迎来到 #Azure#DocumentDB</a></li>
-</ul>
-### 其他更新
+### Azure 在线课程
 <ul>
 <li><a id="weekly-updates_3_20_webinars" href="/webinars/">Azure 在线课程 </a>页面改版</li>
 <li><a id="weekly-updates_3_20_webinars" href="/webinars/">Azure 在线课程 </a>发布 3 月 8 日《Azure 容器服务》、3 月 15 日《Azure 容器服务》、《备份》、《服务总线》视频回放</li>
+</ul>
+### 博客
+<ul>
+<li><a id="weekly-updates_3_20_blog-mongodocdb" href="/blog/2017/03/22/mongodocdb">亲爱的 #MongoDB 用户，欢迎来到 #Azure#DocumentDB</a></li>
 </ul>
 ## 新技术文档发布
 ### DocumentDB
@@ -59,7 +59,7 @@
 <ul>
 <li><a id="weekly-updates_3_20_documentation-service-bus-sas" href="/documentation/articles/service-bus-sas/">服务总线的共享访问签名身份验证</a></li>
 </ul>
-## 常用操作指新发布
+## 常用操作指南新发布
 <ul>
 <li><a id="weekly-updates_3_20_documentation-aog-active-directory-qa-graph-api-auth-error-with-python" href="/documentation/articles/aog-active-directory-qa-graph-api-auth-error-with-python/">Python 调用 Graph API 认证出错</a></li>
 <li><a id="weekly-updates_3_20_documentation-aog-application-gateway-howto-configure-nsg" href="/documentation/articles/aog-application-gateway-howto-configure-nsg/">使用应用程序网关的环境下配置 NSG 的注意事项</a></li>
