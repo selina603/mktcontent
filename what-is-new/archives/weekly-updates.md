@@ -18,8 +18,8 @@
 </ul>
 ### 其他更新
 <ul>
-<li><a id="weekly-updates_3_20_webinars" href="/webinars/">Azure 在线课程页面改版</a></li>
-<li><a id="weekly-updates_3_20_webinars" href="/webinars/">Azure 在线课程 3.8 - 3.15 视频发布</a></li>
+<li><a id="weekly-updates_3_20_webinars" href="/webinars/">Azure 在线课程 </a>页面改版</li>
+<li><a id="weekly-updates_3_20_webinars" href="/webinars/">Azure 在线课程 </a>发布 3 月 8 日《Azure 容器服务》、3 月 15 日《Azure 容器服务》、《备份》、《服务总线》视频回放</li>
 </ul>
 ## 新技术文档发布
 ### DocumentDB
