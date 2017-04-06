@@ -11,8 +11,8 @@
 <tags ms.service="legal" ms.date="" wacn.date="" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
-- [中文](/offers/azure-monetary-credit/)
-- [English](/offers/azure-monetary-credit-en/)
+- <a id=“azure-monetary-credit_azure-monetary-credit-cn“ href=“/offers/azure-monetary-credit/“>中文</a>
+- <a id=“azure-monetary-credit_azure-monetary-credit-en“ href=“/offers/azure-monetary-credit-en/“>English</a>
 
 
 ## Azure 免费使用额度
