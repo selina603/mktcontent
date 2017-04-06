@@ -11,8 +11,8 @@
 <tags ms.service="legal" ms.date="" wacn.date="" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
-- <a id="azure-monetary-credit_azure-monetary-credit-cn" href="/offers/azure-monetary-credit/">中文</a>
-- <a id="azure-monetary-credit_azure-monetary-credit-en" href="/offers/azure-monetary-credit-en/">English</a>
+- [中文](/offers/azure-monetary-credit/)
+- [English](/offers/azure-monetary-credit-en/)
 
 
 ## Azure 免费使用额度
@@ -33,4 +33,4 @@
 
 ## 优惠活动详情:
 
-[【已结束】实名身份信息收集活动详情（奖励只针对 2016 年 1 月 21 日之前提交实名信息的用户）](/support/announcement/real-name-announcement/)
+<a id="azure-monetary-credit_real-name-announcement" href="/support/announcement/real-name-announcement/">【已结束】实名身份信息收集活动详情（奖励只针对 2016 年 1 月 21 日之前提交实名信息的用户）</a>
