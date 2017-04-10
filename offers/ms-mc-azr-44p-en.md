@@ -1,6 +1,6 @@
 <properties
-	pageTitle="1 RMB Trial Offer Details | Azure"
-    description="1 RMB Trial Offer Details"
+	pageTitle="Offer Details | Azure"
+    description="Offer Details - 1 RMB Trial Offer Details"
     services=""
     documentationCenter=""
     authors=""
@@ -20,25 +20,25 @@
 
 With this offering, you can use various of Azure services upon your needs, including Virtual Machines, Cloud Services, Storage, SQL Database and many more.
 
-[Click here to apply 1 RMB Trial](/pricing/1rmb-trial-form/)
+<a id="ms-mc-azr-44p-en_1rmb-trial-form" href="/pricing/1rmb-trial-form/">Click here to apply 1 RMB Trial</a>
 
 ##Rules of the Offer
 
 - Any customer can only apply for this offer once. 21 Vinant reserve all the right for the final explanation. For example, the same ID card, same payment account can only be used once for this offer. Violation of this policy may result in termination of your subscription, deletion of all Customer Data, and forfeiture of the 1 RMB payment.
 - According to the provisions of the relevant laws and regulations, you should ensure that the real identity information you provide is true, complete and valid. Violation of this policy may result in termination of your subscription, deletion of all customer data, and forfeiture of the 1 RMB payment.
 - If you run out of 1,500 RMB credits or run out of one-month given (whichever comes first), your subscription will be disabled and your Customer Data will be permanently deleted unless you recharge  within 15 days as detailed in Conversion to Paid Offer below. This will re-activate your subscription but may require re-configuration of related services. 
-- 1 RMB Trial Offer is intended only for development and testing environment. If your purpose is for commercial use, please convert to [Standard Pay-In-Advance](/offers/ms-mc-arz-33p/) subscription.
+- 1 RMB Trial Offer is intended only for development and testing environment. If your purpose is for commercial use, please convert to <a id="ms-mc-azr-44p-en_ms-mc-arz-33p" href="/offers/ms-mc-arz-33p/">Standard Pay-In-Advance</a> subscription.
 
 ##Update to Standard Pay-In-Advance Subscription 
 
-You could update your subscription into a [Standard Pay-In-Advance](/offers/ms-mc-arz-33p/) subscription any time during 1 RMB trial period. Please click “update now” in your subscription page, you could enjoy a richer experience of Azure services by adding additional funds of 1,000 RMB or more. Details please refer to [here](/offers/ms-mc-arz-33p/). 
+You could update your subscription into a <a id="ms-mc-azr-44p-en_ms-mc-arz-33p-1" href="/offers/ms-mc-arz-33p/">Standard Pay-In-Advance</a> subscription any time during 1 RMB trial period. Please click “update now” in your subscription page, you could enjoy a richer experience of Azure services by adding additional funds of 1,000 RMB or more. Details please refer to <a id="ms-mc-azr-44p-en_ms-mc-arz-33p-2" href="/offers/ms-mc-arz-33p/">here</a>. 
 
 ##Payment Options & Pricing Details
 
 For 1 RMB Trial offer, we support payment methods including Alipay and China UnionPay.
 
 
-More details on pricing and billing, including the prices for individual Azure features, can be found on our [ Pricing page](/pricing/overview/). 
+More details on pricing and billing, including the prices for individual Azure features, can be found on our <a id="ms-mc-azr-44p-en_overview" href="/pricing/overview/"> Pricing page</a>. 
 
 ##Limits on Usage Quotas
 
@@ -80,13 +80,13 @@ You need to pay an extra charge if your use of the service exceeds the above lim
 
 50GB outbound data transfer
 
-If you exceed the data transfer quota, your account may be suspended without prior notice, and the credit amount will be reset to ‘0.’ You can visit [here](https://account.windowsazure.cn/Subscriptions/) to verify real-time data transfer usage status.
+If you exceed the data transfer quota, your account may be suspended without prior notice, and the credit amount will be reset to ‘0.’ You can visit <a id="ms-mc-azr-44p-en_Subscriptions" href="https://account.windowsazure.cn/Subscriptions/">here</a> to verify real-time data transfer usage status.
 
-If you will require a higher Data Transfer quota, you will need to convert to a [Standard Pay-in-Advance Offer](/offers/ms-mc-arz-33p/).
+If you will require a higher Data Transfer quota, you will need to convert to a <a id="ms-mc-azr-44p-en_ms-mc-arz-33p-3" href="/offers/ms-mc-arz-33p/">Standard Pay-in-Advance Offer</a>.
 
 ##Service Level Agreements
 
-We do not provide Service Level Agreements (SLAs) for this trial offer. If you convert to a Pay-In-Advance Offer, we will provide a set of robust service level agreements. More details on our SLAs can be found on our [SLA page](/support/legal/sla/). 
+We do not provide Service Level Agreements (SLAs) for this trial offer. If you convert to a Pay-In-Advance Offer, we will provide a set of robust service level agreements. More details on our SLAs can be found on our <a id="ms-mc-azr-44p-en_sla" href="/support/legal/sla/">SLA page</a>. 
 
 ##Resource Commitment
 
@@ -96,5 +96,5 @@ For any subscriptions of this offer that are not incurring charges and are inact
 
 You can also avoid having your Compute resources removed by doing either of the following every 15 days:
 
-- Log  into the management [portal](https://manage.windowsazure.cn/)
+- Log  into the management <a id="ms-mc-azr-44p-en_manage.windowsazure.cn" href="https://manage.windowsazure.cn/">portal</a>
 - Access your hosted service(s) via our Azure APIs
