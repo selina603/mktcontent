@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Offer Details"
+	pageTitle="Offer Details | Azure"
     description="Offer Details - Standard Pay-In-Advance Offer"
     services=""
     documentationCenter=""
@@ -23,20 +23,20 @@ You will receive Azure Credits equal to the amount of funds you add to your acco
 
 You may purchase additional Azure Credits, which will be valid for 12 months from the date of purchase, but this will not extend Azure Credits previously purchased and any Azure Credits not used within 12 months of their purchase will be forfeited. 
 
-This offer is billed at the standard [Pay-In-Advance rates](/pricing/overview/).
+This offer is billed at the standard <a id="ms-mc-arz-33p-en_overview" href="/pricing/overview/">Pay-In-Advance rates</a>.
 
 You will be notified at least 30 days in advance of any increases to the Pay-In-Advance rates. New services may be added periodically to the Azure platform. We will notify you of these new services and any fees that might be charged for using them. However, you would only be charged if you elect to use the new services.
 
-[Pay In Advance Now >](/pricing/pia/)
+<a id="ms-mc-arz-33p-en_pia" href="/pricing/pia/">Pay In Advance Now ></a>
 
-[View Pay in Advance Sign-up Guidance >](/pricing/billing/azure-pia-application-and-signup/)
+<a id="ms-mc-arz-33p-en_azure-pia-application-and-signup" href="/pricing/billing/azure-pia-application-and-signup/">View Pay in Advance Sign-up Guidance ></a>
 
 ## Payment Options
 
-We offer three types of payment options, Alipay, China UnionPay (CUP), and Wire Transfer. If choosing the first two online payment options, the minimal amount is 1,000 RMB. If paying with Wire Transfer, the minimal amount is 5,000 RMB. The details of Wire Transfer can be found in [Wire Transfer details](/pricing/billing/azure-wire-transfer-overview/).
+We offer three types of payment options, Alipay, China UnionPay (CUP), and Wire Transfer. If choosing the first two online payment options, the minimal amount is 1,000 RMB. If paying with Wire Transfer, the minimal amount is 5,000 RMB. The details of Wire Transfer can be found in <a id="ms-mc-arz-33p-en_azure-wire-transfer-overview" href="/pricing/billing/azure-wire-transfer-overview/">Wire Transfer details</a>.
 
 
-More details on pricing and billing, including the prices for individual Azure features, can be found on our [Pricing page](/pricing/overview/).
+More details on pricing and billing, including the prices for individual Azure features, can be found on our <a id="ms-mc-arz-33p-en_overview" href="/pricing/overview/">Pricing page</a>.
 
 ## Cancelation Policy
 
@@ -44,7 +44,7 @@ You may cancel this subscription at any time but will forfeit any prepaid amount
 
 ## Usage Quotas
 
-The following monthly usage quotas are applied. If you need more than these limits, please contact [customer service](/support/contact/) at any time so that we can understand your needs and adjust these limits appropriately.
+The following monthly usage quotas are applied. If you need more than these limits, please contact <a id="ms-mc-arz-33p-en_/contact" href="/support/contact/">customer service</a> at any time so that we can understand your needs and adjust these limits appropriately.
 
 ## Cloud Services and Virtual Machines
 
@@ -87,6 +87,6 @@ For any subscriptions of this offer that are not incurring charges and are inact
 
 You can also avoid having your compute resources removed by doing either of the following every 90 days:
 
- 1.Log into the management [portal](https://manage.windowsazure.cn/)
+ 1.Log into the management <a id="ms-mc-arz-33p-en_manage.windowsazure" href="https://manage.windowsazure.cn/">portal</a>
  
  2.Access your hosted service(s) via our Azure APIs
