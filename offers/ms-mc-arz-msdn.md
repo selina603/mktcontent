@@ -17,7 +17,7 @@
 
 ##MSDN 订阅 Azure 优惠
 
-Azure 提供 MSDN 订阅者在开发和测试上极大的优惠。其优惠包括您 MSDN 订阅上指明的一次性使用额度，较低的付费费率，以及在 Azure 上为开发和测试用途使用 MSDN 软件不收取额外费用。如您为了商业目的使用 Azure，请转换为[标准预付费](/offers/ms-mc-arz-33p/)帐户。
+Azure 提供 MSDN 订阅者在开发和测试上极大的优惠。其优惠包括您 MSDN 订阅上指明的一次性使用额度，较低的付费费率，以及在 Azure 上为开发和测试用途使用 MSDN 软件不收取额外费用。如您为了商业目的使用 Azure，请转换为<a id="ms-mc-arz-msdn_ms-mc-arz-33p" href="/offers/ms-mc-arz-33p/">标准预付费</a>帐户。
 
 ##灵活的 Azure 使用额度
 
@@ -33,7 +33,7 @@ Azure 提供 MSDN 订阅者在开发和测试上极大的优惠。其优惠包�
 
 您可以选择如何在开发和测试上使用您的 Azure 使用额度。可将这些使用额度用在满足您需要的 Azure 服务上，包括虚拟机、网站、云服务、移动服务、存储、SQL 数据库、HDInsight、媒体服务等很多方面。
 
-在优惠期内，您可使用的服务以您的 Azure 使用额度为限。如果您超用了您的使用额度，您的服务将被停用。在12个月的优惠期结束后，剩余的使用额度将归为‘0’。但您若在优惠期结束前申请转换为[标准预付费](/offers/ms-mc-arz-33p/)帐户，当时剩余的使用额度可被转移到[标准预付费](/offers/ms-mc-arz-33p/)帐户。您将无法为本优惠购买额外的 Azure 使用额度，但您可以购买[标准预付费](/offers/ms-mc-arz-33p/)订阅，然后转移您的客户资料。
+在优惠期内，您可使用的服务以您的 Azure 使用额度为限。如果您超用了您的使用额度，您的服务将被停用。在12个月的优惠期结束后，剩余的使用额度将归为‘0’。但您若在优惠期结束前申请转换为<a id="ms-mc-arz-msdn_ms-mc-arz-33p-1" href="/offers/ms-mc-arz-33p/">标准预付费</a>帐户，当时剩余的使用额度可被转移到<a id="ms-mc-arz-msdn_ms-mc-arz-33p-2" href="/offers/ms-mc-arz-33p/">标准预付费</a>帐户。您将无法为本优惠购买额外的 Azure 使用额度，但您可以购买<a id="ms-mc-arz-msdn_ms-mc-arz-33p-3" href="/offers/ms-mc-arz-33p/">标准预付费</a>订阅，然后转移您的客户资料。
 
 此项 Azure 优惠仅提供给受邀的现行 MSDN 订阅客户。受邀参加此优惠的 MSDN 订阅客户将获得一个 Azure 订阅，包括下文详述的服务。该订阅仅限于开发和测试目的，不用于生产用途，且不包括任何保证或服务级别协议。我们将尽最大能力提供用量给 MSDN 订阅者，但不能保证一定能得到这些用量。
 
@@ -48,7 +48,7 @@ Azure 提供 MSDN 订阅者在开发和测试上极大的优惠。其优惠包�
 
 ###每小时费率折扣
 
-Windows 和 Windows Server 虚拟机，云服务，网站和 HDInsight 所有实例都根据[标准预付费](/offers/ms-mc-arz-33p/)费率来打折扣。这些服务的 MSDN 费率等于相同大小和类型的 Linux 虚拟机的费率。
+Windows 和 Windows Server 虚拟机，云服务，网站和 HDInsight 所有实例都根据<a id="ms-mc-arz-msdn_ms-mc-arz-33p-4" href="/offers/ms-mc-arz-33p/">标准预付费</a>费率来打折扣。这些服务的 MSDN 费率等于相同大小和类型的 Linux 虚拟机的费率。
 
 任何费率变更将在至少30天前通知您。
 
@@ -63,13 +63,13 @@ Azure 使用额度不能用于购买 Azure 支持计划，第三方品牌的产�
 
 ###使用权
 
-MSDN Azure 优惠仅适用于开发和测试目的。Azure MSDN 订阅中的使用不提供服务级别协议财务支持。任何虚拟机或云服务实例连续运行120小时以上，或我们认定这些服务被用于生产用途，我们保留暂停这些实例的权利。生产用途的工作负荷必须在[标准预付费](/offers/ms-mc-arz-33p/)订阅上运行。
+MSDN Azure 优惠仅适用于开发和测试目的。Azure MSDN 订阅中的使用不提供服务级别协议财务支持。任何虚拟机或云服务实例连续运行120小时以上，或我们认定这些服务被用于生产用途，我们保留暂停这些实例的权利。生产用途的工作负荷必须在<a id="ms-mc-arz-msdn_ms-mc-arz-33p-5" href="/offers/ms-mc-arz-33p/">标准预付费</a>订阅上运行。
 
 ##付款选项和定价详情
 
 1元费用仅限通过支付宝或中国银联支付。
 
-有关定价和计费的更多详细信息（包括各 Azure 功能的价格）可参见我们的[定价页面](/pricing/overview/)。
+有关定价和计费的更多详细信息（包括各 Azure 功能的价格）可参见我们的<a id="ms-mc-arz-msdn_overview" href="/pricing/overview/">定价页面</a>。
 
 ##取消策略
 
@@ -115,13 +115,13 @@ MSDN Azure 优惠仅适用于开发和测试目的。Azure MSDN 订阅中的使�
 
 每月50GB出站数据传输
 
-如果超过每月该数据传输使用限额，您的账户将会在未经事先通知的情况下暂停，并且使用额度将被归置为“0”。您可以点击[此处](https://account.windowsazure.cn/Subscriptions/)实时查询您的数据流量使用状况。
+如果超过每月该数据传输使用限额，您的账户将会在未经事先通知的情况下暂停，并且使用额度将被归置为“0”。您可以点击<a id="ms-mc-arz-msdn_Subscriptions" href="https://account.windowsazure.cn/Subscriptions/">此处</a>实时查询您的数据流量使用状况。
 
-如果您需要更高的数据传输使用限额，则必须转换为[标准预付费](/offers/ms-mc-arz-33p/)用户。
+如果您需要更高的数据传输使用限额，则必须转换为<a id="ms-mc-arz-msdn_ms-mc-arz-33p-6" href="/offers/ms-mc-arz-33p/">标准预付费</a>用户。
 
 ##服务级别协议
 
-对于本 MSDN 优惠，我们不提供服务级别协议（SLA）。如果您转换为[标准预付费](/offers/ms-mc-arz-33p/)用户，我们会提供一组强大的服务级别协议。请参见我们的[服务级别协议](/support/legal/sla/)页面了解更多详情。
+对于本 MSDN 优惠，我们不提供服务级别协议（SLA）。如果您转换为<a id="ms-mc-arz-msdn_ms-mc-arz-33p-7" href="/offers/ms-mc-arz-33p/">标准预付费</a>用户，我们会提供一组强大的服务级别协议。请参见我们的<a id="ms-mc-arz-msdn_sla" href="/support/legal/sla/">服务级别协议</a>页面了解更多详情。
 
 ##资源承诺
 
@@ -131,5 +131,5 @@ MSDN Azure 优惠仅适用于开发和测试目的。Azure MSDN 订阅中的使�
 
 您也可以通过每隔 90 天采取下列任一操作，以避免您的计算资源被删除：
 
- - 登录到[管理门户](https://manage.windowsazure.cn/)
+ - 登录到<a id="ms-mc-arz-msdn_manage.windowsazure" href="https://manage.windowsazure.cn/">管理门户</a>
  - 通过我们的 Azure API 访问您的托管服务
