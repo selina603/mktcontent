@@ -44,7 +44,7 @@ You may cancel this subscription at any time but will forfeit any prepaid amount
 
 ## Usage Quotas
 
-The following monthly usage quotas are applied. If you need more than these limits, please contact <a id="ms-mc-arz-33p-en_/contact" href="/support/contact/">customer service</a> at any time so that we can understand your needs and adjust these limits appropriately.
+The following monthly usage quotas are applied. If you need more than these limits, please contact <a id="ms-mc-arz-33p-en_contact" href="/support/contact/">customer service</a> at any time so that we can understand your needs and adjust these limits appropriately.
 
 ## Cloud Services and Virtual Machines
 
