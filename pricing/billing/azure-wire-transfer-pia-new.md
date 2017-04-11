@@ -9,28 +9,28 @@
     tags=""/>
 
 
-![banner](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/banner.jpg)
+!<a id="azure-wire-transfer-pia-new_banner.jpg" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/banner.jpg">banner</a>
 
 <br />
 <br />
 
-![第一步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/1.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;请点击 [Azure 官网](https://www.azure.cn)
+!<a id="azure-wire-transfer-pia-new_1.jpg" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/1.jpg">第一步</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;请点击 <a id="azure-wire-transfer-pia-new_www.azure.cn" href="https://www.azure.cn">Azure 官网</a>
 <br />
-![第二步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/2.jpg)
+!<a id="azure-wire-transfer-pia-new_2.jpg" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/2.jpg">第二步</a>
 <br />
-![第三步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/3.jpg)
+!<a id="azure-wire-transfer-pia-new_3.jpg" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/3.jpg">第三步</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您可以根据需要选择 “个人申请” 或 “企业申请”，快速填写好信息后就可以提交了。
 <br />
-![第四步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/4.jpg)
+!<a id="azure-wire-transfer-pia-new_4.jpg" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/4.jpg">第四步</a>
 <br />
-![第五步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/5.jpg)
+!<a id="azure-wire-transfer-pia-new_5.jpg" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/5.jpg">第五步</a>
 <br />
-![第六步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/6.jpg)
+!<a id="azure-wire-transfer-pia-new_6.jpg" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/6.jpg">第六步</a>
 <br />
-![第七步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/7.jpg)
+!<a id="azure-wire-transfer-pia-new_7.jpg" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/7.jpg">第七步</a>
 <br />
-![第八步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/8.jpg)
+!<a id="azure-wire-transfer-pia-new_8.jpg" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/8.jpg">第八步</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**汇款信息如下** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;开户银行：汇丰银行（中国）有限公司北京分行
@@ -43,13 +43,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;请在转账汇款时备注您的订阅 ID，以便于我们区分汇款来源。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您可登录[订阅管理门户](//account.windowsazure.cn/subscriptions), 点击订阅名称，页面右侧会显示“订阅 ID”。
-![第九步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/9.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您可登录<a id="azure-wire-transfer-pia-new_subscriptions" href="//account.windowsazure.cn/subscriptions">订阅管理门户</a>, 点击订阅名称，页面右侧会显示“订阅 ID”。
+!<a id="azure-wire-transfer-pia-new_9.jpg" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/9.jpg">第九步</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;订单提交后两个工作日，您将收到“订单通知”的提醒邮件，请根据内容提示回复该邮件；
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;或者您也可直接填写以下汇款信息发送到 azure_invoice@oe.21vianet.com，以便我们区分汇款来源并及时充值到您的订阅账户。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.订阅 ID (登录[订阅管理门户](//account.windowsazure.cn/subscriptions), 点击订阅名称，页面右侧会显示“订阅 ID” )
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.订阅 ID (登录<a id="azure-wire-transfer-pia-new_subscriptions-1" href="//account.windowsazure.cn/subscriptions">订阅管理门户</a>, 点击订阅名称，页面右侧会显示“订阅 ID” )
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.汇款金额
 
@@ -63,7 +63,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.联系人手机
 
-![第十步](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/10.jpg)
+!<a id="azure-wire-transfer-pia-new_10.jpg" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/pricing/billing/azure-wire-transfer-pia-new/10.jpg">第十步</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;友情提示：在汇款到账与以上汇款信息匹配成功后，我们会在两个工作日内将汇款金额充值到您的订阅账户。
 

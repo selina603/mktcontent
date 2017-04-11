@@ -20,7 +20,7 @@
 <ul><li><a href="/pricing/billing/azure-wire-transfer-pia-recharge/" target="_blank">标准预付费订阅：通过线下汇款方式续费</a></li></ul>
 
 ## 二、汇款信息如下： ##
-（请在转账汇款时备注您的订阅 ID，以便于我们区分汇款来源并及时充值到您的订阅，您可登录[订阅管理门户](//account.windowsazure.cn/subscriptions), 点击订阅名称，页面右侧会显示“订阅 ID” ）
+（请在转账汇款时备注您的订阅 ID，以便于我们区分汇款来源并及时充值到您的订阅，您可登录<a id="azure-wire-transfer-overview_subscriptions" href="//account.windowsazure.cn/subscriptions">订阅管理门户</a>, 点击订阅名称，页面右侧会显示“订阅 ID” ）
 
 - 开户银行：汇丰银行（中国）有限公司北京分行
 
@@ -40,7 +40,7 @@
 
 <ul><li>请在转账汇款时备注您的订阅 ID，以便于我们区分汇款来源。若您因银行限制无法备注完整的订阅 ID，请直接填写以下汇款信息发送到  <a href="mailto:azure_invoice@oe.21vianet.com">azure_invoice@oe.21vianet.com</a>，以便我们区分汇款来源并及时充值到您的订阅。</li></ul>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、订阅 ID (您可登录[订阅管理门户](//account.windowsazure.cn/subscriptions), 点击订阅名称，页面右侧会显示“订阅 ID” )
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、订阅 ID (您可登录<a id="azure-wire-transfer-overview_subscriptions-1" href="//account.windowsazure.cn/subscriptions">订阅管理门户</a>, 点击订阅名称，页面右侧会显示“订阅 ID” )
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、汇款金额
 

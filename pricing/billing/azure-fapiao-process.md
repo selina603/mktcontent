@@ -12,18 +12,18 @@
 #发票申请操作解析 - Azure在线业务
 
 ## 申请流程：
-![申请流程](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/01.PNG)
+!<a id="azure-fapiao-process_01.PNG" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/01.PNG">申请流程</a>
 
 <br />
 <br />
 
 ## 第一步：如何申请发票
 
-- 您在网站成功付款后，会收到一封 “**订单确认**” 邮件，此邮件里包含有发票申请界面的链接，用户的 order ID 和您自己的邮箱，请您根据链接到[世纪互联发票信息管理系统](http://fapiao.cloud.21vianet.com/EmailAcount/Register)进行注册。
+- 您在网站成功付款后，会收到一封 “**订单确认**” 邮件，此邮件里包含有发票申请界面的链接，用户的 order ID 和您自己的邮箱，请您根据链接到<a id="azure-fapiao-process_Register" href="http://fapiao.cloud.21vianet.com/EmailAcount/Register">世纪互联发票信息管理系统</a>进行注册。
 
 - 您也可以在您的 Portal 直接点击链接：
 
-	![Portal](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/02.png)
+	!<a id="azure-fapiao-process_02.png" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/02.png">Portal</a>
 
 <br />
 <br />
@@ -34,7 +34,7 @@
 
 注册完账户后，系统会发送激活邮件给您的注册邮箱，请点击邮件中的激活链接以激活该账户。
 
-![发票系统注册](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/03.png)
+!<a id="azure-fapiao-process_03.png" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/03.png">发票系统注册</a>
 
 <br />
 <br />
@@ -45,20 +45,20 @@
 
 支付系统是搭建在第三方平台，订单资料和支付结果需要3天的时间同步，请您耐心等待。
 	
-![申请账单](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/04.png)
+!<a id="azure-fapiao-process_04.png" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/04.png">申请账单</a>
 
 请您先选择发票类型，然后继续完成“**发票信息**”，请完成 * 标记的待填项:
 
-![发票类型](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/05.png)
+!<a id="azure-fapiao-process_05.png" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/05.png">发票类型</a>
 
 - 增值税普通发票只需要填写**购货单位名称**
-- 您可以根据需求，申请开具不同公司抬头的发票，但一笔充值/付款只能申请一家公司抬头发票，如果您需要一笔充值开具不同抬头或者拆分不同金额的发票，可以通过链接 [https://support.windowsazure.cn/support](https://support.windowsazure.cn/support) 网页提交申请；或者拨打售后服务电话 4000890365。
+- 您可以根据需求，申请开具不同公司抬头的发票，但一笔充值/付款只能申请一家公司抬头发票，如果您需要一笔充值开具不同抬头或者拆分不同金额的发票，可以通过链接 <a id="azure-fapiao-process_support" href="https://support.windowsazure.cn/support">https://support.windowsazure.cn/support</a> 网页提交申请；或者拨打售后服务电话 4000890365。
 - 当您第二次要开发票时，系统自动为您呈现上次开票信息。
 - 请注意当您需要购买证明或者办理退款，收款单位要和发票开具的公司一致。
 
 请填写邮寄信息，快递小哥可选韵达，顺丰（只能到付），您也可以到世纪互联上海分公司自取。
 
-![邮寄信息](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/06.png)
+!<a id="azure-fapiao-process_06.png" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/06.png">邮寄信息</a>
 
 - 世纪互联上海分公司地址： 
 
@@ -70,7 +70,7 @@
 
 请您再次确认填写的信息，核对无误点击“**确认**”。
 
-![确认信息](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/07.png)
+!<a id="azure-fapiao-process_07.png" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/07.png">确认信息</a>
 
 <br />
 <br />
@@ -79,12 +79,12 @@
 
 您填写的信息自动传送到世纪互联服务中心，您的申请将在 2 个工作日完成操作。
 
-![我的账单](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/08.png)
+!<a id="azure-fapiao-process_08.png" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/08.png">我的账单</a>
 
 - 您的工单完成后，可以随时查看进度，我们会及时更新进度，例如“**已打印**”，“**已寄出**”。
 - 当票源紧张时，系统会发出公告并告知预计寄票时间，请您提交申请之后耐心等待。
 
-![系统公告](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/09.png)
+!<a id="azure-fapiao-process_09.png" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/09.png">系统公告</a>
 
 <br />
 <br />
@@ -103,22 +103,22 @@
   </tr>
 </table>
 
-Azure 用户可以通过链接 [https://support.windowsazure.cn/support](https://support.windowsazure.cn/support) 提交工单。
+Azure 用户可以通过链接 <a id="azure-fapiao-process_support-1" href="https://support.windowsazure.cn/support">https://support.windowsazure.cn/support</a>提交工单。
 
 <br />
 <br />
 
 ### 问题二：自助修改登邮箱录，密码
 
-- 登录发票管理系统 ([http://fapiao.cloud.21vianet.com/EmailAcount/LoginView](http://fapiao.cloud.21vianet.com/EmailAcount/LoginView))，直接修改邮箱和密码。
+- 登录发票管理系统 (<a id="azure-fapiao-process_LoginView" href="http://fapiao.cloud.21vianet.com/EmailAcount/LoginView">http://fapiao.cloud.21vianet.com/EmailAcount/LoginView</a>)，直接修改邮箱和密码。
 <br /><br />
 
-	![修改邮箱和密码](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/12.png)
+	!<a id="azure-fapiao-process_12.png" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/12.png">修改邮箱和密码</a>
 <br />
 - 如果您忘记了登录密码，请您使用登录邮箱重置密码。系统将新密码发送到您的邮箱，请您收到后用新密码登录。
 <br /><br />
 
-	![重置密码](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/20.png)
+	!<a id="azure-fapiao-process_20.png" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/20.png">重置密码</a>
 
 <br />
 - 如果您忘记了登录邮箱，请致电 4000890365，我们的客服会帮助您解决问题。
@@ -128,11 +128,11 @@ Azure 用户可以通过链接 [https://support.windowsazure.cn/support](https:/
 
 ### 问题三：查看订单 ID
 
-- 登录到 [https://account.windowsazure.cn](https://account.windowsazure.cn)
+- 登录到 <a id="azure-fapiao-process_account.windowsazure.cn" href="https://account.windowsazure.cn">https://account.windowsazure.cn</a>
 - 依次点击“**订阅**”>要开具发票的订阅名称。
 - 右侧会显示订单 ID
 
-![查看订单 ID](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/17.png)
+!<a id="azure-fapiao-process_17.png" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/17.png">查看订单 ID</a>
 
 <br />
 <br />
@@ -148,5 +148,5 @@ Azure 用户可以通过链接 [https://support.windowsazure.cn/support](https:/
 
 如果您在注册成功后的 24 小时内没有收到账号激活邮件，可以到发票申请界面点击”**重发激活邮件**“，系统将再次发送账号激活邮件到您的注册邮箱。若您尝试“**重发激活邮件**”后还是无法收到激活邮件，请联系世纪互联客户服务中心， 电话：4000890365. 
 
-![重发激活邮件](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/18.png)
+!<a id="azure-fapiao-process_18.png" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/azure-fapiao-process/18.png">重发激活邮件</a>
 
