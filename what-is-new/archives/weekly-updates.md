@@ -56,7 +56,7 @@
 <li><a id="weekly-updates-3-27_documentation-iot-suite-connecting-devices" href="/documentation/articles/iot-suite-connecting-devices/ ">将设备连接到远程监视预配置解决方案(Windows)</a></li>
 </ul>
 ## 新技术文档发布
-### ？？？？
+### Azure 资源管理器
 <ul>
 <li><a id="weekly-updates-3-27_documentation-resource-manager-template-child-resource" href="/documentation/articles/resource-manager-template-child-resource/">在 Resource Manager 模板中设置子资源的名称和类型</a></li>
 </ul>
