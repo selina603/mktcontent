@@ -18,8 +18,8 @@
 </ul>
 ### 案例研究
 <ul>
-<li><a id="weekly-updates-3-27_partnerancasestudy-3m" href="/partnerancasestudy/case-studies/3m/">3M 案例 </a>正式发布</li>
-<li><a id="weekly-updates-3-27_partnerancasestudy-baykee" href="/partnerancasestudy/case-studies/baykee/">柏克新能案例 </a>正式发布</li>
+<li><a id="weekly-updates-3-27_partnerancasestudy-3m" href="/partnerancasestudy/case-studies/3m/">3M 案例 </a>上线</li>
+<li><a id="weekly-updates-3-27_partnerancasestudy-baykee" href="/partnerancasestudy/case-studies/baykee/">柏克新能案例 </a>上线</li>
 </ul>
 
 <ul>
@@ -38,7 +38,7 @@
 <li>修改了关于 Azure 计量名称的常见问题，详请见 <a id="weekly-updates-3-27_support-meter-update-reports" href="/support/meter-update-reports/">如何使用 Azure 新的计量名称更新报表 </a>页面</li>
 </ul>
 ## 新产品发布与文档更新
-### Azure IoT Suite 新增设备管理功能更新于 4 月 6 日正式发布
+### Azure IoT Suite 新增设备管理功能于 4 月 6 日更新
 <ul>
 <li><a id="weekly-updates-3-27_blog-azure-iot-suite-adds-device-management-capability-updates" href="/blog/2107/04/06/azure-iot-suite-adds-device-management-capability-updates">Azure IoT Suite 新增设备管理功能更新</a></li>
 </ul>
@@ -87,6 +87,10 @@
 <li><a id="weekly-updates-3-27_documentation-virtual-networks-create-nsg-cli-nodejs" href="/documentation/articles/virtual-networks-create-nsg-cli-nodejs/">使用 Azure CLI 1.0 创建网络安全组</a></li>
 <li><a id="weekly-updates-3-27_documentation-virtual-networks-create-vnet-cli-nodejs" href="/documentation/articles/virtual-networks-create-vnet-cli-nodejs/">使用 Azure CLI 创建虚拟网络</a></li>
 <li><a id="weekly-updates-3-27_documentation-virtual-networks-static-private-ip-cli-nodejs" href="/documentation/articles/virtual-networks-static-private-ip-cli-nodejs/">使用 Azure CLI 1.0 为虚拟机配置专用 IP 地址</a></li>
+<li><a id="weekly-updates-3-27_documentation-virtual-network-optimize-network-bandwidth" href="/documentation/articles/virtual-network-optimize-network-bandwidth/">优化 Azure 虚拟机的网络吞吐量</a></li>
+<li><a id="weekly-updates-3-27_documentation-virtual-networks-create-vnet-arm-cli-nodejs" href="/documentation/articles/virtual-networks-create-vnet-arm-cli-nodejs/">使用 Azure CLI 创建虚拟网络</a></li>
+<li><a id="weekly-updates-3-27_documentation-stream-analytics-javascript-user-defined-functions" href="/documentation/articles/stream-analytics-javascript-user-defined-functions/">Azure 流分析 JavaScript 用户定义的函数</a></li>
+<li><a id="weekly-updates-3-27_documentation-stream-analytics-tools-for-visual-studio" href="/documentation/articles/stream-analytics-tools-for-visual-studio/">使用用于 Visual Studio 的 Azure 流分析工具</a></li>
 </ul>
 ### Active Directory
 <ul>
@@ -116,9 +120,9 @@
 <li><a id="weekly-updates-3-27_documentation-event-hubs-java-get-started-send" href="/documentation/articles/event-hubs-java-get-started-send/">使用 Java 将事件发送到 Azure 事件中心</a></li>
 <li><a id="weekly-updates-3-27_documentation-event-hubs-samples" href="/documentation/articles/event-hubs-samples/">事件中心示例 </a></li>
 </ul>
-### ExpressRoute 连接模型
+### ExpressRoute 
 <ul>
-<li><a id="weekly-updates-3-27_documentation-expressroute-connectivity-models" href="/documentation/articles/expressroute-connectivity-models/">ExpressRoute 连接模型</a></li>
+<li><a id="weekly-updates-3-27_documentation-expressroute-connectivity-models" href="/documentation/articles/expressroute-connectivity-models/">ExpressRoute</a></li>
 </ul>
 ### SQL 数据库
 <ul>
@@ -141,13 +145,6 @@
 <li><a id="weekly-updates-3-27_documentation-sql-database-ssms-mfa-authentication-configure" href="/documentation/articles/sql-database-ssms-mfa-authentication-configure/">为 SQL Server Management Studio 配置 Azure SQL 数据库多重身份验证</a></li>
 <li><a id="weekly-updates-3-27_documentation-sql-database-threat-detection-portal" href="/documentation/articles/sql-database-threat-detection-portal/">在 Azure 门户预览中配置和管理 Azure SQL 数据库威胁检测</a></li>
 <li><a id="weekly-updates-3-27_documentation-sql-database-threat-detection" href="/documentation/articles/sql-database-threat-detection/">SQL 数据库威胁检测</a></li>
-</ul>
-### 虚拟网络
-<ul>
-<li><a id="weekly-updates-3-27_documentation-virtual-network-optimize-network-bandwidth" href="/documentation/articles/virtual-network-optimize-network-bandwidth/">优化 Azure 虚拟机的网络吞吐量</a></li>
-<li><a id="weekly-updates-3-27_documentation-virtual-networks-create-vnet-arm-cli-nodejs" href="/documentation/articles/virtual-networks-create-vnet-arm-cli-nodejs/">使用 Azure CLI 创建虚拟网络</a></li>
-<li><a id="weekly-updates-3-27_documentation-stream-analytics-javascript-user-defined-functions" href="/documentation/articles/stream-analytics-javascript-user-defined-functions/">Azure 流分析 JavaScript 用户定义的函数</a></li>
-<li><a id="weekly-updates-3-27_documentation-stream-analytics-tools-for-visual-studio" href="/documentation/articles/stream-analytics-tools-for-visual-studio/">使用用于 Visual Studio 的 Azure 流分析工具</a></li>
 </ul>
 ## 常用操作指南新发布
 <ul>
