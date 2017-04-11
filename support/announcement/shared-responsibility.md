@@ -52,7 +52,7 @@ NIST 还定义了三种主要的云服务交付机制：基础设施即服务 ( 
 
 我们了解不同的云服务模式是如何影响着云供应商和客户之间共担责任的方式。
 
-![图1](./media/shared-responsibility/yjsgtzr1.png)
+!<a id="shared-responsibility_yjsgtzr1.png" href="./media/shared-responsibility/yjsgtzr1.png">图1</a>
 
 在图 1 中，最左边的列表示七个应该被纳入考虑的责任 ( 在下面的部分中定义 )，所有这些都关乎计算环境的安全性和保密性。
 
@@ -62,7 +62,7 @@ NIST 还定义了三种主要的云服务交付机制：基础设施即服务 ( 
 
 ### 数据分类和责任
 
-![图2](./media/shared-responsibility/yjsgtzr2.png)
+!<a id="shared-responsibility_yjsgtzr2.png" href="./media/shared-responsibility/yjsgtzr2.png">图2</a>
 
 不管在本地还是云模式，用户都要负责保证其数据被安全地识别、标记和正确分类。区分敏感的客户数据和为公众设计的营销内容必须由客户来完成。数据分类是一个复杂的过程，但它是所有组织在考虑任何变化 ( 包括移动到云中 ) 时需要考虑的一个重要问题。
 
@@ -74,17 +74,17 @@ NIST 还定义了三种主要的云服务交付机制：基础设施即服务 ( 
 
 ### 客户端和终结点保护
 
-![图3](./media/shared-responsibility/yjsgtzr3.png)
+!<a id="shared-responsibility_yjsgtzr3.png" href="./media/shared-responsibility/yjsgtzr3.png">图3</a>
 
 由于采用更加多样化的设备，清晰界限的定义和用来连接到云服务的设备的职责界定也是至关重要的。云解决方案供应商可以提供管理终端设备的功能。但是，使用移动管理解决方案仍要求客户为他们自己的用户负责。
 
 ### 身份和访问管理
 
-![图4](./media/shared-responsibility/yjsgtzr4.png)
+!<a id="shared-responsibility_yjsgtzr4.png" href="./media/shared-responsibility/yjsgtzr4.png">图4</a>
 
 用户或身份管理是一个组织以无缝方式提供的核心服务之一，并且操作简单、易于管理。身份和访问管理给用户提供了在其环境中访问和使用资源的能力，这是图 5 所示的“谁 ( Who )”和“什么 ( What )”之间的纽带。
 
-![图5](./media/shared-responsibility/yjsgtzr5.png)
+!<a id="shared-responsibility_yjsgtzr5.png" href="./media/shared-responsibility/yjsgtzr5.png">图5</a>
 
 在平台即服务和软件即服务解决方案中，身份和访问管理是共担的责任，需要一个有效的实施计划，其中包括身份提供者的配置，管理服务的配置，用户身份的创建和配置，服务访问控制的实施。其他应考虑的注意事项包括多因素身份验证的使用，基于角色的访问控制，及时的管理控制，以及用户和控制点的监测和注册。
 
@@ -94,7 +94,7 @@ NIST 还定义了三种主要的云服务交付机制：基础设施即服务 ( 
 
 ### 应用级控制
 
-![图6](./media/shared-responsibility/yjsgtzr6.png)
+!<a id="shared-responsibility_yjsgtzr6.png" href="./media/shared-responsibility/yjsgtzr6.png">图6</a>
 
 平台管理的应用程序和服务，如 Azure Web Services , Batch , DocDb , IoT , Analytics , Media Services，以及许多相关功能，通过提供 Azure 管理的更安全的解决方案降低客户的责任。托管的应用程序要求客户正确配置服务，但同时也提供更全面的安全功能和集成其它解决方案，如身份管理。
 
@@ -104,7 +104,7 @@ NIST 还定义了三种主要的云服务交付机制：基础设施即服务 ( 
 
 ### 网络控制
 
-![图7](./media/shared-responsibility/yjsgtzr7.png)
+!<a id="shared-responsibility_yjsgtzr7.png" href="./media/shared-responsibility/yjsgtzr7.png">图7</a>
 
 网络控制包括配置，管理以及网络元素如虚拟网络、负载均衡、DNS 和网关的安全。这些控制为服务提供了交流和交互操作的方式。
 
@@ -116,7 +116,7 @@ NIST 还定义了三种主要的云服务交付机制：基础设施即服务 ( 
 
 ### 主机基础设施
 
-![图8](./media/shared-responsibility/yjsgtzr8.png)
+!<a id="shared-responsibility_yjsgtzr8.png" href="./media/shared-responsibility/yjsgtzr8.png">图8</a>
 
 主机基础设施责任包括云计算的配置，管理和安全 ( 虚拟主机、容器、服务结构，自动缩放 )，存储 ( 对象、CDN、文件存储 ) 和平台服务。云供应商负责宿主服务 ( 例如服务的宿主操作系统 ) 的运维及安全。
 
@@ -126,7 +126,7 @@ NIST 还定义了三种主要的云服务交付机制：基础设施即服务 ( 
 
 ### 物理安全
 
-![图9](./media/shared-responsibility/yjsgtzr9.png)
+!<a id="shared-responsibility_yjsgtzr9.png" href="./media/shared-responsibility/yjsgtzr9.png">图9</a>
 
 这些元素可以被认为是物理安全的组成部分，包括建筑或设施、服务器和网络设备。
 

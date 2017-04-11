@@ -1,29 +1,20 @@
 <properties
 	pageTitle="互联网信息服务单位网络安全责任告知书 | Azure"
     description="互联网信息服务单位网络安全责任告知书"
-    services="public-security-registration"
+    services=""
     documentationCenter=""
-    authors="will"
-    manager="edwinc"
+    authors=""
+    manager=""
     editor=""
-    tags="public-security-registration"/>
+    tags=""/>
 	
-<tags ms.service="public-security-registration"
-	ms.workload=""
-	ms.tgt_pltfrm=""
-	ms.devlang="na"
-	ms.topic="article"
-	ms.date="03/2017"
-	wacn.date="03/2017"
-	wacn.lang="cn" 
-	ms.author="will"/>
+<tags ms.service="announcement" ms.date="" wacn.date="" wacn.lang="cn"/>
 
 # 互联网信息服务单位网络安全责任告知书
 ## 尊敬的用户您好！
  
-近日接到公安部门关于网站公安备案的通知，请您尽快登录 [全国公安机关互联网站安全管理服务平台](http://www.beian.gov.cn) 提交公安备案申请。自网络正式联通之日起，超过 30 日未办理的，将依法暂停接入。通知内容如下：
-</br>
-</br>
+近日接到公安部关于网站公安备案的通知，请您尽快登录 <a id="network-security-announcement_www.beian.gov.cn" href="http://www.beian.gov.cn">全国公安机关互联网站安全管理服务平台</a> 提交公安备案申请。自通知之日起，超过 30 日未办理的，公安局将依法暂停接入。通知内容如下：
+
 为了保护网络信息安全，保障公民、法人和其他组织的合法权益，维护国家安全和社会公共利益，根据《中华人民共和国计算机信息系统安全保护条例》、《计算机信息网络国际联网安全保护管理办法》等相关法律法规规定，现就您单位应依法履行的网络安全责任告知如下：
 
 一、具备法律法规所要求的相应资质；
@@ -34,7 +25,7 @@
 
 三、协助公安机关依法查处涉网违法犯罪活动；
 
-四、根据[《中华人民共和国计算机信息系统安全保护条例》](http://www.gov.cn/flfg/2005-08/06/content_20928.htm)、[《计算机信息网络国际联网安全保护管理办法》](http://www.gov.cn/gongbao/content/2011/content_1860856.htm)、[《互联网安全保护技术措施规定》](http://www.gov.cn/gongbao/content/2006/content_421771.htm)、[《互联网交互式服务安全保护要求》](http://www.beian.gov.cn/portal/index)、[《互联网服务安全评估基本程序及要求》](http://www.beian.gov.cn/portal/index)等相关法律法规以及安全管理标准规范，履行违法信息过滤、公共信息巡查、用户资质查验、日志信息留存和应急快速处置等安全保护义务，落实安全管理责任和相关安全保护技术措施；
+四、根据<a id="network-security-announcement_content_20928.htm" href="http://www.gov.cn/flfg/2005-08/06/content_20928.htm">《中华人民共和国计算机信息系统安全保护条例》</a>、<a id="network-security-announcement_content_1860856.htm" href="http://www.gov.cn/gongbao/content/2011/content_1860856.htm">《计算机信息网络国际联网安全保护管理办法》</a>、<a id="network-security-announcement_content_421771.htm" href="http://www.gov.cn/gongbao/content/2006/content_421771.htm">《互联网安全保护技术措施规定》</a>、<a id="network-security-announcement_index" href="http://www.beian.gov.cn/portal/index">《互联网交互式服务安全保护要求》</a>、<a id="network-security-announcement_index-1" href="http://www.beian.gov.cn/portal/index">《互联网服务安全评估基本程序及要求》</a>等相关法律法规以及安全管理标准规范，履行违法信息过滤、公共信息巡查、用户资质查验、日志信息留存和应急快速处置等安全保护义务，落实安全管理责任和相关安全保护技术措施；
 
 五、在网站首页显著位置张贴公安机关核发的备案图标；
 
@@ -42,8 +33,8 @@
 
 七、当网站不再开办时，请您于５个工作日内登录全国公安机关互联网站安全管理服务平台，向属地公安机关网安部门提出注销申请。
 
-公安备案不收取任何费用。如您有公安备案相关问题可咨询各地网警部门或访问 [全国公安机关互联网站安全管理服务平台](http://www.beian.gov.cn)  了解更多信息。
- </br>
- </br>
-世纪互联 Microsoft Azure 团队
+公安备案不收取任何费用。如您有公安备案相关问题可咨询各地网警部门或访问 <a id="network-security-announcement_www.beian.gov.cn-1" href="http://www.beian.gov.cn">全国公安机关互联网站安全管理服务平台</a>  了解更多信息。
+ 
+上海蓝云网络科技有限公司
 二零一六年四月二十一日
+
