@@ -26,8 +26,8 @@
 
 </ul>
 ### 其他更新
-<li>合作伙伴页面发布 <a id="weekly-updates-3-27_partnerancasestudy-partner" href="http:///partnerancasestudy/partner/">青岛赛诺普信息技术有限公司 </a>信息</li>
 <ul>
+<li>合作伙伴页面发布 <a id="weekly-updates-3-27_partnerancasestudy-partner" href="http:///partnerancasestudy/partner/">青岛赛诺普信息技术有限公司 </a>信息</li>
 <li>公安备案相关内容正式发布，详请见 <a id="weekly-updates-3-27_support-public-security-registration" href="/support/announcement/public-security-registration">公安备案</a> 页面</li>
 <li>在<a id="weekly-updates-3-27_support-" href="https://www.azure.cn/">Azure 首页</a>、 <a id="weekly-updates-3-27_icp-" href="/icp/"> ICP 页面 </a>添加了公安备案的入口</li>
 <li><a id="weekly-updates-3-27_homepage" href="https://www.azure.cn/">Azure 首页</a> 发布了虚拟机、云服务大降价信息</li>
