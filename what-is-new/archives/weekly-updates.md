@@ -32,7 +32,7 @@
 <li>在<a id="weekly-updates-3-27_support-" href="https://www.azure.cn/"> Azure 首页</a>、 <a id="weekly-updates-3-27_icp-" href="/icp/"> ICP 页面 </a>添加了公安备案的入口</li>
 <li><a id="weekly-updates-3-27_homepage" href="https://www.azure.cn/">Azure 首页</a> 发布了虚拟机、云服务大降价信息</li>
 
-<li>Power BI Embedded 正式发布标准版价格，更多详细信息请见 <a id="weekly-updates-3-27_pricing-power-bi-embedded" href="/pricing/details/power-bi-embedded/">Power BI Embedded 价格详情 </a>页面</li>
+<li>Power BI Embedded 正式发布标准版价格，详请见 <a id="weekly-updates-3-27_pricing-power-bi-embedded" href="/pricing/details/power-bi-embedded/">Power BI Embedded 价格详情 </a>页面</li>
 <li>更新了关于注册的常见问题，详请见 <a id="weekly-updates-3-27_support-faq" href="/support/faq/">常见问题</a> 页面</li>
 
 <li>修改了关于 Azure 计量名称的常见问题，详请见 <a id="weekly-updates-3-27_support-meter-update-reports" href="/support/meter-update-reports/">如何使用 Azure 新的计量名称更新报表 </a>页面</li>
