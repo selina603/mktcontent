@@ -1,0 +1,21 @@
+{"service": "Azure 官网每周更新", 
+"id": "leftnav_weekly-updates", 
+"navigation": 
+[
+	{"group": "Azure 官网近期更新", 
+	"id": "leftnav_weekly-updates", 
+	"articles": 
+		[
+			 {"link": "/what-is-new/archives/weekly-updates/", 
+			"id": "leftnav_weekly-updates", 
+			"title": "本周更新"},
+			{"link": "/what-is-new/archives/weekly-updates-april/", 
+			"id": "leftnav_weekly-updates-april", 
+			"title": "4 月更新"},
+			{"link": "/what-is-new/archives/weekly-updates-march/", 
+			"id": "leftnav_weekly-updates-march", 
+			"title": "3 月更新"}
+		]
+	}
+]
+}
