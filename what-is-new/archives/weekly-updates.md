@@ -37,7 +37,7 @@
 ### Linux 上的 Azure Service Fabric 公共预览版于17年4月正式发布
 Linux 上的 Azure Service Fabric 公共预览版现已正式发布。您可以在Linux 上的 Service Fabric 预览版上构建、部署和管理可高度伸缩的高可用性应用程序，就像在 Windows 上一样。
 <ul>
-<li><a id="weekly-updates-4-24_home-service-fabric" href="/home/features/service-fabric/">Service Fabric 功能介绍</a>、<li><a id="weekly-updates-4-24_pricing-service-fabric" href="/pricing/details/service-fabric/">Service Fabric 价格详情</a></li>
+<li><a id="weekly-updates-4-24_home-service-fabric" href="/home/features/service-fabric/">Service Fabric 功能介绍</a>、<a id="weekly-updates-4-24_pricing-service-fabric" href="/pricing/details/service-fabric/">Service Fabric 价格详情</a></li>
 <li><a id="weekly-updates-4-24_documentation-service-fabric-containers-overview" href="/documentation/articles/service-fabric-containers-overview/">Service Fabric 和容器概述</a></li>
 <li><a id="weekly-updates-4-24_documentation-service-fabric-create-your-first-linux-application-with-csharp" href="/documentation/articles/service-fabric-create-your-first-linux-application-with-csharp/">创建第一个 Azure Service Fabric 应用程序</a></li>
 <li><a id="weekly-updates-4-24_documentation-service-fabric-create-your-first-linux-application-with-java" href="/documentation/articles/service-fabric-create-your-first-linux-application-with-java/">创建你的第一个 Azure Service Fabric 应用程序</a></li>
