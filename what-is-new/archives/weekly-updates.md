@@ -10,17 +10,13 @@
 
 <tags ms.service="weekly-updates" ms.date="" wacn.date="" wacn.lang="cn"/>
 
-# Azure 官网本周更新 4/10 - 4/14
+# Azure 官网本周更新 4/17 - 4/21
 ## 重要商务内容更新
 ### 博客
 <ul>
 <li><a id="weekly-updates-4-24_blog-iot-hub-message-routing " href="/blog/2017/04/19/iot-hub-message-routing ">Azure IoT中心信息路由大大简化了IoT解决方案的开发工作</a></li>
 </ul>
-### 服务级别协议更新
-<ul>
-<li>每月正常服务时间百分比公式添加了“X 100”，详情请见<a id="weekly-updates-4-24_sla-cloud-services" href="/support/sla/cloud-services/">云服务的服务级别协议</a></li>
-<li>每月正常服务时间百分比公式添加了“X 100”，详情请见<a id="weekly-updates-4-24_sla-virtual-machines" href="/support/sla/virtual-machines/">虚拟机的服务级别协议</a></li>
-</ul>
+
 ### 服务级别协议更新
 <ul>
 <li>每月正常服务时间百分比公式添加了“X 100”，详情请见<a id="weekly-updates-4-24_sla-cloud-services" href="/support/sla/cloud-services/">云服务的服务级别协议</a></li>
