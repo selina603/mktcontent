@@ -169,9 +169,9 @@ Linux 上的 Azure Service Fabric 公共预览版现已正式发布。您可以�
 
 ## 常用操作指南新发布
 <ul>
-<li><a id="weekly-updates-4-24_documentation-iot-hub-create-using-powershell" href="/documentation/articles/iot-hub-create-using-powershell/">使用 New-AzureRmIotHub cmdlet 创建 IoT 中心</a></li>
-<li><a id="weekly-updates-4-24_documentation-iot-hub-create-using-powershell" href="/documentation/articles/iot-hub-create-using-powershell/">使用 New-AzureRmIotHub cmdlet 创建 IoT 中心</a></li>
-<li><a id="weekly-updates-4-24_documentation-iot-hub-create-using-powershell" href="/documentation/articles/iot-hub-create-using-powershell/">使用 New-AzureRmIotHub cmdlet 创建 IoT 中心</a></li>
-<li><a id="weekly-updates-4-24_documentation-iot-hub-create-using-powershell" href="/documentation/articles/iot-hub-create-using-powershell/">使用 New-AzureRmIotHub cmdlet 创建 IoT 中心</a></li>
-<li><a id="weekly-updates-4-24_documentation-iot-hub-create-using-powershell" href="/documentation/articles/iot-hub-create-using-powershell/">使用 New-AzureRmIotHub cmdlet 创建 IoT 中心</a></li>
+<li><a id="weekly-updates-4-24_documentation-aog-sample-code-iot-hub-howto-send-message-with-paho-mqttv3" href="/documentation/articles/aog-sample-code-iot-hub-howto-send-message-with-paho-mqttv3/">如何使用 paho mqttv3 库发送消息到 Azure IoT 中心</a></li>
+<li><a id="weekly-updates-4-24_documentation-aog-sample-code-virtual-machines-classic-achieve-monitor-data-with-java" href="/documentation/articles/aog-sample-code-virtual-machines-classic-achieve-monitor-data-with-java/">使用 Java 获取经典模式虚拟机监视数据</a></li>
+<li><a id="weekly-updates-4-24_documentation-aog-storage-blob-integrity-checking-with-md5" href="/documentation/articles/aog-storage-blob-integrity-checking-with-md5/">Azure Blob 存储基于 MD5 的完整性检查</a></li>
+<li><a id="weekly-updates-4-24_documentation-aog-virtual-machines-qa-arm-batch-create-set-static-ip-with-python" href="/documentation/articles/aog-virtual-machines-qa-arm-batch-create-set-static-ip-with-python/">Python 基于固定 IP 来命名 ARM 虚拟机的实现</a></li>
+<li><a id="weekly-updates-4-24_documentation-aog-virtual-machines-qa-arm-set-disk-type-with-java" href="/documentation/articles/aog-virtual-machines-qa-arm-set-disk-type-with-java/">Java 创建 ARM 虚拟机磁盘类型选择的问题</a></li>
 </ul>
