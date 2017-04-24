@@ -165,3 +165,13 @@ Linux 上的 Azure Service Fabric 公共预览版现已正式发布。您可以�
 <li><a id="weekly-updates-4-24_documentation-iot-hub-arduino-huzzah-esp8266-get-started" href="/documentation/articles/iot-hub-arduino-huzzah-esp8266-get-started/">将 Adafruit Feather HUZZAH ESP8266 连接到云中的 Azure IoT 中心</a></li>
 <li><a id="weekly-updates-4-24_documentation-iot-hub-create-using-powershell" href="/documentation/articles/iot-hub-create-using-powershell/">使用 New-AzureRmIotHub cmdlet 创建 IoT 中心</a></li>
 </ul>
+
+
+## 常用操作指南新发布
+<ul>
+<li><a id="weekly-updates-4-24_documentation-iot-hub-create-using-powershell" href="/documentation/articles/iot-hub-create-using-powershell/">使用 New-AzureRmIotHub cmdlet 创建 IoT 中心</a></li>
+<li><a id="weekly-updates-4-24_documentation-iot-hub-create-using-powershell" href="/documentation/articles/iot-hub-create-using-powershell/">使用 New-AzureRmIotHub cmdlet 创建 IoT 中心</a></li>
+<li><a id="weekly-updates-4-24_documentation-iot-hub-create-using-powershell" href="/documentation/articles/iot-hub-create-using-powershell/">使用 New-AzureRmIotHub cmdlet 创建 IoT 中心</a></li>
+<li><a id="weekly-updates-4-24_documentation-iot-hub-create-using-powershell" href="/documentation/articles/iot-hub-create-using-powershell/">使用 New-AzureRmIotHub cmdlet 创建 IoT 中心</a></li>
+<li><a id="weekly-updates-4-24_documentation-iot-hub-create-using-powershell" href="/documentation/articles/iot-hub-create-using-powershell/">使用 New-AzureRmIotHub cmdlet 创建 IoT 中心</a></li>
+</ul>
