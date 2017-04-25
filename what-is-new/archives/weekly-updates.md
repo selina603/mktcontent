@@ -14,19 +14,18 @@
 ## 重要商务内容更新
 ### 博客
 <ul>
-<li><a id="weekly-updates-4-24_blog-iot-hub-message-routing " href="/blog/2017/04/19/iot-hub-message-routing ">Azure IoT中心信息路由大大简化了IoT解决方案的开发工作</a></li>
+<li><a id="weekly-updates-4-24_blog-iot-hub-message-routing " href="/blog/2017/04/19/iot-hub-message-routing/">Azure IoT中心信息路由大大简化了IoT解决方案的开发工作</a></li>
 </ul>
 
 ### 服务级别协议更新
 <ul>
-<li>每月正常服务时间百分比公式添加了“X 100”，详情请见<a id="weekly-updates-4-24_sla-cloud-services" href="/support/sla/cloud-services/">云服务的服务级别协议</a></li>
-<li>每月正常服务时间百分比公式添加了“X 100”，详情请见<a id="weekly-updates-4-24_sla-virtual-machines" href="/support/sla/virtual-machines/">虚拟机的服务级别协议</a></li>
+<li>每月正常服务时间百分比公式添加了“X 100”，详情请见<a id="weekly-updates-4-24_sla-cloud-services" href="/support/sla/cloud-services/">云服务的服务级别协议</a>、每月正常服务时间百分比公式添加了“X 100”，详情请见<a id="weekly-updates-4-24_sla-virtual-machines" href="/support/sla/virtual-machines/">虚拟机的服务级别协议</a></li>
 </ul>
 ### 电汇流程更新
 <ul>
-<li><a id="weekly-updates-4-24_pricing-azure-pia-application-and-signup" href="/pricing/billing/azure-pia-application-and-signup">Azure 标准预付费订阅申请和注册指南</a></li>
-<li><a id="weekly-updates-4-24_pricing-azure-1rmb-trial-application-and-signup" href="/pricing/billing/azure-1rmb-trial-application-and-signup">Azure 1 元试用申请和注册指南</a></li>
-<li><a id="weekly-updates-4-24_pricing-azure-wire-transfer-pia-new" href="/pricing/billing/azure-wire-transfer-pia-new">Azure 通过电汇方式首次购买标准预付费订阅指南</a></li>
+<li><a id="weekly-updates-4-24_pricing-azure-pia-application-and-signup" href="/pricing/billing/azure-pia-application-and-signup/">Azure 标准预付费订阅申请和注册指南</a></li>
+<li><a id="weekly-updates-4-24_pricing-azure-1rmb-trial-application-and-signup" href="/pricing/billing/azure-1rmb-trial-application-and-signup/">Azure 1 元试用申请和注册指南</a></li>
+<li><a id="weekly-updates-4-24_pricing-azure-wire-transfer-pia-new" href="/pricing/billing/azure-wire-transfer-pia-new/">Azure 通过电汇方式首次购买标准预付费订阅指南</a></li>
 </ul>
 ### 其他更新
 <ul>
@@ -34,7 +33,7 @@
 </ul>
 
 ## 新产品发布与文档更新
-### Linux 上的 Azure Service Fabric 公共预览版于17年4月正式发布
+### Linux 上的 Azure Service Fabric 公共预览版于 17 年 4 月正式发布
 Linux 上的 Azure Service Fabric 公共预览版现已正式发布。您可以在Linux 上的 Service Fabric 预览版上构建、部署和管理可高度伸缩的高可用性应用程序，就像在 Windows 上一样。
 <ul>
 <li><a id="weekly-updates-4-24_home-service-fabric" href="/home/features/service-fabric/">Service Fabric 功能介绍</a>、<a id="weekly-updates-4-24_pricing-service-fabric" href="/pricing/details/service-fabric/">Service Fabric 价格详情</a></li>
