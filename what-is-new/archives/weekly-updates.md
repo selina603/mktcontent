@@ -15,6 +15,11 @@
 ### 博客
 <ul>
 <li><a id="weekly-updates-4-24_blog-iot-hub-message-routing " href="/blog/2017/04/19/iot-hub-message-routing/">Azure IoT中心信息路由大大简化了IoT解决方案的开发工作</a></li>
+<li><a id="weekly-updates-4-24_blog-cdn-azureportal-preview" href="/blog/2017/04/21/cdn-azureportal-preview/">新版Azure China CDN管理门户公共预览版正式开放</a></li>
+<li><a id="weekly-updates-4-24_blog-cdn-restfulapi" href="/blog/2017/04/21/cdn-restfulapi/">Azure China CDN Restful API正式上线</a></li>
+<li><a id="weekly-updates-4-24_blog-azure-networking1" href="/blog/2017/04/21/azure-networking1/">架构解析 – Azure网络 1</a></li>
+<li><a id="weekly-updates-4-24_blog-azure-availability" href="/blog/2017/04/21/azure-availability/">Azure 高可用系列之一</a></li>
+<li><a id="weekly-updates-4-24_blog-bluegreendeployment" href="/blog/2017/04/21/bluegreendeployment/">如何在 Azure ARM 模式下做蓝绿部署</a></li>
 </ul>
 
 ### 服务级别协议更新
@@ -33,7 +38,7 @@
 </ul>
 
 ## 新产品发布与文档更新
-### Linux 上的 Azure Service Fabric 公共预览版于 17 年 4 月正式发布
+### Linux 上的 Azure Service Fabric 公共预览版于 17 年 4 月 17 日正式发布
 Linux 上的 Azure Service Fabric 公共预览版现已正式发布。您可以在Linux 上的 Service Fabric 预览版上构建、部署和管理可高度伸缩的高可用性应用程序，就像在 Windows 上一样。
 <ul>
 <li><a id="weekly-updates-4-24_home-service-fabric" href="/home/features/service-fabric/">Service Fabric 功能介绍</a>、<a id="weekly-updates-4-24_pricing-service-fabric" href="/pricing/details/service-fabric/">Service Fabric 价格详情</a></li>
