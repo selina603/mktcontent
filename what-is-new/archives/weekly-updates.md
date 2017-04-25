@@ -19,7 +19,7 @@
 
 ### 服务级别协议更新
 <ul>
-<li>每月正常服务时间百分比公式添加了“X 100”，详情请见<a id="weekly-updates-4-24_sla-cloud-services" href="/support/sla/cloud-services/">云服务的服务级别协议</a>、每月正常服务时间百分比公式添加了“X 100”，详情请见<a id="weekly-updates-4-24_sla-virtual-machines" href="/support/sla/virtual-machines/">虚拟机的服务级别协议</a></li>
+<li>每月正常服务时间百分比公式添加了“X 100”，详情请见<a id="weekly-updates-4-24_sla-cloud-services" href="/support/sla/cloud-services/">云服务的服务级别协议</a>、<a id="weekly-updates-4-24_sla-virtual-machines" href="/support/sla/virtual-machines/">虚拟机的服务级别协议</a></li>
 </ul>
 ### 电汇流程更新
 <ul>
