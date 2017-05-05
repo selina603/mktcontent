@@ -26,7 +26,7 @@
 ### 1. ICP 许可证和 ICP 备案是什么？如果我在 Azure 上部署我的服务，我需要 ICP 许可证或者 ICP 备案么？
 ICP 备案是工信部要求每一个在国内连接互联网的网站都必须要办的一个入网许可。ICP 许可证是网站经营的许可证，根据国家《互联网信息服务管理办法》规定，经营性网站必须办理 ICP 许可证，否则就属于非法经营。
 
-如果您在 Azure 平台上部署了网站，请登录上海蓝云网络科技有限公司备案系统 [http://icp.cloud.21vianet.com](http://icp.cloud.21vianet.com) 进行相关备案。
+如果您在 Azure 平台上部署了网站，请登录上海蓝云网络科技有限公司备案系统 <a href="http://icp.cloud.21vianet.com" id="icp-faq_21vianet">http://icp.cloud.21vianet.com</a> 进行相关备案。
 是否需要办理 ICP 许可证，如您根据国家《互联网信息服务管理办法》规定不能判断自己是否需要办理 ICP 许可证，请联系当地通信管理局进行确认。
 </br>
 </br>

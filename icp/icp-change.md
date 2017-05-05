@@ -39,8 +39,7 @@
 
 2、备案具体操作</br>
 2.1 登录账号</br>
-登录网站 [http://icp.cloud.21vianet.com](http://icp.cloud.21vianet.com)，输入账号密码，点击登录。
-
+登录网站 <a href="http://icp.cloud.21vianet.com" id="icp-change_21vianet">http://icp.cloud.21vianet.com</a>，输入账号密码，点击登录。
 ![procedure](./media/4-1.png)
 </br>
 
