@@ -20,18 +20,18 @@
 
 您可以购买额外的 Azure 服务使用额度，额外使用额度从购买日起 12 个月有效，但额外使用额度的购买不会延长之前购买的 Azure 服务使用额度的有效期，购买后 12 个月内未使用的任何 Azure 服务使用额度将作废。
 
-此产品按照标准[预付费费率](/pricing/overview/)计费。
+此产品按照标准<a id="ms-mc-arz-33p_overview" href="/pricing/overview/">预付费费率</a>计费。
 
 若预付费费率提高，会在加价之前至少 30 天通知您。我们会不定期将新服务添加到 Azure 平台。我们会通知您这些新服务以及使用这些服务可能收取的费用。但是，只有在您选择使用新服务的情况下才会向您收取费用。
 
-[立即购买 >](/pricing/pia/)
+<a id="ms-mc-arz-33p_pia" href="/pricing/pia/">立即购买 ></a>
 
 ## 付款选项
 
-支持“支付宝”，“银联在线”和“电汇”等三种支付方式，选择前两种线上支付的最低付款金额为 1,000 元人民币，电汇的最低支付金额为 5,000 元人民币。电汇的详情操作方式，可参考[电汇说明](/pricing/billing/azure-wire-transfer-overview)。
+支持“支付宝”，“银联在线”和“电汇”等三种支付方式，选择前两种线上支付的最低付款金额为 1,000 元人民币，电汇的最低支付金额为 5,000 元人民币。电汇的详情操作方式，可参考<a id="ms-mc-arz-33p_azure-wire-transfer-overview" href="/pricing/billing/azure-wire-transfer-overview/">电汇说明</a>。
 
 
-有关定价和计费的更多详细信息（包括各项 Azure 功能的价格）可参见我们的[定价页面](/pricing/overview/)。
+有关定价和计费的更多详细信息（包括各项 Azure 功能的价格）可参见我们的<a id="ms-mc-arz-33p_overview" href="/pricing/overview/">定价页面</a>。
 
 ## 取消策略
 
@@ -39,7 +39,7 @@
 
 ## 使用配额
 
-适用以下月度使用配额。如果您需要的额度超出这些配额，请随时联系我们的[客户服务](/support/contact/)，我们将根据您的实际需求相应调整配额。
+适用以下月度使用配额。如果您需要的额度超出这些配额，请随时联系我们的<a id="ms-mc-arz-33p_contact" href="/support/contact/">客户服务</a>，我们将根据您的实际需求相应调整配额。
 
 ## 云服务和虚拟机
 
@@ -82,6 +82,6 @@
 
 您也可以通过每隔 90 天采取下列任一操作，以避免您的计算资源被删除：
 
- 1.登录到[管理门户](https://manage.windowsazure.cn/)
+ 1.登录到<a id="ms-mc-arz-33p_manage.windowsazure" href="https://manage.windowsazure.cn/">管理门户</a>
 
  2.通过我们的 Azure API 访问您的托管服务

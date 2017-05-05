@@ -17,7 +17,7 @@
 
 ## Azure 免费使用额度
 
-本条款下的免费使用额度优惠仅适用于[标准预付费产品](/offers/ms-mc-arz-33p/)， 并且通过向客户订阅中增加使用额度的方式将使用额度在不增加任何费用的前提下以价格折扣的形式赠送给客户。
+本条款下的免费使用额度优惠仅适用于<a id="azure-monetary-credit_ms-mc-arz-33p" href="/offers/ms-mc-arz-33p/">标准预付费产品</a>， 并且通过向客户订阅中增加使用额度的方式将使用额度在不增加任何费用的前提下以价格折扣的形式赠送给客户。
 
 以上赠送使用额度的费率计费、取消政策、使用配额均同标准预付费订阅相同。
 
@@ -33,4 +33,4 @@
 
 ## 优惠活动详情:
 
-[【已结束】实名身份信息收集活动详情（奖励只针对 2016 年 1 月 21 日之前提交实名信息的用户）](/support/announcement/real-name-announcement/)
+<a id="azure-monetary-credit_real-name-announcement" href="/support/announcement/real-name-announcement/">【已结束】实名身份信息收集活动详情（奖励只针对 2016 年 1 月 21 日之前提交实名信息的用户）</a>

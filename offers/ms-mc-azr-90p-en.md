@@ -31,13 +31,13 @@ This offer is limited to one offer per new customer. Violation of this policy ma
 
 ###Conversion to Paid Offer
 
-You may convert your trial subscription into a [Standard Pay-In-Advance](/offers/ms-mc-arz-33p/) subscription by adding additional funds of 1,000 RMB or more. Your Azure Credits will be increased by the amount of the additional funds you add and are valid for 12 months. You may make subsequent additions of funds that will be valid for 12 months from the date of purchase, but this will not extend Azure Credits previously purchased and any Azure Credits not used within 12 months of their purchase will be forfeited.
+You may convert your trial subscription into a <a id="ms-mc-azr-90p-en_ms-mc-arz-33p" href="/offers/ms-mc-arz-33p/">Standard Pay-In-Advance</a> subscription by adding additional funds of 1,000 RMB or more. Your Azure Credits will be increased by the amount of the additional funds you add and are valid for 12 months. You may make subsequent additions of funds that will be valid for 12 months from the date of purchase, but this will not extend Azure Credits previously purchased and any Azure Credits not used within 12 months of their purchase will be forfeited.
 
 ###Payment Options & Pricing Details
 
 A 1 RMB payment will be required via Ali Pay and China UnionPay (CUP) only.
 
-More details on pricing and billing, including the prices for individual Azure features, can be found on our [Pricing page](/offers/ms-mc-arz-33p/).
+More details on pricing and billing, including the prices for individual Azure features, can be found on our <a id="ms-mc-azr-90p-en_ms-mc-arz-33p-1" href="/offers/ms-mc-arz-33p/">Pricing page</a>.
 
 ###Cancelation Policy
 
@@ -73,11 +73,11 @@ An object is an entry in the directory service, represented by its unique distin
 
 ###Data Transfer
 
-All data transfer usage will be deducted from your available Azure monetary credits. You can visit [here](https://account.windowsazure.cn/Subscriptions/) to verify real-time data transfer usage status.
+All data transfer usage will be deducted from your available Azure monetary credits. You can visit <a id="ms-mc-azr-90p-en_Subscriptions" href="https://account.windowsazure.cn/Subscriptions/">here</a> to verify real-time data transfer usage status.
 
 ###Service Level Agreements
 
-We do not provide Service Level Agreements (SLAs) for this trial offer. If you convert to a Pay-In-Advance Offer, we provide a set of robust service level agreements. More details on our SLAs can be found on our [SLA page](/support/legal/sla/) . 
+We do not provide Service Level Agreements (SLAs) for this trial offer. If you convert to a Pay-In-Advance Offer, we provide a set of robust service level agreements. More details on our SLAs can be found on our <a id="ms-mc-azr-90p-en_sla" href="/support/legal/sla/">SLA page</a> . 
 
 ###Resource Commitment
 
@@ -87,6 +87,6 @@ For any subscriptions of this offer that are not incurring charges and are inact
 
 You can also avoid having your Compute resources removed by doing either of the following every 90 days:
 
- 1.Log into the management [portal](https://manage.windowsazure.cn/)
+ 1.Log into the management <a id="ms-mc-azr-90p-en_manage.windowsazure.cn" href="https://manage.windowsazure.cn/">portal</a>
  
  2.Access your hosted service(s) via our Azure APIs

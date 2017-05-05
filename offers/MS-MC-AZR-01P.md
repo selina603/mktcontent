@@ -16,11 +16,11 @@
 
 每月的免费限额：
 
-[计算](/home/features/virtual-machines/) / 计算限额可以用来运行云服务、Windows 虚拟机和非 Windows 虚拟机。每个beta账户/订阅最多支持四核。如果用户选择使用“特小型, 小型, 中型, 大型”SKU, 每月有 3000 (小时 * 核)。 如果用户选择使用大内存SKU (A5, A6)，每月有1500 (小时＊核)。注: 免费试用暂时不支持特大型SKU及大内存SKU A7。了解基于虚拟机的计算资源的可用大小和选项，请参考[这里](https://azure.microsoft.com/zh-cn/documentation/articles/cloud-services-sizes-specs/)。
+<a id="MS-MC-AZR-01P_virtual-machines" href="/home/features/virtual-machines/">计算</a> / 计算限额可以用来运行云服务、Windows 虚拟机和非 Windows 虚拟机。每个beta账户/订阅最多支持四核。如果用户选择使用“特小型, 小型, 中型, 大型”SKU, 每月有 3000 (小时 * 核)。 如果用户选择使用大内存SKU (A5, A6)，每月有1500 (小时＊核)。注: 免费试用暂时不支持特大型SKU及大内存SKU A7。了解基于虚拟机的计算资源的可用大小和选项，请参考<a id="MS-MC-AZR-01P_cloud-services-sizes-specs" href="https://azure.microsoft.com/zh-cn/documentation/articles/cloud-services-sizes-specs/">这里</a>。
 
-[SQL数据库](/home/features/data-management/) /商业版：1 GB；网页版：2 GB；基本版：无限制；标准版S1: 10天；标准版S2: 10天；高级版：不可用
+<a id="MS-MC-AZR-01P_sql-database" href="/home/features/sql-database/">SQL数据库</a> /商业版：1 GB；网页版：2 GB；基本版：无限制；标准版S1: 10天；标准版S2: 10天；高级版：不可用
 
-[存储](/home/features/data-management/) / 存储量如下表所列，含 500 万次存储操作
+<a id="MS-MC-AZR-01P_storage" href="/home/features/storage/">存储</a> / 存储量如下表所列，含 500 万次存储操作
 
   
 || 本地冗余存储 (LRS) | 地域冗余存储 (GRS) | 读取访问地域冗余存储 (RA-GRS)|
@@ -31,13 +31,13 @@
 
 数据传输 / 数据输入不受限制 / 数据输出 50 GB
 
-[服务总线](/home/features/messaging/) / 1500 个中继小时和 50 万条消息
+<a id="MS-MC-AZR-01P_messaging" href="/home/features/messaging/">服务总线</a> / 1500 个中继小时和 50 万条消息
 
 计划程序 / 包含标准版（作业执行数：无限制；最大执行频率：每分钟；作业集合数：10；每个集合的作业数：50）；高级版：不可用
 
-[媒体服务](/home/features/media-services/) / 包含40GB数据处理， 10,000 个AES Keys, 10,000 个PlayReady License；不包含专属单位
+<a id="MS-MC-AZR-01P_media-services" href="/home/features/media-services/">媒体服务</a> / 包含40GB数据处理， 10,000 个AES Keys, 10,000 个PlayReady License；不包含专属单位
 
-[虚拟网络](/home/features/networking/) / 包含1,000GB数据输出
+<a id="MS-MC-AZR-01P_networking" href="/home/features/networking/">虚拟网络</a> / 包含1,000GB数据输出
 
 保留IP / 5个保留IP，100个重新映射
 
@@ -57,7 +57,7 @@
 
 ##用量配额
 
-本优惠项目使用下述用量配额项目。如果您需要使用更多资源，请随时[联系客服](/support/contact/)以便我们了解您的需求，并适当调节限额。
+本优惠项目使用下述用量配额项目。如果您需要使用更多资源，请随时<a id="MS-MC-AZR-01P_contact" href="/support/contact/">联系客服</a>以便我们了解您的需求，并适当调节限额。
 
 beta 试用订阅服务默认将获得以下配额：
 

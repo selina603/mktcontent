@@ -19,7 +19,7 @@
 
 ##MSDN Subscriptions Azure Benefit Offer
 
-Azure provides great development and test benefits for MSDN subscribers. Benefits include a one-time credit specified by your MSDN subscription, lower rates and no additional charge for using MSDN software on Azure for development and test. If your purpose is for commercial use, please convert to [Standard Pay-In-Advance](/offers/ms-mc-arz-33p/) subscription.
+Azure provides great development and test benefits for MSDN subscribers. Benefits include a one-time credit specified by your MSDN subscription, lower rates and no additional charge for using MSDN software on Azure for development and test. If your purpose is for commercial use, please convert to <a id="ms-mc-arz-msdn-en_ms-mc-arz-33p" href="/offers/ms-mc-arz-33p/">Standard Pay-In-Advance</a> subscription.
 
 ##Flexibility with Azure Credits
 
@@ -34,7 +34,7 @@ The credit amount varies by MSDN subscription level:
 
 The choice is yours on how you use your Azure credits for development and test. Use them on any Azure services that meet your needs including Virtual Machines, Websites, Cloud Services, Mobile Services, Storage, SQL Database, HDInsight, Media Services, and many more.
 
-You may use up to the amount of your Azure credits for the duration specified. If you exceed your credits, your service will be disabled. Any unused credits at the end of 12 months will be forfeited unless you convert to a [Standard Pay-In-Advance](/offers/ms-mc-arz-33p/) Offer prior to the expiration of your MSDN Benefit Offer. You may not purchase additional Azure credits with this offer, but you may purchase a separate Standard Pay-In-Advance subscription and then transfer your Customer Data.
+You may use up to the amount of your Azure credits for the duration specified. If you exceed your credits, your service will be disabled. Any unused credits at the end of 12 months will be forfeited unless you convert to a <a id="ms-mc-arz-msdn-en_ms-mc-arz-33p-1" href="/offers/ms-mc-arz-33p/">Standard Pay-In-Advance</a> Offer prior to the expiration of your MSDN Benefit Offer. You may not purchase additional Azure credits with this offer, but you may purchase a separate Standard Pay-In-Advance subscription and then transfer your Customer Data.
 
 This Azure offering is for active MSDN subscribers only and is invitation-only. MSDN subscribers will be provided with an Azure subscription that includes the services detailed below. This subscription should be used for development and test purposes only, is not intended for production use, and does not include any warranty or SLA. We are making this capacity available to MSDN subscribers on a best efforts basis; there is no guarantee of capacity availability.
 
@@ -70,7 +70,7 @@ The MSDN Azure benefit is intended for development and test purposes only. Usage
 
 A 1 RMB payment will be required via Alipay and China UnionPay (CUP) only.
 
-More details on pricing and billing, including the prices for individual Azure features, can be found on our [Pricing page](/pricing/overview/).
+More details on pricing and billing, including the prices for individual Azure features, can be found on our <a id="ms-mc-arz-msdn-en_overview" href="/pricing/overview/">Pricing page</a>.
 
 ##Cancellation Policy
 
@@ -117,13 +117,13 @@ An object is an entry in the directory service, represented by its unique distin
 
 50 GB outbound data transfer per month
 
-If you exceed the data transfer quota in any given month, your account may be suspended without prior notice, and the credit amount will be reset to ‘0.’ You can visit [here](https://account.windowsazure.cn/Subscriptions/) to verify real-time data transfer usage status.
+If you exceed the data transfer quota in any given month, your account may be suspended without prior notice, and the credit amount will be reset to ‘0.’ You can visit <a id="ms-mc-arz-msdn-en_Subscriptions" href="https://account.windowsazure.cn/Subscriptions/">here</a> to verify real-time data transfer usage status.
 
-If you will require a higher Data Transfer quota, you will need to convert to a [Standard Pay-in-Advance](/offers/ms-mc-arz-33p/) Offer.
+If you will require a higher Data Transfer quota, you will need to convert to a <a id="ms-mc-arz-msdn-en_ms-mc-arz-33p-2" href="/offers/ms-mc-arz-33p/">Standard Pay-In-Advance</a> Offer.
 
 ##Service Level Agreements
 
-We do not provide Service Level Agreements (SLAs) for this MSDN offer. If you convert to a [Standard Pay-In-Advance](/offers/ms-mc-arz-33p/) Offer,we provide a set of robust service level agreements. More details on our SLAs can be found on our [SLA page](/support/legal/sla/).
+We do not provide Service Level Agreements (SLAs) for this MSDN offer. If you convert to a <a id="ms-mc-arz-msdn-en_ms-mc-arz-33p-3" href="/offers/ms-mc-arz-33p/">Standard Pay-In-Advance</a> Offer,we provide a set of robust service level agreements. More details on our SLAs can be found on our <a id="ms-mc-arz-msdn-en_sla" href="/support/legal/sla/">SLA page</a>.
 
 ##Resource Commitment
 
@@ -133,5 +133,5 @@ For any subscriptions of this offer that are not incurring charges and are inact
 
 You can also avoid having your Compute resources removed by doing either of the following every 90 days:
 
- - Log into the [Management Portal](https://manage.windowsazure.cn/)
+ - Log into the <a id="ms-mc-arz-msdn-en_manage.windowsazure" href="https://manage.windowsazure.cn/">Management Portal</a>
  - Access your hosted service(s) via our Azure APIs
