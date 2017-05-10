@@ -14,7 +14,7 @@
 
 ## 计量名称变更
 
-基于用户反馈，我们着手变更 Azure 属性标准计量名称。当变更完成后，我们将通过电子邮件及本页面通知您变更结果。
+基于用户反馈，我们着手变更 Azure 属性标准计量名称。变更完成后，我们将通过电子邮件及本页面通知您变更结果。
 
 此次变更让您可以更加轻松地管理 Azure 资源，对 <a id="meter_name_changes_www.azure.cn" href="https://www.azure.cn">Azure 官网</a>功能页面、详细数据使用量、APIs 和发票进行统一分类。计量的数据使用量、价格或计量 ID 不会因此受到影响，您只需调整您的报告来符合新的命名约定。我们将更改使用摘要中的产品名称和服务名称，使其符合新的命名约定。
 
@@ -28,7 +28,7 @@
 <tr>         <td>新命名约定</td><td>存储</td><td>表格和队列</td><td>GR 存储</td><td>1 GB </td><td>存储表格和队列 GR 存储</td><td>中国</td></tr>
 </table>
 
-<a id="meter_name_changes_China_meter_standardization-17.2.pdf" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/China_meter_standardization-17.2.pdf">下载</a>包含所有计量名称及其更改前/后的属性值的表格。在此表正式应用前，我们每个月会对其进行更新，请定期查看，获取更新。
+<a id="meter_name_changes_China_meter_standardization-17.2.pdf" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/China_meter_standardization-17.2.pdf">下载</a>包含所有计量名称及其更改前/后的属性值的表格。在此表正式应用前，我们每个月会对其进行更新，请定期查看获取更新。
 
 为帮助您顺利完成此次过渡，我们还编写了<a id="meter_name_changes_meter-update-reports" href="/support/meter-update-reports/">说明</a>，帮助您更新任何基于计量属性名称的报告。 
 
