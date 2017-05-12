@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="announcement" ms.date="02/2017" wacn.date="02/2017" wacn.lang="cn"/>
+<tags ms.service="announcement" ms.date="05/2017" wacn.date="05/2017" wacn.lang="cn"/>
 
 # 关于计量名称变更的通知
 
