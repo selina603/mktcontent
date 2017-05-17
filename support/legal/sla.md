@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="04/2017" wacn.date="04/2017" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="05/2017" wacn.date="05/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/legal/sla/)
@@ -85,7 +85,7 @@
 
 [所有 Azure 服务的服务级别协议的摘要](/support/sla/abstract/)
 
-点击[此处](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_Chinese_170417.pdf)可以下载大部分 Azure 服务的服务级别协议
+点击[此处](//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Consolidated_SLA_Chinese_170517.pdf)可以下载大部分 Azure 服务的服务级别协议
 
 [虚拟机]: /support/sla/virtual-machines/
 [虚拟机规模集]: /support/sla/virtual-machine-scale-sets/
