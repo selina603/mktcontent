@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="04/2017" wacn.date="04/2017" wacn.lang="en"/>
+<tags ms.service="legal-en" ms.date="05/2017" wacn.date="05/2017" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/virtual-machines/)
@@ -23,7 +23,7 @@ For any Single Instance Virtual Machine using premium storage for all disks, we 
 
 This Service Level Agreement for Azure (this “SLA”) is made by 21Vianet in connection with, and is a part of, the agreement under which Customer has purchased Azure Services from 21Vianet (the “Agreement”).
 
-We provide financial backing to our commitment to achieve and maintain Service Levels for our Services. If we do not achieve and maintain the Service Levels for each Service as described in this SLA, then you may be eligible for a credit towards a portion of your monthly service fees. These terms will be fixed for term of your Agreement. If a subscription is renewed, the version of this SLA that is current at the time the renewal term commences will apply throughout the renewal term. We will provide at least 90 days' notice for adverse material changes to this SLA. You can review the most current version of this SLA at any time by visiting [https://www.azure.cn/support/legal/sla/](/support/legal/sla/).
+We provide financial backing to our commitment to achieve and maintain Service Levels for our Services. If we do not achieve and maintain the Service Levels for each Service as described in this SLA, then you may be eligible for a credit towards a portion of your monthly service fees. These terms will be fixed for term of your Agreement. If a subscription is renewed, the version of this SLA that is current at the time the renewal term commences will apply throughout the renewal term. We will provide at least 90 days' notice for adverse material changes to this SLA. You can review the most current version of this SLA at any time by visiting <a id="vm-sla-en_sla-index" href="/support/legal/sla/">https://www.azure.cn/support/legal/sla/</a>.
 
 ## General Terms
 
@@ -118,22 +118,31 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 4. "**Virtual Machine Connectivity**" is bi-directional network traffic between the virtual machine and other IP addresses using TCP or UDP network protocols in which the virtual machine is configured for allowed traffic. The IP addresses can be IP addresses in the same Cloud Service as the virtual machine, IP addresses within the same virtual network as the virtual machine or public, routable IP addresses. 
 
-### Monthly Uptime Calculation and Service Levels for Virtual Machines
+5. "**Announced Single Instance Maintenance**" means periods of Downtime related to network, hardware, or Service maintenance or upgrades impacting Single Instances. We will publish notice or notify you at least five (5) days prior to the commencement of such Downtime. 
 
-1. "**Maximum Available Minutes**" is the total accumulated minutes during a billing month for all Internet facing Virtual Machines that have two or more instances deployed in the same Availability Set. Maximum Available Minutes is measured from when at least two Virtual Machines in the same Availability Set have both been started resultant from action initiated by Customer to the time Customer has initiated an action that would result in stopping or deleting the Virtual Machines. 
+6. "**Data Disk**" is a persistent virtual hard disk, attached to a Virtual Machine, used to store application data. 
 
-2. "**Downtime**" means periods of Downtime related to network, hardware, or Service maintenance or upgrades impacting Single Instances. We will publish notice or notify you at least five (5) days prior to the commencement of such Downtime.
+7. "**Operating System Disk**" is a persistent virtual hard disk, attached to a Virtual Machine, used to store the Virtual Machine’s operating system. 
+
+8. "**Single Instance**" is defined as any single Virtual Machine that either is not deployed in an Availability Set or has only one instance deployed in an Availability Set. 
+
+### Monthly Uptime Calculation and Service Levels for Virtual Machines in an Availability Set
+
+1. "**Maximum Available Minutes**" is the total accumulated minutes during a billing month for all Virtual Machines that have two or more instances deployed in the same Availability Set. Maximum Available Minutes is measured from when at least two Virtual Machines in the same Availability Set have both been started resultant from action initiated by Customer to the time Customer has initiated an action that would result in stopping or deleting the Virtual Machines. 
+
+2. "**Downtime**" is the total accumulated minutes that are part of Maximum Available Minutes that have no Virtual Machine Connectivity.
 
 3. "**Monthly Uptime Percentage**" for Virtual Machines is calculated as Maximum Available Minutes less Downtime divided by Maximum Available Minutes in a billing month for a given Azure subscription. Monthly Uptime Percentage is represented by the following formula:
 
 	Monthly Uptime % = (Maximum Available Minutes − Downtime) / Maximum Available Minutes X 100
 	
-4. The following Service Levels and Service Credits are applicable to Customer's use of Virtual Machines:
+4. The following Service Levels and Service Credits are applicable to Customer's use of Virtual Machines in an Availability Set:
 
 	MONTHLY UPTIME PERCENTAGE	|SERVICE CREDIT
 	--------------------|---------
 	<99.95%				|10% 
 	<99%				|25% 
+	<95%				|100% 
 	
 ### Monthly Uptime Calculation and Service Levels for Single-Instance Virtual Machines
 
@@ -141,7 +150,7 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 2. "**Downtime**" is the total accumulated minutes that are part of Minutes in the Month that have no Virtual Machine Connectivity. Downtime excludes Announced Single Instance Maintenance.
 
-3. "**Monthly Uptime Percentage**" is calculated by subtracting from 100% the percentage of Minutes in the Month in which any Single Instance Virtual Machine using premium storage for all disks had Downtime.
+3. "**Monthly Uptime Percentage**" is calculated by subtracting from 100% the percentage of Minutes in the Month in which any Single Instance Virtual Machine using premium storage for all Operating System Disks and Data disks had Downtime.
 
 	Monthly Uptime % = (Minutes in the Month - Downtime) / Minutes in the Month X 100
 	
@@ -151,15 +160,20 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 	--------------------|---------
 	<99.9%				|10% 
 	<99%				|25% 
+	<95%				|100% 
 
 ## Version History
 
-[1.2](/support/sla/virtual-machines-en/) Last updated： Mar 2017
+<a id="vm-sla-en_vm-sla-en" href="/support/sla/virtual-machines-en/">1.3</a> Last updated： May 2017
+
+Release notes: Improved SLA by adding 100% service credit guarantee if uptime falls below 95%, and excluded temporary disks from the requirement to have premium storage on the single-instance SLA.
+
+<a id="vm-sla-en_vm-sla-en-1.2pdf" href="//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/virtual_machine_sla_english1.2.pdf">1.2</a> Last updated： Mar 2017
 
 Release notes: Added ‘X 100’ to the monthly uptime availability formulas to fix a typo.
 
-[1.1](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/virtual_machine_sla_english1.1.pdf) Last updated： Feb 2017
+<a id="vm-sla-en_vm-sla-en-1.1pdf" href="//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/virtual_machine_sla_english1.1.pdf">1.1</a> Last updated： Feb 2017
 
 Release notes: Added a new, Single-Instance Virtual Machine SLA, Updates related to maximum available minutes
 
-[1.0](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/virtual_machine_sla_english1.0.pdf) Last updated： Mar 2016
+<a id="vm-sla-en_vm-sla-en-1.0pdf" href="//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/virtual_machine_sla_english1.0.pdf">1.1</a> Last updated： Mar 2016
