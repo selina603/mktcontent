@@ -12,6 +12,9 @@
 
 # Azure 官网本周更新 5/15 - 5/19
 ## 重要商务内容更新
+无
+
+## 其他内容更新
 ### 博客
 <ul>
 <li><a id='weekly-updates-5-22_blog-AzureStorageIntroduce' href='/blog/2017/05/19/AzureStorageIntroduce/'>Azure存储基本介绍</a></li>
