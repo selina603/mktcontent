@@ -90,5 +90,5 @@
 
 ## 博客更新
 <ul>
-<li><a id='weekly-updates-5-22_blog-AzureStorageIntroduce' href='/blog/2017/05/19/AzureStorageIntroduce/'>Azure存储基本介绍</a></li>
+<li><a id='weekly-updates-5-22_blog-AzureStorageIntroduce' href='/blog/2017/05/19/AzureStorageIntroduce/'>Azure 存储基本介绍</a></li>
 </ul>
