@@ -12,11 +12,9 @@
 
 # Azure 官网本周更新 5/15 - 5/19
 ## 重要商务内容更新
-### 博客
-<ul>
-<li><a id='weekly-updates-5-22_blog-AzureStorageIntroduce' href='/blog/2017/05/19/AzureStorageIntroduce/'>Azure存储基本介绍</a></li>
-</ul>
+无
 
+## 其他商务内容更新
 ### 案例研究
 <ul>
 <li><a id='weekly-updates-5-22_partnerancasestudy-coca-cola-amatil' href='/partnerancasestudy/case-studies/coca-cola-amatil/'>可口可乐 Amatil 案例</a></li>
@@ -89,3 +87,8 @@
 <li><a id='weekly-updates-5-22_documentation-virtual-machines-windows-sizes-memory' href='/documentation/articles/virtual-machines-windows-sizes-memory/'>内存优化</a></li>
 </ul>
 
+
+## 博客更新
+<ul>
+<li><a id='weekly-updates-5-22_blog-AzureStorageIntroduce' href='/blog/2017/05/19/AzureStorageIntroduce/'>Azure 存储基本介绍</a></li>
+</ul>
