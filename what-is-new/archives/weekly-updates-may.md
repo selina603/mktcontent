@@ -11,7 +11,90 @@
 <tags ms.service="weekly-updates" ms.date="" wacn.date="" wacn.lang="cn"/>
 
 # Azure 官网往期更新
-## 5/15 - 5/19
+## 2017/5/22 - 2017/5/27
+## 重要商务内容更新
+无
+
+## 其他商务内容更新
+### 案例研究
+<ul>
+<li><a id='weekly-updates-5-31_partnerancasestudy-miracle-games' href='/partnerancasestudy/case-studies/miracle-games/'>奇游灵动 案例</a></li>
+</ul>
+
+## 新技术文档发布
+### Service Fabric
+<ul>
+<li><a id="_documentation-service-fabric-deploy-remove-applications-fabricclient" href="/documentation/articles/service-fabric-deploy-remove-applications-fabricclient/">使用 FabricClient 部署和删除应用程序</a></li>
+<li><a id="weekly-updates-5-31_documentation-service-fabric-get-started-standalone-cluster" href="/documentation/articles/service-fabric-get-started-standalone-cluster/">创建第一个独立的 Service Fabric 群集</a></li>
+<li><a id="weekly-updates-5-31_documentation-service-fabric-linux-windows-differences" href="/documentation/articles/service-fabric-linux-windows-differences/">Linux 上的 Service Fabric（预览版）与 Windows 上的 Service Fabric（正式版）之间的差异</a></li>
+<li><a id="weekly-updates-5-31_documentation-service-fabric-package-apps" href="/documentation/articles/service-fabric-package-apps/">打包应用程序</a></li>
+<li><a id="weekly-updates-5-31_documentation-service-fabric-patterns-networking" href="/documentation/articles/service-fabric-patterns-networking/">Service Fabric 网络模式</a></li>
+<li><a id="weekly-updates-5-31_documentation-service-fabric-reliable-services-communication-aspnetcore" href="/documentation/articles/service-fabric-reliable-services-communication-aspnetcore/">Service Fabric Reliable Services 中的 ASP.NET Core</a></li>
+<li><a id="weekly-updates-5-31_documentation-service-fabric-reliable-services-communication-remoting-java" href="/documentation/articles/service-fabric-reliable-services-communication-remoting-java/">通过 Reliable Services 进行服务远程处理</a></li>
+<li><a id="weekly-updates-5-31_documentation-service-fabric-reliable-services-lifecycle-java" href="/documentation/articles/service-fabric-reliable-services-lifecycle-java/">Reliable Services 生命周期概述</a></li>
+<li><a id="weekly-updates-5-31_documentation-service-fabric-reliable-services-secure-communication-java" href="/documentation/articles/service-fabric-reliable-services-secure-communication-java/">在 Azure Service Fabric 中帮助保护服务的通信</a></li>
+</ul>
+
+### 存储
+<ul>
+<li><a id="weekly-updates-5-31_documentation-vs-azure-tools-storage-explorer-files" href="/documentation/articles/vs-azure-tools-storage-explorer-files/">将存储资源管理器（预览版）与 Azure 文件存储配合使用</a></li>
+</ul>
+
+### VPN 网关
+<ul>
+<li><a id="weekly-updates-5-31_documentation-vpn-gateway-delete-vnet-gateway-portal" href="/documentation/articles/vpn-gateway-delete-vnet-gateway-portal/">使用门户删除虚拟网络网关</a></li>
+<li><a id="weekly-updates-5-31_documentation-vpn-gateway-howto-vnet-vnet-portal-classic" href="/documentation/articles/vpn-gateway-howto-vnet-vnet-portal-classic/">配置 VNet 到 VNet 连接（经典）</a></li>
+<li><a id="weekly-updates-5-31_documentation-vpn-gateway-validate-throughput-to-vnet" href="/documentation/articles/vpn-gateway-validate-throughput-to-vnet/">如何验证到达虚拟网络的 VPN 吞吐量</a></li>
+</ul>
+
+### SQL 数据库
+<ul>
+<li><a id="weekly-updates-5-31_documentation-sql-database-connect-query-java" href="/documentation/articles/sql-database-connect-query-java/">Azure SQL 数据库：使用 Java 进行连接和数据查询</a></li>
+<li><a id="weekly-updates-5-31_documentation-sql-database-connect-query-nodejs" href="/documentation/articles/sql-database-connect-query-nodejs/">Azure SQL 数据库：使用 Node.js 进行连接和数据查询</a></li>
+<li><a id="weekly-updates-5-31_documentation-sql-database-connect-query-php" href="/documentation/articles/sql-database-connect-query-php/">Azure SQL 数据库：使用 PHP 进行连接和数据查询</a></li>
+<li><a id="weekly-updates-5-31_documentation-sql-database-connect-query-python" href="/documentation/articles/sql-database-connect-query-python/">Azure SQL 数据库：使用 Python 进行连接和数据查询</a></li>
+<li><a id="weekly-updates-5-31_documentation-sql-database-connect-query-ruby" href="/documentation/articles/sql-database-connect-query-ruby/">Azure SQL 数据库：使用 Ruby 进行连接和数据查询</a></li>
+<li><a id="weekly-updates-5-31_documentation-sql-database-design-first-database" href="/documentation/articles/sql-database-design-first-database/">设计你的第一个 Azure SQL 数据库</a></li>
+<li><a id="weekly-updates-5-31_documentation-sql-database-migrate-your-sql-server-database" href="/documentation/articles/sql-database-migrate-your-sql-server-database/">将 SQL Server 数据库迁移到 Azure SQL 数据库</a></li>
+<li><a id="weekly-updates-5-31_documentation-sql-database-public-data-sets" href="/documentation/articles/sql-database-public-data-sets/">用于测试和原型设计的公共数据集</a></li>
+</ul>
+
+### 服务总线
+<ul>
+<li><a id="weekly-updates-5-31_documentation-service-bus-manage-with-ps" href="/documentation/articles/service-bus-manage-with-ps/">使用 PowerShell 管理服务总线资源</a></li>
+</ul>
+
+### 应用程序网关
+<ul>
+<li><a id="weekly-updates-5-31_documentation-application-gateway-crs-rulegroups-rules" href="/documentation/articles/application-gateway-crs-rulegroups-rules/">提供的 Web 应用程序防火墙 CRS 规则组和规则列表</a></li>
+<li><a id="weekly-updates-5-31_documentation-application-gateway-customize-waf-rules-portal" href="/documentation/articles/application-gateway-customize-waf-rules-portal/">通过门户自定义 Web 应用程序防火墙规则</a></li>
+</ul>
+
+### Azure IoT 中心
+<ul>
+<li><a id="weekly-updates-5-31_documentation-iot-hub-configure-file-upload-powershell" href="/documentation/articles/iot-hub-configure-file-upload-powershell/">使用 PowerShell 配置 IoT 中心文件上载</a></li>
+<li><a id="weekly-updates-5-31_documentation-iot-hub-device-management-iothub-explorer" href="/documentation/articles/iot-hub-device-management-iothub-explorer/">使用 iothub-explorer 进行 Azure IoT 中心设备管理</a></li>
+<li><a id="weekly-updates-5-31_documentation-iot-hub-explorer-cloud-device-messaging" href="/documentation/articles/iot-hub-explorer-cloud-device-messaging/">使用 iothub-explorer 在设备与 IoT 中心之间发送和接收消息</a></li>
+<li><a id="weekly-updates-5-31_documentation-iot-hub-gateway-kit-c-iot-gateway-connect-device-to-cloud" href="/documentation/articles/iot-hub-gateway-kit-c-iot-gateway-connect-device-to-cloud/">使用 IoT 网关将设备连接到 Azure IoT 中心的云 - SensorTag</a></li>
+<li><a id="weekly-updates-5-31_documentation-iot-hub-gateway-kit-c-use-iot-gateway-for-data-conversion" href="/documentation/articles/iot-hub-gateway-kit-c-use-iot-gateway-for-data-conversion/">通过 Azure IoT 网关 SDK，使用 IoT 网关进行传感器数据转换</a></li>
+<li><a id="weekly-updates-5-31_documentation-iot-hub-live-data-visualization-in-power-bi" href="/documentation/articles/iot-hub-live-data-visualization-in-power-bi/">使用 Power BI 可视化 Azure IoT 中心的实时传感器数据</a></li>
+<li><a id="weekly-updates-5-31_documentation-iot-hub-live-data-visualization-in-web-apps" href="/documentation/articles/iot-hub-live-data-visualization-in-web-apps/">使用 Azure Web 应用可视化 Azure IoT 中心的实时传感器数据</a></li>
+<li><a id="weekly-updates-5-31_documentation-iot-hub-sparkfun-esp8266-thing-dev-get-started" href="/documentation/articles/iot-hub-sparkfun-esp8266-thing-dev-get-started/">将 Sparkfun ESP8266 Thing Dev 连接到云中的 Azure IoT 中心</a></li>
+</ul>
+
+
+## 常用操作指南新发布
+<ul>
+<li><a id="weekly-updates-5-31_documentation-aog-cognitive-services-guidance" href="/documentation/articles/aog-cognitive-services-guidance/">中国版认知服务使用指导</a></li>
+<li><a id="weekly-updates-5-31_documentation-aog-sql-database-howto-adjust-utc-timezone" href="/documentation/articles/aog-sql-database-howto-adjust-utc-timezone/">如何修改 Azure SQL 数据库时区</a></li>
+<li><a id="weekly-updates-5-31_documentation-aog-sql-database-howto-connect-with-jdbc" href="/documentation/articles/aog-sql-database-howto-connect-with-jdbc/">JDBC 如何连接 SQL Azure 数据库</a></li>
+<li><a id="weekly-updates-5-31_documentation-aog-sql-server-howto-backup-database-in-storage" href="/documentation/articles/aog-sql-server-howto-backup-database-in-storage/">SQL Server 如何将数据库备份到 Azure Storage</a></li>
+<li><a id="weekly-updates-5-31_documentation-aog-sql-server-howto-import-export-big-data-with-bcp" href="/documentation/articles/aog-sql-server-howto-import-export-big-data-with-bcp/">SQL Server 如何实现大批量数据的自动导入和导出</a></li>
+<li><a id="weekly-updates-5-31_documentation-aog-virtual-machine-scale-sets-linux-enable-diagnostic" href="/documentation/articles/aog-virtual-machine-scale-sets-linux-enable-diagnostic/">为运行中的 Linux VMSS 启用诊断</a></li>
+</ul>
+
+
+## 2017/5/15 - 2017/5/19
 ## 重要商务内容更新
 无
 
@@ -22,6 +105,11 @@
 <li><a id='weekly-updates-5-22_partnerancasestudy-gump-come' href='/partnerancasestudy/case-studies/gump-come/'>甘来案例</a></li>
 <li><a id='weekly-updates-5-22_partnerancasestudy-micai' href='/partnerancasestudy/case-studies/micai/'>弥财案例</a></li>
 <li><a id='weekly-updates-5-22_partnerancasestudy-qingyidai' href='/partnerancasestudy/case-studies/qingyidai/'>轻易贷案例</a></li>
+</ul>
+
+### 博客更新
+<ul>
+<li><a id='weekly-updates-5-22_blog-AzureStorageIntroduce' href='/blog/2017/05/19/AzureStorageIntroduce/'>Azure 存储基本介绍</a></li>
 </ul>
 
 
@@ -89,14 +177,12 @@
 </ul>
 
 
-## 博客更新
-<ul>
-<li><a id='weekly-updates-5-22_blog-AzureStorageIntroduce' href='/blog/2017/05/19/AzureStorageIntroduce/'>Azure 存储基本介绍</a></li>
-</ul>
 
-
-## 5/8 - 5/12
+## 2017/5/8 - 2017/5/12
 ## 重要商务内容更新
+无
+
+## 其他商务内容更新
 ### 案例研究
 <ul>
 <li><a id="weekly-updates-5-15_partnerancasestudy-michelin" href="/partnerancasestudy/case-studies/michelin/">米其林案例</a></li>
@@ -140,8 +226,12 @@
 <li><a id="weekly-updates-5-15_documentation-aog-web-apps-qa-java-upload-large-file-error" href="/documentation/articles/aog-web-apps-qa-java-upload-large-file-error/">JAVA 网站上传大文件报 500 错误</a></li>
 </ul>
 
-## 4/24 - 5/5
+
+## 2017/4/24 - 2017/5/5
 ## 重要商务内容更新
+无
+
+## 其他商务内容更新
 ### 培训与认证
 <ul>
 <li><a id="weekly-updates-5-9_partnerancasestudy-cert-training-partner" href="/partnerancasestudy/cert-training-partner/">Azure 培训与认证</a>页面发布</li>
@@ -154,14 +244,14 @@
 
 
 ## 新产品发布与文档更新
-### MySQL Database 高级版本（MP1 和 MP2）于 17 年 5 月 2 日正式发布
+### MySQL Database 高级版本（MP1 和 MP2）于 2017 年 5 月 2 日正式发布
 MySQL Database on Azure 高级版本（MP1 和 MP2）基于 Azure 高级存储，IO 性能大幅提升，同时连接数从 MS6 的 2000 提高到 4000 和 6000，计算性能比 MS6 有大幅提升，每日备份周期从标准版本（MS1 - MS6）的 30 天延长到 35 天，PITR回滚周期从标准版本的 7 天延长到 35 天。
 <ul>
 <li><a id="weekly-updates-5-9_product-mysql" href="/home/features/mysql/">MySQL Database 功能介绍</a>、<a id="weekly-updates-5-9_pricing-mysql" href="/pricing/details/mysql/">MySQL Database 价格详情</a></li>
 <li><a id="weekly-updates-5-9_documentation-mysql" href="/documentation/services/mysql/">MySQL Database 文档与资源</a></li>
 </ul>
 
-### Azure 应用程序网关中的 WAF 层于 17 年 4 月 25 日正式发布
+### Azure 应用程序网关中的 WAF 层于 2017 年 4 月 25 日正式发布
 作为新推出的 WAF 层的一部分，Azure 应用程序网关中的 Web 应用程序防火墙功能现已正式发布。
 <ul>
 <li><a id="weekly-updates-5-9_product-application-gateway" href="/home/features/application-gateway/">应用程序网关功能介绍</a>、<a id="weekly-updates-5-9_pricing-application-gateway" href="/pricing/details/application-gateway/">应用程序网关价格详情</a></li>

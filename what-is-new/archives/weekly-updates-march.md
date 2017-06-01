@@ -11,8 +11,11 @@
 <tags ms.service="weekly-updates" ms.date="" wacn.date="" wacn.lang="cn"/>
 
 # Azure 官网往期更新
-## 3/20 - 3/24
+## 2017/3/20 - 2017/3/24
 ## 重要商务内容更新
+无
+
+## 其他商务内容更新
 ### Azure 在线课程
 <ul>
 <li><a id="weekly-updates-3-20_webinars" href="/webinars/">Azure 在线课程 </a>页面改版</li>
@@ -22,6 +25,7 @@
 <ul>
 <li><a id="weekly-updates-3-20_blog-mongodocdb" href="/blog/2017/03/22/mongodocdb">亲爱的 #MongoDB 用户，欢迎来到 #Azure#DocumentDB</a></li>
 </ul>
+
 ## 新技术文档发布
 ### DocumentDB
 <ul>
@@ -77,31 +81,20 @@
 
 </br>
 </br>
-## 3/13 - 3/17
-## 重要商务内容更新
-### 服务级别协议更新
-<ul>
-<li>增加新的 VPN 服务级别协议，发布与最大可用分钟数有关的更新，详请见 <a id="weekly-updates-3-13_support_sla_vpn-gateway" href="/support/sla/vpn-gateway/">VPN 服务级别协议</a></li>
-<li>ExpressRoute 服务级别协议发布与最大可用分钟数有关的更新，详请见 <a id="weekly-updates-3-13_sla-vpn-gateway" href="/support/sla/vpn-gateway/">ExpressRoute 服务级别协议</a></li>
-</ul>
-### 其他更新
-<ul>
-<li>Azure Media Services 增加了新的常见问题，详请见 <a id="weekly-updates-3-13_pricing-media-services" href="/pricing/details/media-services/">媒体服务价格详情页</a></li>
-<li>增加了新的关于 ICP 的常见问题，详请见 <a id="weekly-updates-3-13_support_faq" href="/support/faq/">常见问题页面</a></li>
-</ul>
+## 2017/3/13 - 2017/3/17
 ## 新产品发布与文档更新
-### Azure SQL 数据库高级 RS 层预览于 3 月 17 日正式发布
+### Azure SQL 数据库高级 RS 层预览于 2017 年 3 月 17 日正式发布
 Azure SQL Database Premium RS 现已发布公共预览版，它专为可接受有限持久性保证和较低服务级别协议 (SLA) 的 IO 密集型工作负荷设计。
 <ul>
 <li><a id="weekly-updates-3-13_home_features_sql-database" href="/home/features/sql-database/">SQL 数据库 功能介绍</a>、<a id="weekly-updates-3-13_pricing_details_sql-database" href="/pricing/details/sql-database/">SQL 数据库 价格详情</a></li>
 <li><a id="weekly-updates-3-13_documentation-sql-database-performance-guidance" href="/documentation/articles/sql-database-performance-guidance/">Azure SQL 数据库以及单一数据库的性能</a></li>
 <li><a id="weekly-updates-3-13_documentation-sql-database-service-tiers" href="/documentation/articles/sql-database-service-tiers/">SQL 数据库选项和性能：了解每个服务层提供的功能</a></li>
 </ul>
-### Azure HDInsight Dv2 系列于 3 月 14 日正式发布
+### Azure HDInsight Dv2 系列于 2017 年 3 月 14 日正式发布
 <ul>
 <li><a id="weekly-updates-3-13_home_features_hdinsight" href="/home/features/hdinsight/">HDInsight 功能介绍</a>、<a id="weekly-updates-3-13_pricing_details_hdinsight" href="/pricing/details/hdinsight/">HDInsight 价格详情</a></li>
 </ul>
-### Azure HDInsight 运行在 Linux 的 Apache Hadoop 于 3 月 14 日正式发布
+### Azure HDInsight 运行在 Linux 的 Apache Hadoop 于 2017 年 3 月 14 日正式发布
 Apache Hadoop 现已正式发布，在部署工作负荷时可以选择 Linux 群集。
 <ul>
 <li><a id="weekly-updates-3-13_home_features_hdinsight" href="/home/features/hdinsight/">HDInsight 功能介绍</a>、<a id="weekly-updates-3-13_pricing_details_hdinsight" href="/pricing/details/hdinsight/">HDInsight 价格详情</a></li>
@@ -179,6 +172,25 @@ Apache Hadoop 现已正式发布，在部署工作负荷时可以选择 Linux �
 <li><a id="weekly-updates-3-13_documentation-hdinsight-use-oozie-linux-mac" href="/documentation/articles/hdinsight-use-oozie-linux-mac/">在基于 Linux 的 HDInsight 上将 Oozie 与 Hadoop 配合使用以定义和运行工作流</a></li>
 <li><a id="weekly-updates-3-13_documentation-hdinsight-use-sqoop-mac-linux" href="/documentation/articles/hdinsight-use-sqoop-mac-linux/">将 Sqoop 与 HDInsight 中的 Hadoop 配合使用 (SSH)</a></li>
 </ul>
+
+
+
+## 重要商务内容更新
+### 服务级别协议更新
+<ul>
+<li>增加新的 VPN 服务级别协议，发布与最大可用分钟数有关的更新，详请见 <a id="weekly-updates-3-13_support_sla_vpn-gateway" href="/support/sla/vpn-gateway/">VPN 服务级别协议</a></li>
+<li>ExpressRoute 服务级别协议发布与最大可用分钟数有关的更新，详请见 <a id="weekly-updates-3-13_sla-vpn-gateway" href="/support/sla/vpn-gateway/">ExpressRoute 服务级别协议</a></li>
+</ul>
+
+## 其他商务内容更新
+### 其他更新
+<ul>
+<li>Azure Media Services 增加了新的常见问题，详请见 <a id="weekly-updates-3-13_pricing-media-services" href="/pricing/details/media-services/">媒体服务价格详情页</a></li>
+<li>增加了新的关于 ICP 的常见问题，详请见 <a id="weekly-updates-3-13_support_faq" href="/support/faq/">常见问题页面</a></li>
+</ul>
+
+
+
 ## 新技术文档发布
 ### 多重身份验证
 <ul>
@@ -211,8 +223,11 @@ Apache Hadoop 现已正式发布，在部署工作负荷时可以选择 Linux �
 
 </br>
 </br>
-## 3/6 - 3/10 
+## 2017/3/6 - 2017/3/10 
 ## 重要商务内容更新
+无
+
+## 其他商务内容更新
 ### 博客
 <ul>
 <li><a id="weekly-updates-march-6_blog-sqldatamasking" href="/blog/2017/03/10/sqldatamasking">数据库安全之数据掩码：SQL 2016新功能之动态数据掩码（SQL 2016 & AZURE SQL 数据库）</a></li>
@@ -223,6 +238,7 @@ Apache Hadoop 现已正式发布，在部署工作负荷时可以选择 Linux �
 <li>Azure 电汇说明增加了境外汇款相关信息，详见 <a id="weekly-updates-march-6_pricing_azure-wire-transfer-overview" href="/pricing/billing/azure-wire-transfer-overview/">Azure 电汇说明</a></li>
 <li>信任中心发布 Power BI 相关内容，详见 <a id="weekly-updates-march-6_trustcenter" href="//www.trustcenter.cn/">信任中心</a></li>
 </ul>
+
 ## 新技术文档发布
 ### 云服务
 <ul>
@@ -270,22 +286,9 @@ Apache Hadoop 现已正式发布，在部署工作负荷时可以选择 Linux �
 </ul>
 </br>
 </br>
-## 2/27 - 3/3 
-## 重要商务内容更新
-### 服务级别协议更新  
-<ul>
-<li>增加新的单实例虚拟机服务级别协议，发布与最大可用分钟数有关的更新，详情见 <a id="weekly-update-march_3_support_virtual-machines" href="/support/sla/virtual-machines/">虚拟机的服务级别协议</a></li>
-</ul>
-### 博客
-<ul>
-<li><a id="weekly-update-march_3_blog_AzureDtuAndEdtu" href="/blog/2017/02/28/AzureDtuAndEdtu/">Azure SQL 数据库中的 DTU 和 eDTU 是什么</a></li>
-</ul>
 
-### 其它更新
-<ul>
-<li>发布 <a id="weekly-update-march_3_documentation_azure-resource-manager" href="/documentation/services/azure-resource-manager/">Azure 资源管理器</a> 文档首页，用户可以在顶部导航栏 “监控 + 管理” 中找到入口。</li>
-<li>SQL 数据仓库标准版价格正式启用，有关详细信息，请访问 <a id="weekly-update-march_3_pricing_sql-data-warehouse" href="/pricing/details/sql-data-warehouse/">SQL 数据仓库价格详情</a></li>
-</ul>
+
+## 2017/2/27 - 2017/3/3 
 ## 新产品发布与文档更新
 ### Azure ExpressRoute 的超高性能网关层于 3 月 1 日正式发布
 超高性能网关将虚拟网络和 Azure ExpressRoute 线路连接起来，所提供的网络吞吐量是高性能网关的五倍。
@@ -307,6 +310,26 @@ R Server 是目前面向 R 的最广泛可部署的企业级分析平台。
 <li><a id="weekly-update-march_3_documentation_microsoft-r-vm-azure-rserver-sql-server-2016-enterprise" href="/documentation/articles/microsoft-r-vm-azure-rserver-sql-server-2016-enterprise/">预配 Azure 上的 R Server Only SQL Server 2016 Enterprise VM</a></li>
 <li><a id="weekly-update-march_3_documentation_microsoft-r-vm-cloud" href="/documentation/articles/microsoft-r-vm-cloud/">云中的 Microsoft R Server</a></li>
 </ul>
+
+## 重要商务内容更新
+### 服务级别协议更新  
+<ul>
+<li>增加新的单实例虚拟机服务级别协议，发布与最大可用分钟数有关的更新，详情见 <a id="weekly-update-march_3_support_virtual-machines" href="/support/sla/virtual-machines/">虚拟机的服务级别协议</a></li>
+</ul>
+
+## 其他商务内容更新
+### 博客
+<ul>
+<li><a id="weekly-update-march_3_blog_AzureDtuAndEdtu" href="/blog/2017/02/28/AzureDtuAndEdtu/">Azure SQL 数据库中的 DTU 和 eDTU 是什么</a></li>
+</ul>
+
+### 其它更新
+<ul>
+<li>发布 <a id="weekly-update-march_3_documentation_azure-resource-manager" href="/documentation/services/azure-resource-manager/">Azure 资源管理器</a> 文档首页，用户可以在顶部导航栏 “监控 + 管理” 中找到入口。</li>
+<li>SQL 数据仓库标准版价格正式启用，有关详细信息，请访问 <a id="weekly-update-march_3_pricing_sql-data-warehouse" href="/pricing/details/sql-data-warehouse/">SQL 数据仓库价格详情</a></li>
+</ul>
+
+
 ## 新技术文档发布
 ### Azure HDInsight 
 <ul>
