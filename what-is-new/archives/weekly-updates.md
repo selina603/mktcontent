@@ -11,7 +11,7 @@
 <tags ms.service="weekly-updates" ms.date="" wacn.date="" wacn.lang="cn"/>
 
 # Azure 官网本周更新
-# 5/31 - 6/2
+## 5/31 - 6/2
 ## 重要商务内容更新
 ### Azure 磁盘加密预览版现于 6 月 1 日正式发布
 Azure 磁盘加密预览版现已对 Azure 中国地区的 Windows 和 Linux IaaS 虚拟机发布。至此，Windows 和 Linux IaaS 标准级虚拟机（标准 A、D、DS、F 等系列）的 Azure 磁盘加密预览版已在所有 Azure 中国区发布，客户现可使用行业标准的加密技术保护静态操作系统和数据磁盘。
@@ -23,7 +23,7 @@ Azure 磁盘加密预览版现已对 Azure 中国地区的 Windows 和 Linux Iaa
 </br>
 
 # Azure 官网上周更新
-# 5/22 - 5/27
+## 5/22 - 5/27
 ## 重要商务内容更新
 无
 
