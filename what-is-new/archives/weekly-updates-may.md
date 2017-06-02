@@ -10,7 +10,7 @@
 
 <tags ms.service="weekly-updates" ms.date="" wacn.date="" wacn.lang="cn"/>
 
-# Azure 官网往期更新
+# Azure 官网 2017 年 5 月更新
 ## 2017/5/22 - 2017/5/27
 ## 重要商务内容更新
 无
