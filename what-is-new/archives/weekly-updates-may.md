@@ -18,7 +18,7 @@
 ## 其他商务内容更新
 ### 案例研究
 <ul>
-<li><a id='weekly-updates-5-31_partnerancasestudy-miracle-games' href='/partnerancasestudy/case-studies/miracle-games/'>奇游灵动 案例</a></li>
+<li><a id="weekly-updates-5-31_partnerancasestudy-miracle-games" href="/partnerancasestudy/case-studies/miracle-games/">奇游灵动 案例</a></li>
 </ul>
 
 ## 新技术文档发布
