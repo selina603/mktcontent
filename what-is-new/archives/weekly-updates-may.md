@@ -10,9 +10,188 @@
 
 <tags ms.service="weekly-updates" ms.date="" wacn.date="" wacn.lang="cn"/>
 
-# Azure 官网往期更新
-# 5/8 - 5/12
+# Azure 官网 2017 年 5 月更新
+## 2017/5/22 - 2017/5/27
+## 新产品发布与文档更新
+无
+
 ## 重要商务内容更新
+无
+
+## 其他商务内容更新
+### 案例研究
+<ul>
+<li><a id="weekly-updates-5-31_partnerancasestudy-miracle-games" href="/partnerancasestudy/case-studies/miracle-games/">奇游灵动 案例</a></li>
+</ul>
+
+## 新技术文档发布
+### Service Fabric
+<ul>
+<li><a id="_documentation-service-fabric-deploy-remove-applications-fabricclient" href="/documentation/articles/service-fabric-deploy-remove-applications-fabricclient/">使用 FabricClient 部署和删除应用程序</a></li>
+<li><a id="weekly-updates-5-31_documentation-service-fabric-get-started-standalone-cluster" href="/documentation/articles/service-fabric-get-started-standalone-cluster/">创建第一个独立的 Service Fabric 群集</a></li>
+<li><a id="weekly-updates-5-31_documentation-service-fabric-linux-windows-differences" href="/documentation/articles/service-fabric-linux-windows-differences/">Linux 上的 Service Fabric（预览版）与 Windows 上的 Service Fabric（正式版）之间的差异</a></li>
+<li><a id="weekly-updates-5-31_documentation-service-fabric-package-apps" href="/documentation/articles/service-fabric-package-apps/">打包应用程序</a></li>
+<li><a id="weekly-updates-5-31_documentation-service-fabric-patterns-networking" href="/documentation/articles/service-fabric-patterns-networking/">Service Fabric 网络模式</a></li>
+<li><a id="weekly-updates-5-31_documentation-service-fabric-reliable-services-communication-aspnetcore" href="/documentation/articles/service-fabric-reliable-services-communication-aspnetcore/">Service Fabric Reliable Services 中的 ASP.NET Core</a></li>
+<li><a id="weekly-updates-5-31_documentation-service-fabric-reliable-services-communication-remoting-java" href="/documentation/articles/service-fabric-reliable-services-communication-remoting-java/">通过 Reliable Services 进行服务远程处理</a></li>
+<li><a id="weekly-updates-5-31_documentation-service-fabric-reliable-services-lifecycle-java" href="/documentation/articles/service-fabric-reliable-services-lifecycle-java/">Reliable Services 生命周期概述</a></li>
+<li><a id="weekly-updates-5-31_documentation-service-fabric-reliable-services-secure-communication-java" href="/documentation/articles/service-fabric-reliable-services-secure-communication-java/">在 Azure Service Fabric 中帮助保护服务的通信</a></li>
+</ul>
+
+### 存储
+<ul>
+<li><a id="weekly-updates-5-31_documentation-vs-azure-tools-storage-explorer-files" href="/documentation/articles/vs-azure-tools-storage-explorer-files/">将存储资源管理器（预览版）与 Azure 文件存储配合使用</a></li>
+</ul>
+
+### VPN 网关
+<ul>
+<li><a id="weekly-updates-5-31_documentation-vpn-gateway-delete-vnet-gateway-portal" href="/documentation/articles/vpn-gateway-delete-vnet-gateway-portal/">使用门户删除虚拟网络网关</a></li>
+<li><a id="weekly-updates-5-31_documentation-vpn-gateway-howto-vnet-vnet-portal-classic" href="/documentation/articles/vpn-gateway-howto-vnet-vnet-portal-classic/">配置 VNet 到 VNet 连接（经典）</a></li>
+<li><a id="weekly-updates-5-31_documentation-vpn-gateway-validate-throughput-to-vnet" href="/documentation/articles/vpn-gateway-validate-throughput-to-vnet/">如何验证到达虚拟网络的 VPN 吞吐量</a></li>
+</ul>
+
+### SQL 数据库
+<ul>
+<li><a id="weekly-updates-5-31_documentation-sql-database-connect-query-java" href="/documentation/articles/sql-database-connect-query-java/">Azure SQL 数据库：使用 Java 进行连接和数据查询</a></li>
+<li><a id="weekly-updates-5-31_documentation-sql-database-connect-query-nodejs" href="/documentation/articles/sql-database-connect-query-nodejs/">Azure SQL 数据库：使用 Node.js 进行连接和数据查询</a></li>
+<li><a id="weekly-updates-5-31_documentation-sql-database-connect-query-php" href="/documentation/articles/sql-database-connect-query-php/">Azure SQL 数据库：使用 PHP 进行连接和数据查询</a></li>
+<li><a id="weekly-updates-5-31_documentation-sql-database-connect-query-python" href="/documentation/articles/sql-database-connect-query-python/">Azure SQL 数据库：使用 Python 进行连接和数据查询</a></li>
+<li><a id="weekly-updates-5-31_documentation-sql-database-connect-query-ruby" href="/documentation/articles/sql-database-connect-query-ruby/">Azure SQL 数据库：使用 Ruby 进行连接和数据查询</a></li>
+<li><a id="weekly-updates-5-31_documentation-sql-database-design-first-database" href="/documentation/articles/sql-database-design-first-database/">设计你的第一个 Azure SQL 数据库</a></li>
+<li><a id="weekly-updates-5-31_documentation-sql-database-migrate-your-sql-server-database" href="/documentation/articles/sql-database-migrate-your-sql-server-database/">将 SQL Server 数据库迁移到 Azure SQL 数据库</a></li>
+<li><a id="weekly-updates-5-31_documentation-sql-database-public-data-sets" href="/documentation/articles/sql-database-public-data-sets/">用于测试和原型设计的公共数据集</a></li>
+</ul>
+
+### 服务总线
+<ul>
+<li><a id="weekly-updates-5-31_documentation-service-bus-manage-with-ps" href="/documentation/articles/service-bus-manage-with-ps/">使用 PowerShell 管理服务总线资源</a></li>
+</ul>
+
+### 应用程序网关
+<ul>
+<li><a id="weekly-updates-5-31_documentation-application-gateway-crs-rulegroups-rules" href="/documentation/articles/application-gateway-crs-rulegroups-rules/">提供的 Web 应用程序防火墙 CRS 规则组和规则列表</a></li>
+<li><a id="weekly-updates-5-31_documentation-application-gateway-customize-waf-rules-portal" href="/documentation/articles/application-gateway-customize-waf-rules-portal/">通过门户自定义 Web 应用程序防火墙规则</a></li>
+</ul>
+
+### Azure IoT 中心
+<ul>
+<li><a id="weekly-updates-5-31_documentation-iot-hub-configure-file-upload-powershell" href="/documentation/articles/iot-hub-configure-file-upload-powershell/">使用 PowerShell 配置 IoT 中心文件上载</a></li>
+<li><a id="weekly-updates-5-31_documentation-iot-hub-device-management-iothub-explorer" href="/documentation/articles/iot-hub-device-management-iothub-explorer/">使用 iothub-explorer 进行 Azure IoT 中心设备管理</a></li>
+<li><a id="weekly-updates-5-31_documentation-iot-hub-explorer-cloud-device-messaging" href="/documentation/articles/iot-hub-explorer-cloud-device-messaging/">使用 iothub-explorer 在设备与 IoT 中心之间发送和接收消息</a></li>
+<li><a id="weekly-updates-5-31_documentation-iot-hub-gateway-kit-c-iot-gateway-connect-device-to-cloud" href="/documentation/articles/iot-hub-gateway-kit-c-iot-gateway-connect-device-to-cloud/">使用 IoT 网关将设备连接到 Azure IoT 中心的云 - SensorTag</a></li>
+<li><a id="weekly-updates-5-31_documentation-iot-hub-gateway-kit-c-use-iot-gateway-for-data-conversion" href="/documentation/articles/iot-hub-gateway-kit-c-use-iot-gateway-for-data-conversion/">通过 Azure IoT 网关 SDK，使用 IoT 网关进行传感器数据转换</a></li>
+<li><a id="weekly-updates-5-31_documentation-iot-hub-live-data-visualization-in-power-bi" href="/documentation/articles/iot-hub-live-data-visualization-in-power-bi/">使用 Power BI 可视化 Azure IoT 中心的实时传感器数据</a></li>
+<li><a id="weekly-updates-5-31_documentation-iot-hub-live-data-visualization-in-web-apps" href="/documentation/articles/iot-hub-live-data-visualization-in-web-apps/">使用 Azure Web 应用可视化 Azure IoT 中心的实时传感器数据</a></li>
+<li><a id="weekly-updates-5-31_documentation-iot-hub-sparkfun-esp8266-thing-dev-get-started" href="/documentation/articles/iot-hub-sparkfun-esp8266-thing-dev-get-started/">将 Sparkfun ESP8266 Thing Dev 连接到云中的 Azure IoT 中心</a></li>
+</ul>
+
+
+## 常用操作指南新发布
+<ul>
+<li><a id="weekly-updates-5-31_documentation-aog-cognitive-services-guidance" href="/documentation/articles/aog-cognitive-services-guidance/">中国版认知服务使用指导</a></li>
+<li><a id="weekly-updates-5-31_documentation-aog-sql-database-howto-adjust-utc-timezone" href="/documentation/articles/aog-sql-database-howto-adjust-utc-timezone/">如何修改 Azure SQL 数据库时区</a></li>
+<li><a id="weekly-updates-5-31_documentation-aog-sql-database-howto-connect-with-jdbc" href="/documentation/articles/aog-sql-database-howto-connect-with-jdbc/">JDBC 如何连接 SQL Azure 数据库</a></li>
+<li><a id="weekly-updates-5-31_documentation-aog-sql-server-howto-backup-database-in-storage" href="/documentation/articles/aog-sql-server-howto-backup-database-in-storage/">SQL Server 如何将数据库备份到 Azure Storage</a></li>
+<li><a id="weekly-updates-5-31_documentation-aog-sql-server-howto-import-export-big-data-with-bcp" href="/documentation/articles/aog-sql-server-howto-import-export-big-data-with-bcp/">SQL Server 如何实现大批量数据的自动导入和导出</a></li>
+<li><a id="weekly-updates-5-31_documentation-aog-virtual-machine-scale-sets-linux-enable-diagnostic" href="/documentation/articles/aog-virtual-machine-scale-sets-linux-enable-diagnostic/">为运行中的 Linux VMSS 启用诊断</a></li>
+</ul>
+
+
+## 2017/5/15 - 2017/5/19
+## 新产品发布与文档更新
+无
+
+## 重要商务内容更新
+无
+
+## 其他商务内容更新
+### 案例研究
+<ul>
+<li><a id='weekly-updates-5-22_partnerancasestudy-coca-cola-amatil' href='/partnerancasestudy/case-studies/coca-cola-amatil/'>可口可乐 Amatil 案例</a></li>
+<li><a id='weekly-updates-5-22_partnerancasestudy-gump-come' href='/partnerancasestudy/case-studies/gump-come/'>甘来案例</a></li>
+<li><a id='weekly-updates-5-22_partnerancasestudy-micai' href='/partnerancasestudy/case-studies/micai/'>弥财案例</a></li>
+<li><a id='weekly-updates-5-22_partnerancasestudy-qingyidai' href='/partnerancasestudy/case-studies/qingyidai/'>轻易贷案例</a></li>
+</ul>
+
+### 博客更新
+<ul>
+<li><a id='weekly-updates-5-22_blog-AzureStorageIntroduce' href='/blog/2017/05/19/AzureStorageIntroduce/'>Azure 存储基本介绍</a></li>
+</ul>
+
+
+## 新技术文档发布
+### 批处理
+<ul>
+<li><a id='weekly-updates-5-22_documentation-batch-analytics' href='/documentation/articles/batch-analytics/'>批处理分析</a></li>
+<li><a id='weekly-updates-5-22_documentation-batch-cli-sample-add-application' href='/documentation/articles/batch-cli-sample-add-application/'>使用 Azure CLI 将应用程序添加到 Azure 批处理</a></li>
+<li><a id='weekly-updates-5-22_documentation-batch-cli-sample-create-account' href='/documentation/articles/batch-cli-sample-create-account/'>使用 Azure CLI 创建批处理帐户</a></li>
+<li><a id='weekly-updates-5-22_documentation-batch-cli-sample-manage-pool' href='/documentation/articles/batch-cli-sample-manage-pool/'>使用 Azure CLI 管理 Azure 批处理池</a></li>
+<li><a id='weekly-updates-5-22_documentation-batch-cli-sample-run-job' href='/documentation/articles/batch-cli-sample-run-job/'>使用 Azure CLI 在 Azure 批处理上运行作业</a></li>
+<li><a id='weekly-updates-5-22_documentation-batch-cli-samples' href='/documentation/articles/batch-cli-samples/'>Azure 批处理 CLI 示例</a></li>
+<li><a id='weekly-updates-5-22_documentation-batch-compute-node-environment-variables' href='/documentation/articles/batch-compute-node-environment-variables/'>Azure 批处理计算节点环境变量</a></li>
+<li><a id='weekly-updates-5-22_documentation-batch-pool-create-event' href='/documentation/articles/batch-pool-create-event/'>池创建事件</a></li>
+<li><a id='weekly-updates-5-22_documentation-batch-pool-delete-complete-event' href='/documentation/articles/batch-pool-delete-complete-event/'>池删除完成事件</a></li>
+<li><a id='weekly-updates-5-22_documentation-batch-pool-delete-start-event' href='/documentation/articles/batch-pool-delete-start-event/'>池删除开始事件</a></li>
+<li><a id='weekly-updates-5-22_documentation-batch-pool-resize-complete-event' href='/documentation/articles/batch-pool-resize-complete-event/'>池调整大小完成事件</a></li>
+<li><a id='weekly-updates-5-22_documentation-batch-pool-resize-start-event' href='/documentation/articles/batch-pool-resize-start-event/'>池调整大小开始事件</a></li>
+<li><a id='weekly-updates-5-22_documentation-batch-task-complete-event' href='/documentation/articles/batch-task-complete-event/'>任务完成事件</a></li>
+<li><a id='weekly-updates-5-22_documentation-batch-task-fail-event' href='/documentation/articles/batch-task-fail-event/'>任务失败事件</a></li>
+<li><a id='weekly-updates-5-22_documentation-batch-task-start-event' href='/documentation/articles/batch-task-start-event/'>任务开始事件</a></li>
+</ul>
+
+### 备份
+<ul>
+<li><a id='weekly-updates-5-22_documentation-backup-azure-backup-server-vmware' href='/documentation/articles/backup-azure-backup-server-vmware/'>将 VMware 服务器备份到 Azure</a></li>
+<li><a id='weekly-updates-5-22_documentation-backup-azure-backup-sharepoint-mabs' href='/documentation/articles/backup-azure-backup-sharepoint-mabs/'>将 SharePoint 场备份到 Azure</a></li>
+<li><a id='weekly-updates-5-22_documentation-backup-azure-exchange-mabs' href='/documentation/articles/backup-azure-exchange-mabs/'>使用 Azure 备份服务器将 Exchange Server 备份到 Azure 备份</a></li>
+<li><a id='weekly-updates-5-22_documentation-backup-azure-linux-app-consistent' href='/documentation/articles/backup-azure-linux-app-consistent/'>Azure Linux VM 的应用程序一致性备份（预览版）</a></li>
+<li><a id='weekly-updates-5-22_documentation-backup-azure-mabs-troubleshoot' href='/documentation/articles/backup-azure-mabs-troubleshoot/'>对 Azure 备份服务器进行故障排除</a></li>
+<li><a id='weekly-updates-5-22_documentation-backup-azure-sql-mabs' href='/documentation/articles/backup-azure-sql-mabs/'>使用 Azure 备份服务器将 SQL Server 备份到 Azure</a></li>
+</ul>
+
+### 虚拟机
+<ul>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-dotnet-diagnostics' href='/documentation/articles/virtual-machines-dotnet-diagnostics/'>在 Azure 虚拟机中启用诊断</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-linux-cli-sample-create-vm-lamp' href='/documentation/articles/virtual-machines-linux-cli-sample-create-vm-lamp/'>在负载均衡虚拟机规模集中部署 LAMP 堆栈</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-windows-tutorial-manage-vm' href='/documentation/articles/virtual-machines-windows-tutorial-manage-vm/'>使用 Azure PowerShell 管理 Windows 虚拟机</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-linux-acu' href='/documentation/articles/virtual-machines-linux-acu/'>Azure 计算单元 (ACU)</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-linux-detach-disk' href='/documentation/articles/virtual-machines-linux-detach-disk/'>如何从 Linux 虚拟机中分离数据磁盘</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-linux-encrypt-disks-nodejs' href='/documentation/articles/virtual-machines-linux-encrypt-disks-nodejs/'>使用 Azure CLI 1.0 加密 Linux VM 中的磁盘</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-linux-impactful-maintenance' href='/documentation/articles/virtual-machines-linux-impactful-maintenance/'>VM 重启维护</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-linux-maintenance-in-place' href='/documentation/articles/virtual-machines-linux-maintenance-in-place/'>VM 保留维护（就地 VM 迁移）</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-linux-migration-classic-resource-manager-errors' href='/documentation/articles/virtual-machines-linux-migration-classic-resource-manager-errors/'>从经典迁移到 Azure Resource Manager 期间的常见错误</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-linux-migration-classic-resource-manager-faq' href='/documentation/articles/virtual-machines-linux-migration-classic-resource-manager-faq/'>有关从经典部署模型迁移到 Azure Resource Manager 部署模型的常见问题</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-linux-migration-classic-resource-manager-overview' href='/documentation/articles/virtual-machines-linux-migration-classic-resource-manager-overview/'>平台支持的从经典部署模型到 Azure Resource Manager 部署模型的 IaaS 资源迁移概述</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-linux-migration-classic-resource-manager-plan' href='/documentation/articles/virtual-machines-linux-migration-classic-resource-manager-plan/'>规划将 IaaS 资源从经典部署模型迁移到 Azure Resource Manager</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-linux-sizes-compute' href='/documentation/articles/virtual-machines-linux-sizes-compute/'>计算优化 Linux VM 大小</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-linux-sizes-general' href='/documentation/articles/virtual-machines-linux-sizes-general/'>常规用途 Linux VM 的大小</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-linux-sizes-memory' href='/documentation/articles/virtual-machines-linux-sizes-memory/'>内存优化 Linux VM 大小</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-linux-tutorial-create-vmss' href='/documentation/articles/virtual-machines-linux-tutorial-create-vmss/'>使用虚拟机规模集在 Linux 上创建高度可用的应用程序</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-linux-tutorial-load-balance-nodejs' href='/documentation/articles/virtual-machines-linux-tutorial-load-balance-nodejs/'>在 Azure 中的 Linux 虚拟机上生成负载均衡的高可用性应用程序</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-linux-tutorial-manage-vm' href='/documentation/articles/virtual-machines-linux-tutorial-manage-vm/'>使用 Azure CLI 管理 Linux 虚拟机</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-windows-acu' href='/documentation/articles/virtual-machines-windows-acu/'>Azure 计算单元 (ACU)</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-windows-change-drive-letter' href='/documentation/articles/virtual-machines-windows-change-drive-letter/'>使用 D: 盘作为 Windows VM 上的数据驱动器</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-windows-impactful-maintenance' href='/documentation/articles/virtual-machines-windows-impactful-maintenance/'>虚拟机的有影响维护</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-windows-load-balanced-iis-tutorial' href='/documentation/articles/virtual-machines-windows-load-balanced-iis-tutorial/'>在 Azure 中的 Windows 虚拟机上生成负载均衡的高可用性应用程序</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-windows-migration-classic-resource-manager-errors' href='/documentation/articles/virtual-machines-windows-migration-classic-resource-manager-errors/'>从经典迁移到 Azure Resource Manager 期间的常见错误</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-windows-migration-classic-resource-manager-faq' href='/documentation/articles/virtual-machines-windows-migration-classic-resource-manager-faq/'>有关从经典部署模型迁移到 Azure Resource Manager 部署模型的常见问题</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-windows-migration-classic-resource-manager-plan' href='/documentation/articles/virtual-machines-windows-migration-classic-resource-manager-plan/'>规划将 IaaS 资源从经典部署模型迁移到 Azure Resource Manager</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-windows-preserving-maintenance' href='/documentation/articles/virtual-machines-windows-preserving-maintenance/'>使用就地 VM 迁移的 VM 保留维护</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-windows-sizes-compute' href='/documentation/articles/virtual-machines-windows-sizes-compute/'>计算优化</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-windows-sizes-general' href='/documentation/articles/virtual-machines-windows-sizes-general/'>常规用途</a></li>
+<li><a id='weekly-updates-5-22_documentation-virtual-machines-windows-sizes-memory' href='/documentation/articles/virtual-machines-windows-sizes-memory/'>内存优化</a></li>
+</ul>
+
+
+
+## 2017/5/8 - 2017/5/12
+## 新产品发布与文档更新
+无
+
+## 重要商务内容更新
+无
+
+## 其他商务内容更新
 ### 案例研究
 <ul>
 <li><a id="weekly-updates-5-15_partnerancasestudy-michelin" href="/partnerancasestudy/case-studies/michelin/">米其林案例</a></li>
@@ -56,8 +235,15 @@
 <li><a id="weekly-updates-5-15_documentation-aog-web-apps-qa-java-upload-large-file-error" href="/documentation/articles/aog-web-apps-qa-java-upload-large-file-error/">JAVA 网站上传大文件报 500 错误</a></li>
 </ul>
 
-## 4/24 - 5/5
+
+## 2017/4/24 - 2017/5/5
+## 新产品发布与文档更新
+无
+
 ## 重要商务内容更新
+无
+
+## 其他商务内容更新
 ### 培训与认证
 <ul>
 <li><a id="weekly-updates-5-9_partnerancasestudy-cert-training-partner" href="/partnerancasestudy/cert-training-partner/">Azure 培训与认证</a>页面发布</li>
@@ -70,14 +256,14 @@
 
 
 ## 新产品发布与文档更新
-### MySQL Database 高级版本（MP1 和 MP2）于 17 年 5 月 2 日正式发布
+### MySQL Database 高级版本（MP1 和 MP2）于 2017 年 5 月 2 日正式发布
 MySQL Database on Azure 高级版本（MP1 和 MP2）基于 Azure 高级存储，IO 性能大幅提升，同时连接数从 MS6 的 2000 提高到 4000 和 6000，计算性能比 MS6 有大幅提升，每日备份周期从标准版本（MS1 - MS6）的 30 天延长到 35 天，PITR回滚周期从标准版本的 7 天延长到 35 天。
 <ul>
 <li><a id="weekly-updates-5-9_product-mysql" href="/home/features/mysql/">MySQL Database 功能介绍</a>、<a id="weekly-updates-5-9_pricing-mysql" href="/pricing/details/mysql/">MySQL Database 价格详情</a></li>
 <li><a id="weekly-updates-5-9_documentation-mysql" href="/documentation/services/mysql/">MySQL Database 文档与资源</a></li>
 </ul>
 
-### Azure 应用程序网关中的 WAF 层于 17 年 4 月 25 日正式发布
+### Azure 应用程序网关中的 WAF 层于 2017 年 4 月 25 日正式发布
 作为新推出的 WAF 层的一部分，Azure 应用程序网关中的 Web 应用程序防火墙功能现已正式发布。
 <ul>
 <li><a id="weekly-updates-5-9_product-application-gateway" href="/home/features/application-gateway/">应用程序网关功能介绍</a>、<a id="weekly-updates-5-9_pricing-application-gateway" href="/pricing/details/application-gateway/">应用程序网关价格详情</a></li>

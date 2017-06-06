@@ -10,33 +10,8 @@
 
 <tags ms.service="weekly-updates" ms.date="" wacn.date="" wacn.lang="cn"/>
 
-# Azure 官网往期更新
-## 4/17 - 4/21
-## 重要商务内容更新
-### 博客
-<ul>
-<li><a id="weekly-updates-4-24_blog-iot-hub-message-routing " href="/blog/2017/04/19/iot-hub-message-routing/">Azure IoT中心信息路由大大简化了IoT解决方案的开发工作</a></li>
-<li><a id="weekly-updates-4-24_blog-cdn-azureportal-preview" href="/blog/2017/04/21/cdn-azureportal-preview/">新版Azure China CDN管理门户公共预览版正式开放</a></li>
-<li><a id="weekly-updates-4-24_blog-cdn-restfulapi" href="/blog/2017/04/21/cdn-restfulapi/">Azure China CDN Restful API正式上线</a></li>
-<li><a id="weekly-updates-4-24_blog-azure-networking1" href="/blog/2017/04/21/azure-networking1/">架构解析 – Azure网络 1</a></li>
-<li><a id="weekly-updates-4-24_blog-azure-availability" href="/blog/2017/04/21/azure-availability/">Azure 高可用系列之一</a></li>
-<li><a id="weekly-updates-4-24_blog-bluegreendeployment" href="/blog/2017/04/21/bluegreendeployment/">如何在 Azure ARM 模式下做蓝绿部署</a></li>
-</ul>
-
-### 服务级别协议更新
-<ul>
-<li>每月正常服务时间百分比公式添加了“X 100”，详情请见<a id="weekly-updates-4-24_sla-cloud-services" href="/support/sla/cloud-services/">云服务的服务级别协议</a>、<a id="weekly-updates-4-24_sla-virtual-machines" href="/support/sla/virtual-machines/">虚拟机的服务级别协议</a></li>
-</ul>
-### 电汇流程更新
-<ul>
-<li><a id="weekly-updates-4-24_pricing-azure-pia-application-and-signup" href="/pricing/billing/azure-pia-application-and-signup/">Azure 标准预付费订阅申请和注册指南</a></li>
-<li><a id="weekly-updates-4-24_pricing-azure-1rmb-trial-application-and-signup" href="/pricing/billing/azure-1rmb-trial-application-and-signup/">Azure 1 元试用申请和注册指南</a></li>
-<li><a id="weekly-updates-4-24_pricing-azure-wire-transfer-pia-new" href="/pricing/billing/azure-wire-transfer-pia-new/">Azure 通过电汇方式首次购买标准预付费订阅指南</a></li>
-</ul>
-### 其他更新
-<ul>
-<li>服务总线图标更新，详情请见<a id="weekly-updates-4-24_home-messaging" href="/home/features/messaging/">服务总线功能页面</a>、<a id="weekly-updates-4-24_pricing-messaging" href="/pricing/details/messaging/">服务总线价格详情</a></li>
-</ul>
+# Azure 官网 2017 年 4 月更新
+## 2017/4/17 - 2017/4/21
 
 ## 新产品发布与文档更新
 ### Linux 上的 Azure Service Fabric 公共预览版于 17 年 4 月 17 日正式发布
@@ -49,6 +24,35 @@ Linux 上的 Azure Service Fabric 公共预览版现已正式发布。您可以�
 <li><a id="weekly-updates-4-24_documentation-service-fabric-deploy-container-linux" href="/documentation/articles/service-fabric-deploy-container-linux/">将 Docker 容器部署到 Service Fabric</a></li>
 <li><a id="weekly-updates-4-24_documentation-service-fabric-get-started-linux" href="/documentation/articles/service-fabric-get-started-linux/">在 Linux 上准备开发环境</a></li>
 <li><a id="weekly-updates-4-24_documentation-service-fabric-linux-overview" href="/documentation/articles/service-fabric-linux-overview/">Linux 上的 Service Fabric</a></li>
+</ul>
+
+## 重要商务内容更新
+### 服务级别协议更新
+<ul>
+<li>每月正常服务时间百分比公式添加了“X 100”，详情请见<a id="weekly-updates-4-24_sla-cloud-services" href="/support/sla/cloud-services/">云服务的服务级别协议</a>、<a id="weekly-updates-4-24_sla-virtual-machines" href="/support/sla/virtual-machines/">虚拟机的服务级别协议</a></li>
+</ul>
+
+## 其他商务内容更新
+### 电汇流程更新
+<ul>
+<li><a id="weekly-updates-4-24_pricing-azure-pia-application-and-signup" href="/pricing/billing/azure-pia-application-and-signup/">Azure 标准预付费订阅申请和注册指南</a></li>
+<li><a id="weekly-updates-4-24_pricing-azure-1rmb-trial-application-and-signup" href="/pricing/billing/azure-1rmb-trial-application-and-signup/">Azure 1 元试用申请和注册指南</a></li>
+<li><a id="weekly-updates-4-24_pricing-azure-wire-transfer-pia-new" href="/pricing/billing/azure-wire-transfer-pia-new/">Azure 通过电汇方式首次购买标准预付费订阅指南</a></li>
+</ul>
+
+### 博客
+<ul>
+<li><a id="weekly-updates-4-24_blog-iot-hub-message-routing " href="/blog/2017/04/19/iot-hub-message-routing/">Azure IoT中心信息路由大大简化了IoT解决方案的开发工作</a></li>
+<li><a id="weekly-updates-4-24_blog-cdn-azureportal-preview" href="/blog/2017/04/21/cdn-azureportal-preview/">新版Azure China CDN管理门户公共预览版正式开放</a></li>
+<li><a id="weekly-updates-4-24_blog-cdn-restfulapi" href="/blog/2017/04/21/cdn-restfulapi/">Azure China CDN Restful API正式上线</a></li>
+<li><a id="weekly-updates-4-24_blog-azure-networking1" href="/blog/2017/04/21/azure-networking1/">架构解析 – Azure网络 1</a></li>
+<li><a id="weekly-updates-4-24_blog-azure-availability" href="/blog/2017/04/21/azure-availability/">Azure 高可用系列之一</a></li>
+<li><a id="weekly-updates-4-24_blog-bluegreendeployment" href="/blog/2017/04/21/bluegreendeployment/">如何在 Azure ARM 模式下做蓝绿部署</a></li>
+</ul>
+
+### 其他更新
+<ul>
+<li>服务总线图标更新，详情请见<a id="weekly-updates-4-24_home-messaging" href="/home/features/messaging/">服务总线功能页面</a>、<a id="weekly-updates-4-24_pricing-messaging" href="/pricing/details/messaging/">服务总线价格详情</a></li>
 </ul>
 
 
@@ -182,8 +186,14 @@ Linux 上的 Azure Service Fabric 公共预览版现已正式发布。您可以�
 </ul>
 
 
-## 4/10 - 4/14
+## 2017/4/10 - 2017/4/14
+## 新产品发布与文档更新
+无
+
 ## 重要商务内容更新
+无
+
+## 其他商务内容更新
 ### 案例研究
 <ul>
 <li><a id="weekly-updates-4-10_partnerancasestudy-bmw" href="/partnerancasestudy/case-studies/bmw/">宝马案例</a> 上线</li>
@@ -194,6 +204,7 @@ Linux 上的 Azure Service Fabric 公共预览版现已正式发布。您可以�
 <li><a id="weekly-updates-4-10_partnerancasestudy-michelin" href="/partnerancasestudy/case-studies/michelin/">米其林案例 </a>上线</li>
 <li><a id="weekly-updates-4-10_partnerancasestudy-thyssenkrupp" href="/partnerancasestudy/case-studies/thyssenkrupp/">蒂森克虏伯案例 </a>上线</li>
 </ul>
+
 ## 新技术文档发布
 ### Active Directory
 <ul>
@@ -204,35 +215,9 @@ Linux 上的 Azure Service Fabric 公共预览版现已正式发布。您可以�
 </ul>
 
 
-## 3/27 - 4/7
-## 重要商务内容更新
-### 博客
-<ul>
-<li><a id="weekly-updates-3-27_blog-armcreatevm" href="/blog/2107/04/01/armcreatevm">在Azure 资源管理器 (ARM) 模式下捕获虚拟机并创建新虚拟机</a></li>
-</ul>
-### 案例研究
-<ul>
-<li><a id="weekly-updates-3-27_partnerancasestudy-3m" href="/partnerancasestudy/case-studies/3m/">3M 案例 </a>上线</li>
-<li><a id="weekly-updates-3-27_partnerancasestudy-baykee" href="/partnerancasestudy/case-studies/baykee/">柏克新能案例 </a>上线</li>
-</ul>
-
-<ul>
-
-</ul>
-### 其他更新
-<ul>
-<li>合作伙伴页面发布 <a id="weekly-updates-3-27_partnerancasestudy-partner" href="http:///partnerancasestudy/partner/">青岛赛诺普信息技术有限公司 </a>信息</li>
-<li>公安备案相关内容正式发布，详请见 <a id="weekly-updates-3-27_support-public-security-registration" href="/support/announcement/public-security-registration">公安备案</a> 页面</li>
-<li>在<a id="weekly-updates-3-27_support-" href="https://www.azure.cn/"> Azure 首页</a>、 <a id="weekly-updates-3-27_icp-" href="/icp/"> ICP 页面 </a>添加了公安备案的入口</li>
-<li><a id="weekly-updates-3-27_homepage" href="https://www.azure.cn/">Azure 首页</a> 发布了虚拟机、云服务大降价信息</li>
-
-<li>Power BI Embedded 正式发布标准版价格，详请见 <a id="weekly-updates-3-27_pricing-power-bi-embedded" href="/pricing/details/power-bi-embedded/">Power BI Embedded 价格详情 </a>页面</li>
-<li>更新了关于注册的常见问题，详请见 <a id="weekly-updates-3-27_support-faq" href="/support/faq/">常见问题</a> 页面</li>
-
-<li>修改了关于 Azure 计量名称的常见问题，详请见 <a id="weekly-updates-3-27_support-meter-update-reports" href="/support/meter-update-reports/">如何使用 Azure 新的计量名称更新报表 </a>页面</li>
-</ul>
+## 2017/3/27 - 2017/4/7
 ## 新产品发布与文档更新
-### Azure IoT Suite 新增设备管理功能于 4 月 6 日更新
+### Azure IoT Suite 新增设备管理功能于 2017 年 4 月 6 日更新
 <ul>
 <li><a id="weekly-updates-3-27_blog-azure-iot-suite-adds-device-management-capability-updates" href="/blog/2107/04/06/azure-iot-suite-adds-device-management-capability-updates">Azure IoT Suite 新增设备管理功能更新</a></li>
 </ul>
@@ -249,6 +234,36 @@ Linux 上的 Azure Service Fabric 公共预览版现已正式发布。您可以�
 <li><a id="weekly-updates-3-27_documentation-iot-suite-connecting-devices-linux" href="/documentation/articles/iot-suite-connecting-devices-linux/ ">将设备连接到远程监视预配置解决方案 (Linux)</a></li>
 <li><a id="weekly-updates-3-27_documentation-iot-suite-connecting-devices" href="/documentation/articles/iot-suite-connecting-devices/ ">将设备连接到远程监视预配置解决方案(Windows)</a></li>
 </ul>
+
+## 重要商务内容更新
+无
+
+## 其他商务内容更新
+### 案例研究
+<ul>
+<li><a id="weekly-updates-3-27_partnerancasestudy-3m" href="/partnerancasestudy/case-studies/3m/">3M 案例 </a>上线</li>
+<li><a id="weekly-updates-3-27_partnerancasestudy-baykee" href="/partnerancasestudy/case-studies/baykee/">柏克新能案例 </a>上线</li>
+</ul>
+
+### 博客
+<ul>
+<li><a id="weekly-updates-3-27_blog-armcreatevm" href="/blog/2107/04/01/armcreatevm">在Azure 资源管理器 (ARM) 模式下捕获虚拟机并创建新虚拟机</a></li>
+</ul>
+
+### 其他更新
+<ul>
+<li>合作伙伴页面发布 <a id="weekly-updates-3-27_partnerancasestudy-partner" href="http:///partnerancasestudy/partner/">青岛赛诺普信息技术有限公司 </a>信息</li>
+<li>公安备案相关内容正式发布，详请见 <a id="weekly-updates-3-27_support-public-security-registration" href="/support/announcement/public-security-registration">公安备案</a> 页面</li>
+<li>在<a id="weekly-updates-3-27_support-" href="https://www.azure.cn/"> Azure 首页</a>、 <a id="weekly-updates-3-27_icp-" href="/icp/"> ICP 页面 </a>添加了公安备案的入口</li>
+<li><a id="weekly-updates-3-27_homepage" href="https://www.azure.cn/">Azure 首页</a> 发布了虚拟机、云服务大降价信息</li>
+
+<li>Power BI Embedded 正式发布标准版价格，详请见 <a id="weekly-updates-3-27_pricing-power-bi-embedded" href="/pricing/details/power-bi-embedded/">Power BI Embedded 价格详情 </a>页面</li>
+<li>更新了关于注册的常见问题，详请见 <a id="weekly-updates-3-27_support-faq" href="/support/faq/">常见问题</a> 页面</li>
+
+<li>修改了关于 Azure 计量名称的常见问题，详请见 <a id="weekly-updates-3-27_support-meter-update-reports" href="/support/meter-update-reports/">如何使用 Azure 新的计量名称更新报表 </a>页面</li>
+</ul>
+
+
 ## 新技术文档发布
 ### Azure 资源管理器
 <ul>
