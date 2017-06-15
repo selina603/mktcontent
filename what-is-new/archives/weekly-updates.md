@@ -17,4 +17,6 @@
 
 ### <a id="weekly-updates-6-12_pricing-documentdb" href="/pricing/details/documentdb/">DocumentDB</a>于 2017 年 6 月 15 日发布“附加预配”
 
+### Azure China <a id="weekly-updates-6-12_pricing-cdn" href="/pricing/details/cdn/">CDN</a>于 2017 年 6 月 15 日发布用户上传 HTTPS 自有证书及价格调整通知
+
 ### <a id="weekly-updates-6-12_home-features-azure-portal" href="/home/features/azure-portal/">Azure 门户</a>于 2017 年 6 月 14 日正式发布
