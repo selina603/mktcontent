@@ -22,7 +22,7 @@
 ### <a id="weekly-updates-6-12_home-features-azure-portal" href="/home/features/azure-portal/">Azure 门户</a> 于 2017 年 6 月 14 日正式发布
 
 ## 其他商务内容更新
-### 博客更新
+### 博客
 <ul>
 <li><a id="weekly-updates-6-12_blog-AzureChinaCDNUsersUploadHTTPSCertificate" href="/blog/2017/06/15/AzureChinaCDNUsersUploadHTTPSCertificate/">Azure China CDN 用户上传 HTTPS 自有证书正式发布</a></li>
 </ul>
