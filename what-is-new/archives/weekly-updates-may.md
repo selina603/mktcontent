@@ -138,7 +138,7 @@
 <li><a id='weekly-updates-5-22_partnerancasestudy-qingyidai' href='/partnerancasestudy/case-studies/qingyidai/'>轻易贷案例</a></li>
 </ul>
 
-### 博客更新
+### 博客
 <ul>
 <li><a id='weekly-updates-5-22_blog-AzureStorageIntroduce' href='/blog/2017/05/19/AzureStorageIntroduce/'>Azure 存储基本介绍</a></li>
 </ul>
