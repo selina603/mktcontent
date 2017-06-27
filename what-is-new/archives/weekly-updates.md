@@ -16,6 +16,11 @@
 无
 
 ## 其他商务内容更新
+### 案例研究
+<ul>
+<li><a id="weekly-updates-6-26_partnerancasestudy-fadada" href="/partnerancasestudy/case-studies/fadada/">法大大 案例</a></li>
+</ul>
+
 ### 博客
 <ul>
 <li><a id="weekly-updates-6-26_blog-AzureMediaServicesAnnouncesSupportforAADandDeprecationofACSAuthentication" href="/blog/2017/06/26/AzureMediaServicesAnnouncesSupportforAADandDeprecationofACSAuthentication/">Azure 媒体服务宣布支持 AAD 身份验证并将终止支持 ACS 身份验证</a></li>
