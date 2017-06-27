@@ -11,19 +11,17 @@
 <tags ms.service="weekly-updates" ms.date="" wacn.date="" wacn.lang="cn"/>
 
 # Azure 官网最新更新
-## 2017/6/19 - 2017/6/23
+## 2017/6/26 - 2017/6/30
 ## 重要商务内容更新
 无
 
 ## 其他商务内容更新
-### 合作伙伴
+### 案例研究
 <ul>
-<li><a id="weekly-updates-6-19_partner" href="/partnerancasestudy/partner/">合作伙伴</a>页面更新</li>
+<li><a id="weekly-updates-6-26_partnerancasestudy-fadada" href="/partnerancasestudy/case-studies/fadada/">法大大 案例</a></li>
 </ul>
 
 ### 博客
 <ul>
-<li><a id="weekly-updates-6-19_blog-AzureSQLIntroduction" href="/blog/2017/06/20/AzureSQLIntroduction/">一起来玩 AZURE SQL（一）：AZURE SQL 介绍</a></li>
-<li><a id="weekly-updates-6-19_blog-HowtoUseAzureSQLforBeginners" href="/blog/2017/06/20/HowtoUseAzureSQLforBeginners/">一起来玩 AZURE SQL（二）：AZURE SQL 初级使用篇</a></li>
-<li><a id="weekly-updates-6-19_blog-AzureSQLDatabaseMigration" href="/blog/2017/06/21/AzureSQLDatabaseMigration/">一起来玩 AZURE SQL（三）：AZURE SQL 数据库迁移</a></li>
+<li><a id="weekly-updates-6-26_blog-AzureMediaServicesAnnouncesSupportforAADandDeprecationofACSAuthentication" href="/blog/2017/06/26/AzureMediaServicesAnnouncesSupportforAADandDeprecationofACSAuthentication/">Azure 媒体服务宣布支持 AAD 身份验证并将终止支持 ACS 身份验证</a></li>
 </ul>
