@@ -22,6 +22,10 @@
 ## 其他商务内容更新
 ### 案例研究
 <ul>
+<li><a id="weekly-updates-6-26_partnerancasestudy-ge-healthcare" href="/partnerancasestudy/case-studies/ge-healthcare/">GE 医疗 案例</a></li>
+<li><a id="weekly-updates-6-26_partnerancasestudy-honeywell" href="/partnerancasestudy/case-studies/honeywell/">霍尼韦尔 案例</a></li>
+<li><a id="weekly-updates-6-26_partnerancasestudy-nbcnews" href="/partnerancasestudy/case-studies/nbcnews/">NBC News 案例</a></li>
+<li><a id="weekly-updates-6-26_partnerancasestudy-shell" href="/partnerancasestudy/case-studies/shell/">壳牌 案例</a></li>
 <li><a id="weekly-updates-6-26_partnerancasestudy-fadada" href="/partnerancasestudy/case-studies/fadada/">法大大 案例</a></li>
 </ul>
 
