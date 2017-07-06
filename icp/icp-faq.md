@@ -61,7 +61,7 @@ Chinacloudapp.cn、Chinacloudapi.cn 和 Chinacloudsites.cn 域名由上海蓝云
 </br>
 </br>
 ### 4. ICP 备案流程？
-您在“<a id="icp-faq_cloud.21vianet" href="icp.cloud.21vianet.com">icp.cloud.21vianet.com</a>”进行注册，并填写、提交相关信息，我们初审通过后会通知贵方网站负责人携带相关核验资料到现场进行核验，通过后我们将信息提交到省管局，若审核通过则备案成功。
+您在“<a id="icp-faq_cloud.21vianet" href="http://icp.cloud.21vianet.com">icp.cloud.21vianet.com</a>”进行注册，并填写、提交相关信息，我们初审通过后会通知贵方网站负责人携带相关核验资料到现场进行核验，通过后我们将信息提交到省管局，若审核通过则备案成功。
 </br>
 </br>
 ### 5. ICP 备案周期？
@@ -135,8 +135,8 @@ Chinacloudapp.cn、Chinacloudapi.cn 和 Chinacloudsites.cn 域名由上海蓝云
 </br>
 </br>
 ### 20. 我的网站备案成功了，下一步怎么做？
-备案成功后，工信部会将备案结果以邮件和短信的形式通知您，您会获得网站的ICP备案号和备案密码，请将备案号放到自己的网站上并链接到<a id="icp-faq_miitbeian-2" href="www.miitbeian.gov.cn">www.miitbeian.gov.cn</a>工信部备案网站上。</br>
-温馨提示：根据《计算机信息网络国际联网安全保护管理办法》（公安部第 33 号令）第十二条规定，各网站在工信部备案成功之后，需在网站开通 30 日内到公司实际经营地或个人现居住地公安机关履行公安备案手续。如未办理公安备案手续，请尽快登录全国公安机关互联网站安全管理服务平台（<a id="icp-faq_beian" href="www.beian.gov.cn">www.beian.gov.cn</a>）提交公安备案申请。如需咨询公安备案事宜请联系属地公安机关网安部门。如您备案属地为上海，请您按照以上通知要求尽快办理网站公安备案，如超过 30 日未办理的，将依据法律法规落实相关处置措施，谢谢您的理解与配合！
+备案成功后，工信部会将备案结果以邮件和短信的形式通知您，您会获得网站的ICP备案号和备案密码，请将备案号放到自己的网站上并链接到<a id="icp-faq_miitbeian-2" href="http://www.miitbeian.gov.cn">www.miitbeian.gov.cn</a>工信部备案网站上。</br>
+温馨提示：根据《计算机信息网络国际联网安全保护管理办法》（公安部第 33 号令）第十二条规定，各网站在工信部备案成功之后，需在网站开通 30 日内到公司实际经营地或个人现居住地公安机关履行公安备案手续。如未办理公安备案手续，请尽快登录全国公安机关互联网站安全管理服务平台（<a id="icp-faq_beian" href="http://www.beian.gov.cn">www.beian.gov.cn</a>）提交公安备案申请。如需咨询公安备案事宜请联系属地公安机关网安部门。如您备案属地为上海，请您按照以上通知要求尽快办理网站公安备案，如超过 30 日未办理的，将依据法律法规落实相关处置措施，谢谢您的理解与配合！
 </br>
 </br>
 ### 21. 我的主网站（即www.abc.com）接入在境外，二级域名接入在境内，怎么备案？
