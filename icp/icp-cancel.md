@@ -34,12 +34,12 @@
 
 1、各省管局对备案的要求</br>
 在进行备案前请先了解自己所属管局的备案要求，对您的备案能够顺利通过管局审核会有很大帮助。</br>
-[各省管理局特殊要求下载](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/special-request.pdf)
+<a id="icp-cancel_special-request" href="./media/备案信息填写要求20170627.doc">各省管理局特殊要求下载</a>
 </br>
 
 2、备案具体操作</br>
 2.1 登录账号</br>
-登录网站 [http://icp.cloud.21vianet.com](http://icp.cloud.21vianet.com)，输入账号密码，点击登录。
+登录网站 <a id="icp-cancel_cloud.21vianet" href="http://icp.cloud.21vianet.com">http://icp.cloud.21vianet.com</a>，输入账号密码，点击登录。
 
 ![procedure](./media/5-1.png)
 </br>
@@ -66,11 +66,11 @@
 
  1. 提交备案后我们会在 2 个工作日内进行审核，并以邮件或电话和您沟通有关信息资料的具体问题，请保持电话畅通并及时查看邮件。</br>
  2. 备案成功后，管局将邮件和短信通知主办单位负责人。</br>
-    附：部分省份管局审核周期预估，最终审核时间以管局为准</br>
+    附：部分省份管局审核周期预估。（注：最终审核时间以管局为准）</br>
     3 周：甘肃、云南</br>
-    2 周：北京、四川、湖北、天津、江西、广西</br>
-    1 周：广东、江苏、浙江、河南、陕西、安徽、福建、贵州、辽宁</br>
-    3 天：重庆、上海</br>
+    2 周：北京、浙江、湖北、天津、江西、广西、河北、黑龙江、内蒙古</br>
+    1 周：广东、江苏、四川、河南、陕西、安徽、福建、贵州、辽宁、海南、湖南、新疆、山西、宁夏、重庆</br>
+    3 天：上海</br>
  3. 提交备案信息之后，您可以在相应的备案类型模块内查询备案进度。
 
  ![procedure](./media/5-6.png) </br>
