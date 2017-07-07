@@ -19,3 +19,14 @@
 
 ## 重要商务内容更新
 ### <a id="weekly-updates-7-3_pricing-mysql" href="/pricing/details/mysql/">MySQL Database on Azure</a> MP 1 及 MP 2 促销价格于 2017 年 7 月 3 日发布
+
+## 其他商务内容更新
+### 博客
+<ul>
+<li><a id="weekly-updates-7-3_blog-AzureSQLPerformanceOptimizationPractice" href="/blog/2017/07/07/AzureSQLPerformanceOptimizationPractice/">一起来玩 AZURE SQL ( 五 )：AZURE SQL 性能调优实践 </a></li>
+<li><a id="weekly-updates-7-3_blog-MakeCustomMirrorbyAzure" href="/blog/2017/07/07/MakeCustomMirrorbyAzure/">Azure 快速制作自定义镜像</a></li>
+<li><a id="weekly-updates-7-3_blog-OpenSourcePraviteDiskonAzure" href="/blog/2017/07/07/OpenSourcePraviteDiskonAzure/">开源私有网盘方案 on Azure</a></li>
+<li><a id="weekly-updates-7-3_blog-VnetandOnPremConnectionbyVPNorPraviteLineonAzure" href="/blog/2017/07/07/VnetandOnPremConnectionbyVPNorPraviteLineonAzure/">Azure 上大量 Vnet 与 OnPrem 通过 VPN 或专线连接的设计</a></li>
+<li><a id="weekly-updates-7-3_blog-AzureSQLLogicServerIntroduction" href="/blog/2017/07/07/AzureSQLLogicServerIntroduction/">Azure 上的基础设施自动部署</a></li>
+<li><a id="weekly-updates-7-3_blog-InfrastructureAutoDepolymentonAzure" href="/blog/2017/07/07/InfrastructureAutoDepolymentonAzure/">Azure 上的基础设施自动部署</a></li>
+</ul>
