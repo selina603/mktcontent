@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="07/2017" wacn.date="07/2017" wacn.lang="en"/>
+<tags ms.service="legal-en" ms.date="02/2017" wacn.date="01/2017" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/abstract/)
@@ -20,13 +20,13 @@
 
 We guarantee that at least 99.9% of jobs will start within 30 minutes of their planned start times. 
 
-<p><a href="/support/sla/automation-en/" id="abstract-en_auttomation-en">See the full details</a></p>  
+[See the full details](/support/sla/automation-en/)  
 
 ##Application Gateway
 
 We guarantee that each Application Gateway Cloud Service having two or more medium or larger instances will be available at least 99.9% of the time. We do not provide Service Level Agreement for Application Gateway Cloud Service that have only one instance or have small instance(s). 
 
-<p><a href="/support/sla/application-gateway-en/" id="abstract-en_application-gateway-en">See the full details</a></p>  
+[See the full details](/support/sla/application-gateway-en/)  
 
 ##Azure IoT Hub
 
@@ -34,43 +34,43 @@ For IoT Hub, we promise that at least 99.9% of the time deployed IoT hubs will b
 
 No SLA is provided for the Free Tier of IoT Hub. 
 
-<p><a href="/support/sla/iot-hub-en/" id="abstract-en_iot-hub-en">See the full details</a></p> 
+[See the full details](/support/sla/iot-hub-en/)  
 
 ##Backup
 
 We guarantee at least 99.9% availability of the backup and restore functionality of the Azure Backup service. Availability is calculated by monthly billing cycle. 
 
-<p><a href="/support/sla/back-up-en/" id="abstract-en_back-up-en">See the full details</a></p>
+[See the full details](/support/sla/back-up-en/)   
 
 ##CDN
 
 We guarantee that at least 99.9% of the time CDN will respond to client requests and deliver the requested content without error. We will review and accept data from any commercially reasonable independent measurement system that you choose to monitor your content. You must select a set of agents from the measurement system¡¯s list of standard agents that are generally available and represent at least five geographically diverse locations in major People Republic of China metropolitan areas. 
 
-<p><a href="/support/sla/cdn-en/" id="abstract-en_cdn-en">See the full details</a></p>
+[See the full details](/support/sla/cdn-en/)   
 
 ##Cloud Services
 
 For Cloud Services, we guarantee that when you deploy two or more role instances in different fault and upgrade domains, your Internet facing roles will have external connectivity at least 99.95% of the time. 
 
-<p><a href="/support/sla/cloud-services-en/" id="abstract-en_cloud-services-en">See the full details</a></p>
+[See the full details](/support/sla/cloud-services-en/)  
 
 ##Event Hubs
 
 For "basic" and "standard" level of the Event Center, we guarantee that the properly configured application is able to send or receive messages in the event center or perform other operations in at least 99.9% of the time. 
 
-<p><a href="/support/sla/event-hubs-en/" id="abstract-en_event-hubs-en">See the full details</a></p>  
+[See the full details](/support/sla/event-hubs-en/)  
 
 ##ExpressRoute
 
 We guarantee a minimum of 99.9% ExpressRoute dedicated circuit availability. 
 
-<p><a href="/support/sla/expressroute-en/" id="abstract-en_expressroute-en">See the full details</a></p>
+[See the full details](/support/sla/expressroute-en/)
 
 ##HDInsight
 
 For HDInsight, we guarantee that any HDInsight cluster that you deployed will have external connectivity at least 99.9% of the time over a monthly billing cycle. 
 
-<p><a href="/support/sla/hdinsight-en/" id="abstract-en_hdinsight-en">See the full details</a></p>
+[See the full details](/support/sla/hdinsight-en/)
 
 ##Media Services
 
@@ -80,40 +80,40 @@ For HDInsight, we guarantee that any HDInsight cluster that you deployed will ha
  - For Content Protection, we guarantee that we will successfully fulfill key requests at least 99.9% of the time.
  - For Indexer, we will successfully service Indexer Task requests processed with an Encoding Reserved Unit 99.9% of the time.
 
-<p><a href="/support/sla/media-services-en/" id="abstract-en_media-services-en">See the full details</a></p>
+[See the full details](/support/sla/media-services-en/)
 
 ##MySQL Database on Azure
 
 MySQL Database on Azure provides 99.9% uptime Service Level Agreement, to ensure the high availability and user business continuity of our services. 
 
-<p><a href="/support/sla/mysql-en/" id="abstract-en_mysql-en">See the full details</a></p>
+[See the full details](/support/sla/mysql-en/)
 
 ##Multi-Factor Authentication
 
 We guarantee 99.9% availability of Azure Multi-Factor Authentication. 
  No SLA is provided for the Free tier of Multi-Factor Authentication. 
 
-<p><a href="/support/sla/multi-factor-authentication-en/" id="abstract-en_multi-factor-authentication-en">See the full details</a></p>
+[See the full details](/support/sla/multi-factor-authentication-en/)
 
 ##Notification Hubs
 
 For basic and standard layer service notification center, we ensure that the notification services in basic or standard layer will sent through the appropriate configuration of the application notice or register management operations in at least 99.9% of the time. 
 
-<p><a href="/support/sla/notification-hubs-en/" id="abstract-en_notification-hubs-en">See the full details</a></p>
+[See the full details](/support/sla/notification-hubs-en/)
 
 
 ##Power BI Embedded
 
 We guarantee at least 99.9% availability of Power BI Embedded for users to execute API calls and embed reports.
 
-<p><a href="/support/sla/power-bi-embedded-en/" id="abstract-en_powerbi-embedded-en">See the full details</a></p>
+[See the full details](/support/sla/power-bi-embedded-en/)
 
 
 ##Radis Cache
 
 We guarantee at least 99.9% of the time that customers will have connectivity between the Cache endpoints and our Internet gateway. 
 
-<p><a href="https://www.azure.cn/support/sla/redis-cache-en/" id="abstract-en_redis-cache-en">See the full details</a></p>
+[See the full details](https://www.azure.cn/support/sla/redis-cache-en/)
 
 ##Stream Analytics
 
@@ -121,27 +121,28 @@ We guarantee at least 99.9% availability of the Stream Analytics API.
 
 We guarantee that 99.9% of the time, deployed Stream Analytics jobs will be either processing data or available to process data. 
 
-<p><a href="/support/sla/stream-analytics-en/" id="abstract-en_stream-analytics-en">See the full details</a></p>
+[See the full details](/support/sla/stream-analytics-en/)
 
 ##Scheduler
 
 We guarantee that at least 99.9% of the time all scheduled jobs will initiate within 30 minutes of their planned execution times. Availability is calculated by monthly billing cycle. 
 
-<p><a href="/support/sla/scheduler-en/" id="abstract-en_scheduler-en">See the full details</a></p>
+[See the full details](/support/sla/scheduler-en/)
 
 ##Service Bus
 
- - For Service Bus Relays, we guarantee that at least 99.9% of the time,  properly configured applications will be able to establish a connection to a deployed Relay.
- - For Service Bus Queues and Topics, we guarantee that at least 99.9% of the time , properly configured applications will be able to send or receive messages or perform other operations on a deployed Queue or Topic.
+ - For Service Bus relay, we guarantee that the properly configured application would be connected with deployed relay in in at least 99.9% of the time.
+ - For service bus queues and topics, we guarantee that the properly configured application would send or receive messages in the deployed queues and topics or perform other operations in at least 99.9% of the time.
+ - For "basic" and "standard" notification center level of Service Bus, we guarantee that the properly configured application would send notifications or perform registry operations by the basic or standard Notification Center layer deployments in at least 99.9% of the time.
 
-<p><a href="/support/sla/messaging-en/" id="abstract-en_messaging-en">See the full details</a></p>
+[See the full details](/support/sla/messaging-en/)
 
 ##Site Recovery
 
  - For each Protected Instance configured for On-Premises-to-On-Premises Failover, we guarantee at least 99.9% availability of the Site Recovery service.
  - For each Protected Instance configured for On-Premises-to-Azure planned and unplanned Failover, we guarantee a four-hour Recovery Time Objective for unencrypted Protected Instances, and a six-hour Recovery Time Objective for encrypted Protected Instance, depending on the size of the Protected Instance.
 
-<p><a href="/support/sla/site-recovery-en/" id="abstract-en_site-recovery-en">See the full details</a></p>
+[See the full details](/support/sla/site-recovery-en/)
 
 ##Storage
 
@@ -151,7 +152,7 @@ We guarantee that at least 99.9% (99% for Cool Access Tier) of the time, we will
 
 We guarantee that at least 99.9% (99% for Cool Access Tier) of the time, we will successfully process requests to write data to Locally Redundant Storage (LRS) and Geo Redundant Storage (GRS) Accounts and Read Access-Geo Redundant Storage (RA-GRS) Accounts.
 
-<p><a href="/support/sla/storage-en/" id="abstract-en_storage-en">See the full details</a></p>
+[See the full details](/support/sla/storage-en/)
 
 ##SQL Database
 
@@ -163,31 +164,31 @@ We guarantee at least 99.99% of the time customers will have connectivity betwee
 
 We guarantee at least 99.9% of the time customers will have connectivity between their Web or Business Azure SQL Database and our Internet gateway. Availability is calculated by monthly billing cycle.
 
-<p><a href="/support/sla/sql-data-en/" id="abstract-en_sql-data-en">See the full details</a></p>
+[See the full details](/support/sla/sql-data-en/)
 
 ##SQL Data Warehouse
 
 We guarantee that, at least 99.9% of the time client operations executed on a SQL Data Warehouse database will succeed.
 
-<p><a href="/support/sla/sql-data-warehouse-en/" id="abstract-en_sql-data-warehouse-en">See the full details</a></p>
+[See the full details](/support/sla/sql-data-warehouse-en/)
 
 ##StorSimple
 
 We guarantee at least 99.9% availability of the backup, cloud tiering, and restore functionality of the Azure StorSimple service. Availability is calculated by monthly billing cycle. 
 
-<p><a href="/support/sla/storsimple-en/" id="abstract-en_storsimple-en"></a>See the full details</p>
+[See the full details](/support/sla/storsimple-en/)
 
 ##Traffic Manager
 
 We guarantee that DNS queries will receive a valid response from at least one of our Azure Traffic Manager name server clusters at least 99.99% of the time. Availability is calculated by monthly billing cycle. 
 
-<p><a href="/support/sla/traffic-manager-en/" id="abstract-en_traffic-manager-en">See the full details</a></p>
+[See the full details](/support/sla/traffic-manager-en/)
 
 ##Key Vault
 
 We guarantee that we will process Key Vault transactions within 5 seconds at least 99.9% of the time. 
 
-<p><a href="/support/sla/key-vault-en/" id="abstract-en_key-vault-en">See the full details</a></p>
+[See the full details](/support/sla/key-vault-en/)
 
 ##Virtual Machines
 
@@ -195,23 +196,23 @@ For all Virtual Machines that have two or more instances deployed in the same Av
 
 For any Single Instance Virtual Machine using premium storage for all disks, we guarantee you will have Virtual Machine Connectivity of at least 99.9%.
 
-<p><a href="/support/sla/virtual-machines-en/" id="abstract-en_virtual-machines-en">See the full details</a></p>
+[See the full details](/support/sla/virtual-machines-en/)
 
 ##Virtual Machine Scale Sets
 
 Virtual Machine Scale Sets is a free service, therefore, it does not have a financially backed SLA itself. However, if the Virtual Machine Scale Sets includes Virtual Machines in at least 2 Fault Domains, the availability of the underlying Virtual Machines SLA applies.
 
-<p><a href="/support/sla/virtual-machine-scale-sets-en/" id="abstract-en_virtual-machine-scale-sets-en">See the full details</a></p>
+[See the full details](/support/sla/virtual-machine-scale-sets-en/)
 
 
 ##VPN Gateway
 
 We guarantee 99.9% availability for each VPN Gateway. 
 
-<p><a href="/support/sla/vpn-gateway-en/" id="abstract-en_vpn-gateway-en">See the full details</a></p>
+[See the full details](/support/sla/vpn-gateway-en/)
 
 ##App Service
 
 We guarantee that Apps running in a customer subscription will be available 99.95% of the time. No SLA is provided for Apps under either the Free or Shared tiers. 
 
-<p><a href="/support/sla/app-service-en/" id="abstract-en_app-service-en">See the full details</a></p>
+[See the full details](/app-service-en/)
