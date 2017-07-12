@@ -1,4 +1,4 @@
-﻿<properties
+<properties
 	pageTitle="公安备案 | Azure"
 	description="公安备案原因"
 	services="public-security-registration"
