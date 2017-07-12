@@ -1,4 +1,4 @@
-﻿<properties
+<properties
 	pageTitle="计量名称变更 | Azure"
     description="关于计量名称变更的通知"
     services=""
