@@ -8,18 +8,16 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="03/2016" wacn.date="03/2016" wacn.lang="en"/>
+<tags ms.service="legal-en" ms.date="07/2016" wacn.date="07/2016" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/messaging/)
 - [English](/support/sla/messaging-en/)
 #SLA for Service Bus
 
-1. For Service Bus relay, we guarantee that the properly configured application would be connected with deployed relay in in at least 99.9% of the time.
+1. For Service Bus Relays, we guarantee that at least 99.9% of the time,  properly configured applications will be able to establish a connection to a deployed Relay.
 
-2. For service bus queues and topics, we guarantee that the properly configured application would send or receive messages in the deployed queues and topics or perform other operations in at least 99.9% of the time.
-
-3. For "basic" and "standard" notification center level of Service Bus, we guarantee that the properly configured application would send notifications or perform registry operations by the basic or standard Notification Center layer deployments in at least 99.9% of the time.
+2. For Service Bus Queues and Topics, we guarantee that at least 99.9% of the time , properly configured applications will be able to send or receive messages or perform other operations on a deployed Queue or Topic.
 
 
 ##Introduction
@@ -27,7 +25,7 @@
 
 This Service Level Agreement for Azure (this “SLA”) is made by 21Vianet in connection with, and is a part of, the agreement under which Customer has purchased Azure Services from 21Vianet (the “Agreement”).
 
-We provide financial backing to our commitment to achieve and maintain Service Levels for our Services. If we do not achieve and maintain the Service Levels for each Service as described in this SLA, then you may be eligible for a credit towards a portion of your monthly service fees. These terms will be fixed for term of your Agreement. If a subscription is renewed, the version of this SLA that is current at the time the renewal term commences will apply throughout the renewal term. We will provide at least 90 days' notice for adverse material changes to this SLA. You can review the most current version of this SLA at any time by visiting [http://www.azure.cn/support/legal/sla/](/support/legal/sla/).
+We provide financial backing to our commitment to achieve and maintain Service Levels for our Services. If we do not achieve and maintain the Service Levels for each Service as described in this SLA, then you may be eligible for a credit towards a portion of your monthly service fees. These terms will be fixed for term of your Agreement. If a subscription is renewed, the version of this SLA that is current at the time the renewal term commences will apply throughout the renewal term. We will provide at least 90 days' notice for adverse material changes to this SLA. You can review the most current version of this SLA at any time by visiting <a id="messaging-sla-en_sla-en" href="/support/legal/sla-en/">https://www.azure.cn/support/legal/sla/</a>.
 
 
 ##General Terms
@@ -118,7 +116,7 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 ###Additional Definitions
 
-"**Message**" refers to any user-defined content sent or received through Service Bus Relays, Queues, Topics, or Notification Hubs, using any protocol supported by Service Bus.
+"**Message**" refers to any user-defined content sent or received through Service Bus Relays, Queues, or Topics, or Notification Hubs, using any protocol supported by Service Bus.
 
 ###Monthly Uptime Calculation and Service Levels for Relays
 1. "**Deployment Minutes**" is the total number of minutes that a given Relay has been deployed in Azure during a billing month.
@@ -129,7 +127,7 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 4. "**Monthly Uptime Percentage**" for Relays is calculated as Maximum Available Minutes less Downtime divided by Maximum Available Minutes in a billing month for a given Azure subscription. Monthly Uptime Percentage is represented by the following formula:
 
-		Monthly Uptime % =   (Maximum Available Minutes − Downtime) / Maximum Available Minutes 
+		Monthly Uptime % =   (Maximum Available Minutes − Downtime) / Maximum Available Minutes x 100
 
 5. The following Service Levels and Service Credits are applicable to Customer's use of Relays:
 
@@ -147,7 +145,7 @@ Monthly Uptime Percentage | Service Credit
 
 4. "**Monthly Uptime Percentage**"for Queues and Topics is calculated as Maximum Available Minutes less Downtime divided by Maximum Available Minutes in a billing month for a given Azure subscription. Monthly Uptime Percentage is represented by the following formula:
 
-		Monthly Uptime % =   (Maximum Available Minutes − Downtime) / Maximum Available Minutes 
+		Monthly Uptime % =   (Maximum Available Minutes − Downtime) / Maximum Available Minutes x 100
 
 5. The following Service Levels and Service Credits are applicable to Customer's use of Queues and Topics:
 
@@ -155,3 +153,11 @@ Monthly Uptime Percentage | Service Credit
 ---|---  
 <99.9% | 10%  
 <99% | 25% 
+
+## Version History
+
+<a id="messaging-sla-en_messaging-sla-en" href="/support/sla/messaging-en/">1.1</a> Last updated： July 2017
+
+Release notes: The items of "basic" and "standard" notification center level have been moved . Added ‘X 100’ to the monthly uptime availability formulas to fix a typo.
+
+<a id="messaging-sla-en_messaging-sla-en-1.0pdf" href="//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/messaging_sla_english1.0.pdf">1.0</a> Last updated： Mar 2016
