@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="02/2017" wacn.date="01/2017" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="07/2017" wacn.date="07/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]a
 - [中文](/support/sla/abstract/)
@@ -20,13 +20,13 @@
 
 我们保证至少 99.9% 的作业将在预定的开始时间 30 分钟内开始。 
 
-[查看完整的详细信息](/support/sla/automation/) 
+<p><a href="/support/sla/automation/" id="abstract_automation">查看完整的详细信息</a></p>
 
 ##应用程序网关
 
 我们保证每个具有两个或更多中型或更大型实例的应用程序网关云服务至少在 99.9% 的时间内都可用。我们不为只有一个实例或小型实例的应用程序网关云服务提供服务级别协议。 
 
-[查看完整的详细信息](/support/sla/application-gateway/) 
+<p><a href="/support/sla/application-gateway/" id="abstract_application-gateway">查看完整的详细信息</a></p>
 
 ##Azure IoT 中心
 
@@ -34,43 +34,43 @@
 
 IoT 中心免费版不提供服务级别协议。 
 
-[查看完整的详细信息](/support/sla/iot-hub/) 
+<p><a href="/support/sla/iot-hub/" id="abstract_iot-hub">查看完整的详细信息</a></p>
 
 ##备份
 
 我们保证 Azure 备份服务的备份和还原功能的可用性至少达到 99.9%。可用性按月计费周期计算。 
 
-[查看完整的详细信息](/support/sla/back-up/) 
+<p><a href="/support/sla/back-up/" id="abstract_back-up">查看完整的详细信息</a></p>
 
 ##内容传送网络（CDN）
 
 我们保证至少在 99.9% 的时间 CDN 将响应客户端请求并交付请求的内容，而不会出现错误。我们将检查并接受来自您选择用来监控内容的任何商业上合理的独立度量系统的数据。您必须从测量系统中的标准代理列表中选择一组普遍可用的代理，这些代理通常可用且代表中华人民共和国的主要大城市区域中的至少五个不同的地理位置。 
 
-[查看完整的详细信息](/support/sla/cdn/) 
+<p><a href="/support/sla/cdn/" id="abstract_cdn">查看完整的详细信息</a></p>
 
 ##云服务
 
 对于云服务，我们保证，当您在不同的故障域和升级域中部署两个或更多角色实例时，面向 Internet 的角色将至少在 99.95% 的时间内能够建立外部连接。 
 
-[查看完整的详细信息](/support/sla/cloud-services/) 
+<p><a href="/support/sla/cloud-services/" id="abstract_cloud-services">查看完整的详细信息</a></p>
 
 ##事件中心
 
 对于事件中心“基本”和“标准”级别，我们保证至少在 99.9% 的时间里，正确配置的应用程序能够通过在事件中心发送或接收消息或是执行其他操作。 
 
-[查看完整的详细信息](/support/sla/event-hubs/) 
+<p><a href="/support/sla/event-hubs/" id="abstract_event-hubs">查看完整的详细信息</a></p>
 
 ##ExpressRoute
 
 我们保证 ExpressRoute 专用线路可用性至少为 99.9%。 
 
-[查看完整的详细信息](/support/sla/expressroute/) 
+<p><a href="/support/sla/expressroute/" id="abstract_expressroute">查看完整的详细信息</a></p>
 
 ##HDInsight
 
 对于 HDInsight，我们保证您部署的任何 HDInsight 群集在每月计费周期中至少在 99.9% 的时间内建立外部连接。 
 
-[查看完整的详细信息](/support/sla/hdinsight/) 
+<p><a href="/support/sla/hdinsight/" id="abstract_hdinsight">查看完整的详细信息</a></p>
 
 ##媒体服务
 
@@ -80,14 +80,13 @@ IoT 中心免费版不提供服务级别协议。
  - 对于内容保护，我们承诺至少在 99.9% 的时间内成功处理关键字请求。
  - 对于 Indexer，我们将在 99.9% 的时间内成功通过编码保留单位处理 Indexer 任务请求。
 
-
-[查看完整的详细信息](/support/sla/media-services/) 
+<p><a href="/support/sla/media-services/" id="abstract_media-services">查看完整的详细信息</a></p>
 
 ##MySQL Database on Azure
 
 MySQL Database on Azure 提供 99.9% 的运行时间服务级别协议，保证服务的高可用和用户业务的连续性。 
 
-[查看完整的详细信息](/support/sla/mysql/) 
+<p><a href="/support/sla/mysql/" id="abstract_mysql">查看完整的详细信息</a></p>
 
 ##多重身份验证
 
@@ -95,27 +94,27 @@ MySQL Database on Azure 提供 99.9% 的运行时间服务级别协议，保证�
 
 多重身份验证免费版不提供服务级别协议。 
 
-[查看完整的详细信息](/support/sla/multi-factor-authentication/) 
+<p><a href="/support/sla/multi-factor-authentication/" id="abstract_multi-factor-authentication">查看完整的详细信息</a></p>
 
 ##通知中心
 
 对于通知中心的基本和标准层服务，我们确保至少在 99.9% 的时间里，在基本或标准层运行的通知中心服务将通过恰当配置的应用程序成功发送通知或执行注册管理操作。 
 
-[查看完整的详细信息](/support/sla/notification-hubs/) 
+<p><a href="/support/sla/notification-hubs/" id="abstract_notification-hubs">查看完整的详细信息</a></p>
 
 
 ##Power BI Embedded
 
 我们保证，用户执行  API  调用和嵌入报告时，Power BI Embedded 的可用性不低于 99.9%。
 
-[查看完整的详细信息](/support/sla/power-bi-embedded/) 
+<p><a href="/support/sla/power-bi-embedded/" id="abstract_power-bi-embedded">查看完整的详细信息</a></p>
 
 
 ##Redis 缓存
 
 我们保证至少 99.9% 的时间内客户在缓存端点和 Internet 网关之间存在连接。 
 
-[查看完整的详细信息](/support/sla/redis-cache/)  
+<p><a href="/support/sla/redis-cache/" id="abstract_redis-cache">查看完整的详细信息</a></p>  
 
 ##流分析
 
@@ -123,28 +122,27 @@ MySQL Database on Azure 提供 99.9% 的运行时间服务级别协议，保证�
 
 我们保证在 99.9% 的时间，已部署的流分析作业将处理数据或可以处理数据。 
 
-[查看完整的详细信息](/support/sla/stream-analytics/) 
+<p><a href="/support/sla/stream-analytics/" id="abstract_stream-analytics">查看完整的详细信息</a></p>
 
 ##计划程序
 
 我们保证在至少 99.9% 的情况下，所有计划调用操作会在按计划执行时间的30分钟内启动。可用性按每月计费结算。 
 
-[查看完整的详细信息](/support/sla/shceduler/) 
+<p><a href="/support/sla/shceduler/" id="abstract_shceduler">查看完整的详细信息</a></p>
 
 ##服务总线
 
  - 对于服务总线中继，我们保证至少在 99.9% 时间里，正确配置的应用程序能够与已部署中继建立连接。
  - 对于服务总线队列和主题，我们保证至少在 99.9% 时间里，正确配置的应用程序能够在已部署的队列或主题上发送或接收消息或执行其他操作。
- - 对于服务总线的“基本”和“标准”通知中心级别，我们保证至少在 99.9% 的时间里，正确配置的应用程序能够通过在基本或标准通知中心层上部署的通知中心，发送通知或执行注册管理操作。
 
-[查看完整的详细信息](/support/sla/messaging/) 
+<p><a href="/support/sla/messaging/" id="abstract_messaging">查看完整的详细信息</a></p>
 
 ##站点恢复
 
  - 对于为本地到本地的故障转移配置的每个受保护的实例，我们都保证站点恢复服务至少有 99.9% 的可用性。
  - 对于本地部署到 Azure 的计划和非计划故障转移的每个受保护实例，我们保证未加密受保护实例的恢复时间为 4 小时，加密受保护实例为 6 小时，由受保护实例的大小而定。
 
-[查看完整的详细信息](/support/sla/site-recovery/)  
+<p><a href="/support/sla/site-recovery/" id="abstract_site-recovery">查看完整的详细信息</a></p>
 
 ##存储
 
@@ -154,7 +152,7 @@ MySQL Database on Azure 提供 99.9% 的运行时间服务级别协议，保证�
 
 我们保证至少在 99.9%（对于冷访问层为 99%）的时间成功地处理将数据写入本地冗余存储 (LRS) 和异地冗余存储 (GRS) 帐户，以及读取访问异地冗余存储 (RA-GRS) 帐户的请求。
 
-[查看完整的详细信息](/support/sla/storage/) 
+<p><a href="/support/sla/storage/" id="abstract_storage">查看完整的详细信息</a></p>
 
 
 ##SQL 数据库
@@ -167,31 +165,31 @@ MySQL Database on Azure 提供 99.9% 的运行时间服务级别协议，保证�
 
 我们保证至少在 99.9% 的时间内客户将能够在其 Web 版或企业版 Azure SQL 数据库与我们的 Internet 网关之间保持连接。
 
-[查看完整的详细信息](/support/sla/sql-data/) 
+<p><a href="/support/sla/sql-data/" id="abstract_sql-data">查看完整的详细信息</a></p>
 
 ##SQL 数据仓库
 
 我们保证，至少在 99.9% 的时间内，在 SQL 数据仓库数据库上执行的客户端操作都会成功。
 
-[查看完整的详细信息](/support/sla/sql-data-warehouse/) 
+<p><a href="/support/sla/sql-data-warehouse/" id="abstract_sql-data-warehouse">查看完整的详细信息</a></p>
                 
 ##StorSimple
 
 我们保证 Azure StorSimple 服务的备份、云分层和还原功能的可用性至少达到 99.9%。可用性按月计费周期计算。 
 
-[查看完整的详细信息](/support/sla/storsimple/) 
+<p><a href="/support/sla/storsimple/" id="abstract_storsimple">查看完整的详细信息</a></p>
 
 ##流量管理器 
 
 我们保证，DNS 查询至少在 99.99% 的时间内能够至少从我们的其中一个 Azure 流量管理器名称服务器群集收到有效的响应。可用性按月计费周期计算。 
 
-[查看完整的详细信息](/support/sla/traffic-manager/) 
+<p><a href="/support/sla/traffic-manager/" id="abstract_traffic-manager">查看完整的详细信息</a></p>
 
 ##密钥保管库
 
 我们保证至少在 99.9% 的情况下，密钥保管库事务能够在 5 秒内得到处理。 
 
-[查看完整的详细信息](/support/sla/key-vault/)  
+<p><a href="/support/sla/key-vault/" id="abstract_key-vault">查看完整的详细信息</a></p> 
 
 ##虚拟机
 
@@ -199,22 +197,22 @@ MySQL Database on Azure 提供 99.9% 的运行时间服务级别协议，保证�
 
 对于任何为所有磁盘使用高级存储的单实例虚拟机，我们保证您将在不少于 99.9% 的时间内具有虚拟机连接性。 
 
-[查看完整的详细信息](/support/sla/virtual-machines/) 
+<p><a href="/support/sla/virtual-machines/" id="abstract_virtual-machines">查看完整的详细信息</a></p>
 
 ##虚拟机规模集
 
 虚拟机规模集是一项免费服务，因此本身不提供具有财务保障的服务级别协议。但是，如果虚拟机规模集在 2 个或 2 个以上容错域中包含了虚拟机，则其可用性取决于基础虚拟机服务级别协议。
 
-[查看完整的详细信息](/support/sla/virtual-machine-scale-sets/) 
+<p><a href="/support/sla/virtual-machine-scale-sets/" id="abstract_virtual-machine-scale-sets">查看完整的详细信息</a></p>
 
 ##VPN 网关
 
 我们保证每个 VPN 网关的可用性达到 99.9%。 
 
-[查看完整的详细信息](/support/sla/vpn-gateway/) 
+<p><a href="/support/sla/vpn-gateway/" id="abstract_vpn-gateway">查看完整的详细信息</a></p>
 
 ##应用服务
 
 我们保证在客户订购下运行的应用都将具有 99.95% 的可用性。没有为应用的免费或共享层级提供任何服务级别协议。 
 
-[查看完整的详细信息](/support/sla/app-service/) 
+<p><a href="/support/sla/app-service/" id="abstract_app-service">查看完整的详细信息</a></p>
