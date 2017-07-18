@@ -32,6 +32,7 @@ We guarantee that each Application Gateway Cloud Service having two or more medi
 
 For IoT Hub, we promise that at least 99.9% of the time deployed IoT hubs will be able to send messages to and receive messages from registered devices and the Service will able to perform create, read, update, and delete operations on IoT hubs.
 
+
 No SLA is provided for the Free Tier of IoT Hub. 
 
 <p><a href="/support/sla/iot-hub-en/" id="abstract-en_iot-hub-en">See the full details</a></p> 
@@ -170,6 +171,12 @@ We guarantee at least 99.9% of the time customers will have connectivity between
 We guarantee that, at least 99.9% of the time client operations executed on a SQL Data Warehouse database will succeed.
 
 <p><a href="/support/sla/sql-data-warehouse-en/" id="abstract-en_sql-data-warehouse-en">See the full details</a></p>
+
+##DocumentDB
+
+We guarantee at least 99.99% of the time we will successfully process requests to perform operations against DocumentDB Resources.
+
+<p><a href="/support/sla/documentdb-en/" id="abstract-en_documentdb-en">See the full details</a></p>
 
 ##StorSimple
 
