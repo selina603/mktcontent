@@ -172,6 +172,12 @@ MySQL Database on Azure 提供 99.9% 的运行时间服务级别协议，保证�
 我们保证，至少在 99.9% 的时间内，在 SQL 数据仓库数据库上执行的客户端操作都会成功。
 
 <p><a href="/support/sla/sql-data-warehouse/" id="abstract_sql-data-warehouse">查看完整的详细信息</a></p>
+
+##DocumentDB
+
+我们保证在不少于 99.99% 的时间内成功地处理针对 DocumentDB 资源执行操作的请求。
+
+<p><a href="/support/sla/documentdb/" id="abstract_documentdb">查看完整的详细信息</a></p>
                 
 ##StorSimple
 
