@@ -13,7 +13,7 @@
 # Azure 官网最新更新
 ## 2017/7/10 - 2017/7/14
 ## 重要商务内容更新
-### DocumentDB 资源作为 Azure 门户上 <a id="weekly-updates-7-17_pricing-cosmos-db" href="/pricing/details/cosmos-db/">Azure Cosmos DB</a> 资源的一部分于 2017 年 7 月 19 日生效
+### <a id="weekly-updates-7-17_pricing-cosmos-db" href="/pricing/details/cosmos-db/">Azure Cosmos DB</a> 于 2017 年 7 月 19 日发布
 
 ## 其他商务内容更新
 ### 博客
