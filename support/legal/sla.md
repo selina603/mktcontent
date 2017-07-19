@@ -90,7 +90,7 @@
 [虚拟机]: /support/sla/virtual-machines/
 [虚拟机规模集]: /support/sla/virtual-machine-scale-sets/
 [云服务]: /support/sla/cloud-services/
-[DocumentDB]: /support/sla/documentdb-en/
+[DocumentDB]: /support/sla/documentdb/
 [应用服务]: /support/sla/app-service/
 [通知中心]: /support/sla/notification-hubs/
 [SQL 数据库]: /support/sla/sql-data/
