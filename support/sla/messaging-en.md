@@ -116,7 +116,7 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 ###Additional Definitions
 
-"**Message**" refers to any user-defined content sent or received through Service Bus Relays, Queues, or Topics, or Notification Hubs, using any protocol supported by Service Bus.
+"**Message**" refers to any user-defined content sent or received through Service Bus Relays, Queues, or Topics, using any protocol supported by Service Bus.
 
 ###Monthly Uptime Calculation and Service Levels for Relays
 1. "**Deployment Minutes**" is the total number of minutes that a given Relay has been deployed in Azure during a billing month.
