@@ -21,7 +21,7 @@
 <li><a id="weekly-updates-7-24_casestudy-laihua" href="/partnerancasestudy/case-studies/laihua/">来画案例</a></li>
 <li><a id="weekly-updates-7-24_casestudy-c2engine" href="/partnerancasestudy/case-studies/c2engine/">星土数据科技案例</a></li>
 <li><a id="weekly-updates-7-24_casestudy-cyberinsight" href="/partnerancasestudy/case-studies/cyberinsight/">天泽智云案例</a></li>
-<li><a id="weekly-updates-7-24_casestudy-kyligence" href="/partnerancasestudy/case-studies/kyligence/">Kyligence 上海跬智案例</a></li>
+<li><a id="weekly-updates-7-24_casestudy-kyligence" href="/partnerancasestudy/case-studies/kyligence/">上海跬智案例</a></li>
 </ul>
 
 ### 博客
