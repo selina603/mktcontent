@@ -60,6 +60,7 @@
 - [HDInsight]
 - [流分析]
 - [Power BI Embedded]
+- [Azure Analysis Services]
 
 ##物联网
 - [Azure IoT 中心]
@@ -119,3 +120,4 @@
 [密钥保管库]: /support/sla/key-vault/
 [Service Fabric]: /support/sla/service-fabric/
 [Power BI Embedded]: /support/sla/power-bi-embedded/
+[Azure Analysis Services]: /support/sla/analysis-services-en/

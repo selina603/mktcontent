@@ -62,6 +62,7 @@ This agreement describes the commitment about uptime and connectivity of Microso
 - [HDInsight]
 - [Stream Analytics]
 - [Power BI Embedded]
+- [Azure Analysis Services]
 
 ##Internet of Things
 - [Azure IoT Hub]
@@ -120,3 +121,4 @@ Click [here](//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/Consoli
 [Key Vault]: /support/sla/key-vault-en/
 [Service Fabric]: /support/sla/service-fabric-en/
 [Power BI Embedded]: /support/sla/power-bi-embedded-en/
+[Azure Analysis Services]: /support/sla/analysis-services-en/
