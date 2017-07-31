@@ -28,6 +28,12 @@
 
 <p><a href="/support/sla/application-gateway/" id="abstract_application-gateway">查看完整的详细信息</a></p>
 
+##Azure Analysis Services
+
+我们保证，在 Azure Analysis Services 服务器上执行的客户端操作的成功率不低于 99.9%。
+
+<p><a href="/support/sla/analysis-services/" id="abstract_analysis-services">查看完整的详细信息</a></p>
+
 ##Azure IoT 中心
 
 对于 IoT 中心，我们保证在 99.9% 的时间里，已部署的 IoT 中心能够向已注册的设备发送信息并从中接收信息，并且该服务能够在 IoT 中心上执行创建、读取、更新和删除操作。
@@ -172,12 +178,6 @@ MySQL Database on Azure 提供 99.9% 的运行时间服务级别协议，保证�
 我们保证，至少在 99.9% 的时间内，在 SQL 数据仓库数据库上执行的客户端操作都会成功。
 
 <p><a href="/support/sla/sql-data-warehouse/" id="abstract_sql-data-warehouse">查看完整的详细信息</a></p>
-
-##DocumentDB
-
-我们保证在不少于 99.99% 的时间内成功地处理针对 DocumentDB 资源执行操作的请求。
-
-<p><a href="/support/sla/documentdb/" id="abstract_documentdb">查看完整的详细信息</a></p>
                 
 ##StorSimple
 
