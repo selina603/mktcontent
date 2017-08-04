@@ -11,76 +11,128 @@
 <tags ms.service="weekly-updates" ms.date="" wacn.date="" wacn.lang="cn"/>
 
 # Azure 官网最新更新
-## 2017/7/24 - 2017/7/28
+## 2017/7/31 - 2017/8/4
 ## 重要商务内容更新
 无
 
 ## 其他商务内容更新
 ### 案例研究
-<ul>
-<li><a id="weekly-updates-7-24_casestudy-laihua" href="/partnerancasestudy/case-studies/laihua/">来画案例</a></li>
-<li><a id="weekly-updates-7-24_casestudy-c2engine" href="/partnerancasestudy/case-studies/c2engine/">星土数据科技案例</a></li>
-<li><a id="weekly-updates-7-24_casestudy-cyberinsight" href="/partnerancasestudy/case-studies/cyberinsight/">天泽智云案例</a></li>
-<li><a id="weekly-updates-7-24_casestudy-kyligence" href="/partnerancasestudy/case-studies/kyligence/">上海跬智案例</a></li>
-</ul>
+无
 
 ### 博客
 <ul>
-<li><a id="weekly-updates-7-24_blog-VPN_BGP" href="/blog/2017/07/28/VPN_BGP/">Azure VPN 支持 BGP 的实现</a></li>
-<li><a id="weekly-updates-7-24_blog-AzureLinuxDiskDesignandDeployment" href="/blog/2017/07/28/AzureLinuxDiskDesignandDeployment/">Azure Linux Disk 的设计与部署</a></li>
-<li><a id="weekly-updates-7-24_blog-UsePowerShellCreateMutiInterfaceCiscoCSRRouter" href="/blog/2017/07/28/UsePowerShellCreateMutiInterfaceCiscoCSRRouter/">在 Azure 上通过 Powershell 创建多 Interface 的 Cisco CSR 路由器</a></li>
-<li><a id="weekly-updates-7-24_blog-AzureBlobCacheTime" href="/blog/2017/07/28/AzureBlobCacheTime/">Azure Blob 存储更改缓存时间</a></li>
-<li><a id="weekly-updates-7-24_blog-JsonTemplateCreateCSR" href="/blog/2017/07/28/JsonTemplateCreateCSR/">用 Json Template 在 Azure 上创建 Cisco CSR 路由器</a></li>
-<li><a id="weekly-updates-7-24_blog-VNetConfigurationNoticeUnderAzuerARM" href="/blog/2017/07/28/VNetConfigurationNoticeUnderAzuerARM/">Azure ARM 网络注意事项</a></li>
+<li><a id="weekly-updates-7-31_blog-HowtoUseSharedCatalogonAzure" href="/blog/2017/08/04/HowtoUseSharedCatalogonAzure/">Azure下共享目录的使用方法</a></li>
+<li><a id="weekly-updates-7-31_blog-SQLonLinuxIntro" href="/blog/2017/08/04/SQLonLinuxIntro/">SQL On Linux 初体验</a></li>
+<li><a id="weekly-updates-7-31_blog-DataDecentralizedAccessSolution-SQL2016SecuritySolution" href="/blog/2017/08/04/DataDecentralizedAccessSolution-SQL2016SecuritySolution/">解决数据分权访问----SQL 2016 行级安全解决方案</a></li>
+<li><a id="weekly-updates-7-31_blog-DatabaseAuthorizationAssignmentIntro" href="/blog/2017/08/04/DatabaseAuthorizationAssignmentIntro/">数据库权限分配探讨</a></li>
+<li><a id="weekly-updates-7-31_blog-NSCIntro" href="/blog/2017/08/04/NSCIntro/">网络安全组（NSG）简介</a></li>
+<li><a id="weekly-updates-7-31_blog-RunSQLServerOnAzureUbuntuDocker" href="/blog/2017/08/04/RunSQLServerOnAzureUbuntuDocker/">在 Azure 上的 Ubuntu Docker 运行 SQL Server</a></li>
 </ul>
 
 ## 新技术文档发布
-### 应用服务
+### 云服务
 <ul>
-<li><a id="weekly-updates-7-24_docs-app-service-deploy-spring-boot-web-app-on-azure" href="//docs.azure.cn/zh-cn/app-service/app-service-deploy-spring-boot-web-app-on-azure">将 Spring Boot 应用程序部署到 Azure 应用服务</a></li>
+<li><a id="weekly-updates-7-31_docs-cloud-services-application-and-service-availability-faq" href="//docs.azure.cn/zh-cn/cloud-services/cloud-services-application-and-service-availability-faq">Azure 云服务的应用程序和服务可用性问题：常见问题解答 (FAQ)</a></li>
+<li><a id="weekly-updates-7-31_docs-cloud-services-configuration-and-management-faq" href="//docs.azure.cn/zh-cn/cloud-services/cloud-services-configuration-and-management-faq">Azure 云服务的配置和管理问题：常见问题解答 (FAQ)</a></li>
+<li><a id="weekly-updates-7-31_docs-cloud-services-connectivity-and-networking-faq" href="//docs.azure.cn/zh-cn/cloud-services/cloud-services-connectivity-and-networking-faq">Azure 云服务的连接和网络问题：常见问题解答 (FAQ)</a></li>
+<li><a id="weekly-updates-7-31_docs-cloud-services-deployment-faq" href="//docs.azure.cn/zh-cn/cloud-services/cloud-services-deployment-faq">Azure 云服务的部署问题：常见问题解答 (FAQ)</a></li>
 </ul>
 
-### 批处理
+### ExpressRoute
 <ul>
-<li><a id="weekly-updates-7-24_docs-batch-low-pri-vms" href="//docs.azure.cn/zh-cn/batch/batch-low-pri-vms">使用 Batch 中的低优先级 VM（预览版）</a></li>
-<li><a id="weekly-updates-7-24_docs-batch-nodejs-get-started" href="//docs.azure.cn/zh-cn/batch/batch-nodejs-get-started">用于 Node.js 的 Batch SDK 入门</a></li>
-<li><a id="weekly-updates-7-24_docs-batch-task-output-file-conventions" href="//docs.azure.cn/zh-cn/batch/batch-task-output-file-conventions">使用适用于 .NET 的 Batch 文件约定库将作业和任务数据持久保存到 Azure 存储</a></li>
-<li><a id="weekly-updates-7-24_docs-batch-task-output-files" href="//docs.azure.cn/zh-cn/batch/batch-task-output-files">使用 Batch 服务 API 将任务数据持久保存到 Azure 存储</a></li>
-<li><a id="weekly-updates-7-24_docs-batch-user-accounts" href="//docs.azure.cn/zh-cn/batch/batch-user-accounts">在 Batch 中的用户帐户下运行任务</a></li>
+<li><a id="weekly-updates-7-31_docs-expressroute-howto-add-gateway-portal-resource-manager" href="//docs.azure.cn/zh-cn/expressroute/expressroute-howto-add-gateway-portal-resource-manager">使用 Azure 门户配置 ExpressRoute 的虚拟网络网关</a></li>
 </ul>
 
-### 备份
+### IoT 中心
 <ul>
-<li><a id="weekly-updates-7-24_docs-backup-azure-recovery-services-vault-overview" href="//docs.azure.cn/zh-cn/backup/backup-azure-recovery-services-vault-overview">恢复服务保管库概述</a></li>
-<li><a id="weekly-updates-7-24_docs-backup-azure-upgrade-backup-to-recovery-services" href="//docs.azure.cn/zh-cn/backup/backup-azure-upgrade-backup-to-recovery-services">将备份保管库升级到恢复服务保管库</a></li>
-<li><a id="weekly-updates-7-24_docs-backup-mabs-add-storage" href="//docs.azure.cn/zh-cn/backup/backup-mabs-add-storage">将存储添加到 Azure 备份服务器 v2</a></li>
-<li><a id="weekly-updates-7-24_docs-backup-mabs-protection-matrix" href="//docs.azure.cn/zh-cn/backup/backup-mabs-protection-matrix">Azure 备份服务器保护矩阵</a></li>
-<li><a id="weekly-updates-7-24_docs-backup-mabs-system-state-and-bmr" href="//docs.azure.cn/zh-cn/backup/backup-mabs-system-state-and-bmr">使用 Azure 备份服务器备份系统状态，并将计算机还原成裸机</a></li>
-<li><a id="weekly-updates-7-24_docs-backup-mabs-unattended-install" href="//docs.azure.cn/zh-cn/backup/backup-mabs-unattended-install">运行 Azure 备份服务器 v2 的无人参与安装</a></li>
-<li><a id="weekly-updates-7-24_docs-backup-mabs-upgrade-to-v2" href="//docs.azure.cn/zh-cn/backup/backup-mabs-upgrade-to-v2">安装 Azure 备份服务器 v2</a></li>
+<li><a id="weekly-updates-7-31_docs-iot-hub-csharp-csharp-twin-getstarted" href="//docs.azure.cn/zh-cn/iot-hub/iot-hub-csharp-csharp-twin-getstarted">设备孪生入门 (.NET/.NET)</a></li>
+<li><a id="weekly-updates-7-31_docs-iot-hub-devguide-messages-c2d" href="//docs.azure.cn/zh-cn/iot-hub/iot-hub-devguide-messages-c2d">从 IoT 中心发送云到设备的消息</a></li>
+<li><a id="weekly-updates-7-31_docs-iot-hub-devguide-messages-construct" href="//docs.azure.cn/zh-cn/iot-hub/iot-hub-devguide-messages-construct">创建和读取 IoT 中心消息</a></li>
+<li><a id="weekly-updates-7-31_docs-iot-hub-devguide-messages-read-builtin" href="//docs.azure.cn/zh-cn/iot-hub/iot-hub-devguide-messages-read-builtin">从内置终结点读取设备到云的消息</a></li>
+<li><a id="weekly-updates-7-31_docs-iot-hub-devguide-protocols" href="//docs.azure.cn/zh-cn/iot-hub/iot-hub-devguide-protocols">参考 - 选择通信协议</a></li>
+<li><a id="weekly-updates-7-31_docs-iot-hub-get-started-physical" href="//docs.azure.cn/zh-cn/iot-hub/iot-hub-get-started-physical">Azure IoT 中心及物理设备入门教程</a></li>
+<li><a id="weekly-updates-7-31_docs-iot-hub-get-started-simulated" href="//docs.azure.cn/zh-cn/iot-hub/iot-hub-get-started-simulated">Azure IoT 中心及模拟设备入门教程</a></li>
+<li><a id="weekly-updates-7-31_docs-iot-hub-iot-edge-overview" href="//docs.azure.cn/zh-cn/iot-hub/iot-hub-iot-edge-overview">Azure IoT Edge 体系结构概念</a></li>
+<li><a id="weekly-updates-7-31_docs-iot-hub-iot-edge-physical-device" href="//docs.azure.cn/zh-cn/iot-hub/iot-hub-iot-edge-physical-device">使用 Raspberry Pi 上的 Azure IoT Edge 将设备到云的消息转发到 IoT 中心</a></li>
+<li><a id="weekly-updates-7-31_docs-iot-hub-java-java-device-management-getstarted" href="//docs.azure.cn/zh-cn/iot-hub/iot-hub-java-java-device-management-getstarted">设备管理入门 (Java)</a></li>
+<li><a id="weekly-updates-7-31_docs-iot-hub-linux-iot-edge-get-started" href="//docs.azure.cn/zh-cn/iot-hub/iot-hub-linux-iot-edge-get-started">在 Linux 上浏览 Azure IoT Edge 体系结构</a></li>
+<li><a id="weekly-updates-7-31_docs-iot-hub-raspberry-pi-web-simulator-get-started" href="//docs.azure.cn/zh-cn/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started">将 Raspberry Pi 联机模拟器连接到 Azure IoT 中心 (Node.js)</a></li>
+<li><a id="weekly-updates-7-31_docs-iot-hub-windows-iot-edge-get-started" href="//docs.azure.cn/zh-cn/iot-hub/iot-hub-windows-iot-edge-get-started">在 Windows 上浏览 Azure IoT Edge 体系结构</a></li>
+</ul>
+
+### 监视和诊断
+<ul>
+<li><a id="weekly-updates-7-31_docs-monitoring-activity-log-alerts-on-service-notifications" href="//docs.azure.cn/zh-cn/monitoring-and-diagnostics/monitoring-activity-log-alerts-on-service-notifications">创建有关服务通知的活动日志警报</a></li>
+<li><a id="weekly-updates-7-31_docs-monitoring-data-sources" href="//docs.azure.cn/zh-cn/monitoring-and-diagnostics/monitoring-data-sources">使用 Azure 中的监视数据</a></li>
+<li><a id="weekly-updates-7-31_docs-monitoring-rest-api-walkthrough" href="//docs.azure.cn/zh-cn/monitoring-and-diagnostics/monitoring-rest-api-walkthrough">Azure 监视 REST API 演练</a></li>
+</ul>
+
+### Service Bus 中继
+<ul>
+<li><a id="weekly-updates-7-31_docs-service-bus-relay-tutorial" href="//docs.azure.cn/zh-cn/service-bus-relay/service-bus-relay-tutorial">Azure WCF 中继教程</a></li>
 </ul>
 
 ### 虚拟机
 <ul>
-<li><a id="weekly-updates-7-24_docs-diagnostic-extension-v2" href="//docs.azure.cn/zh-cn/virtual-machines/linux/classic/diagnostic-extension-v2">使用 Linux 诊断扩展监视 Linux VM 的性能和诊断数据</a></li>
+<li><a id="weekly-updates-7-31_docs-virtual-machine-scale-sets-attached-disks" href="//docs.azure.cn/zh-cn/virtual-machine-scale-sets/virtual-machine-scale-sets-attached-disks">Azure VM 规模集及附加数据磁盘</a></li>
+<li><a id="weekly-updates-7-31_docs-cli-use-docker" href="//docs.azure.cn/zh-cn/virtual-machines/linux/classic/cli-use-docker">从 Azure 命令行接口 (Azure CLI) 使用 Docker VM 扩展</a></li>
+<li><a id="weekly-updates-7-31_docs-docker-compose-quickstart" href="//docs.azure.cn/zh-cn/virtual-machines/linux/docker-compose-quickstart">使用 Docker 和 Compose 在 Azure 中定义和运行多容器应用程序入门</a></li>
+<li><a id="weekly-updates-7-31_docs-dockerextension-nodejs" href="//docs.azure.cn/zh-cn/virtual-machines/linux/dockerextension-nodejs">在 Azure 中通过 Azure CLI 1.0 使用 Docker VM 扩展创建 Docker 环境</a></li>
+<li><a id="weekly-updates-7-31_docs-virtual-machines-linux-cli-sample-create-docker-host" href="//docs.azure.cn/zh-cn/virtual-machines/scripts/virtual-machines-linux-cli-sample-create-docker-host">创建包含 Docker 的 VM</a></li>
+<li><a id="weekly-updates-7-31_docs-virtual-machines-linux-cli-sample-create-vm-from-managed-os-disks" href="//docs.azure.cn/zh-cn/virtual-machines/scripts/virtual-machines-linux-cli-sample-create-vm-from-managed-os-disks">通过 CLI 使用现有托管 OS 磁盘创建虚拟机</a></li>
+<li><a id="weekly-updates-7-31_docs-virtual-machines-linux-cli-sample-encrypt-vm" href="//docs.azure.cn/zh-cn/virtual-machines/scripts/virtual-machines-linux-cli-sample-encrypt-vm">在 Azure 中加密 Linux 虚拟机</a></li>
+<li><a id="weekly-updates-7-31_docs-virtual-machines-linux-cli-sample-create-vm-from-snapshot" href="//docs.azure.cn/zh-cn/virtual-machines/scripts/virtual-machines-linux-cli-sample-create-vm-from-snapshot">使用 CLI 从快照创建虚拟机</a></li>
+<li><a id="weekly-updates-7-31_docs-virtual-machines-linux-powershell-sample-create-docker-host" href="//docs.azure.cn/zh-cn/virtual-machines/scripts/virtual-machines-linux-powershell-sample-create-docker-host">使用 PowerShell 创建 Docker 主机</a></li>
+<li><a id="weekly-updates-7-31_docs-virtual-machine-scale-sets-attached-disks" href="//docs.azure.cn/zh-cn/virtual-machine-scale-sets/virtual-machine-scale-sets-attached-disks">Azure VM 规模集及附加数据磁盘</a></li>
+<li><a id="weekly-updates-7-31_docs-virtual-machine-scale-sets-placement-groups" href="//docs.azure.cn/zh-cn/virtual-machine-scale-sets/virtual-machine-scale-sets-placement-groups">使用大型的虚拟机规模集</a></li>
+<li><a id="weekly-updates-7-31_docs-capture-image-resource" href="//docs.azure.cn/zh-cn/virtual-machines/windows/capture-image-resource">在 Azure 中创建通用 VM 的托管映像</a></li>
+</ul>
+
+### 负载均衡器
+<ul>
+<li><a id="weekly-updates-7-31_docs-load-balancer-troubleshoot" href="//docs.azure.cn/zh-cn/load-balancer/load-balancer-troubleshoot">对 Azure 负载均衡器进行故障排除</a></li>
+</ul>
+
+### 事件中心
+<ul>
+<li><a id="weekly-updates-7-31_docs-event-hubs-archive-overview" href="//docs.azure.cn/zh-cn/event-hubs/event-hubs-archive-overview">Azure 事件中心存档</a></li>
+<li><a id="weekly-updates-7-31_docs-event-hubs-features" href="//docs.azure.cn/zh-cn/event-hubs/event-hubs-features">事件中心功能概述</a></li>
+<li><a id="weekly-updates-7-31_docs-event-hubs-manage-with-ps" href="//docs.azure.cn/zh-cn/event-hubs/event-hubs-manage-with-ps">使用 PowerShell 管理事件中心资源</a></li>
+</ul>
+
+### Linux
+<ul>
+<li><a id="weekly-updates-7-31_docs-docker-machine" href="//docs.azure.cn/zh-cn/virtual-machines/linux/docker-machine">通过 Azure 驱动程序使用 Docker 计算机</a></li>
+<li><a id="weekly-updates-7-31_docs-dockerextension" href="//docs.azure.cn/zh-cn/virtual-machines/linux/dockerextension">在 Azure 中使用 Docker VM 扩展创建 Docker 环境</a></li>
+</ul>
+
+### SQL 数据库
+<ul>
+<li><a id="weekly-updates-7-31_docs-sql-database-cloud-migrate-fix-compatibility-issues-SSDT" href="//docs.azure.cn/zh-cn/sql-database/sql-database-cloud-migrate-fix-compatibility-issues-SSDT">使用 SQL Server Data Tools for Visual Studio 将 SQL Server 数据库迁移到 Azure SQL 数据库</a></li>
+<li><a id="weekly-updates-7-31_docs-sql-database-cloud-migrate-fix-compatibility-issues-SSMS" href="//docs.azure.cn/zh-cn/sql-database/sql-database-cloud-migrate-fix-compatibility-issues-SSMS">在迁移到 SQL 数据库之前，使用 SQL Server Management Studio 解决 SQL Server 数据库的兼容性问题</a></li>
+</ul>
+
+### HDInsight
+<ul>
+<li><a id="weekly-updates-7-31_docs-hdinsight-apache-spark-eclipse-tool-plugin" href="//docs.azure.cn/zh-cn/hdinsight/hdinsight-apache-spark-eclipse-tool-plugin">使用用于 Eclipse 的 Azure 工具包为 HDInsight 群集创建 Spark 应用程序</a></li>
+<li><a id="weekly-updates-7-31_docs-hdinsight-apache-spark-intellij-tool-plugin-debug-jobs-remotely" href="//docs.azure.cn/zh-cn/hdinsight/hdinsight-apache-spark-intellij-tool-plugin-debug-jobs-remotely">使用用于 IntelliJ 的 Azure 工具包通过 VPN 在 HDInsight Spark 上远程调试应用程序</a></li>
+<li><a id="weekly-updates-7-31_docs-hdinsight-apache-spark-intellij-tool-plugin" href="//docs.azure.cn/zh-cn/hdinsight/hdinsight-apache-spark-intellij-tool-plugin">使用用于 IntelliJ 的 Azure 工具包创建 HDInsight 群集的 Spark 应用程序</a></li>
+<li><a id="weekly-updates-7-31_docs-hdinsight-hadoop-install-presto" href="//docs.azure.cn/zh-cn/hdinsight/hdinsight-hadoop-install-presto">在 HDInsight Hadoop 群集上安装并使用 Presto</a></li>
+<li><a id="weekly-updates-7-31_docs-hdinsight-hadoop-windows-tools" href="//docs.azure.cn/zh-cn/hdinsight/hdinsight-hadoop-windows-tools">使用 Windows 电脑在 HDInsight 上的 Hadoop 生态系统中工作</a></li>
+<li><a id="weekly-updates-7-31_docs-hdinsight-tools-for-intellij-with-hortonworks-sandbox" href="//docs.azure.cn/zh-cn/hdinsight/hdinsight-tools-for-intellij-with-hortonworks-sandbox">将用于 IntelliJ 的 HDInsight 工具与 Hortonworks 沙盒配合使用</a></li>
+</ul>
+
+### Windows
+<ul> 
+<li><a id="weekly-updates-7-31_docs-create-vm-generalized-managed" href="//docs.azure.cn/zh-cn/virtual-machines/windows/create-vm-generalized-managed">从托管映像创建 VM</a></li>
 </ul>
 
 ## 常用操作指南新发布
 <ul>
-<li><a id="weekly-updates-7-24_docs-aog-service-fabric-howto-set-custom-domain-for-security-authentication" href="//docs.azure.cn/zh-cn/articles/compute/aog-service-fabric-howto-set-custom-domain-for-security-authentication">如何为开启安全认证的 Service Fabric 设置自定义域名</a></li>
-<li><a id="weekly-updates-7-24_docs-aog-service-fabric-qa-run-entity-framework-enable-migrations" href="//docs.azure.cn/zh-cn/articles/compute/aog-service-fabric-qa-run-entity-framework-enable-migrations">如何在 Servcie Fabric 项目中运行 Entity Framework 的 Enable-Migrations 命令</a></li>
-<li><a id="weekly-updates-7-24_docs-aog-virtual-machines-arm-howto-enable-diagnostics-with-java-rest-api" href="//docs.azure.cn/zh-cn/articles/compute/aog-virtual-machines-arm-howto-enable-diagnostics-with-java-rest-api">Java 如何启用 ARM 虚拟机诊断</a></li>
-<li><a id="weekly-updates-7-24_docs-aog-virtual-machines-howto-disable-time-sync" href="//docs.azure.cn/zh-cn/articles/compute/aog-virtual-machines-howto-disable-time-sync">如何禁用 Azure 虚拟机的日期时间同步</a></li>
-<li><a id="weekly-updates-7-24_docs-aog-virtual-machines-linux-classic-howto-start-role-with-java-rest-api" href="//docs.azure.cn/zh-cn/articles/compute/aog-virtual-machines-linux-classic-howto-start-role-with-java-rest-api">Java 调用 Rest api 设置经典 Linux 虚拟机的实例启停</a></li>
-<li><a id="weekly-updates-7-24_docs-aog-virtual-machines-linux-qa-disk-name-inconsistent" href="//docs.azure.cn/zh-cn/articles/compute/aog-virtual-machines-linux-qa-disk-name-inconsistent">如何解决 Linux 虚拟机磁盘设备名不一致的问题</a></li>
-<li><a id="weekly-updates-7-24_docs-aog-virtual-machines-performance-monitor-guidance" href="//docs.azure.cn/zh-cn/articles/compute/aog-virtual-machines-performance-monitor-guidance">理解 Azure 虚拟机的性能监视</a></li>
-<li><a id="weekly-updates-7-24_docs-aog-service-bus-relay-connect-on-primeses-apps-to-outside-world-via-hybrid-connections" href="//docs.azure.cn/zh-cn/articles/enterprise-integration/aog-service-bus-relay-connect-on-primeses-apps-to-outside-world-via-hybrid-connections">构建混合应用方式之 - 混合连接</a></li>
-<li><a id="weekly-updates-7-24_docs-aog-service-bus-relay-connect-on-primeses-apps-to-outside-world-via-wcf-relay" href="//docs.azure.cn/zh-cn/articles/enterprise-integration/aog-service-bus-relay-connect-on-primeses-apps-to-outside-world-via-wcf-relay">构建混合应用方式之 - WCF 中继</a></li>
-<li><a id="weekly-updates-7-24_docs-aog-iot-hub-qa-c2d-message-ttl-set-minute-level" href="//docs.azure.cn/zh-cn/articles/internet-of-things/aog-iot-hub-qa-c2d-message-ttl-set-minute-level">如何设置 IoT 中心云到设备消息的默认 TTL 为分钟级别</a></li>
-<li><a id="weekly-updates-7-24_docs-aog-load-balancer-arm-settings-via-powershell" href="//docs.azure.cn/zh-cn/articles/networking/aog-load-balancer-arm-settings-via-powershell">使用 PowerShell 脚本查看 ARM 模式下 SLB 配置</a></li>
-<li><a id="weekly-updates-7-24_docs-aog-load-balancer-qa-apache-keepalive-cause-http-detection-error" href="//docs.azure.cn/zh-cn/articles/networking/aog-load-balancer-qa-apache-keepalive-cause-http-detection-error">Apache KeepAlive 引发的 HTTP 探测问题及解决办法</a></li>
-<li><a id="weekly-updates-7-24_docs-aog-web-apps-howto-backup-through-different-subscriptions" href="//docs.azure.cn/zh-cn/articles/web-mobile/aog-web-apps-howto-backup-through-different-subscriptions">不同订阅或者账号下网站如何进行备份还原</a></li>
-<li><a id="weekly-updates-7-24_docs-aog-web-apps-howto-load-cer-with-java" href="//docs.azure.cn/zh-cn/articles/web-mobile/aog-web-apps-howto-load-cer-with-java">Azure Web 应用中 Java 如何加载证书</a></li>
-<li><a id="weekly-updates-7-24_docs-aog-web-apps-qa-deploy-by-git-command" href="//docs.azure.cn/zh-cn/articles/web-mobile/aog-web-apps-qa-deploy-by-git-command">如何使用 git submodule 命令部署 Azure Web 应用</a></li>
-<li><a id="weekly-updates-7-24_docs-aog-web-apps-qa-log-messy-code" href="//docs.azure.cn/zh-cn/articles/web-mobile/aog-web-apps-qa-log-messy-code">如何解决 Azure Web 应用日志内容显示乱码的问题</a></li>
+<li><a id="weekly-updates-7-31_docs-aog-virtual-machines-qa-diagnostics-settings" href="//docs.azure.cn/zh-cn/articles/compute/aog-virtual-machines-qa-diagnostics-settings">Azure 虚拟机诊断设置问题排查</a></li>
+<li><a id="weekly-updates-7-31_docs-aog-mysql-connections-faq" href="//docs.azure.cn/zh-cn/articles/databases/aog-mysql-connections-faq">如何对 Azure MySQL 连接进行故障排查</a></li>
+<li><a id="weekly-updates-7-31_docs-aog-sql-database-connect-with-microsoft-jdbc-driver" href="//docs.azure.cn/zh-cn/articles/databases/aog-sql-database-connect-with-microsoft-jdbc-driver">使用 Microsoft JDBC Driver 连接 Azure SQL Database</a></li>
+<li><a id="weekly-updates-7-31_docs-aog-sql-database-connection-faq" href="//docs.azure.cn/zh-cn/articles/databases/aog-sql-database-connection-faq">Azure SQL 数据库常见的连接问题</a></li>
+<li><a id="weekly-updates-7-31_docs-aog-power-bi-embedded-cli-cannot-be-used-in-mac-os" href="//docs.azure.cn/zh-cn/articles/intelligence-analytics/aog-power-bi-embedded-cli-cannot-be-used-in-mac-os">Mac OS 环境下无法使用 PowerBI-Cli 工具故障排查</a></li>
+<li><a id="weekly-updates-7-31_docs-aog-key-vault-qa-cause-vm-boot-error" href="//docs.azure.cn/zh-cn/articles/security-indentity/aog-key-vault-qa-cause-vm-boot-error">解决由于 Key Vault 未启用导致 VM 无法启动的问题</a></li>
 </ul>
