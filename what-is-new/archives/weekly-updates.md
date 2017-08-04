@@ -14,7 +14,7 @@
 ## 2017/7/31 - 2017/8/4
 ## 重要商务内容更新
 <ul>
-<li><a id="weekly-updates-7-31_blob" href="/pricing/details/storage/blob/">块 Blob</a>区域冗余存储 (ZRS) 于 2017 年 8 月 1 日发布
+<li><a id="weekly-updates-7-31_blob" href="/pricing/details/storage/blob/">块 Blob </a>区域冗余存储 (ZRS) 于 2017 年 8 月 1 日发布
 </li>
 </ul>
 
