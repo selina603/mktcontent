@@ -15,6 +15,12 @@
 ## 重要商务内容更新
 无
 
+## 其他商务内容更新
+### Azure 在线课程
+<ul>
+<li><a id="weekly-updates-8-7_register-51"  href="/webinars/register/51/">轻松开启 Azure 云端之旅</a>开放报名</li>
+</ul>
+
 ## 新技术文档发布
 ### 虚拟机
 <ul>
