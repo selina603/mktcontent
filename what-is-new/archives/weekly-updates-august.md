@@ -17,8 +17,6 @@
 无
 
 ## 其他商务内容更新
-### 案例研究
-无
 
 ### 博客
 <ul>
@@ -68,7 +66,7 @@
 <li><a id="weekly-updates-7-31_docs-monitoring-rest-api-walkthrough" href="//docs.azure.cn/zh-cn/monitoring-and-diagnostics/monitoring-rest-api-walkthrough">Azure 监视 REST API 演练</a></li>
 </ul>
 
-### Service Bus 中继
+### Service Bus 
 <ul>
 <li><a id="weekly-updates-7-31_docs-service-bus-relay-tutorial" href="//docs.azure.cn/zh-cn/service-bus-relay/service-bus-relay-tutorial">Azure WCF 中继教程</a></li>
 </ul>
@@ -87,6 +85,9 @@
 <li><a id="weekly-updates-7-31_docs-virtual-machine-scale-sets-attached-disks" href="//docs.azure.cn/zh-cn/virtual-machine-scale-sets/virtual-machine-scale-sets-attached-disks">Azure VM 规模集及附加数据磁盘</a></li>
 <li><a id="weekly-updates-7-31_docs-virtual-machine-scale-sets-placement-groups" href="//docs.azure.cn/zh-cn/virtual-machine-scale-sets/virtual-machine-scale-sets-placement-groups">使用大型的虚拟机规模集</a></li>
 <li><a id="weekly-updates-7-31_docs-capture-image-resource" href="//docs.azure.cn/zh-cn/virtual-machines/windows/capture-image-resource">在 Azure 中创建通用 VM 的托管映像</a></li>
+<li><a id="weekly-updates-7-31_docs-create-vm-generalized-managed" href="//docs.azure.cn/zh-cn/virtual-machines/windows/create-vm-generalized-managed">从托管映像创建 VM</a></li>
+<li><a id="weekly-updates-7-31_docs-docker-machine" href="//docs.azure.cn/zh-cn/virtual-machines/linux/docker-machine">通过 Azure 驱动程序使用 Docker 计算机</a></li>
+<li><a id="weekly-updates-7-31_docs-dockerextension" href="//docs.azure.cn/zh-cn/virtual-machines/linux/dockerextension">在 Azure 中使用 Docker VM 扩展创建 Docker 环境</a></li>
 </ul>
 
 ### 负载均衡器
@@ -99,12 +100,6 @@
 <li><a id="weekly-updates-7-31_docs-event-hubs-archive-overview" href="//docs.azure.cn/zh-cn/event-hubs/event-hubs-archive-overview">Azure 事件中心存档</a></li>
 <li><a id="weekly-updates-7-31_docs-event-hubs-features" href="//docs.azure.cn/zh-cn/event-hubs/event-hubs-features">事件中心功能概述</a></li>
 <li><a id="weekly-updates-7-31_docs-event-hubs-manage-with-ps" href="//docs.azure.cn/zh-cn/event-hubs/event-hubs-manage-with-ps">使用 PowerShell 管理事件中心资源</a></li>
-</ul>
-
-### Linux
-<ul>
-<li><a id="weekly-updates-7-31_docs-docker-machine" href="//docs.azure.cn/zh-cn/virtual-machines/linux/docker-machine">通过 Azure 驱动程序使用 Docker 计算机</a></li>
-<li><a id="weekly-updates-7-31_docs-dockerextension" href="//docs.azure.cn/zh-cn/virtual-machines/linux/dockerextension">在 Azure 中使用 Docker VM 扩展创建 Docker 环境</a></li>
 </ul>
 
 ### SQL 数据库
@@ -123,10 +118,6 @@
 <li><a id="weekly-updates-7-31_docs-hdinsight-tools-for-intellij-with-hortonworks-sandbox" href="//docs.azure.cn/zh-cn/hdinsight/hdinsight-tools-for-intellij-with-hortonworks-sandbox">将用于 IntelliJ 的 HDInsight 工具与 Hortonworks 沙盒配合使用</a></li>
 </ul>
 
-### Windows
-<ul> 
-<li><a id="weekly-updates-7-31_docs-create-vm-generalized-managed" href="//docs.azure.cn/zh-cn/virtual-machines/windows/create-vm-generalized-managed">从托管映像创建 VM</a></li>
-</ul>
 
 ## 常用操作指南新发布
 <ul>
