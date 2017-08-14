@@ -24,11 +24,11 @@
 <li><a id="weekly-updates-8-7_docs-error-messages" href="//docs.azure.cn/zh-cn/virtual-machines/windows/error-messages">了解在 Azure 中管理 Windows 虚拟机时遇到的常见错误消息</a></li>
 </ul>
 
-### 连接
+### Azure Active Directory
 <ul>
 <li><a id="weekly-updates-8-7_docs-active-directory-aadconnect-pass-through-authentication-smart-lockout" href="//docs.azure.cn/zh-cn/active-directory/connect/active-directory-aadconnect-pass-through-authentication-smart-lockout">Azure Active Directory 直通身份验证：智能锁定</a></li>
 </ul>
-### Web 应用
+### 应用服务
 <ul>
 <li><a id="weekly-updates-8-7_docs-app-service-web-deployment-faq" href="//docs.azure.cn/zh-cn/app-service-web/app-service-web-deployment-faq">Azure 中 Web 应用的部署常见问题解答</a></li>
 <li><a id="weekly-updates-8-7_docs-web-sites-integrate-with-vnet" href="//docs.azure.cn/zh-cn/app-service-web/web-sites-integrate-with-vnet">将应用与 Azure 虚拟网络进行集成</a></li>
