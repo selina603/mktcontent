@@ -11,17 +11,18 @@
 <tags ms.service="weekly-updates" ms.date="" wacn.date="" wacn.lang="cn"/>
 
 # Azure 官网最新更新
+
 ## 2017/8/7 - 2017/8/11
 ## 重要商务内容更新
 ### 托管磁盘
 <ul>
-<li><a id="weekly-updates-8-18_storage" href="/pricing/details/storage/">托管磁盘</a>新发布</li>
+<li><a id="weekly-updates-8-18_storage" href="/pricing/details/storage/">托管磁盘 </a>新发布</li>
 </ul>
 
 ## 其他商务内容更新
 ### 案例研究
 <ul>
-<li><a id="weekly-updates-8-18_fadada"  href="/partnerancasestudy/case-studies/fadada/">法大大</a>新增视频案例</li>
+<li><a id="weekly-updates-8-18_fadada"  href="/partnerancasestudy/case-studies/fadada/">法大大 </a>新增视频案例</li>
 </ul>
 ### 博客
 <ul>
