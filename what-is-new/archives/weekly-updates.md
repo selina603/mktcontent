@@ -13,9 +13,12 @@
 # Azure 官网最新更新
 
 ## 2017/8/14 - 2017/8/18
-## 重要商务内容更新
+## 新产品发布与文档更新
+<h3><a id="weekly-updates-8-18_storage" href="/pricing/details/storage/">Azure 存储 </a>于 2017 年 8 月 18 日发布托管磁盘服务</h3>
 <ul>
-<li>Azure 存储于 2017 年 8 月 18 日发布<a id="weekly-updates-8-18_storage" href="/pricing/details/storage/"> 托管磁盘服务</a></li>
+<li><a id="weekly-updates-8-18_migrate-to-managed-disks" href="https://docs.azure.cn/zh-cn/virtual-machines/windows/migrate-to-managed-disks">将 Azure VM 迁移到 Azure 中的托管磁盘</a></li>
+<li><a id="weekly-updates-8-18_storage-introduction" href="https://docs.azure.cn/zh-cn/storage/storage-introduction">Azure 存储简介</a></li>
+
 </ul>
 
 ## 其他商务内容更新
