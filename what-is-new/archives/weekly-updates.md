@@ -12,11 +12,10 @@
 
 # Azure 官网最新更新
 
-## 2017/8/7 - 2017/8/11
+## 2017/8/14 - 2017/8/18
 ## 重要商务内容更新
-### 托管磁盘
 <ul>
-<li><a id="weekly-updates-8-18_storage" href="/pricing/details/storage/">托管磁盘 </a>新发布</li>
+<li><a id="weekly-updates-8-18_storage" href="/pricing/details/storage/">storage 存储</a> 于 2017 年 8 月 18 日发布托管磁盘服务</li>
 </ul>
 
 ## 其他商务内容更新
