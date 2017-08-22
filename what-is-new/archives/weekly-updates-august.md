@@ -17,7 +17,6 @@
 <h3>Azure 存储于 2017 年 8 月 18 日发布<a id="weekly-updates-8-18_storage" href="/pricing/details/storage/"> 托管磁盘 </a>服务</h3>
 <ul>
 <li><a id="weekly-updates-8-18_migrate-to-managed-disks" href="https://docs.azure.cn/zh-cn/virtual-machines/windows/migrate-to-managed-disks">将 Azure VM 迁移到 Azure 中的托管磁盘</a></li>
-
 </ul>
 ## 重要商务内容更新
 无
