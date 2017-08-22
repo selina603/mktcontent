@@ -15,4 +15,4 @@
 - [English](/support/sla/managed-disks-en/)
 # SLA for Managed Disks
 
-Managed Disks does not have a financially backed SLA itself. The availability of Managed Disks is based on the SLA of the underlying storage used and virtual machine to which it is attached. Please see the <a id="managed-disks_virtual-machines-en" href="/virtual-machines-en/" target="_blank">Virtual Machines</a> and <a href="/storage-en/" id="managed-disks_storage-en" tatget="_blank">storage SLA</a> for more details.
+Managed Disks does not have a financially backed SLA itself. The availability of Managed Disks is based on the SLA of the underlying storage used and virtual machine to which it is attached. Please see the <a id="managed-disks_virtual-machines-en" href="/support/sla/virtual-machines-en/" target="_blank">Virtual Machines</a> and <a href="/support/sla/storage-en/" id="managed-disks_storage-en" tatget="_blank">storage SLA</a> for more details.
