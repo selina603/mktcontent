@@ -22,8 +22,8 @@
 ## 其他商务内容更新
 ### 案例研究
 <ul>
-<li><a id="weekly-updates-8-22_pernod-ricard-china"  href="/partnerancasestudy/case-studies/pernod-ricard-china/">保乐力加</a>案例</li>
-<li><a id="weekly-updates-8-22_zpmc"  href="/partnerancasestudy/case-studies/zpmc/">振华重工</a>案例</li>
+<li><a id="weekly-updates-8-22_pernod-ricard-china"  href="/partnerancasestudy/case-studies/pernod-ricard-china/">保乐力加 </a>案例</li>
+<li><a id="weekly-updates-8-22_zpmc"  href="/partnerancasestudy/case-studies/zpmc/">振华重工 </a>案例</li>
 </ul>
 
 
