@@ -31,9 +31,9 @@
 <ul>
 <li><a href="/blog/2017/08/18/SQL2017AzureSQLNewFunction-GraphicDatabase" id="weekly-updates-8-18_blog-SQL2017AzureSQLNewFunction-GraphicDatabase">SQL 2017 & Azure SQL 新功能：图形数据库</a></li>
 </ul>
-### webiner
+### Azure 在线课程
 <ul>
-<li><a id="weekly-updates-8-21_webinars-register-52"  href="/webinars/register/52">如何玩转资源管理在云端</a></li>
+<li><a id="weekly-updates-8-21_webinars-register-52"  href="/webinars/register/52">如何玩转资源管理在云端 </a> 开放报名</li>
 </ul>
 
 ## 新技术文档发布
