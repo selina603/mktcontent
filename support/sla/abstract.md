@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="07/2017" wacn.date="07/2017" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="08/2017" wacn.date="08/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]a
 - [中文](/support/sla/abstract/)
@@ -153,6 +153,12 @@ MySQL Database on Azure 提供 99.9% 的运行时间服务级别协议，保证�
 我们保证至少在 99.9%（对于冷访问层为 99%）的时间成功地处理将数据写入本地冗余存储 (LRS) 和异地冗余存储 (GRS) 帐户，以及读取访问异地冗余存储 (RA-GRS) 帐户的请求。
 
 <p><a href="/support/sla/storage/" id="abstract_storage">查看完整的详细信息</a></p>
+
+##托管磁盘
+
+托管磁盘本身不提供有财务方面支持的服务级别协议。托管磁盘的可用性取决于所使用的基础存储和其所依附的虚拟机的服务级别协议。
+
+<p><a href="/support/sla/managed-disks/" id="abstract_managed-disks">查看完整的详细信息</a></p>
 
 
 ##SQL 数据库

@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="07/2017" wacn.date="07/2017" wacn.lang="en"/>
+<tags ms.service="legal-en" ms.date="08/2017" wacn.date="08/2017" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/abstract/)
@@ -153,6 +153,12 @@ We guarantee that at least 99.9% (99% for Cool Access Tier) of the time, we will
 We guarantee that at least 99.9% (99% for Cool Access Tier) of the time, we will successfully process requests to write data to Locally Redundant Storage (LRS) and Geo Redundant Storage (GRS) Accounts and Read Access-Geo Redundant Storage (RA-GRS) Accounts.
 
 <p><a href="/support/sla/storage-en/" id="abstract-en_storage-en">See the full details</a></p>
+
+##Managed Disks
+
+Managed Disks does not have a financially backed SLA itself. The availability of Managed Disks is based on the SLA of the underlying storage used and virtual machine to which it is attached. 
+
+<p><a href="/support/sla/managed-disks-en/" id="abstract-en_managed-disks-en">See the full details</a></p>
 
 ##SQL Database
 
