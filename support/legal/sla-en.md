@@ -42,6 +42,7 @@ This agreement describes the commitment about uptime and connectivity of Microso
 
 ##Data
 - [Storage]
+- [Managed Disks]
 - [Backup]
 - [Site Recovery]
 
@@ -85,7 +86,7 @@ This agreement describes the commitment about uptime and connectivity of Microso
 
 [Summary of the SLA for all Azure Services](/support/sla/abstract-en/)
 
-Click [here](//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/Consolidated_SLA_English_170809.pdf) to download SLA for most Azure Services
+Click [here](//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/Consolidated_SLA_English_170822.pdf) to download SLA for most Azure Services
 
 [Virtual Machines]: /support/sla/virtual-machines-en/
 [Virtual Machine Scale Sets]: /support/sla/virtual-machine-scale-sets-en/
@@ -98,6 +99,7 @@ Click [here](//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/Consoli
 [SQL Server Stretch Database]: /support/sla/sql-server-stretch-database-en/
 [Radis Cache]: /support/sla/redis-cache-en/
 [Storage]: /support/sla/storage-en/
+[Managed Disks]: /support/sla/managed-disks-en/
 [SQL Data Warehouse]: /support/sla/sql-data-warehouse-en/
 [MySQL Database on Azure]: /support/sla/mysql-en/
 [HDInsight]: /support/sla/hdinsight-en/
