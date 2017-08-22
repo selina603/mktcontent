@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="07/2017" wacn.date="07/2017" wacn.lang="en"/>
+<tags ms.service="legal-en" ms.date="08/2017" wacn.date="08/2017" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/abstract/)
@@ -28,15 +28,10 @@ We guarantee that each Application Gateway Cloud Service having two or more medi
 
 <p><a href="/support/sla/application-gateway-en/" id="abstract-en_application-gateway-en">See the full details</a></p>  
 
-##Azure Analysis Services
-
-We guarantee that, at least 99.9% of the time Client Operations executed on an Azure Analysis Services server will succeed.
-
-<p><a href="/support/sla/analysis-services-en/" id="abstract-en_analysis-services-en">See the full details</a></p>
-
 ##Azure IoT Hub
 
 For IoT Hub, we promise that at least 99.9% of the time deployed IoT hubs will be able to send messages to and receive messages from registered devices and the Service will able to perform create, read, update, and delete operations on IoT hubs.
+
 
 No SLA is provided for the Free Tier of IoT Hub. 
 
@@ -159,6 +154,12 @@ We guarantee that at least 99.9% (99% for Cool Access Tier) of the time, we will
 
 <p><a href="/support/sla/storage-en/" id="abstract-en_storage-en">See the full details</a></p>
 
+##Managed Disks
+
+Managed Disks does not have a financially backed SLA itself. The availability of Managed Disks is based on the SLA of the underlying storage used and virtual machine to which it is attached. 
+
+<p><a href="/support/sla/managed-disks-en/" id="abstract-en_managed-disks-en">See the full details</a></p>
+
 ##SQL Database
 
 **Basic, Standard and Premium**
@@ -176,6 +177,12 @@ We guarantee at least 99.9% of the time customers will have connectivity between
 We guarantee that, at least 99.9% of the time client operations executed on a SQL Data Warehouse database will succeed.
 
 <p><a href="/support/sla/sql-data-warehouse-en/" id="abstract-en_sql-data-warehouse-en">See the full details</a></p>
+
+##DocumentDB
+
+We guarantee at least 99.99% of the time we will successfully process requests to perform operations against DocumentDB Resources.
+
+<p><a href="/support/sla/documentdb-en/" id="abstract-en_documentdb-en">See the full details</a></p>
 
 ##StorSimple
 

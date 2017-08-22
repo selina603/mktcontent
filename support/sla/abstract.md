@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="07/2017" wacn.date="07/2017" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="08/2017" wacn.date="08/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]a
 - [中文](/support/sla/abstract/)
@@ -27,12 +27,6 @@
 我们保证每个具有两个或更多中型或更大型实例的应用程序网关云服务至少在 99.9% 的时间内都可用。我们不为只有一个实例或小型实例的应用程序网关云服务提供服务级别协议。 
 
 <p><a href="/support/sla/application-gateway/" id="abstract_application-gateway">查看完整的详细信息</a></p>
-
-##Azure Analysis Services
-
-我们保证，在 Azure Analysis Services 服务器上执行的客户端操作的成功率不低于 99.9%。
-
-<p><a href="/support/sla/analysis-services/" id="abstract_analysis-services">查看完整的详细信息</a></p>
 
 ##Azure IoT 中心
 
@@ -160,6 +154,12 @@ MySQL Database on Azure 提供 99.9% 的运行时间服务级别协议，保证�
 
 <p><a href="/support/sla/storage/" id="abstract_storage">查看完整的详细信息</a></p>
 
+##托管磁盘
+
+托管磁盘本身不具备经济方面的服务级别协议。托管磁盘的可用性取决于所使用的基础存储和其所依附的虚拟机的服务级别协议。
+
+<p><a href="/support/sla/managed-disks/" id="abstract_managed-disks">查看完整的详细信息</a></p>
+
 
 ##SQL 数据库
 
@@ -178,6 +178,12 @@ MySQL Database on Azure 提供 99.9% 的运行时间服务级别协议，保证�
 我们保证，至少在 99.9% 的时间内，在 SQL 数据仓库数据库上执行的客户端操作都会成功。
 
 <p><a href="/support/sla/sql-data-warehouse/" id="abstract_sql-data-warehouse">查看完整的详细信息</a></p>
+
+##DocumentDB
+
+我们保证在不少于 99.99% 的时间内成功地处理针对 DocumentDB 资源执行操作的请求。
+
+<p><a href="/support/sla/documentdb/" id="abstract_documentdb">查看完整的详细信息</a></p>
                 
 ##StorSimple
 
