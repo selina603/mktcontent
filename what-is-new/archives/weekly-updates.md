@@ -48,6 +48,7 @@
 <ul>
 <li><a id="weekly-updates-8-25_docs-site-recovery-vmware-to-azure" href="//docs.azure.cn/zh-cn/site-recovery/site-recovery-vmware-to-azure">通过 Site Recovery 将 VMware 虚拟机复制到 Azure</a></li>
 </ul>
+
 ### 存储
 <ul>
 <li><a id="weekly-updates-8-25_docs-storage-file-how-to-create-file-share" href="//docs.azure.cn/zh-cn/storage/storage-file-how-to-create-file-share">在 Azure 文件存储中创建文件共享</a></li>
@@ -60,6 +61,7 @@
 <li><a id="weekly-updates-8-25_docs-storage-migrate-to-premium-storage-using-azure-site-recovery" href="//docs.azure.cn/zh-cn/storage/storage-migrate-to-premium-storage-using-azure-site-recovery">使用 Azure Site Recovery 迁移到高级存储</a></li>
 <li><a id="weekly-updates-8-25_docs-storage-require-secure-transfer" href="//docs.azure.cn/zh-cn/storage/storage-require-secure-transfer">需要安全传输</a></li>
 </ul>
+
 ### 虚拟机
 <ul>
 <li><a id='weekly-updates-8-25_docs-download-vhd' href='//docs.azure.cn/zh-cn/virtual-machines/linux/download-vhd'>从 Azure 下载 Linux VHD</a></li>
