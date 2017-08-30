@@ -17,7 +17,9 @@
 
 
 We guarantee 99.9% availability for each Basic Gateway for VPN or Basic Gateway for ExpressRoute. 
+
 We guarantee 99.95% availability for each Standard, High Performance, VpnGw1, VpnGw2, VpnGw3  Gateway for VPN. 
+
 We guarantee 99.95% availability for each Standard, High Performance, Ultra Performance  Gateway for ExpressRoute.
 
 
