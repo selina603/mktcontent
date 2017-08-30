@@ -16,7 +16,7 @@
 
 ## 新产品发布与文档更新 
 
-<h3>新一代 <a id="weekly-updates-8-30_vpn-gateway" href="/pricing/details/vpn-gateway/">Azure VPN 网关 </a>于 2017 年 8 月 30 日发布 </h3>
+<h3>Azure VPN 网关于 2017 年 8 月 30 日发布 <a id="weekly-updates-8-30_vpn-gateway" href="/pricing/details/vpn-gateway/">VpnGw1、VpnGw2、VpnGw3 网关 </a></h3>
 <h3>HDInsight 于 2017 年 8 月 30 日发布 <a id="weekly-updates-8-30_hdinsight" href="/pricing/details/hdinsight/"> KAFKA</a></h3>
 
 ## 重要商务内容更新
