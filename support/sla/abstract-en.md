@@ -219,7 +219,11 @@ Virtual Machine Scale Sets is a free service, therefore, it does not have a fina
 
 ##VPN Gateway
 
-We guarantee 99.9% availability for each VPN Gateway. 
+We guarantee 99.9% availability for each Basic Gateway for VPN or Basic Gateway for ExpressRoute.
+
+We guarantee 99.95% availability for each Standard, High Performance, VpnGw1, VpnGw2, VpnGw3 Gateway for VPN.
+
+We guarantee 99.95% availability for each Standard, High Performance, Ultra Performance Gateway for ExpressRoute.
 
 <p><a href="/support/sla/vpn-gateway-en/" id="abstract-en_vpn-gateway-en">See the full details</a></p>
 

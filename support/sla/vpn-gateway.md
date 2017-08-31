@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="03/2017" wacn.date="03/2017" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="08/2017" wacn.date="08/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/vpn-gateway/)
@@ -16,8 +16,10 @@
 #VPN 网关服务级别协议
 
 我们保证每个 VPN 或 ExpressRoute 的基本网关均具有 99.9% 的可用性。
-我们保证每个 VPN 或 ExpressRoute 的标准网关均具有 99.95% 的可用性。
-我们保证每个 VPN 或 ExpressRoute 的高性能网关均具有 99.95% 的可用性。
+
+我们保证每个 VPN 的标准、高性能、VpnGw1、VpnGw2、VpnGw3 网关均具有 99.95% 的可用性。
+
+我们保证每个 ExpressRoute 的标准、高性能、超高性能网关均具有 99.95% 的可用性。
 
 
 ##引言
@@ -115,15 +117,15 @@
  
 
 ###VPN 网关月度正常运行时间计算和服务级别
-1."**最大可用分钟数**"是指计费月份内在 Azure 订阅中部署的指定 VPN 网关的累计总分钟数。 
+1."**最大可用分钟数**"是指当 Azure 订购阅中部署了指定 VPN 网关时，一个帐单月份期间的总累计分钟数。
 
-2."**停机时间**"是指 VPN 网关不可用的累计总分钟数。如果一分钟内与 VPN 网关的所有连接尝试均在 30 秒内失败，则该分钟视为不可用。
+2."**停机时间**"是指在 VPN 网关不可用期间累计的最大可用分钟总数。如果一分钟内，在持续三十 (30) 秒的窗口中尝试与 VPN 网关建立连接但均不成功，则视为在这一分钟内不可用。
   
-3.指定 VPN 网关在指定计费月份的"**每月正常运行时间百分比**"的计算方法为：最大可用分钟数减去停机时间再除以最大可用分钟数。每月正常运行时间百分比的计算公式如下：
+3.指定 VPN 网关的"**每月正常运行时间百分比**"按以下方式计算：VPN 网关在一个帐单月份期间的最大可用分钟数减去停机时间再除以最大可用分钟数。每月正常运行时间百分比的计算公式如下所示：
 
-		每月正常运行时间百分比 = (最大可用分钟数 - 停机时间) / 最大可用分钟数
+		每月正常运行时间百分比 = (最大可用分钟数 - 停机时间) / 最大可用分钟数 X 100
 
-4.客户在使用 VPN 网关时适用以下服务级别和服务费抵扣：
+4.以下服务级别和服务费抵扣适用于客户对各个 VPN 网关的使用：
 
 ###VPN 或 ExpressRoute 的基本网关
 
@@ -132,7 +134,7 @@
     <99.9%              | 10%  
     <99%                | 25% 
 
-###VPN 或 ExpressRoute 的标准网关/VPN 或 ExpressRoute 的高性能网关
+###VPN 的标准、高性能、VpnGw1、VpnGw2、VpnGw3 网关/ ExpressRoute 的标准、高性能、超高性能网关
 
 每月正常服务时间百分比	|服务费抵扣
 	--------------------|---------
@@ -140,9 +142,12 @@
     <99%                | 25% 
 
 ## 版本历史记录
+[1.2](/support/sla/vpn-gateway/)最后更新日期：2017 年 8 月
 
-[1.1](/support/sla/vpn-gateway/) 最后更新日期：2017 年 3 月
+发布说明：更新了摘要和服务费抵扣，使之包含新一代网关：VpnGw1、VpnGw2 和 VpnGw3
+
+[1.1](//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/vpn_gateway_sla_chinese1.1.pdf) 最后更新日期：2017 年 3 月
 
 发布说明：已更新摘要陈述，涵盖了所有 VPN 网关类型
 
-[1.0](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/vpn_gateway_sla_chinese1.0.pdf) 最后更新日期：2016 年 5 月
+[1.0](//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/vpn_gateway_sla_chinese1.0.pdf) 最后更新日期：2016 年 5 月

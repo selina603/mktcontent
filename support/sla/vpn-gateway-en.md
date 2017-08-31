@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="03/2017" wacn.date="03/2017" wacn.lang="en"/>
+<tags ms.service="legal-en" ms.date="08/2017" wacn.date="08/2017" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/vpn-gateway/)
@@ -16,9 +16,11 @@
 #SLA for VPN Gateway
 
 
-We guarantee 99.9% availability for each Basic Gateway for VPN or Basic Gateway for ExpressRoute.
-We guarantee 99.95% availability for each Standard Gateway for VPN or Standard Gateway for ExpressRoute.
-We guarantee 99.95% availability for each High Performance Gateway for VPN or High Performance Gateway for ExpressRoute.
+We guarantee 99.9% availability for each Basic Gateway for VPN or Basic Gateway for ExpressRoute. 
+
+We guarantee 99.95% availability for each Standard, High Performance, VpnGw1, VpnGw2, VpnGw3  Gateway for VPN. 
+
+We guarantee 99.95% availability for each Standard, High Performance, Ultra Performance  Gateway for ExpressRoute.
 
 
 ##Introduction
@@ -123,7 +125,7 @@ Monthly Uptime Calculation and Service Levels for VPN Gateway
 
 3."**Monthly Uptime Percentage**" for a given VPN Gateway is calculated as Maximum Available Minutes less Downtime divided by Maximum Available Minutes in a billing month for the VPN Gateway. Monthly Uptime Percentage is represented by the following formula:
 
-		Monthly Uptime % = (Maximum Available Minutes - Downtime) / Maximum Available Minutes
+		Monthly Uptime % = (Maximum Available Minutes - Downtime) / Maximum Available Minutes X 100
 
 4.The following Service Levels and Service Credits are applicable to Customer’s use of each VPN Gateway:
 
@@ -135,7 +137,7 @@ Monthly Uptime Percentage | Service Credit
 <99.9%                    | 10%  
 <99%                      | 25% 
 
-###Standard Gateway for VPN or ExpressRoute / High Performance Gateway for VPN or ExpressRoute
+###Standard, High Performance, VpnGw1, VpnGw2, VpnGw3  Gateway for VPN / Standard, High Performance, Ultra Performance Gateway for ExpressRoute
 
 Monthly Uptime Percentage | Service Credit  
 --------------------------|---------
@@ -143,9 +145,12 @@ Monthly Uptime Percentage | Service Credit
 <99%                      | 25%
 
 ## Version History
+[1.2](/support/sla/vpn-gateway-en/) Last updated: August  2017
 
-[1.1](/support/sla/vpn-gateway-en/) Last updated： Mar 2017
+Release notes: Updated Service Credit tables to include new generation gateways: VpnGw1, VpnGw2 and VpnGw3
+
+[1.1](//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/vpn_gateway_sla_english1.1.pdf) Last updated： Mar 2017
 
 Release notes: Updated the Summary statement to include all VPN Gateway types
 
-[1.0](//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/sla/vpn_gateway_sla_english1.0.pdf) Last updated： May 2016
+[1.0](//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/vpn_gateway_sla_english1.0.pdf) Last updated： May 2016

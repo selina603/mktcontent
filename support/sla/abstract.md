@@ -219,7 +219,11 @@ MySQL Database on Azure 提供 99.9% 的运行时间服务级别协议，保证�
 
 ##VPN 网关
 
-我们保证每个 VPN 网关的可用性达到 99.9%。 
+我们保证每个 VPN 或 ExpressRoute 的基本网关均具有 99.9% 的可用性。
+
+我们保证每个 VPN 的标准、高性能、VpnGw1、VpnGw2、VpnGw3 网关均具有 99.95% 的可用性。
+
+我们保证每个 ExpressRoute 的标准、高性能、超高性能网关均具有 99.95% 的可用性。 
 
 <p><a href="/support/sla/vpn-gateway/" id="abstract_vpn-gateway">查看完整的详细信息</a></p>
 
