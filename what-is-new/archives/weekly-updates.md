@@ -18,15 +18,15 @@
 
 <h3>Azure VPN 网关于 2017 年 8 月 30 日发布 <a id="weekly-updates-8-30_vpn-gateway" href="/pricing/details/vpn-gateway/">VpnGw1、VpnGw2、VpnGw3 网关 </a></h3>
 <ul>
-<li><a id="weekly-updates-9-1_docs-vpn-gateway-about-vpn-gateway-settings" href="//https://docs.azure.cn/vpn-gateway/vpn-gateway-about-vpn-gateway-settings">关于 VPN 网关配置设置</a></li>
-<li><a id="weekly-updates-9-1_docs-vpn-gateway-activeactive-rm-powershell" href="//https://docs.azure.cn/vpn-gateway/vpn-gateway-activeactive-rm-powershell">配置与 Azure VPN 网关的主动-主动 S2S VPN 连接</a></li>
-<li><a id="weekly-updates-9-1_docs-vpn-gateway-create-site-to-site-rm-powershell" href="//https://docs.azure.cn/vpn-gateway/vpn-gateway-create-site-to-site-rm-powershell">使用 PowerShell 创建具有站点到站点 VPN 连接的 Vnet</a></li>
-<li><a id="weekly-updates-9-1_docs-vpn-gateway-forced-tunneling-rm" href="//https://docs.azure.cn/vpn-gateway/vpn-gateway-forced-tunneling-rm">使用 Azure Resource Manager 部署模型配置强制隧道</a></li>
-<li><a id="weekly-updates-9-1_docs-vpn-gateway-howto-point-to-site-rm-ps" href="//https://docs.azure.cn/vpn-gateway/vpn-gateway-howto-point-to-site-rm-ps">使用 PowerShell 配置与 VNet 的点到站点连接</a></li>
-<li><a id="weekly-updates-9-1_docs-vpn-gateway-howto-site-to-site-resource-manager-cli" href="//https://docs.azure.cn/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-cli">使用 CLI 创建具有站点到站点 VPN 连接的虚拟网络</a></li>
-<li><a id="weekly-updates-9-1_docs-vpn-gateway-howto-vnet-vnet-cli" href="//https://docs.azure.cn/vpn-gateway/vpn-gateway-howto-vnet-vnet-cli">使用 Azure CLI 配置 VNet 到 VNet 的 VPN 网关连接</a></li>
-<li><a id="weekly-updates-9-1_docs-vpn-gateway-ipsecikepolicy-rm-powershell" href="//https://docs.azure.cn/vpn-gateway/vpn-gateway-ipsecikepolicy-rm-powershell">为 S2S VPN 或 VNet 到 VNet 的连接配置 IPsec/IKE 策略</a></li>
-<li><a id="weekly-updates-9-1_docs-vpn-gateway-vnet-vnet-rm-ps" href="//https://docs.azure.cn/vpn-gateway/vpn-gateway-vnet-vnet-rm-ps">使用 PowerShell 配置 VNet 到 VNet VPN 网关连接</a></li>
+<li><a id="weekly-updates-9-1_docs-vpn-gateway-about-vpn-gateway-settings" href="https://docs.azure.cn/vpn-gateway/vpn-gateway-about-vpn-gateway-settings">关于 VPN 网关配置设置</a></li>
+<li><a id="weekly-updates-9-1_docs-vpn-gateway-activeactive-rm-powershell" href="https://docs.azure.cn/vpn-gateway/vpn-gateway-activeactive-rm-powershell">配置与 Azure VPN 网关的主动-主动 S2S VPN 连接</a></li>
+<li><a id="weekly-updates-9-1_docs-vpn-gateway-create-site-to-site-rm-powershell" href="https://docs.azure.cn/vpn-gateway/vpn-gateway-create-site-to-site-rm-powershell">使用 PowerShell 创建具有站点到站点 VPN 连接的 Vnet</a></li>
+<li><a id="weekly-updates-9-1_docs-vpn-gateway-forced-tunneling-rm" href="https://docs.azure.cn/vpn-gateway/vpn-gateway-forced-tunneling-rm">使用 Azure Resource Manager 部署模型配置强制隧道</a></li>
+<li><a id="weekly-updates-9-1_docs-vpn-gateway-howto-point-to-site-rm-ps" href="https://docs.azure.cn/vpn-gateway/vpn-gateway-howto-point-to-site-rm-ps">使用 PowerShell 配置与 VNet 的点到站点连接</a></li>
+<li><a id="weekly-updates-9-1_docs-vpn-gateway-howto-site-to-site-resource-manager-cli" href="https://docs.azure.cn/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-cli">使用 CLI 创建具有站点到站点 VPN 连接的虚拟网络</a></li>
+<li><a id="weekly-updates-9-1_docs-vpn-gateway-howto-vnet-vnet-cli" href="https://docs.azure.cn/vpn-gateway/vpn-gateway-howto-vnet-vnet-cli">使用 Azure CLI 配置 VNet 到 VNet 的 VPN 网关连接</a></li>
+<li><a id="weekly-updates-9-1_docs-vpn-gateway-ipsecikepolicy-rm-powershell" href="https://docs.azure.cn/vpn-gateway/vpn-gateway-ipsecikepolicy-rm-powershell">为 S2S VPN 或 VNet 到 VNet 的连接配置 IPsec/IKE 策略</a></li>
+<li><a id="weekly-updates-9-1_docs-vpn-gateway-vnet-vnet-rm-ps" href="https://docs.azure.cn/vpn-gateway/vpn-gateway-vnet-vnet-rm-ps">使用 PowerShell 配置 VNet 到 VNet VPN 网关连接</a></li>
 </ul>
 <h3>HDInsight 于 2017 年 8 月 30 日发布 <a id="weekly-updates-8-30_hdinsight" href="/pricing/details/hdinsight/"> Kafka</a></h3>
 
