@@ -87,6 +87,7 @@
 <ul>
 <li><a id="weekly-updates-8-18_migrate-to-managed-disks" href="https://docs.azure.cn/zh-cn/virtual-machines/windows/migrate-to-managed-disks">将 Azure VM 迁移到 Azure 中的托管磁盘</a></li>
 </ul>
+<h3>Azure 磁盘加密于 2017 年 8 月 18 日在中国正式发布</h3>
 ## 重要商务内容更新
 无
 
