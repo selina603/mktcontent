@@ -31,4 +31,4 @@ MySQL Database on Azure 现在允许用户恢复数据库到过去7天中的任�
 
 ### 2016年4月1日 MySQL 服务主从复制功能预览版上线
 MySQL 的复制功能轻松实现弹性扩展，突破单个数据库实例的访问限制，增强了生产工作负载的可用性。复制功能自动将主实例的任何更改复制到所有只读副本中。您可以为指定的数据库实例创建一个或多个只读复制，将读取访问分流到这些只读实例，从而满足越来越大的数据库读取负载。除了读写分离，您也可以用专用的只读实例运行商业智能报告( BI )，或利用复制功能迁移数据库。
-有关详细信息，请访问<a href="/home/features/mysql/" id="sql-server-stretch-database_mysql-01">MySQL Database on Azure</a>页面，要全面了解定价情况，请访问<a href="/pricing/details/mysql/" id="sql-server-stretch-database_pricing-mysql">MySQL Database on Azure</a> 价格页面，使用详情请参见<a href="/documentation/articles/mysql-database-read-replica" id="sql-server-stretch-database_mysql-database-read-replica">MySQL Database on Azure 服务文档</a>。 
+有关详细信息，请访问<a href="/home/features/mysql/" id="sql-server-stretch-database_mysql-01">MySQL Database on Azure</a>页面，要全面了解定价情况，请访问<a href="/pricing/details/mysql/" id="sql-server-stretch-database_pricing-mysql">MySQL Database on Azure</a> 价格页面，使用详情请参见<a href="/documentation/articles/mysql-database-read-replica" id="sql-server-stretch-database_mysql-database-read-replica">MySQL Database on Azure 服务</a>文档。 
