@@ -16,7 +16,6 @@
 ## 2017/8/27 - 2017/9/1
 
 ## 新产品发布与文档更新 
-
 <h3>Azure VPN 网关于 2017 年 8 月 30 日发布 <a id="weekly-updates-8-30_vpn-gateway" href="/pricing/details/vpn-gateway/">VpnGw1、VpnGw2、VpnGw3 网关 </a></h3>
 <ul>
 <li><a id="weekly-updates-9-1_docs-vpn-gateway-about-vpn-gateway-settings" href="https://docs.azure.cn/vpn-gateway/vpn-gateway-about-vpn-gateway-settings">关于 VPN 网关配置设置</a></li>
@@ -32,6 +31,7 @@
 <h3>HDInsight 于 2017 年 8 月 30 日发布 <a id="weekly-updates-8-30_hdinsight" href="/pricing/details/hdinsight/"> Kafka</a></h3>
 
 <h3>SQL 数据库于 2017 年 9 月 1 日发布<a id="weekly-updates-9-1_sql-database" href="/pricing/details/sql-database/"> S4 - S12 预览版 </a></h3>
+
 ## 重要商务内容更新
 无
 
