@@ -28,6 +28,7 @@
 
 无
 ## 新技术文档发布
+
 ### VPN 网关
 <ul>
 <li><a id="weekly-updates-9-8_docs-vpn-gateway-about-skus-legacy" href="//docs.azure.cn/zh-cn/vpn-gateway/vpn-gateway-about-skus-legacy">使用虚拟网关 SKU（传统 SKU）</a></li>
