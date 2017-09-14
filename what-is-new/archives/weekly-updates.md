@@ -27,7 +27,16 @@
 ## 重要商务内容更新 
 
 无
+
+## 其他商务内容更新
+### 博客
+<ul>
+<li><a href="/blog/2017/09/08/data-science-vm-images" id="weekly-updates-9-14_blog-data-science-vm-images">数据科学虚拟机镜像正式上线</a></li>
+<li><a href="/blog/2017/09/07/visual-studio2017-vm-images" id="weekly-updates-9-14_blog-visual-studio2017-vm-images">Azure Visual Studio 2017 虚拟机镜像正式上线</a></li>
+</ul>
+
 ## 新技术文档发布
+
 ### VPN 网关
 <ul>
 <li><a id="weekly-updates-9-8_docs-vpn-gateway-about-skus-legacy" href="//docs.azure.cn/zh-cn/vpn-gateway/vpn-gateway-about-skus-legacy">使用虚拟网关 SKU（传统 SKU）</a></li>
