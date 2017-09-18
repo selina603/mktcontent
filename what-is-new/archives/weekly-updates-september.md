@@ -10,7 +10,7 @@
 
 <tags ms.service="weekly-updates" ms.date="" wacn.date="" wacn.lang="cn"/>
 
-# Azure 官网 2017 年 8 月更新
+# Azure 官网 2017 年 9 月更新
 
 ## 2017/9/4 - 2017/9/8
 
