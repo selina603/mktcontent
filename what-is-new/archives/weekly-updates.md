@@ -11,7 +11,7 @@
 <tags ms.service="weekly-updates" ms.date="" wacn.date="" wacn.lang="cn"/>
 
 # Azure 官网最新更新
-## 2017/9/17 - 2017/9/22
+## 2017/9/18 - 2017/9/22
 
 ### 新产品发布与文档更新
 <h3><a href="">Azure API 管理预览版 </a>于2017 年 9 月 19 日上线</h3>
