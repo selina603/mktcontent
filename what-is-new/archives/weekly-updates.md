@@ -14,7 +14,7 @@
 ## 2017/9/18 - 2017/9/22
 
 ## 重要商务内容更新
-无
+### <a id="weekly-updates-9-18_azure-ip-advantage" href="/support/azure-ip-advantage/">Azure 知识产权保护计划</a>于 2017 年 9 月 19 日发布
 
 ## 新技术文档发布
 ### API 管理
