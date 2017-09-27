@@ -38,13 +38,13 @@ This agreement is between the party accepting this agreement and Shanghai Blue C
 
 **Third-Party Products.**
 
-(i)	We may make Third-Party Products available to you.  The use of a Third-Party Product will be governed by separate terms between you and the third party providing that Third-Party Product.  For your convenience, we may include charges for the Third-Party Product as part of your bill for the Services.  We (and our suppliers), however, assume no responsibility or liability whatsoever for the Third-Party Product.
+* (i)	We may make Third-Party Products available to you.  The use of a Third-Party Product will be governed by separate terms between you and the third party providing that Third-Party Product.  For your convenience, we may include charges for the Third-Party Product as part of your bill for the Services.  We (and our suppliers), however, assume no responsibility or liability whatsoever for the Third-Party Product.
 
-(ii)	You are solely responsible for any Third-Party Product that you install or use with the Services. We are not a party to and are not bound by any terms governing your use of any Third-Party Product. 
+* (ii)	You are solely responsible for any Third-Party Product that you install or use with the Services. We are not a party to and are not bound by any terms governing your use of any Third-Party Product. 
 
-(iii)	If you install or use any Third-Party Product with the Services, then you, not we, direct and control the installation and use of it in the Services through your actions (for example, through your use of application programming interfaces and other technical means that are part of the Services).  We will not run or make any copies of such Third-Party Product outside of our relationship with you.  
+* (iii)	If you install or use any Third-Party Product with the Services, then you, not we, direct and control the installation and use of it in the Services through your actions (for example, through your use of application programming interfaces and other technical means that are part of the Services).  We will not run or make any copies of such Third-Party Product outside of our relationship with you.  
 
-(iv)	If you install or use any Third-Party Product with the Services, you may not do so in any way that would subject our intellectual property or technology to obligations beyond those included in this agreement.
+* (iv)	If you install or use any Third-Party Product with the Services, you may not do so in any way that would subject our intellectual property or technology to obligations beyond those included in this agreement.
 
 **Responsibility for your accounts.** You are responsible for all activities associated with your online service accounts, including, if applicable, the activities of users you provision and your dealings with third parties that take place through your accounts or associated accounts. You are also responsible for maintaining the confidentiality of any non-public authentication credentials associated with your use of the Services.  You must promptly notify our customer support team about any possible misuse of your accounts or authentication credentials, or any security incident related to the Services. 
 
@@ -74,40 +74,40 @@ This agreement is between the party accepting this agreement and Shanghai Blue C
 
 You acknowledge that under Chinese regulations:
 
-(i)	An Internet information service provider shall not produce, reproduce, publish or disseminate information that includes the following content (“Prohibited Content”).  Prohibited Content is content that:
+* (i)	An Internet information service provider shall not produce, reproduce, publish or disseminate information that includes the following content (“Prohibited Content”).  Prohibited Content is content that:
 
-a.	is against the basic principles determined by the Constitution;
+	- a.	is against the basic principles determined by the Constitution;
 
-b.	impairs national security, divulges State secrets, subverts State sovereignty or jeopardizes national unity;
+	- b.	impairs national security, divulges State secrets, subverts State sovereignty or jeopardizes national unity;
 
-c.	damages the reputation and interests of the State;
+	- c.	damages the reputation and interests of the State;
 
-d.	incites ethnic hostility and ethnic discrimination or jeopardizes unity among ethnic groups;
+	- d.	incites ethnic hostility and ethnic discrimination or jeopardizes unity among ethnic groups;
 
-e.	damages State religious policies or that advocates sects or feudal superstitions;
+	- e.	damages State religious policies or that advocates sects or feudal superstitions;
 
-f.	disseminates rumors, disrupts the social order or damages social stability;
+	- f.	disseminates rumors, disrupts the social order or damages social stability;
 
-g.	disseminates obscenity, pornography, gambling, violence, homicide and terror, or that incites crime;
+	- g.	disseminates obscenity, pornography, gambling, violence, homicide and terror, or that incites crime;
 
-h.	insults or slanders others or that infringes their lawful rights and interests; 
+	- h.	insults or slanders others or that infringes their lawful rights and interests; 
 
-i.	is otherwise prohibited by laws or administrative regulations.
+	- i.	is otherwise prohibited by laws or administrative regulations.
 
-(ii)	If an Internet information service provider discovers that information distributed on its website falls within the scope of the Prohibited Content, it shall promptly terminate the distribution, keep relevant records, and report to the relevant authorities.
+* (ii)	If an Internet information service provider discovers that information distributed on its website falls within the scope of the Prohibited Content, it shall promptly terminate the distribution, keep relevant records, and report to the relevant authorities.
 
 
 You further agree:
 
-(iii)	If the business or organization you operate by using the Services is subject to permit or approval by related governmental authorities, you will obtain such related permit or approval, including without limitation:
+* (iii)	If the business or organization you operate by using the Services is subject to permit or approval by related governmental authorities, you will obtain such related permit or approval, including without limitation:
 
-a.	if your website provides non-operational Internet information services, you will make the filing for the non-operational website with the governmental authority; 
+	- a.	if your website provides non-operational Internet information services, you will make the filing for the non-operational website with the governmental authority; 
 
-b.	if your website provides operational Internet information services, you will obtain the VAT permit for operational website from the governmental authority. 
+	- b.	if your website provides operational Internet information services, you will obtain the VAT permit for operational website from the governmental authority. 
 
-(iv)	If you are an Internet information service provider, you will keep records of the information provided, the time of publishing and the Internet address or domain name, and assist in providing such information when inquired by related government authorities in accordance with applicable laws.
+* (iv)	If you are an Internet information service provider, you will keep records of the information provided, the time of publishing and the Internet address or domain name, and assist in providing such information when inquired by related government authorities in accordance with applicable laws.
 
-(v)	You will provide your real identity and contact information in registering for the Services and promptly update that information in the Portal if it changes.  We will use this information to contact you as detailed in the Privacy Statement.  You warrant that the information you provide is true, complete and valid, and you are wholly responsible for the consequences if it is not.  
+* (v)	You will provide your real identity and contact information in registering for the Services and promptly update that information in the Portal if it changes.  We will use this information to contact you as detailed in the Privacy Statement.  You warrant that the information you provide is true, complete and valid, and you are wholly responsible for the consequences if it is not.  
 
 
 **Customer Data Persistence.** The Storage Service is designed to provide over 99.999999999% durability of objects over a given year.  The SQL Database Service is designed to provide over 99.99999999% durability of objects over a given year.  Your sole remedy for issues with data durability would be to submit a claim for SLA credits consistent with our standard SLA for the applicable Service.  Cloud Services and Traffic Manager may use Storage and/or SQL Database for persistent storage of data, which are subject to the durability figures as set forth above.
@@ -120,9 +120,9 @@ b.	if your website provides operational Internet information services, you will 
 
 **Available Offers.** The Portal provides pricing and related terms for available Subscription offers, which will be one or a combination of the following:
 
-(i)  **Prepaid Offering.** You purchase in advance a specific quantity of Services for use during a Term and pay upfront or on a periodic basis during the Term in advance of use.  Services will be suspended if you exceed the prepaid quantity.  Prepaid funds not used by the end of the Term will be forfeited.
+* (i)  **Prepaid Offering.** You purchase in advance a specific quantity of Services for use during a Term and pay upfront or on a periodic basis during the Term in advance of use.  Services will be suspended if you exceed the prepaid quantity.  Prepaid funds not used by the end of the Term will be forfeited.
 
-(ii) **Limited Offering.** You receive a limited quantity of Services for a limited term for no charge or for a nominal charge (for example, a trial for 1 RMB).  Services will be suspended if you exceed the specified quantity provided.  Limited Offerings may not be renewed.  
+* (ii) **Limited Offering.** You receive a limited quantity of Services for a limited term for no charge or for a nominal charge (for example, a trial for 1 RMB).  Services will be suspended if you exceed the specified quantity provided.  Limited Offerings may not be renewed.  
 
 **Ordering.** A Subscription may be ordered through the Portal. By submitting an order, you agree to the offer terms for that Subscription as described on the Portal. You may place multiple orders and purchase multiple Subscriptions under this agreement. Unless otherwise specified in those terms, Services are offered on an “as available” basis and we make no guarantee of available capacity.
 
@@ -152,13 +152,13 @@ b.	if your website provides operational Internet information services, you will 
 
 **Limited warranty exclusions.** This limited warranty is subject to the following limitations:
 
-(i)	any implied warranties, guarantees or conditions not able to be disclaimed as a matter of law will last one year from the start of the limited warranty;
+* (i)	any implied warranties, guarantees or conditions not able to be disclaimed as a matter of law will last one year from the start of the limited warranty;
 
-(ii)	this limited warranty does not cover problems caused by accident, abuse or use of the Services in a manner inconsistent with this agreement, or resulting from events beyond our reasonable control; 
+* (ii)	this limited warranty does not cover problems caused by accident, abuse or use of the Services in a manner inconsistent with this agreement, or resulting from events beyond our reasonable control; 
 
-(iii)	this limited warranty does not apply to problems caused by the failure to meet minimum system requirements; and
+* (iii)	this limited warranty does not apply to problems caused by the failure to meet minimum system requirements; and
 
-(iv)	this limited warranty does not apply to Previews or Limited Offerings.
+* (iv)	this limited warranty does not apply to Previews or Limited Offerings.
 
 **DISCLAIMER. OTHER THAN THIS WARRANTY, WE AND/OR OUR AFFILIATES, LICENSORS, SUPPLIERS AND/OR CONTRACTORS PROVIDE NO WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. THESE DISCLAIMERS WILL APPLY TO THE FULLEST EXTENT PERMITTED UNDER APPLICABLE LAW.**
 
@@ -186,9 +186,9 @@ b.	if your website provides operational Internet information services, you will 
 
 **Software provided for use within the Services.** We may provide you with the option of running Software within the Services (for example, in a virtual machine).  Your use of the Software is subject to the proprietary license terms contained in the Software, as modified below:
 
-(i)	You may use such Software only within the Services and only in conjunction with your permitted use of any applicable Services role.  To the extent of any conflict between this paragraph and the proprietary license terms contained in the Software, this paragraph controls.
+* (i)	You may use such Software only within the Services and only in conjunction with your permitted use of any applicable Services role.  To the extent of any conflict between this paragraph and the proprietary license terms contained in the Software, this paragraph controls.
 
-(ii)	You have no other rights under the Software’s license terms or under this agreement to run the software (for example, you may not run copies on your on-premise servers or other devices unless you separately obtain the license to do so).
+* (ii)	You have no other rights under the Software’s license terms or under this agreement to run the software (for example, you may not run copies on your on-premise servers or other devices unless you separately obtain the license to do so).
 
 
 **Effect of termination or expiration on Software.** If this agreement or a Subscription is terminated or expires, then you must delete all copies of Software licensed under this agreement and destroy any associated media. We may also disable it at that time. 
@@ -211,9 +211,9 @@ You agree to receive electronic notices from us, which will be sent by email to 
 
 **Assignment.**
 
-(i)	You may not assign this agreement.  We may assign this agreement to our Affiliates. 
+* (i)	You may not assign this agreement.  We may assign this agreement to our Affiliates. 
 
-(ii)	In the event that our right to continue providing you the Services ends, we may assign this agreement to another entity with forty-five (45) days’ notice to you.  If you object to assignment to the new entity, you may terminate this agreement and all Subscriptions (without accruing any early cancellation payments) by providing us with notice before the end of the forty-five (45) day period.
+* (ii)	In the event that our right to continue providing you the Services ends, we may assign this agreement to another entity with forty-five (45) days’ notice to you.  If you object to assignment to the new entity, you may terminate this agreement and all Subscriptions (without accruing any early cancellation payments) by providing us with notice before the end of the forty-five (45) day period.
 
 
 **Identification of a Partner of Record.** When you place an order, you may be given the option to identify a “Partner of Record” associated with your Subscriptions.  By identifying a Partner of Record, directly or by authorizing a third party to do so, you acknowledge that the Partner of Record may receive fees for their support.  The fees are for pre-sales support and may also include post-sales support.  The fees are based on, and increase with, the size of your order. Our prices for Services are the same whether or not you identify a Partner of Record. 
