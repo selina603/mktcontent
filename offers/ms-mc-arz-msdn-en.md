@@ -32,7 +32,7 @@ The credit amount varies by MSDN subscription level:
  - Visual Studio Test Professional (subscriber benefit)：3,800 RMB
  - Visual Studio Professional (subscriber benefit)：3,800 RMB
 
-The choice is yours on how you use your Azure credits for development and test. Use them on any Azure services that meet your needs including Virtual Machines, Websites, Cloud Services, Mobile Services, Storage, SQL Database, HDInsight, Media Services, and many more.
+The choice is yours on how you use your Azure credits for development and test. Use them on any Azure services that meet your needs including Virtual Machines, Websites, Cloud Services, Mobile Services, Storage, HDInsight, Media Services, and many more.
 
 You may use up to the amount of your Azure credits for the duration specified. If you exceed your credits, your service will be disabled. Any unused credits at the end of 12 months will be forfeited unless you convert to a <a id="ms-mc-arz-msdn-en_ms-mc-arz-33p-1" href="/offers/ms-mc-arz-33p/">Standard Pay-In-Advance</a> Offer prior to the expiration of your MSDN Benefit Offer. You may not purchase additional Azure credits with this offer, but you may purchase a separate Standard Pay-In-Advance subscription and then transfer your Customer Data.
 

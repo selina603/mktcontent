@@ -31,7 +31,7 @@ Azure 提供 MSDN 订阅者在开发和测试上极大的优惠。其优惠包�
  - Visual Studio Professional (subscriber benefit)：3,800元
 
 
-您可以选择如何在开发和测试上使用您的 Azure 使用额度。可将这些使用额度用在满足您需要的 Azure 服务上，包括虚拟机、网站、云服务、移动服务、存储、SQL 数据库、HDInsight、媒体服务等很多方面。
+您可以选择如何在开发和测试上使用您的 Azure 使用额度。可将这些使用额度用在满足您需要的 Azure 服务上，包括虚拟机、网站、云服务、移动服务、存储、HDInsight、媒体服务等很多方面。
 
 在优惠期内，您可使用的服务以您的 Azure 使用额度为限。如果您超用了您的使用额度，您的服务将被停用。在12个月的优惠期结束后，剩余的使用额度将归为‘0’。但您若在优惠期结束前申请转换为<a id="ms-mc-arz-msdn_ms-mc-arz-33p-1" href="/offers/ms-mc-arz-33p/">标准预付费</a>帐户，当时剩余的使用额度可被转移到<a id="ms-mc-arz-msdn_ms-mc-arz-33p-2" href="/offers/ms-mc-arz-33p/">标准预付费</a>帐户。您将无法为本优惠购买额外的 Azure 使用额度，但您可以购买<a id="ms-mc-arz-msdn_ms-mc-arz-33p-3" href="/offers/ms-mc-arz-33p/">标准预付费</a>订阅，然后转移您的客户资料。
 
