@@ -17,6 +17,12 @@
 无
 
 ## 其他商务内容更新
+### 案例研究
+<ul>
+<li><a href="/partnerancasestudy/case-studies/huatugz/" id="weekly-updates-9-25_casestudy-huatugz">斯诺物联</a> 华途信息</li>
+<li><a href="/partnerancasestudy/case-studies/sino/" id="weekly-updates-9-25_casestudy-sino">斯诺物联</a> 案例</li>
+</ul>
+
 ### 博客
 <ul>
 <li><a href="/blog/2017/09/26/AzureSQLDataBasevstraditionalSQLServer" id="weekly-updates-9-25_blog-AzureSQLDataBasevstraditionalSQLServer">Azure SQL DataBase 与传统 SQL Server 的区别对比</a></li>
