@@ -14,7 +14,7 @@
 ## 2017/9/25 - 2017/9/30
 
 ## 重要商务内容更新
-无
+### Azure 存储的<a id="weekly-updates-9-26_pricing-storage" href="/pricing/details/storage/">标准托管磁盘</a>促销活动于 2017 年 9 月 30 日结束
 
 ## 其他商务内容更新
 ### 案例研究
