@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="08/2017" wacn.date="08/2017" wacn.lang="en"/>
+<tags ms.service="legal-en" ms.date="10/2017" wacn.date="10/2017" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/legal/sla/)
@@ -63,6 +63,7 @@ This agreement describes the commitment about uptime and connectivity of Microso
 - [HDInsight]
 - [Stream Analytics]
 - [Power BI Embedded]
+- [Azure Analysis Services]
 
 ##Internet of Things
 - [Azure IoT Hub]
@@ -86,7 +87,7 @@ This agreement describes the commitment about uptime and connectivity of Microso
 
 [Summary of the SLA for all Azure Services](/support/sla/abstract-en/)
 
-Click [here](//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/Consolidated_SLA_English_170830.pdf) to download SLA for most Azure Services
+Click [here](//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/Consolidated_SLA_English_171016.pdf) to download SLA for most Azure Services
 
 [Virtual Machines]: /support/sla/virtual-machines-en/
 [Virtual Machine Scale Sets]: /support/sla/virtual-machine-scale-sets-en/
@@ -122,3 +123,4 @@ Click [here](//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/Consoli
 [Key Vault]: /support/sla/key-vault-en/
 [Service Fabric]: /support/sla/service-fabric-en/
 [Power BI Embedded]: /support/sla/power-bi-embedded-en/
+[Azure Analysis Services]: /support/sla/analysis-services-en/
