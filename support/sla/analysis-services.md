@@ -8,14 +8,14 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="07/2017" wacn.date="07/2017" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="10/2017" wacn.date="10/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/analysis-services/)
-- [English](/support/sla/analysis-servicesg-en/)
-#Azure Analysis Services 的服务级别协议
+- [English](/support/sla/analysis-services-en/)
+#Azure 分析服务的服务级别协议
 
-我们保证，在 Azure Analysis Services 服务器上执行的客户端操作的成功率不低于 99.9%。
+我们保证，在 Azure 分析服务的服务器上执行的客户端操作的成功率不低于 99.9%。
 
 
 ##引言
@@ -114,11 +114,11 @@
 
 ###附加定义
 
-1. “**服务器**”指任何 Azure Analysis Services 服务器。
+1. “**服务器**”指任何 Azure 分析服务的服务器。
 
 2. “**最大可用分钟数**”是指在一个帐单月份期间，在指定的 Azure 订购中指定服务器所部署的总分钟数。
 
-3. “**客户端操作**”是指所有 Azure Analysis Services 支持的记录操作的集合。
+3. “**客户端操作**”是指所有 Azure 分析服务支持的记录操作的集合。
 
 4. “**停机时间**”是指指定服务器在指定的 Azure 订购的一个帐单月份期间不可用的总累计分钟数。如果某一分钟内有超过 1% 的已完成客户端操作返回了错误代码，即视为该分钟内该服务器不可用。
 
@@ -126,7 +126,7 @@
 
 		每月正常服务时间百分比 % =   (最大可用分钟数 − 停机时间) / 最大可用分钟数 
 
-6. 以下服务级别和服务费抵扣适用于客户对 Azure Analysis Services 的使用：
+6. 以下服务级别和服务费抵扣适用于客户对 Azure 分析服务的使用：
 
 每月正常服务时间百分比 | 服务费抵扣  
 ---|---  
