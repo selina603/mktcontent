@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="08/2017" wacn.date="08/2017" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="10/2017" wacn.date="10/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]a
 - [中文](/support/sla/abstract/)
@@ -232,3 +232,9 @@ MySQL Database on Azure 提供 99.9% 的运行时间服务级别协议，保证�
 我们保证在客户订购下运行的应用都将具有 99.95% 的可用性。没有为应用的免费或共享层级提供任何服务级别协议。 
 
 <p><a href="/support/sla/app-service/" id="abstract_app-service">查看完整的详细信息</a></p>
+
+##Azure 分析服务
+
+我们保证，在 Azure 分析服务的服务器上执行的客户端操作的成功率不低于 99.9%。
+
+<p><a href="/support/sla/analysis-services/" id="abstract_analysis-services">查看完整的详细信息</a></p>
