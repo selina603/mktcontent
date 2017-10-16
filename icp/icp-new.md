@@ -37,8 +37,9 @@
 </br>
 
 2、 各省管局对备案的要求
+
 在进行备案前请先了解自己所属管局的备案要求，对您的备案能够顺利通过管局审核会有很大帮助。</br>
-<a id="icp-new_special-request" href="./media/备案信息填写要求20170627.doc">各省管理局特殊要求下载</a>
+<a id="icp-new_special-request" href="./media/备案信息填写要求20171013.doc">各省管理局特殊要求下载</a>
 </br>
 
 3、 备案具体操作</br>
