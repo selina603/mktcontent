@@ -14,7 +14,7 @@
 ## 2017/10/16 - 2017/10/20
 
 ## 新产品发布与文档更新
-<h2>Windows 虚拟机发布<a href="/pricing/details/virtual-machines/">DS13-2_v2、DS13-4_v2、DS14-4_v2、DS14-8_v2</a>实例</h2>
+<h3>Windows 虚拟机发布 <a href="/pricing/details/virtual-machines/">DS13-2_v2、DS13-4_v2、DS14-4_v2、DS14-8_v2</a> 实例</h3>
 
 ## 重要商务内容更新
 无
