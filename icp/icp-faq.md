@@ -1,4 +1,4 @@
-﻿<properties
+<properties
 	pageTitle="热点问题 | Azure"
 	description="ICP 备案中的一些问题"
 	services="icp"
@@ -103,7 +103,8 @@ Chinacloudapp.cn、Chinacloudapi.cn 和 Chinacloudsites.cn 域名由上海蓝云
 </br>
 ### 12. 在备案系统填写备案接入信息，服务器放置地和接入方式如何选择？
 服务器放置地：可以选择“北京”或“上海” ；
-接入方式：浙江、天津、黑龙江的用户选择“虚拟主机”，其他地区用户选择“其他方式”。
+
+ 接入方式：云接入。
 </br>
 </br>
 ### 13. 域名只做邮箱使用是否需要备案？如果顶级域名已经做过备案了，mail 这样的二级域名就不需要再做备案了吧？
