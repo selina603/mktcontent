@@ -17,12 +17,11 @@
 <h3>Windows 虚拟机发布 <a href="/pricing/details/virtual-machines/">DS13-2_v2、DS13-4_v2、DS14-4_v2、DS14-8_v2</a> 实例</h3>
 
 ## 重要商务内容更新
-无
-## 其他商务内容更新
-<h3>博客</h3>
+### 案例研究
 <ul>
-<li><a href="">Azure 虚拟机新型号发布 — 更具成本效益的数据库工作负载</a></li>
+<li><a href="/partnerancasestudy/case-studies/waterforce/">WaterForce</a>案例</li>
 </ul>
+
 ## 新技术文档发布
 ### SQL 数据库
 <ul>
