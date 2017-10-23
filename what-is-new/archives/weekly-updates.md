@@ -19,7 +19,7 @@
 ## 重要商务内容更新
 ### 案例研究
 <ul>
-<li><a href="/partnerancasestudy/case-studies/waterforce/">WaterForce</a>案例</li>
+<li><a href="/partnerancasestudy/case-studies/waterforce/">WaterForce </a>案例</li>
 </ul>
 ## 其他商务内容更新
 <h3>博客</h3>
