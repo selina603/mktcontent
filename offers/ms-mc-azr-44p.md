@@ -20,9 +20,9 @@
 
 您可以将这些 Azure 服务使用额度用在满足您需要的 Azure 服务上，包括虚拟机、云服务、存储、SQL 数据库等很多方面。
 
-[申请 1 元试用 >](/pricing/1rmb-trial-full/?form-type=identityauth)
+<a id="ms-mc-azr-44p_?form-type=identityauth" href="/pricing/1rmb-trial-full/?form-type=identityauth">申请 1 元试用 ></a>
 
-[了解 1 元注册流程 >](/pricing/billing/azure-1rmb-trial-application-and-signup)
+<a id="ms-mc-azr-44p_azure-1rmb-trial-application-and-signup" href="/pricing/billing/azure-1rmb-trial-application-and-signup">了解 1 元注册流程 ></a>
 
 ##1 元试用订阅使用限制
 
@@ -33,7 +33,7 @@
  
 ##充值成为标准预付费订阅
 
-在使用 1 元试用的有效期内，您可以随时转换为标准预付费订阅。您只需在订阅界面点击"立即升级"，充值至少人民币 1,000 元到您的订阅即可成为标准预付费订阅，享受更丰富的云体验，详情请参考[这里](/offers/ms-mc-arz-33p/)。
+在使用 1 元试用的有效期内，您可以随时转换为标准预付费订阅。您只需在订阅界面点击"立即升级"，充值至少人民币 1,000 元到您的订阅即可成为标准预付费订阅，享受更丰富的云体验，详情请参考<a id="ms-mc-azr-44p_ms-mc-arz-33p" href="/offers/ms-mc-arz-33p/">这里</a>。
 
 ##付款选项和定价详情
 
@@ -41,7 +41,7 @@
 
 
 
-有关定价和计费的更多详细信息（包括各 Azure 功能的价格）可参见我们的[定价页面](/pricing/overview/)。
+有关定价和计费的更多详细信息（包括各 Azure 功能的价格）可参见我们的<a id="ms-mc-azr-44p_overview" href="/pricing/overview/">定价页面</a>。
 
 ##使用资源限额
 
@@ -73,17 +73,13 @@
 
 如果您在给定的一个月中所使用的服务超出了上述限额，您需要额外支付超出上限服务所产生的费用。我们也将保留在您超过上限当月禁用您帐户的权利，不过我们会在禁用之前通过电子邮件与您联系。
 
-**CDN 服务上限**
-
-每个订阅 200GB，不限 CDN 终结点数量（ 一个订阅可以创建多个 CDN 终结点 ）。
-
 **数据传输**
 
 50GB 入站数据传输 50GB 出站数据传输如果超过该数据传输使用限额，您的账户将会在未经事先通知的情况下暂停，并且  Azure 服务使用额度将被归置为“0”。您可以点击此处实时查询您的数据流量使用状况。如果您需要更高的数据传输使用限额，则必须转换为标准预付费用户。
 
 ##服务级别协议
 
-对于本试用优惠，我们不提供服务级别协议（ SLA ）。如果您转换为标准预付费用户，我们会提供一组强大的服务级别协议。请参见我们的 [SLA](/support/legal/sla/) 页面了解更多详情。
+对于本试用优惠，我们不提供服务级别协议（ SLA ）。如果您转换为标准预付费用户，我们会提供一组强大的服务级别协议。请参见我们的 <a id="ms-mc-azr-44p_sla" href="/support/legal/sla/">SLA</a> 页面了解更多详情。
 
 ##资源承诺
 
@@ -93,5 +89,5 @@
 
 您也可以通过每隔 15 天采取下列任一操作，以避免您的计算资源被删除：
 
- - 登录[管理门户](https://manage.windowsazure.cn/)网站
+ - 登录<a id="ms-mc-azr-44p_manage.windowsazure.cn" href="https://manage.windowsazure.cn/">管理门户</a>网站
  - 通过我们的 Azure API 访问您的托管服务

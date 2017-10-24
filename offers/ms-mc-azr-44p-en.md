@@ -70,10 +70,6 @@ An object is an entry in the directory service, represented by its unique distin
 
 You need to pay an extra charge if your use of the service exceeds the above limits within the given month.  We reserve the right to suspend your account if the use of the service exceeds the above limits with a prior email notice. 
 
-**CDN Ceilings**
-
-200GB per subscription, there is no limit on the note number (multiple notes could be created under one subscription)
-
 **Data Transfer**
 
 50GB inbound data transfer
