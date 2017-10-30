@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="08/2017" wacn.date="08/2017" wacn.lang="en"/>
+<tags ms.service="legal-en" ms.date="10/2017" wacn.date="10/2017" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/legal/sla/)
@@ -62,8 +62,9 @@ This agreement describes the commitment about uptime and connectivity of Microso
 ##Intelligence + Analytics
 - [HDInsight]
 - [Stream Analytics]
-- [Cognitive Services]
 - [Power BI Embedded]
+- [Cognitive Services]
+- [Azure Analysis Services]
 
 ##Internet of Things
 - [Azure IoT Hub]
@@ -124,3 +125,4 @@ Click [here](//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/Consoli
 [Service Fabric]: /support/sla/service-fabric-en/
 [Power BI Embedded]: /support/sla/power-bi-embedded-en/
 [Cognitive Services]: /support/sla/cognitive-services-en/
+[Azure Analysis Services]: /support/sla/analysis-services-en/
