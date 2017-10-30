@@ -22,12 +22,6 @@ We guarantee that Cognitive Services will be available at least 99.9% of the tim
 
 <p><a href="/support/sla/cognitive-services-en/" id="cognitive_services-en">See the full details</a></p>  
 
-##Azure Analysis Services
-
-We guarantee that, at least 99.9% of the time Client Operations executed on an Azure Analysis Services server will succeed.
-
-<p><a href="/support/sla/analysis-services-en/" id="abstract-en_analysis-services-en">See the full details</a></p>
-
 ##Automation
 
 We guarantee that at least 99.9% of jobs will start within 30 minutes of their planned start times. 
@@ -244,5 +238,3 @@ We guarantee 99.95% availability for each Standard, High Performance, Ultra Perf
 We guarantee that Apps running in a customer subscription will be available 99.95% of the time. No SLA is provided for Apps under either the Free or Shared tiers. 
 
 <p><a href="/support/sla/app-service-en/" id="abstract-en_app-service-en">See the full details</a></p>
-
-
