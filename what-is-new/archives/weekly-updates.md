@@ -14,7 +14,7 @@
 ## 2017/10/23 - 2017/10/27
 
 ## 新产品发布与文档更新
-<h3>高级非托管磁盘和页 Blob 发布<a href="/pricing/details/storage/"> P15磁盘 </a></h3>
+<h3>高级非托管磁盘和页 Blob 发布<a href="/pricing/details/storage/"> P15 磁盘 </a></h3>
 <h3>媒体服务流式处理发布<a href="/pricing/details/media-services/"> 标准流式处理终结点 </a>预览版</h3>
 
 ## 重要商务内容更新
