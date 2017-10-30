@@ -167,7 +167,7 @@
 
 ## 版本历史记录
 
-<a id="vm-sla_vm-sla" href="/support/sla/virtual-machines/">1.3</a> 最后更新日期 ：2017 年 10 月
+<a id="vm-sla_vm-sla" href="/support/sla/virtual-machines/">1.4</a> 最后更新日期 ：2017 年 10 月
 
 发布说明：更新了虚拟机服务级别协议相关措辞
 
