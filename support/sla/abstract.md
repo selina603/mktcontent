@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="08/2017" wacn.date="08/2017" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="10/2017" wacn.date="10/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]a
 - [中文](/support/sla/abstract/)
@@ -16,6 +16,17 @@
 
 #服务级别协议
 
+##认知服务
+
+我们保证，认知服务将在不少于 99.9% 的时间内可用。没有为免费层级提供任何服务级别协议。
+
+<p><a href="/support/sla/cognitive-services/" id="cognitive_services">查看完整的详细信息</a></p>
+
+##Azure 分析服务
+
+我们保证，在 Azure 分析服务的服务器上执行的客户端操作的成功率不低于 99.9%。
+
+<p><a href="/support/sla/analysis-services/" id="abstract_analysis-services">查看完整的详细信息</a></p>
 ##自动化
 
 我们保证至少 99.9% 的作业将在预定的开始时间 30 分钟内开始。 
@@ -205,9 +216,9 @@ MySQL Database on Azure 提供 99.9% 的运行时间服务级别协议，保证�
 
 ##虚拟机
 
-对于在同一可用性集中部署了两个或多个实例的所有虚拟机，我们保证您在不少于 99.95% 的时间内至少与一个实例具有虚拟机连接。
+对于在同一可用性集中部署了两个或多个实例的所有虚拟机，我们保证您在不少于 99.95% 的时间内与至少一个实例具有虚拟机连接。
 
-对于任何为所有磁盘使用高级存储的单实例虚拟机，我们保证您在不少于 99.9% 的时间内具有虚拟机连接性。 
+对于任何为所有磁盘使用高级存储的单实例虚拟机，我们保证您将在不少于 99.9% 的时间内具有虚拟机连接性。 
 
 <p><a href="/support/sla/virtual-machines/" id="abstract_virtual-machines">查看完整的详细信息</a></p>
 
