@@ -60,9 +60,8 @@
 ##智能 + 分析
 - [HDInsight]
 - [流分析]
-- [Power BI Embedded]
 - [认知服务]
-- [Azure 分析服务]
+- [Power BI Embedded]
 
 ##物联网
 - [Azure IoT 中心]
@@ -124,4 +123,3 @@
 [Service Fabric]: /support/sla/service-fabric/
 [Power BI Embedded]: /support/sla/power-bi-embedded/
 [认知服务]: /support/sla/cognitive-services/
-[Azure 分析服务]: /support/sla/analysis-services/
