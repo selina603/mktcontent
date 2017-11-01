@@ -8,13 +8,19 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="10/2017" wacn.date="10/2017" wacn.lang="en"/>
+<tags ms.service="legal-en" ms.date="11/2017" wacn.date="11/2017" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/abstract/)
 - [English](/support/sla/abstract-en/)
 
 #Service Level Agreements
+
+##Azure Analysis Services
+
+We guarantee that, at least 99.9% of the time Client Operations executed on an Azure Analysis Services server will succeed.
+
+<p><a href="/support/sla/analysis-services-en/" id="abstract-en_analysis-services-en">See the full details</a></p>
 
 ###Cognitive Services
 
@@ -238,3 +244,5 @@ We guarantee 99.95% availability for each Standard, High Performance, Ultra Perf
 We guarantee that Apps running in a customer subscription will be available 99.95% of the time. No SLA is provided for Apps under either the Free or Shared tiers. 
 
 <p><a href="/support/sla/app-service-en/" id="abstract-en_app-service-en">See the full details</a></p>
+
+
