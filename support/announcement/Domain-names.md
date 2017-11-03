@@ -1,5 +1,5 @@
 <properties
-	pageTitle="提醒 | Azure"
+	pageTitle="提醒：2016 年 8 月 18 日后未经备案的域名可能会被屏蔽 - Azure 云计算"
     description="提醒：2016 年 8 月 18 日后未经备案的域名可能会被屏蔽"
     services=""
     documentationCenter=""
