@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="10/2017" wacn.date="10/2017" wacn.lang="en"/>
+<tags ms.service="legal-en" ms.date="11/2017" wacn.date="11/2017" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/analysis-services/)
@@ -127,7 +127,7 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 		Monthly Uptime % =   (Maximum Available Minutes − Downtime) / Maximum Available Minutes
 
-6. 6.	The following Service Levels and Service Credits are applicable to Customer's use of the Analysis Services Service:
+6.	The following Service Levels and Service Credits are applicable to Customer's use of the Analysis Services Service:
 
 Monthly Uptime Percentage | Service Credit  
 ---|---  

@@ -1,6 +1,6 @@
 <properties
-	pageTitle="Azure Analysis Services 的服务级别协议 | Azure"
-    description="Azure Analysis Services 的服务级别协议"
+	pageTitle="Azure 分析服务的服务级别协议 | Azure"
+    description="Azure 分析服务的服务级别协议"
     services=""
     documentationCenter=""
     authors=""
@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="10/2017" wacn.date="10/2017" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="11/2017" wacn.date="11/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/analysis-services/)
