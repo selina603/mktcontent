@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Azure 紧急提示: 关于自查整改“翻墙”行为的通知！| Azure"
+	pageTitle="Azure 紧急提示: 关于自查整改“翻墙”行为的通知！- Azure 云计算"
     description="Azure 紧急提示: 关于自查整改“翻墙”行为的通知！"
     services=""
     documentationCenter=""
