@@ -1,5 +1,5 @@
 <properties
-	pageTitle="优惠详情 | Azure"
+	pageTitle="Azure 1 元免费试用优惠详情 - Azure 云计算"
     description="优惠详情 - 1 元一个月试用优惠"
     services=""
     documentationCenter=""
