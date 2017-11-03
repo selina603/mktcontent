@@ -169,9 +169,9 @@
 
 <a id="vm-sla_vm-sla" href="/support/sla/virtual-machines/">1.4</a> 最后更新日期 ：2017 年 10 月
 
-发布说明：更新了虚拟机服务级别协议相关措辞
+发布说明：更新了虚拟机服务级别协议相关措辞。
 
-<a id="vm-sla_vm-sla" href="//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/virtual_machine_sla_chinese1.3.pdf">1.3</a> 最后更新日期 ：2017 年 5 月
+<a id="vm-sla_vm-sla-1.3.pdf" href="//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/virtual_machine_sla_chinese1.3.pdf">1.3</a> 最后更新日期 ：2017 年 5 月
 
 发布说明：如正常服务时间降低至 95% 以下，则添加 100% 的服务费抵扣保证；并从单实例服务级别协议上应用高级储存的要求中排除了临时磁盘。
 

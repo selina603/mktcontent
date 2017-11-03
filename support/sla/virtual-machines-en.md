@@ -166,8 +166,7 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 <a id="vm-sla-en_vm-sla-en" href="/support/sla/virtual-machines-en/">1.4</a> Last updated： Oct 2017
 
-
-<a id="vm-sla-en_vm-sla-en" href="//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/virtual_machine_sla_english1.3.pdf"">1.3</a> Last updated： May 2017
+<a id="vm-sla-en_vm-sla-en1.3.pdf" href="//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/virtual_machine_sla_english1.3.pdf">1.3</a> Last updated： May 2017
 
 Release notes: Improved SLA by adding 100% service credit guarantee if uptime falls below 95%, and excluded temporary disks from the requirement to have premium storage on the single-instance SLA.
 
