@@ -1,5 +1,5 @@
 <properties
-	pageTitle="互联网信息服务单位网络安全责任告知书 | Azure"
+	pageTitle="互联网信息服务单位网络安全责任告知书 - Azure 云计算"
     description="互联网信息服务单位网络安全责任告知书"
     services="public-security-registration"
     documentationCenter=""
