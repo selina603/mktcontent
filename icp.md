@@ -1,5 +1,5 @@
 ﻿<properties
-	pageTitle="ICP 备案 | Azure"
+	pageTitle="ICP 备案 - Azure 云计算"
 	description="ICP 备案原因及备案流程介绍"
 	services="icp"
 	documentationCenter=""
