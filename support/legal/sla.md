@@ -124,4 +124,4 @@
 [Service Fabric]: /support/sla/service-fabric/
 [Power BI Embedded]: /support/sla/power-bi-embedded/
 [认知服务]: /support/sla/cognitive-services/
-[分析服务]: /support/sla/analysis-services/
+[Azure 分析服务]: /support/sla/analysis-services/
