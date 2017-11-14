@@ -12,7 +12,7 @@
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/service-fabric/)
-- [English](/support/service-fabric-en/)
+- [English](/support/sla/service-fabric-en/)
 #Service Fabric 的服务级别协议
 
 
