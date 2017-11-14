@@ -11,8 +11,8 @@
 <tags ms.service="legal-en" ms.date="05/2016" wacn.date="05/2016" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
-- [中文](/support/sla/sql-data/)
-- [English](/support/sla/sql-data-en/)
+- [中文](/support/sla/sql-data-v1/)
+- [English](/support/sla/sql-data-en-v1/)
 # SLA for SQL Database
 
 **Web and Business**
