@@ -11,8 +11,8 @@
 <tags ms.service="legal" ms.date="05/2016" wacn.date="05/2016" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
-- [中文](/support/sla/sql-data/)
-- [English](/support/sla/sql-data-en/)
+- [中文](/support/sla/sql-data-v1/)
+- [English](/support/sla/sql-data-en-v1/)
 # SQL 数据库的服务级别协议
 
 **Web 和企业版**
