@@ -12,7 +12,7 @@
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/stream-analytic/)
-- [English](/support/sla/stream-analytic-en/)
+- [English](/support/sla/stream-analytics-en/)
 # 流分析的服务级别协议
 
 我们保证流分析 API 可用性至少为 99.9%。
