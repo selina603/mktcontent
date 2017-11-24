@@ -77,9 +77,11 @@
 <li><a id="weekly-updates-11-24_docs-point-to-site-vpn-client-configuration-radius" href="//docs.azure.cn/zh-cn/vpn-gateway/point-to-site-vpn-client-configuration-radius">创建并安装适用于 P2S RADIUS 身份验证的 VPN 客户端配置文件（预览版）</a></li>
 </ul>
 ## 常用操作指南新发布
+<ul>
 <li><a id="weekly-updates-11-24_docs-aog-virtual-machines-linux-qa-diagnostics-error-due-to-chinese-charset" href="//docs.azure.cn/zh-cn/articles/azure-operations-guide/virtual-machines/linux/aog-virtual-machines-linux-qa-diagnostics-error-due-to-chinese-charset">Linux 配置中文字符集导致诊断设置无法正常工作的问题解决</a></li>
 <li><a id="weekly-updates-11-24_docs-aog-app-service-web-integrate-into-virtual-network-connectivity-test" href="//docs.azure.cn/zh-cn/articles/azure-operations-guide/app-service-web/aog-app-service-web-integrate-into-virtual-network-connectivity-test">将 Web 应用服务集成到虚拟网络后的连通性测试</a></li>
 <li><a id="weekly-updates-11-24_docs-aog-app-service-web-webjobs-howto-update-the-schedule" href="//docs.azure.cn/zh-cn/articles/azure-operations-guide/app-service-web/aog-app-service-web-webjobs-howto-update-the-schedule">如何更改计划 Web 作业的 Schedule 时间</a></li>
 <li><a id="weekly-updates-11-24_docs-aog-azure-resource-manager-qa-transfer-sub-with-vm-from-asm-to-arm" href="//docs.azure.cn/zh-cn/articles/azure-operations-guide/azure-resource-manager/aog-azure-resource-manager-qa-transfer-sub-with-vm-from-asm-to-arm">从 ASM 升级到 ARM 的虚拟机在进行跨订阅迁移时报错</a></li>
 <li><a id="weekly-updates-11-24_docs-aog-commerce-subscription-management-recharge-faq" href="//docs.azure.cn/zh-cn/articles/azure-operations-guide/commerce/subscription-management/aog-commerce-subscription-management-recharge-faq">如何为订阅充值？（及常见问题）</a></li>
+</ul>
 
