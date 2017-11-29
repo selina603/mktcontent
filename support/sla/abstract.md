@@ -115,9 +115,9 @@ MySQL Database on Azure 提供 99.9% 的运行时间服务级别协议，保证�
 <p><a href="/support/sla/notification-hubs/" id="abstract_notification-hubs">查看完整的详细信息</a></p>
 
 
-##Power BI Embedded
+##Power BI 工作区集合
 
-我们保证，用户执行  API  调用和嵌入报告时，Power BI Embedded 的可用性不低于 99.9%。
+我们保证，用户执行  API  调用和嵌入报告时，Power BI 工作区集合的可用性不低于 99.9%。
 
 <p><a href="/support/sla/power-bi-embedded/" id="abstract_power-bi-embedded">查看完整的详细信息</a></p>
 
