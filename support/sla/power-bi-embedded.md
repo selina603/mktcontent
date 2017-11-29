@@ -1,6 +1,6 @@
 <properties
-	pageTitle="Power BI Embedded 的服务级别协议 | Azure"
-    description="Power BI Embedded 的服务级别协议"
+	pageTitle="Power BI 工作区集合的服务级别协议 | Azure"
+    description="Power BI 工作区集合的服务级别协议"
     services=""
     documentationCenter=""
     authors=""
@@ -8,14 +8,14 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="02/2017" wacn.date="02/2017" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="11/2017" wacn.date="11/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/power-bi-embedded/)
 - [English](/support/sla/power-bi-embedded-en/)
-# Power BI Embedded 的服务级别协议
+# Power BI 工作区集合的服务级别协议
 
-我们保证，用户执行  API  调用和嵌入报告时，Power BI Embedded 的可用性不低于 99.9%。
+我们保证，用户执行  API  调用和嵌入报告时，Power BI 工作区集合的可用性不低于 99.9%。
 
 
 ## 引言
@@ -121,13 +121,13 @@
 
 2. “**最大可用分钟数**” 是指在一个帐单月份期间，指定的 Azure 订购中客户配置的所有工作区集合的总部署分钟数。
 
-3. “**停机时间**” 是指工作区集合不可用期间累计的总部署分钟数。如果在某一分钟内，所有旨在读取或写入 Power BI Embedded 数据的任何部分的连续尝试均返回错误代码，或者在五分钟内没有响应，则可以视为在这一分钟内指定的工作区集合不可用。
+3. “**停机时间**” 是指工作区集合不可用期间累计的总部署分钟数。如果在某一分钟内，所有旨在读取或写入 Power BI 工作区集合数据的任何部分的连续尝试均返回错误代码，或者在五分钟内没有响应，则可以视为在这一分钟内指定的工作区集合不可用。
 
 4. “**每月正常服务时间百分比**” 每月正常服务时间百分比按以下方式计算：在 Azure 订购的一个账单月份期间内的最大可用分钟数减去停机时间，再除以最大可用分钟数。每月正常服务时间百分比计算公式如下所示：
 
 	每月正常服务时间百分比 % = (最大可用分钟数 − 停机时间) ÷ 最大可用分钟数 
 
-5. 客户在使用 Power BI Embedded 服务时适用以下服务级别和服务费抵扣：
+5. 客户在使用 Power BI 工作区集合服务时适用以下服务级别和服务费抵扣：
 
 	每月正常服务时间百分比	|服务费抵扣
 	--------------------|---------
