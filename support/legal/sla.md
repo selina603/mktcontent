@@ -60,7 +60,7 @@
 ##智能 + 分析
 - [HDInsight]
 - [流分析]
-- [Power BI Embedded]
+- [Power BI 工作区集合]
 - [认知服务]
 - [Azure 分析服务]
 
@@ -88,7 +88,7 @@
 
 [所有 Azure 服务的服务级别协议的摘要](/support/sla/abstract/)
 
-点击[此处](//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/Consolidated_SLA_Chinese_171101.pdf)可以下载大部分 Azure 服务的服务级别协议
+点击[此处](//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/Consolidated_SLA_Chinese_171129.pdf)可以下载大部分 Azure 服务的服务级别协议
 
 [虚拟机]: /support/sla/virtual-machines/
 [虚拟机规模集]: /support/sla/virtual-machine-scale-sets/
@@ -122,6 +122,6 @@
 [自动化]: /support/sla/automation/
 [密钥保管库]: /support/sla/key-vault/
 [Service Fabric]: /support/sla/service-fabric/
-[Power BI Embedded]: /support/sla/power-bi-embedded/
+[Power BI 工作区集合]: /support/sla/power-bi-embedded/
 [认知服务]: /support/sla/cognitive-services/
-[分析服务]: /support/sla/analysis-services/
+[Azure 分析服务]: /support/sla/analysis-services/
