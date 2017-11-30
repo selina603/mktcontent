@@ -62,7 +62,7 @@ This agreement describes the commitment about uptime and connectivity of Microso
 ##Intelligence + Analytics
 - [HDInsight]
 - [Stream Analytics]
-- [Power BI workspace collection]
+- [Power BI Workspace Collection]
 - [Cognitive Services]
 - [Azure Analysis Services]
 
@@ -123,6 +123,6 @@ Click [here](//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/Consoli
 [Automation]: /support/sla/automation-en/
 [Key Vault]: /support/sla/key-vault-en/
 [Service Fabric]: /support/sla/service-fabric-en/
-[Power BI workspace collection]: /support/sla/power-bi-embedded-en/
+[Power BI Workspace Collection]: /support/sla/power-bi-embedded-en/
 [Cognitive Services]: /support/sla/cognitive-services-en/
 [Azure Analysis Services]: /support/sla/analysis-services-en/
