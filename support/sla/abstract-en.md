@@ -115,9 +115,9 @@ For basic and standard layer service notification center, we ensure that the not
 <p><a href="/support/sla/notification-hubs-en/" id="abstract-en_notification-hubs-en">See the full details</a></p>
 
 
-##Power BI workspace collection
+##Power BI Workspace Collection
 
-We guarantee at least 99.9% availability of Power BI workspace collection for users to execute API calls and embed reports.
+We guarantee at least 99.9% availability of Power BI Workspace Collection for users to execute API calls and embed reports.
 
 <p><a href="/support/sla/power-bi-embedded-en/" id="abstract-en_powerbi-embedded-en">See the full details</a></p>
 
