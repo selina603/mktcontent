@@ -1,6 +1,6 @@
 <properties
-	pageTitle="SLA for Power BI workspace collection | Azure"
-    description="SLA for Power BI workspace collection"
+	pageTitle="SLA for Power BI Workspace Collection | Azure"
+    description="SLA for Power BI Workspace Collection"
     services=""
     documentationCenter=""
     authors=""
@@ -13,9 +13,9 @@
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/power-bi-embedded/)
 - [English](/support/sla/power-bi-embedded-en/)
-# SLA for Power BI workspace collection
+# SLA for Power BI Workspace Collection
 
-We guarantee at least 99.9% availability of Power BI workspace collection for users to execute API calls and embed reports.
+We guarantee at least 99.9% availability of Power BI Workspace Collection for users to execute API calls and embed reports.
 
 
 ## Introduction
@@ -116,19 +116,19 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 ### Additional Definitions
 
-### Monthly Uptime Calculation for Power BI workspace collection
+### Monthly Uptime Calculation for Power BI Workspace Collection
  
 1. "**Deployment Minutes**" is the total number of minutes for which a given workspace collection has been provisioned during a billing month.
 
 2. "**Maximum Available Minutes**" is the sum of all Deployment Minutes across all workspace collections provisioned by customer in a given Azure subscription during a billing month.
 
-3. "**Downtime**" is the total accumulated Deployment Minutes, during which the workspace collection is unavailable. A minute is considered unavailable for a given workspace collection if all continuous attempts within the minute to read or write any portion of Power BI workspace collection data result in an Error Code or do not return a response within five minutes.
+3. "**Downtime**" is the total accumulated Deployment Minutes, during which the workspace collection is unavailable. A minute is considered unavailable for a given workspace collection if all continuous attempts within the minute to read or write any portion of Power BI Workspace Collection data result in an Error Code or do not return a response within five minutes.
 
 4. "**Monthly Uptime Percentage**" The Monthly Uptime Percentage is calculated as Maximum Available Minutes less Downtime divided by Maximum Available Minutes in a billing month for the Azure subscription. Monthly Uptime Percentage is represented by the following formula: 
 
 	Monthly Uptime % = (Maximum Available Minutes - Downtime) / Maximum Available Minutes
 
-5. The following Service Levels and Service Credits are applicable to Customer’s use of the Power BI workspace collection:
+5. The following Service Levels and Service Credits are applicable to Customer’s use of the Power BI Workspace Collection:
 
 	Monthly Uptime Percentage	|Service Credit
 	----------------------------|---------
