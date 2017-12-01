@@ -17,7 +17,10 @@
 <h3>Azure 事件中心于 2017 年 11 月 30 日发布新定价层 <a href="/pricing/details/event-hubs/" id="weekly-updates-12-01_envent-hubs">专用事件中心</a></h3>
 
 ## 重要商务内容更新
-无
+### 案例研究
+<ul>
+<li><a href="/partnerancasestudy/case-studies/yoozoo/" id="weekly-updates-12-01_case-studies-yoozoo">游族网络 </a>案例</li>
+</ul>
 
 ## 其他商务内容更新
 ### 博客
