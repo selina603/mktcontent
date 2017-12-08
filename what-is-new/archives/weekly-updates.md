@@ -11,7 +11,7 @@
 <tags ms.service="weekly-updates" ms.date="" wacn.date="" wacn.lang="cn"/>
 
 # Azure 官网最新更新
-## 2017/11/27 - 2017/12/01
+## 2017/12/04 - 2017/12/08
 
 ## 重要商务内容更新
 无
