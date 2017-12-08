@@ -44,9 +44,11 @@
 </ul>
 ### Resource Manager
 <ul>
-<li><a id="weekly-updates-12-08_docs-resource-manager-reserved-resource-name" href="//docs.azure.cn/zh-cn/azure-resource-manager/resource-manager-reserved-resource-name">解决保留资源名称错误</a></li></ul>
- ### IoT 套件
- <ul>
+<li><a id="weekly-updates-12-08_docs-resource-manager-reserved-resource-name" href="//docs.azure.cn/zh-cn/azure-resource-manager/resource-manager-reserved-resource-name">解决保留资源名称错误</a></li>
+</ul>
+
+### IoT 套件
+<ul>
 <li><a id="weekly-updates-12-08_docs-iot-suite-connecting-pi-c" href="//docs.azure.cn/zh-cn/iot-suite/iot-suite-connecting-pi-c">将 Raspberry Pi 设备连接到远程监控预配置解决方案 (C)</a></li>
 <li><a id="weekly-updates-12-08_docs-iot-suite-connecting-pi-node" href="//docs.azure.cn/zh-cn/iot-suite/iot-suite-connecting-pi-node">将 Raspberry Pi 设备连接到远程监控预配置解决方案 (Node.js)</a></li>
 <li><a id="weekly-updates-12-08_docs-iot-suite-options" href="//docs.azure.cn/zh-cn/iot-suite/iot-suite-options">比较 Azure IoT 选项</a></li>
