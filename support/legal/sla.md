@@ -8,7 +8,7 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="11/2017" wacn.date="11/2017" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="12/2017" wacn.date="12/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/legal/sla/)
@@ -37,6 +37,7 @@
 - [CDN]
 - [流量管理器]
 - [ExpressRoute]
+- [网络观察程序]
 
 ##存储
 - [存储]
@@ -88,7 +89,7 @@
 
 [所有 Azure 服务的服务级别协议的摘要](/support/sla/abstract/)
 
-点击[此处](//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/Consolidated_SLA_Chinese_171129.pdf)可以下载大部分 Azure 服务的服务级别协议
+点击[此处](//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/sla/Consolidated_SLA_Chinese_171218.pdf)可以下载大部分 Azure 服务的服务级别协议
 
 [虚拟机]: /support/sla/virtual-machines/
 [虚拟机规模集]: /support/sla/virtual-machine-scale-sets/
@@ -125,3 +126,4 @@
 [Power BI 工作区集合]: /support/sla/power-bi-embedded/
 [认知服务]: /support/sla/cognitive-services/
 [Azure 分析服务]: /support/sla/analysis-services/
+[网络观察程序]: /support/sla/network-watcher/
