@@ -123,18 +123,22 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 2. "**Failed Diagnostic Checks**" is the total number of diagnostic actions within Maximum Diagnostic Checks that returns an Error Code or does not return a response within the Maximum Processing Time documented in the table below.
 
 <table>	
-	<tr>
-		<td>DIAGNOSTIC TOOL </td>
-		<td>MAXIMUM PROCESSING TIME</td>
-	</tr>
-	<tr>
-		<td>IPFlow Verify<br>NextHop<br>Packet Capture<br>Security Group View<br>Topology</td>
-		<td>2 minutes</td>
-	</tr>
-	<tr>
-		<td>VPN Troubleshoot</td>
-		<td>10 minutes</td>
-	</tr>
+	<thead>
+		<tr>
+			<th>DIAGNOSTIC TOOL </th>
+			<th>MAXIMUM PROCESSING TIME</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>IPFlow Verify<br>NextHop<br>Packet Capture<br>Security Group View Topology</td>
+			<td>2 minutes</td>
+		</tr>
+		<tr>
+			<td>VPN Troubleshoot</td>
+			<td>10 minutes</td>
+		</tr>
+	</tbody>
 </table> 
 
 3. "**Monthly Uptime Percentage**" is calculated as Maximum Diagnostic Checks less Failed Diagnostic Checks divided by Maximum Diagnostic Checks. 

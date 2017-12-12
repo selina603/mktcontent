@@ -8,13 +8,19 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal" ms.date="11/2017" wacn.date="11/2017" wacn.lang="cn"/>
+<tags ms.service="legal" ms.date="12/2017" wacn.date="12/2017" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]a
 - [中文](/support/sla/abstract/)
 - [English](/support/sla/abstract-en/)
 
 #服务级别协议
+
+### 网络观察程序
+
+我们保证在 99.9％ 的时间内，网络诊断工具均能够成功执行操作并返回响应。
+
+<p><a href="/support/sla/network-watcher/" id="abstract_network-watcher">查看完整的详细信息</a></p>
 
 ##Azure 分析服务
 

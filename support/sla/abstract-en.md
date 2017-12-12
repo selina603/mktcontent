@@ -8,13 +8,19 @@
     editor=""
     tags=""/>
 
-<tags ms.service="legal-en" ms.date="11/2017" wacn.date="11/2017" wacn.lang="en"/>
+<tags ms.service="legal-en" ms.date="12/2017" wacn.date="12/2017" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/sla/abstract/)
 - [English](/support/sla/abstract-en/)
 
 #Service Level Agreements
+
+##Network Watcher
+
+We guarantee that 99.9% of the time Network Diagnostic Tools will successfully execute and return a response.
+
+<p><a href="/support/sla/network-watcher-en/" id="network-watcher-en">See the full details</a></p>
 
 ##Azure Analysis Services
 
