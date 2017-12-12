@@ -124,8 +124,8 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 <table>	
 	<tr>
-		<th>DIAGNOSTIC TOOL </th>
-		<th>MAXIMUM PROCESSING TIME</th>
+		<td>DIAGNOSTIC TOOL </td>
+		<td>MAXIMUM PROCESSING TIME</td>
 	</tr>
 	<tr>
 		<td>IPFlow Verify<br>NextHop<br>Packet Capture<br>Security Group View<br>Topology</td>
