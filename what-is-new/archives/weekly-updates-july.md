@@ -135,11 +135,6 @@
 
 ### Active Directory
 <ul>
-<li><a id="weekly-updates-7-17_docs-active-directory-aadconnect-pass-through-authentication-how-it-works" href="//docs.azure.cn/zh-cn/active-directory/connect/active-directory-aadconnect-pass-through-authentication-how-it-works">Azure Active Directory 直通身份验证：技术深入探讨</a></li>
-<li><a id="weekly-updates-7-17_docs-active-directory-aadconnect-pass-through-authentication-quick-start" href="//docs.azure.cn/zh-cn/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start">Azure Active Directory 直通身份验证：快速入门</a></li>
-<li><a id="weekly-updates-7-17_docs-active-directory-aadconnect-sso-faq" href="//docs.azure.cn/zh-cn/active-directory/connect/active-directory-aadconnect-sso-faq">Azure Active Directory 无缝单一登录：常见问题</a></li>
-<li><a id="weekly-updates-7-17_docs-active-directory-aadconnect-sso-how-it-works" href="//docs.azure.cn/zh-cn/active-directory/connect/active-directory-aadconnect-sso-how-it-works">Azure Active Directory 无缝单一登录：技术深入探讨</a></li>
-<li><a id="weekly-updates-7-17_docs-active-directory-aadconnect-sso-quick-start" href="//docs.azure.cn/zh-cn/active-directory/connect/active-directory-aadconnect-sso-quick-start">Azure Active Directory 无缝单一登录：快速入门</a></li>
 <li><a id="weekly-updates-7-17_docs-active-directory-certificate-credentials" href="//docs.azure.cn/zh-cn/active-directory/develop/active-directory-certificate-credentials">用于应用程序身份验证的证书凭据</a></li>
 </ul>
 

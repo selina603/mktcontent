@@ -162,8 +162,6 @@
 ## 新技术文档发布
 ### 备份
 <ul>
-<li><a id="weekly-updates-11-17_docs-backup-azure-configure-reports" href="https://docs.azure.cn/zh-cn/backup/backup-azure-configure-reports">配置 Azure 备份报表</a></li>
-<li><a id="weekly-updates-11-17_docs-backup-azure-reports-data-model" href="https://docs.azure.cn/zh-cn/backup/backup-azure-reports-data-model">Azure 备份报表的数据模型</a></li>
 <li><a id="weekly-updates-11-17_docs-backup-upgrade-backup-vault" href="https://docs.azure.cn/zh-cn/backup/backup-upgrade-backup-vault">已升级到恢复服务保管库的备份保管库</a></li>
 <li><a id="weekly-updates-11-17_docs-powershell-backup-samples" href="https://docs.azure.cn/zh-cn/backup/powershell-backup-samples">Azure 备份 PowerShell 示例</a></li>
 <li><a id="weekly-updates-11-17_docs-quick-backup-vm-cli" href="https://docs.azure.cn/zh-cn/backup/quick-backup-vm-cli">使用 CLI 在 Azure 中备份虚拟机</a></li>
@@ -211,7 +209,6 @@
 </ul>
 ### 虚拟网络
 <ul>
-<li><a id="weekly-updates-11-17_docs-ddos-protection-overview" href="https://docs.azure.cn/zh-cn/virtual-network/ddos-protection-overview">Azure DDoS 保护标准概述</a></li>
 <li><a id="weekly-updates-11-17_docs-security-overview" href="https://docs.azure.cn/zh-cn/virtual-network/security-overview">网络安全性</a></li>
 <li><a id="weekly-updates-11-17_docs-virtual-network-for-azure-services" href="https://docs.azure.cn/zh-cn/virtual-network/virtual-network-for-azure-services">Azure 服务的虚拟网络集成</a></li>
 </ul>
