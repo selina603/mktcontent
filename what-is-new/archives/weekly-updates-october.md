@@ -78,7 +78,6 @@
 ### CosmosDB
 <ul>
 <li><a id="weekly-updates-11-03_docs-connected-service" href="https://docs.azure.cn/zh-cn/cosmos-db/connected-service">Azure Cosmos DB：Visual Studio 连接服务（预览）</a></li>
-<li><a id="weekly-updates-11-03_docs-serverless-computing-database" href="https://docs.azure.cn/zh-cn/cosmos-db/serverless-computing-database">Azure Cosmos DB：使用 Azure Functions 的无服务器数据库计算</a></li>
 <li><a id="weekly-updates-11-03_docs-table-sdk-python" href="https://docs.azure.cn/zh-cn/cosmos-db/table-sdk-python">用于 Python 的 Azure Cosmos DB 表 API：发行说明和资源</a></li>
 <li><a id="weekly-updates-11-03_docs-tutorial-documentdb-and-mongodb-in-storage-explorer" href="https://docs.azure.cn/zh-cn/cosmos-db/tutorial-documentdb-and-mongodb-in-storage-explorer">在 Azure 存储资源管理器（预览版）中管理 Azure Cosmos DB</a></li>
 <li><a id="weekly-updates-11-03_docs-tutorial-functions-http-trigger" href="https://docs.azure.cn/zh-cn/cosmos-db/tutorial-functions-http-trigger">使用 Azure Cosmos DB 输入绑定创建 Azure Functions HTTP 触发器</a></li>
